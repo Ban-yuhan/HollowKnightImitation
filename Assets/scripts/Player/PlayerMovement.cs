@@ -1,4 +1,5 @@
 
+using System.Security.Cryptography;
 using Unity.VisualScripting;
 using UnityEngine;
 
@@ -6,9 +7,6 @@ public class PlayerMovement : MonoBehaviour
 {
     [SerializeField]
     private float MoveSpeed = 1.0f;
-
-    [SerializeField]
-    private int maxHealth = 10;
 
     [SerializeField]
     private int MaxJumpTimes = 2;
@@ -40,18 +38,15 @@ public class PlayerMovement : MonoBehaviour
 
     private bool canJump;
 
-    private bool isAlive;
-
     private bool isGrounded;
 
-    private int currentHealth;
-
-
-
     private Rigidbody2D rb;
+
+    private float lastAttackTime;
+    private float attackBufferTime = 0.2f; // 공격 후 0.2초 안에 적을 맞추면 반동 인정
+
     private void Start()
     {
-        currentHealth = maxHealth;
         RemainJumpTimes = MaxJumpTimes;
         canJump = true;
 
@@ -72,16 +67,7 @@ public class PlayerMovement : MonoBehaviour
         {
             Attack();
         }
-    }
 
-    private void FixedUpdate()
-    {
-        float x = Input.GetAxisRaw("Horizontal");
-        rb.linearVelocity = new Vector2((MoveSpeed * x), rb.linearVelocity.y);
-    }
-
-    void Jump()
-    {
         if (FootPoint != null)
         {
             RaycastHit2D hit = Physics2D.Raycast((Vector2)FootPoint.position, Vector2.down, 0.2f, groundMask);
@@ -97,7 +83,16 @@ public class PlayerMovement : MonoBehaviour
                 isGrounded = false;
             }
         }
+    }
 
+    private void FixedUpdate()
+    {
+        float x = Input.GetAxisRaw("Horizontal");
+        rb.linearVelocity = new Vector2((MoveSpeed * x), rb.linearVelocity.y);
+    }
+
+    private void Jump()
+    {
         if (RemainJumpTimes > 0 && canJump == true)
         {
             rb.linearVelocity = new Vector2(rb.linearVelocity.x, 0.0f);
@@ -105,7 +100,7 @@ public class PlayerMovement : MonoBehaviour
 
             --RemainJumpTimes;
         }
-        else
+        else if(RemainJumpTimes <= 0)
         {
             canJump = false;
         }
@@ -115,8 +110,10 @@ public class PlayerMovement : MonoBehaviour
     {
         if (VerticalattackEffectPrefab != null && (Input.GetKey(KeyCode.DownArrow) || Input.GetKey(KeyCode.UpArrow)))
         {
-            if (Input.GetKey(KeyCode.DownArrow))
+            if (Input.GetKey(KeyCode.DownArrow) && !isGrounded)
             {
+                lastAttackTime = Time.time; // 공격한 시점을 기록
+
                 Vector2 trans = new Vector2(gameObject.transform.position.x, gameObject.transform.position.y - 0.7f);
                 GameObject Effect = Instantiate(VerticalattackEffectPrefab, trans, Quaternion.Euler(0, 0, 0));
                 Destroy(Effect, 0.15f);
@@ -137,18 +134,18 @@ public class PlayerMovement : MonoBehaviour
             {
                 dirX = -1f;
 
-                Vector2 trans = new Vector2(gameObject.transform.position.x + (1f * dirX), gameObject.transform.position.y);
+                Vector2 trans = new Vector2(gameObject.transform.position.x + (0.7f * dirX), gameObject.transform.position.y - 0.2f);
                 GameObject Effect = Instantiate(NormalattackEffectPrefab, trans, Quaternion.identity);
-                Effect.transform.localScale = new Vector3(dirX*0.5f, 0.5f, 0.5f);
+                Effect.transform.localScale = new Vector3(dirX* Effect.transform.localScale.x, Effect.transform.localScale.y, Effect.transform.localScale.z);
                 Destroy(Effect, 0.15f);
             }
             else if (sr.flipX == false)
             {
                 dirX = 1f;
 
-                Vector2 trans = new Vector2(gameObject.transform.position.x + (1f * dirX), gameObject.transform.position.y);
+                Vector2 trans = new Vector2(gameObject.transform.position.x + (0.7f * dirX), gameObject.transform.position.y-0.2f);
                 GameObject Effect = Instantiate(NormalattackEffectPrefab, trans, Quaternion.identity);
-                Effect.transform.localScale = new Vector3(dirX*0.5f, 0.5f, 0.5f);
+                Effect.transform.localScale = new Vector3(dirX*Effect.transform.localScale.x, Effect.transform.localScale.y, Effect.transform.localScale.z);
                 Destroy(Effect, 0.15f);
             }
         }
@@ -164,6 +161,28 @@ public class PlayerMovement : MonoBehaviour
         if (Input.GetKey(KeyCode.RightArrow))
         {
             sr.flipX = false;
+        }
+    }
+
+    void OnEnable()
+    {
+        Slash.OnHitSuccess += HandlePogo; 
+    }
+    
+    
+    void OnDisable() 
+    {
+        Slash.OnHitSuccess -= HandlePogo; // 해제 필수!
+    }
+
+    private void HandlePogo()
+    {
+        bool isRecentAttack = (Time.time - lastAttackTime) <= attackBufferTime;
+
+        if (!isGrounded && isRecentAttack)
+        {
+            rb.linearVelocity = new Vector2(rb.linearVelocity.x, 0f);
+            rb.AddForce(Vector2.up * JumpPower, ForceMode2D.Impulse);
         }
     }
 }
