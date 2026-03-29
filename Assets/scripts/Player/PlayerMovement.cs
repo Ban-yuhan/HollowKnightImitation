@@ -45,6 +45,8 @@ public class PlayerMovement : MonoBehaviour
     private float lastAttackTime;
     private float attackBufferTime = 0.2f; // 공격 후 0.2초 안에 적을 맞추면 반동 인정
 
+    PlayerHealth playerHealth;
+
     private void Start()
     {
         RemainJumpTimes = MaxJumpTimes;
@@ -52,6 +54,8 @@ public class PlayerMovement : MonoBehaviour
 
         rb = GetComponent<Rigidbody2D>();
         sr = GetComponent<SpriteRenderer>();
+
+        playerHealth = GetComponent<PlayerHealth>();
     }
 
     private void Update()
@@ -87,6 +91,12 @@ public class PlayerMovement : MonoBehaviour
 
     private void FixedUpdate()
     {
+        if(playerHealth.GetisAlive() == false)
+        {
+            rb.linearVelocity = new Vector2(0f, 0f);
+            return;
+        }
+
         float x = Input.GetAxisRaw("Horizontal");
         rb.linearVelocity = new Vector2((MoveSpeed * x), rb.linearVelocity.y);
     }
@@ -154,16 +164,17 @@ public class PlayerMovement : MonoBehaviour
 
     void PlayerHead()
     {
-        if (Input.GetKey(KeyCode.LeftArrow))
+        if (rb.linearVelocity.x < 0f)
         {
             sr.flipX = true;
         }
-        if (Input.GetKey(KeyCode.RightArrow))
+        if (rb.linearVelocity.x > 0f)
         {
             sr.flipX = false;
         }
     }
 
+     
     void OnEnable()
     {
         Slash.OnHitSuccess += HandlePogo; 
@@ -174,6 +185,7 @@ public class PlayerMovement : MonoBehaviour
     {
         Slash.OnHitSuccess -= HandlePogo; // 해제 필수!
     }
+    
 
     private void HandlePogo()
     {
