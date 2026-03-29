@@ -36,8 +36,6 @@ public class PlayerMovement : MonoBehaviour
 
     private int RemainJumpTimes;
 
-    private bool canJump;
-
     private bool isGrounded;
 
     private Rigidbody2D rb;
@@ -47,10 +45,10 @@ public class PlayerMovement : MonoBehaviour
 
     PlayerHealth playerHealth;
 
+
     private void Start()
     {
         RemainJumpTimes = MaxJumpTimes;
-        canJump = true;
 
         rb = GetComponent<Rigidbody2D>();
         sr = GetComponent<SpriteRenderer>();
@@ -80,7 +78,6 @@ public class PlayerMovement : MonoBehaviour
             {
                 isGrounded = true;
                 RemainJumpTimes = MaxJumpTimes;
-                canJump = true;
             }
             else
             {
@@ -98,12 +95,13 @@ public class PlayerMovement : MonoBehaviour
         }
 
         float x = Input.GetAxisRaw("Horizontal");
-        rb.linearVelocity = new Vector2((MoveSpeed * x), rb.linearVelocity.y);
+
+        rb.linearVelocity = new Vector2(MoveSpeed * x, rb.linearVelocity.y);
     }
 
     private void Jump()
     {
-        if (RemainJumpTimes > 0 && canJump == true)
+        if (RemainJumpTimes > 0)
         {
             rb.linearVelocity = new Vector2(rb.linearVelocity.x, 0.0f);
             rb.AddForce(new Vector2(0.0f, JumpPower), ForceMode2D.Impulse);
@@ -112,7 +110,7 @@ public class PlayerMovement : MonoBehaviour
         }
         else if(RemainJumpTimes <= 0)
         {
-            canJump = false;
+            return;
         }
     }
 
@@ -164,14 +162,14 @@ public class PlayerMovement : MonoBehaviour
 
     void PlayerHead()
     {
-        if (rb.linearVelocity.x < 0f)
-        {
-            sr.flipX = true;
-        }
-        if (rb.linearVelocity.x > 0f)
-        {
-            sr.flipX = false;
-        }
+            if (rb.linearVelocity.x < 0f)
+            {
+                sr.flipX = true;
+            }
+            if (rb.linearVelocity.x > 0f)
+            {
+                sr.flipX = false;
+            }
     }
 
      
@@ -185,7 +183,7 @@ public class PlayerMovement : MonoBehaviour
     {
         Slash.OnHitSuccess -= HandlePogo; // 해제 필수!
     }
-    
+
 
     private void HandlePogo()
     {

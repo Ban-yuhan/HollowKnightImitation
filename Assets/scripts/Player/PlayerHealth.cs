@@ -11,16 +11,18 @@ public class PlayerHealth : MonoBehaviour, IDamageable
     [SerializeField]
     private int currentHealth;
 
+
     private void Start()
     {
         currentHealth = maxHealth;
         isAlive = true;
-
     }
+
 
     public void TakeDamage(int damage)
     {
         currentHealth -= damage;
+
         if (currentHealth <= 0)
         {
             isAlive = false;
@@ -31,8 +33,9 @@ public class PlayerHealth : MonoBehaviour, IDamageable
 
     void Die()
     {
-        Destroy(gameObject, 2f);
+        Destroy(gameObject, 1f);
     }
+
 
     public bool GetisAlive()
     {

@@ -8,13 +8,14 @@ public class DumyAttack : MonoBehaviour
 
     private void OnCollisionEnter2D(Collision2D collision)
     {
-        if(collision.gameObject.CompareTag("Player") == false)
+        if (collision.gameObject.CompareTag("Player") == false)
         {
             return;
         }
 
         IDamageable damageable = collision.gameObject.GetComponent<IDamageable>();
-        if(damageable != null)
+
+        if (damageable != null)
         {
             damageable.TakeDamage(damage);
         }

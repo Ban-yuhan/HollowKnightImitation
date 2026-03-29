@@ -1,0 +1,304 @@
+fileFormatVersion: 2
+guid: 7c872afb5a99128468796a4e384ee92a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1944049150271480593
+    second: The Knight Dreamgate, Sprintmaster - atlas0 #00000395_0
+  - first:
+      213: -3173964232991249977
+    second: The Knight Dreamgate, Sprintmaster - atlas0 #00000395_1
+  - first:
+      213: -548592089263179840
+    second: The Knight Dreamgate, Sprintmaster - atlas0 #00000395_2
+  - first:
+      213: -4681398942535145406
+    second: The Knight Dreamgate, Sprintmaster - atlas0 #00000395_3
+  - first:
+      213: 1930162478867461380
+    second: The Knight Dreamgate, Sprintmaster - atlas0 #00000395_4
+  - first:
+      213: -8274013773252309624
+    second: The Knight Dreamgate, Sprintmaster - atlas0 #00000395_5
+  - first:
+      213: 1243383212243947745
+    second: The Knight Dreamgate, Sprintmaster - atlas0 #00000395_6
+  - first:
+      213: 545961861860847862
+    second: The Knight Dreamgate, Sprintmaster - atlas0 #00000395_7
+  - first:
+      213: 6667033728067696954
+    second: The Knight Dreamgate, Sprintmaster - atlas0 #00000395_8
+  - first:
+      213: -4834157738371272286
+    second: The Knight Dreamgate, Sprintmaster - atlas0 #00000395_9
+  - first:
+      213: 2325360343099523760
+    second: The Knight Dreamgate, Sprintmaster - atlas0 #00000395_10
+  - first:
+      213: -8947593685906387402
+    second: The Knight Dreamgate, Sprintmaster - atlas0 #00000395_11
+  - first:
+      213: 7233976258506674137
+    second: The Knight Dreamgate, Sprintmaster - atlas0 #00000395_12
+  - first:
+      213: 4836710375725982822
+    second: The Knight Dreamgate, Sprintmaster - atlas0 #00000395_13
+  - first:
+      213: -7511693270554537767
+    second: The Knight Dreamgate, Sprintmaster - atlas0 #00000395_14
+  - first:
+      213: 8075634835744195827
+    second: The Knight Dreamgate, Sprintmaster - atlas0 #00000395_15
+  - first:
+      213: -6460788611355336348
+    second: The Knight Dreamgate, Sprintmaster - atlas0 #00000395_16
+  - first:
+      213: 5963930937103879615
+    second: The Knight Dreamgate, Sprintmaster - atlas0 #00000395_17
+  - first:
+      213: 2744420048808581158
+    second: The Knight Dreamgate, Sprintmaster - atlas0 #00000395_18
+  - first:
+      213: -6257742719233451435
+    second: The Knight Dreamgate, Sprintmaster - atlas0 #00000395_19
+  - first:
+      213: -3304704272661544973
+    second: The Knight Dreamgate, Sprintmaster - atlas0 #00000395_20
+  - first:
+      213: -8673148249635188297
+    second: The Knight Dreamgate, Sprintmaster - atlas0 #00000395_21
+  - first:
+      213: 3012755165926890215
+    second: The Knight Dreamgate, Sprintmaster - atlas0 #00000395_22
+  - first:
+      213: 2555623090862082585
+    second: The Knight Dreamgate, Sprintmaster - atlas0 #00000395_23
+  - first:
+      213: -8177351119677360019
+    second: The Knight Dreamgate, Sprintmaster - atlas0 #00000395_24
+  - first:
+      213: -4615359684112664035
+    second: The Knight Dreamgate, Sprintmaster - atlas0 #00000395_25
+  - first:
+      213: -2935263236855470328
+    second: The Knight Dreamgate, Sprintmaster - atlas0 #00000395_26
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: run1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 849
+        width: 77
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fec1b2c09995505e0800000000000000
+      internalID: -1944049150271480593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: run2
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 863
+        width: 79
+        height: 127
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c9e2c2b850d3f3d0800000000000000
+      internalID: -3173964232991249977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight Dreamgate, Sprintmaster - atlas0 #00000395_3
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 784
+        width: 80
+        height: 127
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 248ad420774580fb0800000000000000
+      internalID: -4681398942535145406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 6d265518323ee7143bb4cb60e73d5326
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      The Knight Dreamgate, Sprintmaster - atlas0 #00000395_10: 2325360343099523760
+      The Knight Dreamgate, Sprintmaster - atlas0 #00000395_11: -8947593685906387402
+      The Knight Dreamgate, Sprintmaster - atlas0 #00000395_12: 7233976258506674137
+      The Knight Dreamgate, Sprintmaster - atlas0 #00000395_13: 4836710375725982822
+      The Knight Dreamgate, Sprintmaster - atlas0 #00000395_14: -7511693270554537767
+      The Knight Dreamgate, Sprintmaster - atlas0 #00000395_15: 8075634835744195827
+      The Knight Dreamgate, Sprintmaster - atlas0 #00000395_16: -6460788611355336348
+      The Knight Dreamgate, Sprintmaster - atlas0 #00000395_17: 5963930937103879615
+      The Knight Dreamgate, Sprintmaster - atlas0 #00000395_18: 2744420048808581158
+      The Knight Dreamgate, Sprintmaster - atlas0 #00000395_19: -6257742719233451435
+      The Knight Dreamgate, Sprintmaster - atlas0 #00000395_2: -548592089263179840
+      The Knight Dreamgate, Sprintmaster - atlas0 #00000395_20: -3304704272661544973
+      The Knight Dreamgate, Sprintmaster - atlas0 #00000395_21: -8673148249635188297
+      The Knight Dreamgate, Sprintmaster - atlas0 #00000395_22: 3012755165926890215
+      The Knight Dreamgate, Sprintmaster - atlas0 #00000395_23: 2555623090862082585
+      The Knight Dreamgate, Sprintmaster - atlas0 #00000395_24: -8177351119677360019
+      The Knight Dreamgate, Sprintmaster - atlas0 #00000395_25: -4615359684112664035
+      The Knight Dreamgate, Sprintmaster - atlas0 #00000395_26: -2935263236855470328
+      The Knight Dreamgate, Sprintmaster - atlas0 #00000395_3: -4681398942535145406
+      The Knight Dreamgate, Sprintmaster - atlas0 #00000395_4: 1930162478867461380
+      The Knight Dreamgate, Sprintmaster - atlas0 #00000395_5: -8274013773252309624
+      The Knight Dreamgate, Sprintmaster - atlas0 #00000395_6: 1243383212243947745
+      The Knight Dreamgate, Sprintmaster - atlas0 #00000395_7: 545961861860847862
+      The Knight Dreamgate, Sprintmaster - atlas0 #00000395_8: 6667033728067696954
+      The Knight Dreamgate, Sprintmaster - atlas0 #00000395_9: -4834157738371272286
+      run1: -1944049150271480593
+      run2: -3173964232991249977
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
