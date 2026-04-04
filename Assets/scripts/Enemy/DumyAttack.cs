@@ -6,7 +6,7 @@ public class DumyAttack : MonoBehaviour
     private int damage = 1;
 
     [SerializeField]
-    private float KnockbackForce = 1f;
+    private float KnockbackForce = 3f;
 
     [SerializeField]
     private PlayerMovement playerMovement;

@@ -1,0 +1,5096 @@
+fileFormatVersion: 2
+guid: ff3a6cad8fb50124da814dd8526510c2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8613044429558722747
+    second: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_0
+  - first:
+      213: -4415730162523077607
+    second: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_1
+  - first:
+      213: -1792509158204281822
+    second: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_2
+  - first:
+      213: -1869741196177046856
+    second: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_3
+  - first:
+      213: 1723743434147041819
+    second: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_4
+  - first:
+      213: 306813084710140486
+    second: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_5
+  - first:
+      213: 5254445006858968771
+    second: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_6
+  - first:
+      213: -8721123152157388073
+    second: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_7
+  - first:
+      213: 3051917852988500789
+    second: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_8
+  - first:
+      213: -2169913341099190560
+    second: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_9
+  - first:
+      213: 2906958888669956400
+    second: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_10
+  - first:
+      213: -2883676959906774901
+    second: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_11
+  - first:
+      213: 9043104027262187513
+    second: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_12
+  - first:
+      213: 393453353823637493
+    second: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_13
+  - first:
+      213: 7899201588535913562
+    second: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_14
+  - first:
+      213: 9020674646851510960
+    second: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_15
+  - first:
+      213: 1297905125606746953
+    second: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_16
+  - first:
+      213: -2328581576562104106
+    second: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_17
+  - first:
+      213: 7317194334143015384
+    second: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_18
+  - first:
+      213: 4284736317844397041
+    second: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_19
+  - first:
+      213: -1351589973233342961
+    second: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_20
+  - first:
+      213: 6702422000851078332
+    second: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_21
+  - first:
+      213: 6891861196269543701
+    second: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_22
+  - first:
+      213: 3471658846014287423
+    second: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_23
+  - first:
+      213: -6558768989621248483
+    second: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_24
+  - first:
+      213: -6946228565156567098
+    second: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_25
+  - first:
+      213: -3184353993802060773
+    second: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_26
+  - first:
+      213: -3418069917411861977
+    second: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_27
+  - first:
+      213: 3684950133159236700
+    second: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_28
+  - first:
+      213: 6535847716274072706
+    second: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_29
+  - first:
+      213: 2154583266355830622
+    second: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_30
+  - first:
+      213: -8392436367280454552
+    second: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_31
+  - first:
+      213: 6404484441455312959
+    second: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_32
+  - first:
+      213: -1732900562225006702
+    second: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_33
+  - first:
+      213: -3318206330334284258
+    second: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_34
+  - first:
+      213: 5808537411118536718
+    second: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_35
+  - first:
+      213: 1584956316558863270
+    second: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_36
+  - first:
+      213: -2150315746425597574
+    second: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_37
+  - first:
+      213: 8853763363559296870
+    second: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_38
+  - first:
+      213: 1494117861106079982
+    second: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_39
+  - first:
+      213: 807639347780511867
+    second: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_40
+  - first:
+      213: 1962301939974892548
+    second: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_41
+  - first:
+      213: -1130038638541311895
+    second: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_42
+  - first:
+      213: 2092490087745392074
+    second: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_43
+  - first:
+      213: 3606657920417013990
+    second: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_44
+  - first:
+      213: -5420421780655665950
+    second: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_45
+  - first:
+      213: -1492496996966331539
+    second: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_46
+  - first:
+      213: 7331204245564998449
+    second: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_47
+  - first:
+      213: -3045110680949248204
+    second: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_48
+  - first:
+      213: 1288449404003629039
+    second: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_49
+  - first:
+      213: -1729635960454092904
+    second: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_50
+  - first:
+      213: -3086723169438030722
+    second: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_51
+  - first:
+      213: 6104026179876244814
+    second: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_52
+  - first:
+      213: 2191762297258020098
+    second: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_53
+  - first:
+      213: 8808649810193914847
+    second: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_54
+  - first:
+      213: 8799074672981651939
+    second: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_55
+  - first:
+      213: -2440607921356407705
+    second: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_56
+  - first:
+      213: -4992455833384180384
+    second: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_57
+  - first:
+      213: 4192616756461621375
+    second: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_58
+  - first:
+      213: 2560591954123650054
+    second: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_59
+  - first:
+      213: -6711303326509597367
+    second: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_60
+  - first:
+      213: -3904929424775938450
+    second: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_61
+  - first:
+      213: 978548735536203222
+    second: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_62
+  - first:
+      213: -8443239301223197210
+    second: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_63
+  - first:
+      213: 1386474114217476237
+    second: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_64
+  - first:
+      213: 9110886916943490545
+    second: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_65
+  - first:
+      213: 4322980715650382393
+    second: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_66
+  - first:
+      213: 143902522729066337
+    second: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_67
+  - first:
+      213: 742358254524499853
+    second: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_68
+  - first:
+      213: 7091581068321046351
+    second: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_69
+  - first:
+      213: -4360591139863529907
+    second: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_70
+  - first:
+      213: 5082905608812540645
+    second: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_71
+  - first:
+      213: 5514612165030378689
+    second: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_72
+  - first:
+      213: 1564942440078115057
+    second: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_73
+  - first:
+      213: 3977371006776493426
+    second: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_74
+  - first:
+      213: -5352662768525679644
+    second: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_75
+  - first:
+      213: 1991932572089253251
+    second: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_76
+  - first:
+      213: -2834365227783038779
+    second: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_77
+  - first:
+      213: 8540209218615901295
+    second: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_78
+  - first:
+      213: -8422973523515942146
+    second: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_79
+  - first:
+      213: 6152481885918114743
+    second: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_80
+  - first:
+      213: -931449198559511566
+    second: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_81
+  - first:
+      213: -5407993379926998715
+    second: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_82
+  - first:
+      213: 7013047752009352206
+    second: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_83
+  - first:
+      213: 2851947675756619342
+    second: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_84
+  - first:
+      213: -6117209626038961951
+    second: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_85
+  - first:
+      213: -6463235964126344645
+    second: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_86
+  - first:
+      213: 6048383058072135069
+    second: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_87
+  - first:
+      213: 8976198053000988884
+    second: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_88
+  - first:
+      213: -7934491539026297880
+    second: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_89
+  - first:
+      213: 3965083554938056764
+    second: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_90
+  - first:
+      213: -4501300451335411540
+    second: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_91
+  - first:
+      213: 4941991879805296029
+    second: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_92
+  - first:
+      213: -5594353577968676969
+    second: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_93
+  - first:
+      213: 1401081723833030028
+    second: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_94
+  - first:
+      213: 5815599267825060382
+    second: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_95
+  - first:
+      213: -1942308456433073464
+    second: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_96
+  - first:
+      213: -1923896030308160104
+    second: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_97
+  - first:
+      213: -346988425420241526
+    second: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_98
+  - first:
+      213: 6355575186743910281
+    second: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_99
+  - first:
+      213: -5210575466258085502
+    second: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_100
+  - first:
+      213: 5363126703770132240
+    second: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_101
+  - first:
+      213: 5819698478161349044
+    second: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_102
+  - first:
+      213: 728637844440581728
+    second: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_103
+  - first:
+      213: 2739314116026350928
+    second: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_104
+  - first:
+      213: -6789195714663755207
+    second: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_105
+  - first:
+      213: -8473595763778348518
+    second: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_106
+  - first:
+      213: 1703950701251658101
+    second: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_107
+  - first:
+      213: -1043473023654780292
+    second: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_108
+  - first:
+      213: -6775604777783890247
+    second: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_109
+  - first:
+      213: -140306184546122236
+    second: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_110
+  - first:
+      213: -6662470426919881203
+    second: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_111
+  - first:
+      213: 5412428127242598390
+    second: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_112
+  - first:
+      213: 1663802430206565282
+    second: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_113
+  - first:
+      213: 1524982028752110401
+    second: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_114
+  - first:
+      213: -6078803045595168822
+    second: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_115
+  - first:
+      213: -7113382395732621795
+    second: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_116
+  - first:
+      213: -8967522705913225205
+    second: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_117
+  - first:
+      213: 9174070167486728232
+    second: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_118
+  - first:
+      213: 3492039173449927771
+    second: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_119
+  - first:
+      213: -246731972786114715
+    second: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_120
+  - first:
+      213: -5321448114578050142
+    second: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_121
+  - first:
+      213: -2648956132190735808
+    second: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_122
+  - first:
+      213: -7096777077507670914
+    second: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_123
+  - first:
+      213: 3288444694764112399
+    second: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_124
+  - first:
+      213: 1958395696956298995
+    second: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_125
+  - first:
+      213: 291918674396957924
+    second: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_126
+  - first:
+      213: -838627903040852712
+    second: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_127
+  - first:
+      213: 690696041804361216
+    second: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_128
+  - first:
+      213: -4423791060427272375
+    second: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_129
+  - first:
+      213: -981403133519711897
+    second: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_130
+  - first:
+      213: 8938059853026128452
+    second: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_131
+  - first:
+      213: 1994367672756995747
+    second: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_132
+  - first:
+      213: 9170281836709404840
+    second: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_133
+  - first:
+      213: -7399631322991453667
+    second: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_134
+  - first:
+      213: 8073727159753043561
+    second: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_135
+  - first:
+      213: -5055373439935432834
+    second: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_136
+  - first:
+      213: -1202702075505271607
+    second: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_137
+  - first:
+      213: 5846757000641035994
+    second: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_138
+  - first:
+      213: 4610539718551702841
+    second: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_139
+  - first:
+      213: 6514029401149555467
+    second: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_140
+  - first:
+      213: -8228725776126141345
+    second: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_141
+  - first:
+      213: 2470349102061757537
+    second: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_142
+  - first:
+      213: 4113024184770719148
+    second: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_143
+  - first:
+      213: -7025872326851763138
+    second: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_144
+  - first:
+      213: -6886022825522898042
+    second: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_145
+  - first:
+      213: -1877166131870948336
+    second: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_146
+  - first:
+      213: -6810453915996760035
+    second: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_147
+  - first:
+      213: -675527225399618206
+    second: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_148
+  - first:
+      213: -4575052559885426915
+    second: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_149
+  - first:
+      213: -1790851597899436135
+    second: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_150
+  - first:
+      213: -3315530023695833469
+    second: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_151
+  - first:
+      213: -5996373819654159223
+    second: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_152
+  - first:
+      213: 4343236308287865816
+    second: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_153
+  - first:
+      213: -3116565832924179912
+    second: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_154
+  - first:
+      213: 3799844438742982227
+    second: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_155
+  - first:
+      213: -2213068413555525081
+    second: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_156
+  - first:
+      213: 7990267159149525780
+    second: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_157
+  - first:
+      213: -7214966982677625345
+    second: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_158
+  - first:
+      213: -6518289504951001819
+    second: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_159
+  - first:
+      213: 6586903891430602346
+    second: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_160
+  - first:
+      213: -8923956666177170683
+    second: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_161
+  - first:
+      213: -6591404072192549670
+    second: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_162
+  - first:
+      213: 861220645909076798
+    second: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_163
+  - first:
+      213: 8886203632819788966
+    second: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_164
+  - first:
+      213: 2958779356210732896
+    second: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_165
+  - first:
+      213: -3492864154660976810
+    second: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_166
+  - first:
+      213: 1888658037867622211
+    second: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_167
+  - first:
+      213: 4619280957910036899
+    second: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_168
+  - first:
+      213: 2638646394828556377
+    second: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_169
+  - first:
+      213: 3691987819345680716
+    second: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_170
+  - first:
+      213: 1201452943012089112
+    second: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_171
+  - first:
+      213: -3533791927467859874
+    second: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_172
+  - first:
+      213: 6143130994898368888
+    second: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_173
+  - first:
+      213: 5804053240075922798
+    second: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_174
+  - first:
+      213: -9036902721816075692
+    second: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_175
+  - first:
+      213: 776390307445540451
+    second: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_176
+  - first:
+      213: 7387307436833712655
+    second: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_177
+  - first:
+      213: -5665692207934664747
+    second: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_178
+  - first:
+      213: 3203398693240327745
+    second: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_179
+  - first:
+      213: 7820990996854924824
+    second: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_180
+  - first:
+      213: 3248819345244295953
+    second: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_181
+  - first:
+      213: -1549205962615608354
+    second: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_182
+  - first:
+      213: -811877553876356852
+    second: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_183
+  - first:
+      213: -6180617981351864512
+    second: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_184
+  - first:
+      213: 5109260082573842360
+    second: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_185
+  - first:
+      213: -2881659021750313347
+    second: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_186
+  - first:
+      213: 7471380355707055299
+    second: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_187
+  - first:
+      213: -5181111326605939606
+    second: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_188
+  - first:
+      213: 9017851363410433316
+    second: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_189
+  - first:
+      213: -8834398343680181571
+    second: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_190
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_0
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 1928
+        width: 76
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb0318a564ea78770800000000000000
+      internalID: 8613044429558722747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_1
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 1928
+        width: 77
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91485de00dc28b2c0800000000000000
+      internalID: -4415730162523077607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_2
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 1924
+        width: 77
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22c6990fa6abf17e0800000000000000
+      internalID: -1792509158204281822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_3
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 1924
+        width: 76
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b204f3d9485d06e0800000000000000
+      internalID: -1869741196177046856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_4
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 1928
+        width: 77
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b121f344587fbe710800000000000000
+      internalID: 1723743434147041819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_5
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 1927
+        width: 77
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64af69effd4024400800000000000000
+      internalID: 306813084710140486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_6
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 1920
+        width: 93
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ce57adf4e98be840800000000000000
+      internalID: 5254445006858968771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: move9
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 1926
+        width: 56
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d2593913b858f680800000000000000
+      internalID: -8721123152157388073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: move8
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 1926
+        width: 55
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53b6d071e179a5a20800000000000000
+      internalID: 3051917852988500789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: move7
+      rect:
+        serializedVersion: 2
+        x: 1188
+        y: 1926
+        width: 55
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e6d66e105be2e1e0800000000000000
+      internalID: -2169913341099190560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: move6
+      rect:
+        serializedVersion: 2
+        x: 1316
+        y: 1926
+        width: 55
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03946df15b7975820800000000000000
+      internalID: 2906958888669956400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: move5
+      rect:
+        serializedVersion: 2
+        x: 1444
+        y: 1926
+        width: 56
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8047c5551f1bf7d0800000000000000
+      internalID: -2883676959906774901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: move4
+      rect:
+        serializedVersion: 2
+        x: 1572
+        y: 1926
+        width: 55
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f7fddb433f8f7d70800000000000000
+      internalID: 9043104027262187513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: move3
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 1926
+        width: 55
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ff085e9db3d57500800000000000000
+      internalID: 393453353823637493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: move2
+      rect:
+        serializedVersion: 2
+        x: 1828
+        y: 1927
+        width: 55
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5c62e53ef99f9d60800000000000000
+      internalID: 7899201588535913562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: move1
+      rect:
+        serializedVersion: 2
+        x: 1955
+        y: 1926
+        width: 57
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b2e4f73ccfdf2d70800000000000000
+      internalID: 9020674646851510960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_16
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 1798
+        width: 101
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94be2fbc5d5130210800000000000000
+      internalID: 1297905125606746953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_17
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 1798
+        width: 87
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d82f7ab4673fafd0800000000000000
+      internalID: -2328581576562104106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_18
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 1798
+        width: 83
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d9681f8a75eb8560800000000000000
+      internalID: 7317194334143015384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_19
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 1798
+        width: 75
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fb9455caf0767b30800000000000000
+      internalID: 4284736317844397041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_20
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 1798
+        width: 83
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f06627394103e3de0800000000000000
+      internalID: -1351589973233342961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_21
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 1798
+        width: 87
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbccd7f7c49c30d50800000000000000
+      internalID: 6702422000851078332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_22
+      rect:
+        serializedVersion: 2
+        x: 1299
+        y: 1798
+        width: 101
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 511e1fc4e3fc4af50800000000000000
+      internalID: 6891861196269543701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_23
+      rect:
+        serializedVersion: 2
+        x: 1442
+        y: 1799
+        width: 55
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3e260aa35fcd2030800000000000000
+      internalID: 3471658846014287423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_24
+      rect:
+        serializedVersion: 2
+        x: 1570
+        y: 1798
+        width: 62
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1e17c19a529af4a0800000000000000
+      internalID: -6558768989621248483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_25
+      rect:
+        serializedVersion: 2
+        x: 1683
+        y: 1798
+        width: 101
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c7eb253ce90a9f90800000000000000
+      internalID: -6946228565156567098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_26
+      rect:
+        serializedVersion: 2
+        x: 1826
+        y: 1798
+        width: 62
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1ce4500ae6eec3d0800000000000000
+      internalID: -3184353993802060773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_27
+      rect:
+        serializedVersion: 2
+        x: 1954
+        y: 1799
+        width: 55
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72a973315839090d0800000000000000
+      internalID: -3418069917411861977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_28
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 1314
+        width: 440
+        height: 449
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c541cf55f92932330800000000000000
+      internalID: 3684950133159236700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_29
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 1670
+        width: 57
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28c609a9edef3ba50800000000000000
+      internalID: 6535847716274072706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_30
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 1672
+        width: 73
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5fd326b01e96ed10800000000000000
+      internalID: 2154583266355830622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_31
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 1665
+        width: 56
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 864cd28c693188b80800000000000000
+      internalID: -8392436367280454552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_32
+      rect:
+        serializedVersion: 2
+        x: 941
+        y: 1664
+        width: 59
+        height: 123
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f30c576caac41e850800000000000000
+      internalID: 6404484441455312959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_33
+      rect:
+        serializedVersion: 2
+        x: 1046
+        y: 1674
+        width: 82
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 297f085be1083f7e0800000000000000
+      internalID: -1732900562225006702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_34
+      rect:
+        serializedVersion: 2
+        x: 1174
+        y: 1680
+        width: 74
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e16f8f45cec53f1d0800000000000000
+      internalID: -3318206330334284258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_35
+      rect:
+        serializedVersion: 2
+        x: 1299
+        y: 1675
+        width: 87
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e08994e10021c9050800000000000000
+      internalID: 5808537411118536718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_36
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 1675
+        width: 69
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6aba0095f55eef510800000000000000
+      internalID: 1584956316558863270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_37
+      rect:
+        serializedVersion: 2
+        x: 1543
+        y: 1683
+        width: 115
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a719f53b83b8822e0800000000000000
+      internalID: -2150315746425597574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_38
+      rect:
+        serializedVersion: 2
+        x: 1694
+        y: 1671
+        width: 79
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66fc152bed2eeda70800000000000000
+      internalID: 8853763363559296870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_39
+      rect:
+        serializedVersion: 2
+        x: 1798
+        y: 1672
+        width: 112
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee85bcb474c2cb410800000000000000
+      internalID: 1494117861106079982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_40
+      rect:
+        serializedVersion: 2
+        x: 1941
+        y: 1671
+        width: 89
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b78e51f25bf453b00800000000000000
+      internalID: 807639347780511867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_41
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 1545
+        width: 73
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40c634ab73f7b3b10800000000000000
+      internalID: 1962301939974892548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_42
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 1544
+        width: 73
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 960774f68db4150f0800000000000000
+      internalID: -1130038638541311895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_43
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 1544
+        width: 73
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acd0718f5a40a0d10800000000000000
+      internalID: 2092490087745392074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_44
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 1545
+        width: 73
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e02ecc054c6d0230800000000000000
+      internalID: 3606657920417013990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_45
+      rect:
+        serializedVersion: 2
+        x: 1057
+        y: 1543
+        width: 62
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ec8a3feb1bc6c4b0800000000000000
+      internalID: -5420421780655665950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_46
+      rect:
+        serializedVersion: 2
+        x: 1185
+        y: 1543
+        width: 62
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6b0c7b83e5994be0800000000000000
+      internalID: -1492496996966331539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_47
+      rect:
+        serializedVersion: 2
+        x: 1312
+        y: 1543
+        width: 62
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 133ccb04b6badb560800000000000000
+      internalID: 7331204245564998449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_48
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 1543
+        width: 62
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43fa54828f79db5d0800000000000000
+      internalID: -3045110680949248204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_49
+      rect:
+        serializedVersion: 2
+        x: 1568
+        y: 1543
+        width: 62
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe733bc08ed71e110800000000000000
+      internalID: 1288449404003629039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_50
+      rect:
+        serializedVersion: 2
+        x: 1697
+        y: 1543
+        width: 62
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 897646a02491ff7e0800000000000000
+      internalID: -1729635960454092904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_51
+      rect:
+        serializedVersion: 2
+        x: 1825
+        y: 1543
+        width: 62
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e74adada1a1c925d0800000000000000
+      internalID: -3086723169438030722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_52
+      rect:
+        serializedVersion: 2
+        x: 1953
+        y: 1543
+        width: 61
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4d4537587bd5b450800000000000000
+      internalID: 6104026179876244814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_53
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 1418
+        width: 95
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20d88286234ba6e10800000000000000
+      internalID: 2191762297258020098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_54
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 1417
+        width: 100
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdb9b67055c9e3a70800000000000000
+      internalID: 8808649810193914847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_55
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 1416
+        width: 86
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e1353babc79c1a70800000000000000
+      internalID: 8799074672981651939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_56
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 1415
+        width: 86
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76cfb83c608312ed0800000000000000
+      internalID: -2440607921356407705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_57
+      rect:
+        serializedVersion: 2
+        x: 1192
+        y: 1416
+        width: 72
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0652f46eedb37bab0800000000000000
+      internalID: -4992455833384180384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_58
+      rect:
+        serializedVersion: 2
+        x: 1283
+        y: 1417
+        width: 91
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f70de300aba2f2a30800000000000000
+      internalID: 4192616756461621375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_59
+      rect:
+        serializedVersion: 2
+        x: 1407
+        y: 1418
+        width: 95
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6047340d0dc098320800000000000000
+      internalID: 2560591954123650054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_60
+      rect:
+        serializedVersion: 2
+        x: 1535
+        y: 1417
+        width: 100
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94d7f7bbe29acd2a0800000000000000
+      internalID: -6711303326509597367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_61
+      rect:
+        serializedVersion: 2
+        x: 1677
+        y: 1416
+        width: 86
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6e724b9067eec9c0800000000000000
+      internalID: -3904929424775938450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_62
+      rect:
+        serializedVersion: 2
+        x: 1807
+        y: 1415
+        width: 86
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d50b01f3e0849d00800000000000000
+      internalID: 978548735536203222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_63
+      rect:
+        serializedVersion: 2
+        x: 1960
+        y: 1416
+        width: 72
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e559f8f69693da80800000000000000
+      internalID: -8443239301223197210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_64
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 1286
+        width: 73
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d80053c6cdebd3310800000000000000
+      internalID: 1386474114217476237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_65
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 1286
+        width: 73
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fdab21216f507e70800000000000000
+      internalID: 9110886916943490545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_66
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 1286
+        width: 73
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93a74378e005efb30800000000000000
+      internalID: 4322980715650382393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_67
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 1286
+        width: 73
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16f6c8df49e3ff100800000000000000
+      internalID: 143902522729066337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_68
+      rect:
+        serializedVersion: 2
+        x: 1051
+        y: 1286
+        width: 73
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d87030936e26d4a00800000000000000
+      internalID: 742358254524499853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_69
+      rect:
+        serializedVersion: 2
+        x: 1179
+        y: 1286
+        width: 73
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4f3929a86b5a6260800000000000000
+      internalID: 7091581068321046351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_70
+      rect:
+        serializedVersion: 2
+        x: 1307
+        y: 1286
+        width: 72
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d46f7b136711c73c0800000000000000
+      internalID: -4360591139863529907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_71
+      rect:
+        serializedVersion: 2
+        x: 1435
+        y: 1285
+        width: 72
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e2bc1888bb1a8640800000000000000
+      internalID: 5082905608812540645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_72
+      rect:
+        serializedVersion: 2
+        x: 1563
+        y: 1285
+        width: 72
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ccfea2eb86d78c40800000000000000
+      internalID: 5514612165030378689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_73
+      rect:
+        serializedVersion: 2
+        x: 1691
+        y: 1286
+        width: 72
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f00aca9bdac7b510800000000000000
+      internalID: 1564942440078115057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_74
+      rect:
+        serializedVersion: 2
+        x: 1819
+        y: 1286
+        width: 72
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 275c9de8bd5723730800000000000000
+      internalID: 3977371006776493426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_75
+      rect:
+        serializedVersion: 2
+        x: 1947
+        y: 1286
+        width: 72
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e36197529587b5b0800000000000000
+      internalID: -5352662768525679644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk6
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 1158
+        width: 55
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38df8efde14c4ab10800000000000000
+      internalID: 1991932572089253251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk5
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 1158
+        width: 55
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c8d54aa7df4aa8d0800000000000000
+      internalID: -2834365227783038779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk4
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 1158
+        width: 56
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6cfd1f490be48670800000000000000
+      internalID: 8540209218615901295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk3
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 1158
+        width: 55
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efadf4a05369b1b80800000000000000
+      internalID: -8422973523515942146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk2
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 1158
+        width: 55
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b3bc219da1026550800000000000000
+      internalID: 6152481885918114743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walk1
+      rect:
+        serializedVersion: 2
+        x: 1188
+        y: 1159
+        width: 55
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fbb98193e3d213f0800000000000000
+      internalID: -931449198559511566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_82
+      rect:
+        serializedVersion: 2
+        x: 1307
+        y: 1158
+        width: 72
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54189c97ca2f2f4b0800000000000000
+      internalID: -5407993379926998715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_83
+      rect:
+        serializedVersion: 2
+        x: 1435
+        y: 1157
+        width: 72
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e048e5316c9535160800000000000000
+      internalID: 7013047752009352206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_84
+      rect:
+        serializedVersion: 2
+        x: 1563
+        y: 1159
+        width: 72
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4669730d47249720800000000000000
+      internalID: 2851947675756619342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_85
+      rect:
+        serializedVersion: 2
+        x: 1691
+        y: 1158
+        width: 72
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e8f857614e4b1ba0800000000000000
+      internalID: -6117209626038961951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_86
+      rect:
+        serializedVersion: 2
+        x: 1819
+        y: 1158
+        width: 72
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3a48b26229fd46a0800000000000000
+      internalID: -6463235964126344645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_87
+      rect:
+        serializedVersion: 2
+        x: 1947
+        y: 1158
+        width: 72
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9561e9785c20f350800000000000000
+      internalID: 6048383058072135069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_88
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 1034
+        width: 102
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d84dae329cd19c70800000000000000
+      internalID: 8976198053000988884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_89
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1035
+        width: 116
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ebbef6ebf503e190800000000000000
+      internalID: -7934491539026297880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_90
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 1034
+        width: 117
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3073dc3c7ec60730800000000000000
+      internalID: 3965083554938056764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_91
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1035
+        width: 116
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca8e8d2a61b2881c0800000000000000
+      internalID: -4501300451335411540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_92
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 1034
+        width: 102
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9dd8ae4e6b759440800000000000000
+      internalID: 4941991879805296029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_93
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 1030
+        width: 72
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79fcd3d9f0ddc52b0800000000000000
+      internalID: -5594353577968676969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_94
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 1029
+        width: 72
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c851c529764a17310800000000000000
+      internalID: 1401081723833030028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_95
+      rect:
+        serializedVersion: 2
+        x: 1051
+        y: 1029
+        width: 72
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1a0cb2c8b825b050800000000000000
+      internalID: 5815599267825060382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_96
+      rect:
+        serializedVersion: 2
+        x: 1179
+        y: 1030
+        width: 72
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c2c11aefb88b05e0800000000000000
+      internalID: -1942308456433073464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_97
+      rect:
+        serializedVersion: 2
+        x: 1307
+        y: 1030
+        width: 72
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89da2b0f0c2fc45e0800000000000000
+      internalID: -1923896030308160104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_98
+      rect:
+        serializedVersion: 2
+        x: 1435
+        y: 1029
+        width: 72
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8587a19ddf3f2bf0800000000000000
+      internalID: -346988425420241526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_99
+      rect:
+        serializedVersion: 2
+        x: 1563
+        y: 1029
+        width: 72
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98f582585f9833850800000000000000
+      internalID: 6355575186743910281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_100
+      rect:
+        serializedVersion: 2
+        x: 1691
+        y: 1030
+        width: 72
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2894252683150b7b0800000000000000
+      internalID: -5210575466258085502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_101
+      rect:
+        serializedVersion: 2
+        x: 1819
+        y: 1030
+        width: 72
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01f51af6257ad6a40800000000000000
+      internalID: 5363126703770132240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_102
+      rect:
+        serializedVersion: 2
+        x: 1947
+        y: 1030
+        width: 72
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b940ba8ee8b3c050800000000000000
+      internalID: 5819698478161349044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_103
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 896
+        width: 75
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06689cf4244ac1a00800000000000000
+      internalID: 728637844440581728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_104
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 896
+        width: 74
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05db6fdccaff30620800000000000000
+      internalID: 2739314116026350928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_105
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 896
+        width: 74
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 932dcdcd77ee7c1a0800000000000000
+      internalID: -6789195714663755207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_106
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 896
+        width: 74
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1a9cb14c8db76a80800000000000000
+      internalID: -8473595763778348518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_107
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 896
+        width: 74
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57102e68226a5a710800000000000000
+      internalID: 1703950701251658101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_108
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 896
+        width: 74
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c72aa5440d6d481f0800000000000000
+      internalID: -1043473023654780292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_109
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 896
+        width: 75
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9be60c17a5738f1a0800000000000000
+      internalID: -6775604777783890247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_110
+      rect:
+        serializedVersion: 2
+        x: 1052
+        y: 896
+        width: 72
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 406865eb4488d0ef0800000000000000
+      internalID: -140306184546122236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_111
+      rect:
+        serializedVersion: 2
+        x: 1186
+        y: 903
+        width: 57
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0635ec22762a83a0800000000000000
+      internalID: -6662470426919881203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_112
+      rect:
+        serializedVersion: 2
+        x: 1314
+        y: 903
+        width: 58
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f7b0a894becc1b40800000000000000
+      internalID: 5412428127242598390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_113
+      rect:
+        serializedVersion: 2
+        x: 1442
+        y: 903
+        width: 58
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2abd4ecbe73071710800000000000000
+      internalID: 1663802430206565282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_114
+      rect:
+        serializedVersion: 2
+        x: 1570
+        y: 903
+        width: 58
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 143cf905313d92510800000000000000
+      internalID: 1524982028752110401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_115
+      rect:
+        serializedVersion: 2
+        x: 1698
+        y: 903
+        width: 58
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acfbcbf36d0c3aba0800000000000000
+      internalID: -6078803045595168822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_116
+      rect:
+        serializedVersion: 2
+        x: 1826
+        y: 903
+        width: 58
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1607de3660384d90800000000000000
+      internalID: -7113382395732621795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_117
+      rect:
+        serializedVersion: 2
+        x: 1954
+        y: 903
+        width: 57
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b00eac66c95fc8380800000000000000
+      internalID: -8967522705913225205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_118
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 772
+        width: 66
+        height: 123
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8280e850638d05f70800000000000000
+      internalID: 9174070167486728232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_119
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 773
+        width: 66
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5c4b3b6027367030800000000000000
+      internalID: 3492039173449927771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_120
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 767
+        width: 66
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56f2a57f39e639cf0800000000000000
+      internalID: -246731972786114715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_121
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 767
+        width: 82
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a337ef422b6626b0800000000000000
+      internalID: -5321448114578050142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 123
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 781
+        width: 72
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 042bd2bbe640d3bd0800000000000000
+      internalID: -2648956132190735808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 124
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 778
+        width: 72
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7c350d29de238d90800000000000000
+      internalID: -7096777077507670914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 12
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 778
+        width: 68
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0acee6e607e2ad20800000000000000
+      internalID: 3288444694764112399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: secondjump
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 774
+        width: 66
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f6dbb6a28e9d2b10800000000000000
+      internalID: 1958395696956298995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: falling4
+      rect:
+        serializedVersion: 2
+        x: 1053
+        y: 780
+        width: 81
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4eccbbadc7a1d0400800000000000000
+      internalID: 291918674396957924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: falling3
+      rect:
+        serializedVersion: 2
+        x: 1182
+        y: 780
+        width: 78
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81de48c8d589c54f0800000000000000
+      internalID: -838627903040852712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: falling2
+      rect:
+        serializedVersion: 2
+        x: 1310
+        y: 781
+        width: 72
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00e648bf368d59900800000000000000
+      internalID: 690696041804361216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: falling1
+      rect:
+        serializedVersion: 2
+        x: 1439
+        y: 779
+        width: 72
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94f0fa208798b92c0800000000000000
+      internalID: -4423791060427272375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump4
+      rect:
+        serializedVersion: 2
+        x: 1569
+        y: 778
+        width: 68
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7613a1dbc0b5162f0800000000000000
+      internalID: -981403133519711897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump3
+      rect:
+        serializedVersion: 2
+        x: 1694
+        y: 774
+        width: 66
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4427dc8941e5a0c70800000000000000
+      internalID: 8938059853026128452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump2
+      rect:
+        serializedVersion: 2
+        x: 1816
+        y: 774
+        width: 72
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a6043ee4da6dab10800000000000000
+      internalID: 1994367672756995747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jump1
+      rect:
+        serializedVersion: 2
+        x: 1937
+        y: 776
+        width: 74
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a0e7478eb2634f70800000000000000
+      internalID: 9170281836709404840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_134
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 646
+        width: 75
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1a9d34448a3f4990800000000000000
+      internalID: -7399631322991453667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_135
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 641
+        width: 65
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96ee08a4314ab0070800000000000000
+      internalID: 8073727159753043561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_136
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 642
+        width: 74
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7734b114a4b7d9b0800000000000000
+      internalID: -5055373439935432834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_137
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 644
+        width: 74
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cc12e2a5d42f4fe0800000000000000
+      internalID: -1202702075505271607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_138
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 691
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adebc3fb38ad32150800000000000000
+      internalID: 5846757000641035994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_139
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 644
+        width: 55
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93d8a13427debff30800000000000000
+      internalID: 4610539718551702841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_140
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 653
+        width: 68
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0348ff3a3b766a50800000000000000
+      internalID: 6514029401149555467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_141
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 651
+        width: 67
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5c96e71181bdcd80800000000000000
+      internalID: -8228725776126141345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_142
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 653
+        width: 68
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 164a89b7b61784220800000000000000
+      internalID: 2470349102061757537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_143
+      rect:
+        serializedVersion: 2
+        x: 1047
+        y: 652
+        width: 68
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cad69dd44b5641930800000000000000
+      internalID: 4113024184770719148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_144
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 652
+        width: 67
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e34e0c8e7561f7e90800000000000000
+      internalID: -7025872326851763138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_145
+      rect:
+        serializedVersion: 2
+        x: 1306
+        y: 645
+        width: 84
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68bd97159beef60a0800000000000000
+      internalID: -6886022825522898042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_146
+      rect:
+        serializedVersion: 2
+        x: 1442
+        y: 648
+        width: 59
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01420754957f2f5e0800000000000000
+      internalID: -1877166131870948336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_147
+      rect:
+        serializedVersion: 2
+        x: 1570
+        y: 639
+        width: 54
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1858d92f386c71a0800000000000000
+      internalID: -6810453915996760035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_148
+      rect:
+        serializedVersion: 2
+        x: 1699
+        y: 639
+        width: 52
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26553fd419b00a6f0800000000000000
+      internalID: -675527225399618206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_149
+      rect:
+        serializedVersion: 2
+        x: 1827
+        y: 641
+        width: 52
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1f994bbfe52280c0800000000000000
+      internalID: -4575052559885426915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_150
+      rect:
+        serializedVersion: 2
+        x: 1954
+        y: 640
+        width: 57
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99f63c5c5fd9527e0800000000000000
+      internalID: -1790851597899436135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_151
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 528
+        width: 90
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 386a777820fdcf1d0800000000000000
+      internalID: -3315530023695833469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_152
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 536
+        width: 105
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 984cf0bf7c998cca0800000000000000
+      internalID: -5996373819654159223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_153
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 536
+        width: 103
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d3c3133966464c30800000000000000
+      internalID: 4343236308287865816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_154
+      rect:
+        serializedVersion: 2
+        x: 1035
+        y: 536
+        width: 102
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8325f6123ebbfb4d0800000000000000
+      internalID: -3116565832924179912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_155
+      rect:
+        serializedVersion: 2
+        x: 1164
+        y: 536
+        width: 105
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35ed4057262cbb430800000000000000
+      internalID: 3799844438742982227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_156
+      rect:
+        serializedVersion: 2
+        x: 1291
+        y: 536
+        width: 103
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72ab262d00a9941e0800000000000000
+      internalID: -2213068413555525081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_157
+      rect:
+        serializedVersion: 2
+        x: 1419
+        y: 536
+        width: 102
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41bb391a5a123ee60800000000000000
+      internalID: 7990267159149525780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_158
+      rect:
+        serializedVersion: 2
+        x: 1563
+        y: 527
+        width: 74
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff5045b71c94fdb90800000000000000
+      internalID: -7214966982677625345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_159
+      rect:
+        serializedVersion: 2
+        x: 1694
+        y: 530
+        width: 67
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52d1d3a0b326a85a0800000000000000
+      internalID: -6518289504951001819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_160
+      rect:
+        serializedVersion: 2
+        x: 1807
+        y: 517
+        width: 98
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a66fb5ab032696b50800000000000000
+      internalID: 6586903891430602346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_161
+      rect:
+        serializedVersion: 2
+        x: 1945
+        y: 530
+        width: 80
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 503d78971bcb72480800000000000000
+      internalID: -8923956666177170683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_162
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 424
+        width: 257
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adc56e94be0a684a0800000000000000
+      internalID: -6591404072192549670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_163
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 401
+        width: 91
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3b94a05d9ba3fb00800000000000000
+      internalID: 861220645909076798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_164
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 397
+        width: 129
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ac52087f13225b70800000000000000
+      internalID: 8886203632819788966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_165
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 420
+        width: 129
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06f13bfe522bf0920800000000000000
+      internalID: 2958779356210732896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_166
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 393
+        width: 96
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 657ccbcae8ad68fc0800000000000000
+      internalID: -3492864154660976810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_167
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 470
+        width: 28
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34f29499a7cd53a10800000000000000
+      internalID: 1888658037867622211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_168
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 444
+        width: 28
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a134f5ae8bfa1040800000000000000
+      internalID: 4619280957910036899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_169
+      rect:
+        serializedVersion: 2
+        x: 1074
+        y: 416
+        width: 28
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9580f9b7aea5e9420800000000000000
+      internalID: 2638646394828556377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_170
+      rect:
+        serializedVersion: 2
+        x: 1202
+        y: 388
+        width: 28
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c491b275c539c3330800000000000000
+      internalID: 3691987819345680716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_171
+      rect:
+        serializedVersion: 2
+        x: 1328
+        y: 388
+        width: 32
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81d459a061b6ca010800000000000000
+      internalID: 1201452943012089112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_172
+      rect:
+        serializedVersion: 2
+        x: 1442
+        y: 384
+        width: 67
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e50a22df6f275fec0800000000000000
+      internalID: -3533791927467859874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_173
+      rect:
+        serializedVersion: 2
+        x: 1570
+        y: 400
+        width: 67
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 879fb979719c04550800000000000000
+      internalID: 6143130994898368888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_174
+      rect:
+        serializedVersion: 2
+        x: 1698
+        y: 416
+        width: 67
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6d2e20bba32c8050800000000000000
+      internalID: 5804053240075922798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_175
+      rect:
+        serializedVersion: 2
+        x: 1825
+        y: 432
+        width: 69
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4526464aad8769280800000000000000
+      internalID: -9036902721816075692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_176
+      rect:
+        serializedVersion: 2
+        x: 1971
+        y: 383
+        width: 26
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36609520fda46ca00800000000000000
+      internalID: 776390307445540451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_177
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 268
+        width: 103
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0a231369fcf48660800000000000000
+      internalID: 7387307436833712655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_178
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 264
+        width: 386
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5df0b5b74fa6f51b0800000000000000
+      internalID: -5665692207934664747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_179
+      rect:
+        serializedVersion: 2
+        x: 1027
+        y: 260
+        width: 247
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14e4a80a322c47c20800000000000000
+      internalID: 3203398693240327745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_180
+      rect:
+        serializedVersion: 2
+        x: 1297
+        y: 277
+        width: 97
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 816e01fcfddb98c60800000000000000
+      internalID: 7820990996854924824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_181
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 264
+        width: 513
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11314b44bff161d20800000000000000
+      internalID: 3248819345244295953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_182
+      rect:
+        serializedVersion: 2
+        x: 1924
+        y: 277
+        width: 124
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edb2162926d108ae0800000000000000
+      internalID: -1549205962615608354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_183
+      rect:
+        serializedVersion: 2
+        x: 1059
+        y: 135
+        width: 57
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0136109aa1abb4f0800000000000000
+      internalID: -811877553876356852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_184
+      rect:
+        serializedVersion: 2
+        x: 1187
+        y: 135
+        width: 57
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 047512931b80a3aa0800000000000000
+      internalID: -6180617981351864512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_185
+      rect:
+        serializedVersion: 2
+        x: 1315
+        y: 135
+        width: 57
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b795ee99fcb7e640800000000000000
+      internalID: 5109260082573842360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_186
+      rect:
+        serializedVersion: 2
+        x: 1443
+        y: 135
+        width: 57
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7ed5cc236a4208d0800000000000000
+      internalID: -2881659021750313347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_187
+      rect:
+        serializedVersion: 2
+        x: 1571
+        y: 135
+        width: 57
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cc20c339dcafa760800000000000000
+      internalID: 7471380355707055299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_188
+      rect:
+        serializedVersion: 2
+        x: 1699
+        y: 135
+        width: 57
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6c66ebf2bef818b0800000000000000
+      internalID: -5181111326605939606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_189
+      rect:
+        serializedVersion: 2
+        x: 1827
+        y: 135
+        width: 57
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 425d9515908d52d70800000000000000
+      internalID: 9017851363410433316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_190
+      rect:
+        serializedVersion: 2
+        x: 1955
+        y: 135
+        width: 57
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbab4a85389e56580800000000000000
+      internalID: -8834398343680181571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 608a2545cbde13a41a37aa62c5cbd722
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      12: 3288444694764112399
+      123: -2648956132190735808
+      124: -7096777077507670914
+      falling1: -4423791060427272375
+      falling2: 690696041804361216
+      falling3: -838627903040852712
+      falling4: 291918674396957924
+      jump1: 9170281836709404840
+      jump2: 1994367672756995747
+      jump3: 8938059853026128452
+      jump4: -981403133519711897
+      move1: 9020674646851510960
+      move2: 7899201588535913562
+      move3: 393453353823637493
+      move4: 9043104027262187513
+      move5: -2883676959906774901
+      move6: 2906958888669956400
+      move7: -2169913341099190560
+      move8: 3051917852988500789
+      move9: -8721123152157388073
+      secondjump: 1958395696956298995
+      the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_0: 8613044429558722747
+      the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_1: -4415730162523077607
+      the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_100: -5210575466258085502
+      the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_101: 5363126703770132240
+      the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_102: 5819698478161349044
+      the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_103: 728637844440581728
+      the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_104: 2739314116026350928
+      the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_105: -6789195714663755207
+      the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_106: -8473595763778348518
+      the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_107: 1703950701251658101
+      the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_108: -1043473023654780292
+      the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_109: -6775604777783890247
+      the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_110: -140306184546122236
+      the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_111: -6662470426919881203
+      the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_112: 5412428127242598390
+      the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_113: 1663802430206565282
+      the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_114: 1524982028752110401
+      the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_115: -6078803045595168822
+      the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_116: -7113382395732621795
+      the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_117: -8967522705913225205
+      the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_118: 9174070167486728232
+      the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_119: 3492039173449927771
+      the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_120: -246731972786114715
+      the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_121: -5321448114578050142
+      the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_134: -7399631322991453667
+      the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_135: 8073727159753043561
+      the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_136: -5055373439935432834
+      the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_137: -1202702075505271607
+      the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_138: 5846757000641035994
+      the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_139: 4610539718551702841
+      the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_140: 6514029401149555467
+      the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_141: -8228725776126141345
+      the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_142: 2470349102061757537
+      the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_143: 4113024184770719148
+      the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_144: -7025872326851763138
+      the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_145: -6886022825522898042
+      the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_146: -1877166131870948336
+      the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_147: -6810453915996760035
+      the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_148: -675527225399618206
+      the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_149: -4575052559885426915
+      the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_150: -1790851597899436135
+      the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_151: -3315530023695833469
+      the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_152: -5996373819654159223
+      the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_153: 4343236308287865816
+      the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_154: -3116565832924179912
+      the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_155: 3799844438742982227
+      the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_156: -2213068413555525081
+      the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_157: 7990267159149525780
+      the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_158: -7214966982677625345
+      the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_159: -6518289504951001819
+      the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_16: 1297905125606746953
+      the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_160: 6586903891430602346
+      the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_161: -8923956666177170683
+      the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_162: -6591404072192549670
+      the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_163: 861220645909076798
+      the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_164: 8886203632819788966
+      the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_165: 2958779356210732896
+      the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_166: -3492864154660976810
+      the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_167: 1888658037867622211
+      the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_168: 4619280957910036899
+      the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_169: 2638646394828556377
+      the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_17: -2328581576562104106
+      the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_170: 3691987819345680716
+      the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_171: 1201452943012089112
+      the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_172: -3533791927467859874
+      the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_173: 6143130994898368888
+      the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_174: 5804053240075922798
+      the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_175: -9036902721816075692
+      the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_176: 776390307445540451
+      the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_177: 7387307436833712655
+      the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_178: -5665692207934664747
+      the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_179: 3203398693240327745
+      the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_18: 7317194334143015384
+      the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_180: 7820990996854924824
+      the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_181: 3248819345244295953
+      the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_182: -1549205962615608354
+      the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_183: -811877553876356852
+      the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_184: -6180617981351864512
+      the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_185: 5109260082573842360
+      the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_186: -2881659021750313347
+      the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_187: 7471380355707055299
+      the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_188: -5181111326605939606
+      the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_189: 9017851363410433316
+      the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_19: 4284736317844397041
+      the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_190: -8834398343680181571
+      the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_2: -1792509158204281822
+      the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_20: -1351589973233342961
+      the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_21: 6702422000851078332
+      the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_22: 6891861196269543701
+      the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_23: 3471658846014287423
+      the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_24: -6558768989621248483
+      the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_25: -6946228565156567098
+      the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_26: -3184353993802060773
+      the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_27: -3418069917411861977
+      the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_28: 3684950133159236700
+      the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_29: 6535847716274072706
+      the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_3: -1869741196177046856
+      the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_30: 2154583266355830622
+      the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_31: -8392436367280454552
+      the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_32: 6404484441455312959
+      the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_33: -1732900562225006702
+      the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_34: -3318206330334284258
+      the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_35: 5808537411118536718
+      the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_36: 1584956316558863270
+      the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_37: -2150315746425597574
+      the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_38: 8853763363559296870
+      the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_39: 1494117861106079982
+      the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_4: 1723743434147041819
+      the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_40: 807639347780511867
+      the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_41: 1962301939974892548
+      the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_42: -1130038638541311895
+      the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_43: 2092490087745392074
+      the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_44: 3606657920417013990
+      the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_45: -5420421780655665950
+      the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_46: -1492496996966331539
+      the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_47: 7331204245564998449
+      the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_48: -3045110680949248204
+      the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_49: 1288449404003629039
+      the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_5: 306813084710140486
+      the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_50: -1729635960454092904
+      the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_51: -3086723169438030722
+      the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_52: 6104026179876244814
+      the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_53: 2191762297258020098
+      the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_54: 8808649810193914847
+      the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_55: 8799074672981651939
+      the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_56: -2440607921356407705
+      the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_57: -4992455833384180384
+      the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_58: 4192616756461621375
+      the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_59: 2560591954123650054
+      the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_6: 5254445006858968771
+      the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_60: -6711303326509597367
+      the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_61: -3904929424775938450
+      the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_62: 978548735536203222
+      the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_63: -8443239301223197210
+      the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_64: 1386474114217476237
+      the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_65: 9110886916943490545
+      the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_66: 4322980715650382393
+      the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_67: 143902522729066337
+      the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_68: 742358254524499853
+      the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_69: 7091581068321046351
+      the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_70: -4360591139863529907
+      the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_71: 5082905608812540645
+      the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_72: 5514612165030378689
+      the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_73: 1564942440078115057
+      the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_74: 3977371006776493426
+      the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_75: -5352662768525679644
+      the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_82: -5407993379926998715
+      the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_83: 7013047752009352206
+      the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_84: 2851947675756619342
+      the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_85: -6117209626038961951
+      the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_86: -6463235964126344645
+      the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_87: 6048383058072135069
+      the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_88: 8976198053000988884
+      the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_89: -7934491539026297880
+      the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_90: 3965083554938056764
+      the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_91: -4501300451335411540
+      the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_92: 4941991879805296029
+      the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_93: -5594353577968676969
+      the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_94: 1401081723833030028
+      the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_95: 5815599267825060382
+      the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_96: -1942308456433073464
+      the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_97: -1923896030308160104
+      the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_98: -346988425420241526
+      the_knight__hollow_knight__sprite_sheet_by_incinaneverdies_dlkjsfo_99: 6355575186743910281
+      walk1: -931449198559511566
+      walk2: 6152481885918114743
+      walk3: -8422973523515942146
+      walk4: 8540209218615901295
+      walk5: -2834365227783038779
+      walk6: 1991932572089253251
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

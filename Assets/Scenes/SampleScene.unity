@@ -702,6 +702,8 @@ GameObject:
   - component: {fileID: 2013377919}
   - component: {fileID: 2013377914}
   - component: {fileID: 2013377920}
+  - component: {fileID: 2013377922}
+  - component: {fileID: 2013377921}
   m_Layer: 0
   m_Name: TheKnight
   m_TagString: Player
@@ -721,19 +723,22 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 09d023290e7db1044854cd5a42b1e429, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  MoveSpeed: 3
+  MoveSpeed: 5
   MaxJumpTimes: 2
   FootPoint: {fileID: 1770547980}
-  JumpPower: 5
+  JumpPower: 8
   groundMask:
     serializedVersion: 2
     m_Bits: 64
   JumpKey: 32
-  AttackKey: 113
   NormalattackEffectPrefab: {fileID: 5677410115255107838, guid: 050289ec55afbe4499eae8cb81663f06, type: 3}
   VerticalattackEffectPrefab: {fileID: 631072266398661264, guid: bf20e9d28c9cf46439246897d6d8440d, type: 3}
   isKnockbacked: 0
   knockbackdamp: 20
+  maxFallSpeed: -2
+  isDownAttack: 0
+  HitSucess: 0
+  animator: {fileID: 2013377922}
 --- !u!50 &2013377916
 Rigidbody2D:
   serializedVersion: 5
@@ -807,7 +812,7 @@ SpriteRenderer:
   m_SortingOrder: 0
   m_Sprite: {fileID: -3173964232991249977, guid: 3db46f943963c7b4fb190243b8dab401, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
-  m_FlipX: 0
+  m_FlipX: 1
   m_FlipY: 0
   m_DrawMode: 0
   m_Size: {x: 0.79, y: 1.27}
@@ -826,7 +831,7 @@ Transform:
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0.32, y: -1.65, z: 0}
-  m_LocalScale: {x: -1, y: 1, z: 1}
+  m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 1770547980}
@@ -892,6 +897,57 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   maxHealth: 10
   currentHealth: 0
+--- !u!95 &2013377921
+Animator:
+  serializedVersion: 7
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2013377913}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 10a9e6b05289974458f11dc423ee0525, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_AnimatePhysics: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorStateOnDisable: 0
+  m_WriteDefaultValuesOnDisable: 0
+--- !u!114 &2013377922
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2013377913}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f07204f1c761339429a1272a001bd708, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  animator: {fileID: 2013377921}
+  rb: {fileID: 2013377916}
+  movement: {fileID: 2013377914}
+  paramMoveSpeed: Speed
+  paramJumping: Jumping
+  paramFalling: Falling
+  paramAttack1: Attack1
+  paramAttack2: Attack2
+  paramUpAttack: UpAttack
+  paramisAttacking: isAttacking
+  paramUpAttacking: UpAttacking
+  isAttacking: 0
+  Jumping: 0
+  Falling: 0
+  AttackCooldown: 0.3
+  isUpAttacking: 0
+  UpAttackDuration: 0.2
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0
