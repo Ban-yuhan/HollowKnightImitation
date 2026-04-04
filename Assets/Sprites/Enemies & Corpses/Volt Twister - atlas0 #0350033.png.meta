@@ -1,0 +1,754 @@
+fileFormatVersion: 2
+guid: 736402262bf787842854c231b4c032fd
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6659092218690602600
+    second: Volt Twister - atlas0 #0350033_0
+  - first:
+      213: 378050475670303003
+    second: Volt Twister - atlas0 #0350033_1
+  - first:
+      213: -2443441727819251868
+    second: Volt Twister - atlas0 #0350033_2
+  - first:
+      213: -3510855967995334228
+    second: Volt Twister - atlas0 #0350033_3
+  - first:
+      213: 4827609856676080259
+    second: Volt Twister - atlas0 #0350033_4
+  - first:
+      213: 3784420122124551715
+    second: Volt Twister - atlas0 #0350033_5
+  - first:
+      213: -2286276377696364839
+    second: Volt Twister - atlas0 #0350033_6
+  - first:
+      213: -2224025666372061550
+    second: Volt Twister - atlas0 #0350033_7
+  - first:
+      213: -1373950852062575470
+    second: Volt Twister - atlas0 #0350033_8
+  - first:
+      213: -1678731056994474732
+    second: Volt Twister - atlas0 #0350033_9
+  - first:
+      213: -6262379390767474686
+    second: Volt Twister - atlas0 #0350033_10
+  - first:
+      213: 2510877294874985737
+    second: Volt Twister - atlas0 #0350033_11
+  - first:
+      213: -2443123011667881990
+    second: Volt Twister - atlas0 #0350033_12
+  - first:
+      213: 7656996074824488081
+    second: Volt Twister - atlas0 #0350033_13
+  - first:
+      213: -61883263191797184
+    second: Volt Twister - atlas0 #0350033_14
+  - first:
+      213: -3472864121380823281
+    second: Volt Twister - atlas0 #0350033_15
+  - first:
+      213: 6995124157485115003
+    second: Volt Twister - atlas0 #0350033_16
+  - first:
+      213: -3528525250423783735
+    second: Volt Twister - atlas0 #0350033_17
+  - first:
+      213: -697254113349189956
+    second: Volt Twister - atlas0 #0350033_18
+  - first:
+      213: 2338176745367201490
+    second: Volt Twister - atlas0 #0350033_19
+  - first:
+      213: 4453390241365161088
+    second: Volt Twister - atlas0 #0350033_20
+  - first:
+      213: -7237192783822173512
+    second: Volt Twister - atlas0 #0350033_21
+  - first:
+      213: -1507425285746294402
+    second: Volt Twister - atlas0 #0350033_22
+  - first:
+      213: -2781797936000454379
+    second: Volt Twister - atlas0 #0350033_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Volt Twister - atlas0 #0350033_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1828
+        width: 284
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 899f06298e62693a0800000000000000
+      internalID: -6659092218690602600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Volt Twister - atlas0 #0350033_1
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 1828
+        width: 277
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b11fe7597ea1f3500800000000000000
+      internalID: 378050475670303003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Volt Twister - atlas0 #0350033_2
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 1974
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46f77f7c1b6271ed0800000000000000
+      internalID: -2443441727819251868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Volt Twister - atlas0 #0350033_3
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 1822
+        width: 275
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca1f312391fe64fc0800000000000000
+      internalID: -3510855967995334228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Volt Twister - atlas0 #0350033_4
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 1833
+        width: 268
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38a2a5d369d1ff240800000000000000
+      internalID: 4827609856676080259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Volt Twister - atlas0 #0350033_5
+      rect:
+        serializedVersion: 2
+        x: 1094
+        y: 1822
+        width: 275
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3260314ec06f48430800000000000000
+      internalID: 3784420122124551715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Volt Twister - atlas0 #0350033_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1577
+        width: 825
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d69a096fb38540e0800000000000000
+      internalID: -2286276377696364839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Volt Twister - atlas0 #0350033_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1061
+        width: 282
+        height: 521
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 296ba88907ca221e0800000000000000
+      internalID: -2224025666372061550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Volt Twister - atlas0 #0350033_8
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 1356
+        width: 271
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29407f3cafebeece0800000000000000
+      internalID: -1373950852062575470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Volt Twister - atlas0 #0350033_9
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 1356
+        width: 267
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 415ad6a7ff2f3b8e0800000000000000
+      internalID: -1678731056994474732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Volt Twister - atlas0 #0350033_10
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 1574
+        width: 218
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 208d394af1f8719a0800000000000000
+      internalID: -6262379390767474686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Volt Twister - atlas0 #0350033_11
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 1574
+        width: 225
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9050e93b89d68d220800000000000000
+      internalID: 2510877294874985737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Volt Twister - atlas0 #0350033_12
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 1054
+        width: 544
+        height: 304
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aff04faa098481ed0800000000000000
+      internalID: -2443123011667881990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Volt Twister - atlas0 #0350033_13
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 1344
+        width: 266
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 194597e8c5d134a60800000000000000
+      internalID: 7656996074824488081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Volt Twister - atlas0 #0350033_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 548
+        width: 311
+        height: 515
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04239efff75242ff0800000000000000
+      internalID: -61883263191797184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Volt Twister - atlas0 #0350033_15
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 548
+        width: 274
+        height: 508
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0f95eb4b78edcfc0800000000000000
+      internalID: -3472864121380823281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Volt Twister - atlas0 #0350033_16
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 839
+        width: 269
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7667a60c5ca31160800000000000000
+      internalID: 6995124157485115003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Volt Twister - atlas0 #0350033_17
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 1037
+        width: 230
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ce7e7bcaf8280fc0800000000000000
+      internalID: -3528525250423783735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Volt Twister - atlas0 #0350033_18
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 646
+        width: 235
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbe34aff31bd256f0800000000000000
+      internalID: -697254113349189956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Volt Twister - atlas0 #0350033_19
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 448
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d6e0b99c5fd27020800000000000000
+      internalID: 2338176745367201490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Volt Twister - atlas0 #0350033_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 692
+        height: 550
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 084f2c654de9dcd30800000000000000
+      internalID: 4453390241365161088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Volt Twister - atlas0 #0350033_21
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 0
+        width: 394
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ba4245e183509b90800000000000000
+      internalID: -7237192783822173512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Volt Twister - atlas0 #0350033_22
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 202
+        width: 189
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7186a570bc841be0800000000000000
+      internalID: -1507425285746294402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Volt Twister - atlas0 #0350033_23
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 0
+        width: 212
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51137cb04811569d0800000000000000
+      internalID: -2781797936000454379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Volt Twister - atlas0 #0350033_0: -6659092218690602600
+      Volt Twister - atlas0 #0350033_1: 378050475670303003
+      Volt Twister - atlas0 #0350033_10: -6262379390767474686
+      Volt Twister - atlas0 #0350033_11: 2510877294874985737
+      Volt Twister - atlas0 #0350033_12: -2443123011667881990
+      Volt Twister - atlas0 #0350033_13: 7656996074824488081
+      Volt Twister - atlas0 #0350033_14: -61883263191797184
+      Volt Twister - atlas0 #0350033_15: -3472864121380823281
+      Volt Twister - atlas0 #0350033_16: 6995124157485115003
+      Volt Twister - atlas0 #0350033_17: -3528525250423783735
+      Volt Twister - atlas0 #0350033_18: -697254113349189956
+      Volt Twister - atlas0 #0350033_19: 2338176745367201490
+      Volt Twister - atlas0 #0350033_2: -2443441727819251868
+      Volt Twister - atlas0 #0350033_20: 4453390241365161088
+      Volt Twister - atlas0 #0350033_21: -7237192783822173512
+      Volt Twister - atlas0 #0350033_22: -1507425285746294402
+      Volt Twister - atlas0 #0350033_23: -2781797936000454379
+      Volt Twister - atlas0 #0350033_3: -3510855967995334228
+      Volt Twister - atlas0 #0350033_4: 4827609856676080259
+      Volt Twister - atlas0 #0350033_5: 3784420122124551715
+      Volt Twister - atlas0 #0350033_6: -2286276377696364839
+      Volt Twister - atlas0 #0350033_7: -2224025666372061550
+      Volt Twister - atlas0 #0350033_8: -1373950852062575470
+      Volt Twister - atlas0 #0350033_9: -1678731056994474732
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

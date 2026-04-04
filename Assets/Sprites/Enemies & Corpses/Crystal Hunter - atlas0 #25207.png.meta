@@ -1,0 +1,572 @@
+fileFormatVersion: 2
+guid: f48ab4f779501134fa3a322888509f89
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4148284805291076912
+    second: Crystal Hunter - atlas0 #25207_0
+  - first:
+      213: 1931730845193707403
+    second: Crystal Hunter - atlas0 #25207_1
+  - first:
+      213: -4563136935999404231
+    second: Crystal Hunter - atlas0 #25207_2
+  - first:
+      213: 3776798278655543565
+    second: Crystal Hunter - atlas0 #25207_3
+  - first:
+      213: 5509012184704225119
+    second: Crystal Hunter - atlas0 #25207_4
+  - first:
+      213: -1818733169830695926
+    second: Crystal Hunter - atlas0 #25207_5
+  - first:
+      213: 4953523218248013730
+    second: Crystal Hunter - atlas0 #25207_6
+  - first:
+      213: -7410578323599607633
+    second: Crystal Hunter - atlas0 #25207_7
+  - first:
+      213: 4779152175345607784
+    second: Crystal Hunter - atlas0 #25207_8
+  - first:
+      213: 2892705322166559600
+    second: Crystal Hunter - atlas0 #25207_9
+  - first:
+      213: 7267808350041720129
+    second: Crystal Hunter - atlas0 #25207_10
+  - first:
+      213: 5952865207672873901
+    second: Crystal Hunter - atlas0 #25207_11
+  - first:
+      213: -900981659052211451
+    second: Crystal Hunter - atlas0 #25207_12
+  - first:
+      213: -1217025291418409974
+    second: Crystal Hunter - atlas0 #25207_13
+  - first:
+      213: 2542407060137446996
+    second: Crystal Hunter - atlas0 #25207_14
+  - first:
+      213: -8656874338541309259
+    second: Crystal Hunter - atlas0 #25207_15
+  - first:
+      213: 2474036853886563981
+    second: Crystal Hunter - atlas0 #25207_16
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Crystal Hunter - atlas0 #25207_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 633
+        width: 177
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d29979b2f45e66c0800000000000000
+      internalID: -4148284805291076912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crystal Hunter - atlas0 #25207_1
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 729
+        width: 106
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8f9f6d08f2eeca10800000000000000
+      internalID: 1931730845193707403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crystal Hunter - atlas0 #25207_2
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 603
+        width: 211
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9378a4c122b7ca0c0800000000000000
+      internalID: -4563136935999404231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crystal Hunter - atlas0 #25207_3
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 691
+        width: 178
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d09029b2602e96430800000000000000
+      internalID: 3776798278655543565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crystal Hunter - atlas0 #25207_4
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 381
+        width: 238
+        height: 358
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5f089cd461f37c40800000000000000
+      internalID: 5509012184704225119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crystal Hunter - atlas0 #25207_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 479
+        width: 184
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0c650f61df82c6e0800000000000000
+      internalID: -1818733169830695926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crystal Hunter - atlas0 #25207_6
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 394
+        width: 139
+        height: 211
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a792524f137eb440800000000000000
+      internalID: 4953523218248013730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crystal Hunter - atlas0 #25207_7
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 533
+        width: 171
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa8b2a11746582990800000000000000
+      internalID: -7410578323599607633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crystal Hunter - atlas0 #25207_8
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 400
+        width: 206
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 864a20b1595f25240800000000000000
+      internalID: 4779152175345607784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crystal Hunter - atlas0 #25207_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 235
+        width: 263
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 073ae9f0a24f42820800000000000000
+      internalID: 2892705322166559600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crystal Hunter - atlas0 #25207_10
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 242
+        width: 202
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 145cad710317cd460800000000000000
+      internalID: 7267808350041720129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crystal Hunter - atlas0 #25207_11
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 0
+        width: 474
+        height: 402
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da3af13ed53dc9250800000000000000
+      internalID: 5952865207672873901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crystal Hunter - atlas0 #25207_12
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 381
+        width: 96
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5030d0764f11f73f0800000000000000
+      internalID: -900981659052211451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crystal Hunter - atlas0 #25207_13
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 250
+        width: 72
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a04e65e02f14c1fe0800000000000000
+      internalID: -1217025291418409974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crystal Hunter - atlas0 #25207_14
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 242
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45e00fd30c1784320800000000000000
+      internalID: 2542407060137446996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crystal Hunter - atlas0 #25207_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 277
+        height: 237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b2fc0ab7aa9cd780800000000000000
+      internalID: -8656874338541309259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crystal Hunter - atlas0 #25207_16
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 0
+        width: 268
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d86322d196b855220800000000000000
+      internalID: 2474036853886563981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Crystal Hunter - atlas0 #25207_0: -4148284805291076912
+      Crystal Hunter - atlas0 #25207_1: 1931730845193707403
+      Crystal Hunter - atlas0 #25207_10: 7267808350041720129
+      Crystal Hunter - atlas0 #25207_11: 5952865207672873901
+      Crystal Hunter - atlas0 #25207_12: -900981659052211451
+      Crystal Hunter - atlas0 #25207_13: -1217025291418409974
+      Crystal Hunter - atlas0 #25207_14: 2542407060137446996
+      Crystal Hunter - atlas0 #25207_15: -8656874338541309259
+      Crystal Hunter - atlas0 #25207_16: 2474036853886563981
+      Crystal Hunter - atlas0 #25207_2: -4563136935999404231
+      Crystal Hunter - atlas0 #25207_3: 3776798278655543565
+      Crystal Hunter - atlas0 #25207_4: 5509012184704225119
+      Crystal Hunter - atlas0 #25207_5: -1818733169830695926
+      Crystal Hunter - atlas0 #25207_6: 4953523218248013730
+      Crystal Hunter - atlas0 #25207_7: -7410578323599607633
+      Crystal Hunter - atlas0 #25207_8: 4779152175345607784
+      Crystal Hunter - atlas0 #25207_9: 2892705322166559600
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

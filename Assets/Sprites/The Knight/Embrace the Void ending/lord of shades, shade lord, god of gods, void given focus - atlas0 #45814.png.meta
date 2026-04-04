@@ -1,0 +1,546 @@
+fileFormatVersion: 2
+guid: df04a377285d7b44c9af3d90e1371a7d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8192529432086544901
+    second: lord of shades, shade lord, god of gods, void given focus - atlas0 #45814_0
+  - first:
+      213: -3663883613567759164
+    second: lord of shades, shade lord, god of gods, void given focus - atlas0 #45814_1
+  - first:
+      213: 6381977521677513901
+    second: lord of shades, shade lord, god of gods, void given focus - atlas0 #45814_2
+  - first:
+      213: -8411272827126755134
+    second: lord of shades, shade lord, god of gods, void given focus - atlas0 #45814_3
+  - first:
+      213: 708326175449353579
+    second: lord of shades, shade lord, god of gods, void given focus - atlas0 #45814_4
+  - first:
+      213: 1342083598362097091
+    second: lord of shades, shade lord, god of gods, void given focus - atlas0 #45814_5
+  - first:
+      213: 8135114912875947115
+    second: lord of shades, shade lord, god of gods, void given focus - atlas0 #45814_6
+  - first:
+      213: -6946411804318440888
+    second: lord of shades, shade lord, god of gods, void given focus - atlas0 #45814_7
+  - first:
+      213: 6330343375952925390
+    second: lord of shades, shade lord, god of gods, void given focus - atlas0 #45814_8
+  - first:
+      213: -8241267427275330027
+    second: lord of shades, shade lord, god of gods, void given focus - atlas0 #45814_9
+  - first:
+      213: -652786114495354579
+    second: lord of shades, shade lord, god of gods, void given focus - atlas0 #45814_10
+  - first:
+      213: -4575555463580853456
+    second: lord of shades, shade lord, god of gods, void given focus - atlas0 #45814_11
+  - first:
+      213: -3388052513707320875
+    second: lord of shades, shade lord, god of gods, void given focus - atlas0 #45814_12
+  - first:
+      213: -5972788611436355591
+    second: lord of shades, shade lord, god of gods, void given focus - atlas0 #45814_13
+  - first:
+      213: 6435497394565565851
+    second: lord of shades, shade lord, god of gods, void given focus - atlas0 #45814_14
+  - first:
+      213: 2710812111810587200
+    second: lord of shades, shade lord, god of gods, void given focus - atlas0 #45814_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: lord of shades, shade lord, god of gods, void given focus - atlas0 #45814_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1255
+        width: 276
+        height: 423
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfd7c8c23e94e4e80800000000000000
+      internalID: -8192529432086544901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lord of shades, shade lord, god of gods, void given focus - atlas0 #45814_1
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 1249
+        width: 426
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cc4beaf345472dc0800000000000000
+      internalID: -3663883613567759164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lord of shades, shade lord, god of gods, void given focus - atlas0 #45814_2
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 592
+        width: 541
+        height: 665
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da4bd182eb6519850800000000000000
+      internalID: 6381977521677513901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lord of shades, shade lord, god of gods, void given focus - atlas0 #45814_3
+      rect:
+        serializedVersion: 2
+        x: 1438
+        y: 1117
+        width: 443
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c0d636bde7254b80800000000000000
+      internalID: -8411272827126755134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lord of shades, shade lord, god of gods, void given focus - atlas0 #45814_4
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 1015
+        width: 418
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6d05c857ea74d900800000000000000
+      internalID: 708326175449353579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lord of shades, shade lord, god of gods, void given focus - atlas0 #45814_5
+      rect:
+        serializedVersion: 2
+        x: 1123
+        y: 1246
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c5304b0ce900a210800000000000000
+      internalID: 1342083598362097091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lord of shades, shade lord, god of gods, void given focus - atlas0 #45814_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 631
+        width: 265
+        height: 429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6424fc59ebb5e070800000000000000
+      internalID: 8135114912875947115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lord of shades, shade lord, god of gods, void given focus - atlas0 #45814_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 901
+        height: 534
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 842e4048443699f90800000000000000
+      internalID: -6946411804318440888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lord of shades, shade lord, god of gods, void given focus - atlas0 #45814_8
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 533
+        width: 327
+        height: 484
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec2dbe5c2c5e9d750800000000000000
+      internalID: 6330343375952925390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lord of shades, shade lord, god of gods, void given focus - atlas0 #45814_9
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 534
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51ea14260f221ad80800000000000000
+      internalID: -8241267427275330027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lord of shades, shade lord, god of gods, void given focus - atlas0 #45814_10
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 519
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d29623bcc76d0f6f0800000000000000
+      internalID: -652786114495354579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lord of shades, shade lord, god of gods, void given focus - atlas0 #45814_11
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 532
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03b5a275c8c5080c0800000000000000
+      internalID: -4575555463580853456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lord of shades, shade lord, god of gods, void given focus - atlas0 #45814_12
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 529
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d91b1080383bf0d0800000000000000
+      internalID: -3388052513707320875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lord of shades, shade lord, god of gods, void given focus - atlas0 #45814_13
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 0
+        width: 630
+        height: 595
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ff56d037646c1da0800000000000000
+      internalID: -5972788611436355591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lord of shades, shade lord, god of gods, void given focus - atlas0 #45814_14
+      rect:
+        serializedVersion: 2
+        x: 1289
+        y: 589
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9d480c98ca7f4950800000000000000
+      internalID: 6435497394565565851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lord of shades, shade lord, god of gods, void given focus - atlas0 #45814_15
+      rect:
+        serializedVersion: 2
+        x: 1438
+        y: 0
+        width: 581
+        height: 1119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04aeb41d04dbe9520800000000000000
+      internalID: 2710812111810587200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      lord of shades, shade lord, god of gods, void given focus - atlas0 #45814_0: -8192529432086544901
+      lord of shades, shade lord, god of gods, void given focus - atlas0 #45814_1: -3663883613567759164
+      lord of shades, shade lord, god of gods, void given focus - atlas0 #45814_10: -652786114495354579
+      lord of shades, shade lord, god of gods, void given focus - atlas0 #45814_11: -4575555463580853456
+      lord of shades, shade lord, god of gods, void given focus - atlas0 #45814_12: -3388052513707320875
+      lord of shades, shade lord, god of gods, void given focus - atlas0 #45814_13: -5972788611436355591
+      lord of shades, shade lord, god of gods, void given focus - atlas0 #45814_14: 6435497394565565851
+      lord of shades, shade lord, god of gods, void given focus - atlas0 #45814_15: 2710812111810587200
+      lord of shades, shade lord, god of gods, void given focus - atlas0 #45814_2: 6381977521677513901
+      lord of shades, shade lord, god of gods, void given focus - atlas0 #45814_3: -8411272827126755134
+      lord of shades, shade lord, god of gods, void given focus - atlas0 #45814_4: 708326175449353579
+      lord of shades, shade lord, god of gods, void given focus - atlas0 #45814_5: 1342083598362097091
+      lord of shades, shade lord, god of gods, void given focus - atlas0 #45814_6: 8135114912875947115
+      lord of shades, shade lord, god of gods, void given focus - atlas0 #45814_7: -6946411804318440888
+      lord of shades, shade lord, god of gods, void given focus - atlas0 #45814_8: 6330343375952925390
+      lord of shades, shade lord, god of gods, void given focus - atlas0 #45814_9: -8241267427275330027
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

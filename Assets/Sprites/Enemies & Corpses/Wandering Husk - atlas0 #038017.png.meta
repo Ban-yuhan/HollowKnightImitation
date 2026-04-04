@@ -1,0 +1,676 @@
+fileFormatVersion: 2
+guid: e38e07ba96ff2b54996db0d19908aff8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2077465994471767176
+    second: Wandering Husk - atlas0 #038017_0
+  - first:
+      213: -3343441000464323645
+    second: Wandering Husk - atlas0 #038017_1
+  - first:
+      213: 5480906890043524645
+    second: Wandering Husk - atlas0 #038017_2
+  - first:
+      213: 2921414524942928408
+    second: Wandering Husk - atlas0 #038017_3
+  - first:
+      213: -1272765388952564201
+    second: Wandering Husk - atlas0 #038017_4
+  - first:
+      213: 1614595662596569965
+    second: Wandering Husk - atlas0 #038017_5
+  - first:
+      213: -9168339771004397325
+    second: Wandering Husk - atlas0 #038017_6
+  - first:
+      213: 6989082113068269538
+    second: Wandering Husk - atlas0 #038017_7
+  - first:
+      213: -5408356029605368474
+    second: Wandering Husk - atlas0 #038017_8
+  - first:
+      213: -4699452162618108547
+    second: Wandering Husk - atlas0 #038017_9
+  - first:
+      213: 329004323652279161
+    second: Wandering Husk - atlas0 #038017_10
+  - first:
+      213: -7836383400480830113
+    second: Wandering Husk - atlas0 #038017_11
+  - first:
+      213: -6657054719566524400
+    second: Wandering Husk - atlas0 #038017_12
+  - first:
+      213: -338921459620925099
+    second: Wandering Husk - atlas0 #038017_13
+  - first:
+      213: 4267689239352217236
+    second: Wandering Husk - atlas0 #038017_14
+  - first:
+      213: -5649943423206554758
+    second: Wandering Husk - atlas0 #038017_15
+  - first:
+      213: 6920557044394405583
+    second: Wandering Husk - atlas0 #038017_16
+  - first:
+      213: -8302237311331687644
+    second: Wandering Husk - atlas0 #038017_17
+  - first:
+      213: 949822246486379133
+    second: Wandering Husk - atlas0 #038017_18
+  - first:
+      213: 5932291437917539454
+    second: Wandering Husk - atlas0 #038017_19
+  - first:
+      213: 2033713699431908501
+    second: Wandering Husk - atlas0 #038017_20
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Wandering Husk - atlas0 #038017_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 757
+        width: 374
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8738e865fab5b23e0800000000000000
+      internalID: -2077465994471767176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wandering Husk - atlas0 #038017_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 638
+        width: 131
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cbe8d7df16b991d0800000000000000
+      internalID: -3343441000464323645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wandering Husk - atlas0 #038017_2
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 645
+        width: 256
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 526090407c7101c40800000000000000
+      internalID: 5480906890043524645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wandering Husk - atlas0 #038017_3
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 629
+        width: 140
+        height: 331
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81ac3e83803fa8820800000000000000
+      internalID: 2921414524942928408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wandering Husk - atlas0 #038017_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 533
+        width: 132
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71e02154f9a365ee0800000000000000
+      internalID: -1272765388952564201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wandering Husk - atlas0 #038017_5
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 534
+        width: 132
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6b74fc5332386610800000000000000
+      internalID: 1614595662596569965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wandering Husk - atlas0 #038017_6
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 326
+        width: 137
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f85231ed8383c080800000000000000
+      internalID: -9168339771004397325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wandering Husk - atlas0 #038017_7
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 537
+        width: 131
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ef787fe6253ef060800000000000000
+      internalID: 6989082113068269538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wandering Husk - atlas0 #038017_8
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 506
+        width: 120
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66da78488d8a1f4b0800000000000000
+      internalID: -5408356029605368474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wandering Husk - atlas0 #038017_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 426
+        width: 132
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d75d438282138ceb0800000000000000
+      internalID: -4699452162618108547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wandering Husk - atlas0 #038017_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 105
+        width: 133
+        height: 323
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97b9cd070bbd09400800000000000000
+      internalID: 329004323652279161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wandering Husk - atlas0 #038017_11
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 427
+        width: 133
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5d8292f0d29f3390800000000000000
+      internalID: -7836383400480830113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wandering Husk - atlas0 #038017_12
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 317
+        width: 133
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01056edc0046d93a0800000000000000
+      internalID: -6657054719566524400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wandering Husk - atlas0 #038017_13
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 258
+        width: 122
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 551b9886ab8eb4bf0800000000000000
+      internalID: -338921459620925099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wandering Husk - atlas0 #038017_14
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 101
+        width: 144
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49e885380c0e93b30800000000000000
+      internalID: 4267689239352217236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wandering Husk - atlas0 #038017_15
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 225
+        width: 134
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7308ba246e5791b0800000000000000
+      internalID: -5649943423206554758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wandering Husk - atlas0 #038017_16
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 117
+        width: 134
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcea4f617f1ca0060800000000000000
+      internalID: 6920557044394405583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wandering Husk - atlas0 #038017_17
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 131
+        width: 107
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 423a419072788cc80800000000000000
+      internalID: -8302237311331687644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wandering Husk - atlas0 #038017_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 141
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7a85910d427e2d00800000000000000
+      internalID: 949822246486379133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wandering Husk - atlas0 #038017_19
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 0
+        width: 259
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7c8a25d1abb35250800000000000000
+      internalID: 5932291437917539454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wandering Husk - atlas0 #038017_20
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 0
+        width: 101
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5940c75a5d3393c10800000000000000
+      internalID: 2033713699431908501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Wandering Husk - atlas0 #038017_0: -2077465994471767176
+      Wandering Husk - atlas0 #038017_1: -3343441000464323645
+      Wandering Husk - atlas0 #038017_10: 329004323652279161
+      Wandering Husk - atlas0 #038017_11: -7836383400480830113
+      Wandering Husk - atlas0 #038017_12: -6657054719566524400
+      Wandering Husk - atlas0 #038017_13: -338921459620925099
+      Wandering Husk - atlas0 #038017_14: 4267689239352217236
+      Wandering Husk - atlas0 #038017_15: -5649943423206554758
+      Wandering Husk - atlas0 #038017_16: 6920557044394405583
+      Wandering Husk - atlas0 #038017_17: -8302237311331687644
+      Wandering Husk - atlas0 #038017_18: 949822246486379133
+      Wandering Husk - atlas0 #038017_19: 5932291437917539454
+      Wandering Husk - atlas0 #038017_2: 5480906890043524645
+      Wandering Husk - atlas0 #038017_20: 2033713699431908501
+      Wandering Husk - atlas0 #038017_3: 2921414524942928408
+      Wandering Husk - atlas0 #038017_4: -1272765388952564201
+      Wandering Husk - atlas0 #038017_5: 1614595662596569965
+      Wandering Husk - atlas0 #038017_6: -9168339771004397325
+      Wandering Husk - atlas0 #038017_7: 6989082113068269538
+      Wandering Husk - atlas0 #038017_8: -5408356029605368474
+      Wandering Husk - atlas0 #038017_9: -4699452162618108547
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

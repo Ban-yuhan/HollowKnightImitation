@@ -1,0 +1,624 @@
+fileFormatVersion: 2
+guid: c11609ac1136c5947b9d26274e807e84
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2724725765581274132
+    second: Garpede - atlas0 #0350035_0
+  - first:
+      213: -6834716948993820782
+    second: Garpede - atlas0 #0350035_1
+  - first:
+      213: 1143436847457480075
+    second: Garpede - atlas0 #0350035_2
+  - first:
+      213: -6280459791544192346
+    second: Garpede - atlas0 #0350035_3
+  - first:
+      213: -6591836006785273019
+    second: Garpede - atlas0 #0350035_4
+  - first:
+      213: 7023020685566646583
+    second: Garpede - atlas0 #0350035_5
+  - first:
+      213: -6653470061730729216
+    second: Garpede - atlas0 #0350035_6
+  - first:
+      213: -820761085164707447
+    second: Garpede - atlas0 #0350035_7
+  - first:
+      213: -2322527299477445980
+    second: Garpede - atlas0 #0350035_8
+  - first:
+      213: -37135393724609166
+    second: Garpede - atlas0 #0350035_9
+  - first:
+      213: -1540388246279055285
+    second: Garpede - atlas0 #0350035_10
+  - first:
+      213: 6072330920797566312
+    second: Garpede - atlas0 #0350035_11
+  - first:
+      213: -4682854228950680730
+    second: Garpede - atlas0 #0350035_12
+  - first:
+      213: -6970969624126697185
+    second: Garpede - atlas0 #0350035_13
+  - first:
+      213: -2879348269666891670
+    second: Garpede - atlas0 #0350035_14
+  - first:
+      213: -8873093700553517862
+    second: Garpede - atlas0 #0350035_15
+  - first:
+      213: -2630019105212667
+    second: Garpede - atlas0 #0350035_16
+  - first:
+      213: -2599391513079316617
+    second: Garpede - atlas0 #0350035_17
+  - first:
+      213: -369644473338795562
+    second: Garpede - atlas0 #0350035_18
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Garpede - atlas0 #0350035_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 911
+        width: 44
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41c73d7c5ab20d520800000000000000
+      internalID: 2724725765581274132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Garpede - atlas0 #0350035_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 686
+        width: 204
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 297b1e295253621a0800000000000000
+      internalID: -6834716948993820782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Garpede - atlas0 #0350035_2
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 817
+        width: 262
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8dabcb21cd4edf00800000000000000
+      internalID: 1143436847457480075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Garpede - atlas0 #0350035_3
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 745
+        width: 125
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a272ea481357d8a0800000000000000
+      internalID: -6280459791544192346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Garpede - atlas0 #0350035_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 466
+        width: 213
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5433feda3181584a0800000000000000
+      internalID: -6591836006785273019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Garpede - atlas0 #0350035_5
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 642
+        width: 351
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7399b6d9a18c67160800000000000000
+      internalID: 7023020685566646583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Garpede - atlas0 #0350035_6
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 582
+        width: 136
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 003f7defa302aa3a0800000000000000
+      internalID: -6653470061730729216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Garpede - atlas0 #0350035_7
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 506
+        width: 126
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9812b4144221c94f0800000000000000
+      internalID: -820761085164707447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Garpede - atlas0 #0350035_8
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 669
+        width: 158
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a2ef75f9b9b4cfd0800000000000000
+      internalID: -2322527299477445980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Garpede - atlas0 #0350035_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 613
+        height: 468
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27d43706e811c7ff0800000000000000
+      internalID: -37135393724609166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Garpede - atlas0 #0350035_10
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 463
+        width: 147
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4899542d017f9ae0800000000000000
+      internalID: -1540388246279055285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Garpede - atlas0 #0350035_11
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 463
+        width: 145
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86572c4ccc0454450800000000000000
+      internalID: 6072330920797566312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Garpede - atlas0 #0350035_12
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 406
+        width: 134
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66b757cb3e8230fb0800000000000000
+      internalID: -4682854228950680730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Garpede - atlas0 #0350035_13
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 356
+        width: 143
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f11d3e58f04224f90800000000000000
+      internalID: -6970969624126697185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Garpede - atlas0 #0350035_14
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 336
+        width: 125
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a688ed111008a08d0800000000000000
+      internalID: -2879348269666891670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Garpede - atlas0 #0350035_15
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 224
+        width: 177
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad450cf7a407cd480800000000000000
+      internalID: -8873093700553517862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Garpede - atlas0 #0350035_16
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 167
+        width: 293
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5073b75f208a6fff0800000000000000
+      internalID: -2630019105212667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Garpede - atlas0 #0350035_17
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 0
+        width: 134
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77ffdb6e03b1debd0800000000000000
+      internalID: -2599391513079316617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Garpede - atlas0 #0350035_18
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 0
+        width: 243
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d964795f42cedaf0800000000000000
+      internalID: -369644473338795562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Garpede - atlas0 #0350035_0: 2724725765581274132
+      Garpede - atlas0 #0350035_1: -6834716948993820782
+      Garpede - atlas0 #0350035_10: -1540388246279055285
+      Garpede - atlas0 #0350035_11: 6072330920797566312
+      Garpede - atlas0 #0350035_12: -4682854228950680730
+      Garpede - atlas0 #0350035_13: -6970969624126697185
+      Garpede - atlas0 #0350035_14: -2879348269666891670
+      Garpede - atlas0 #0350035_15: -8873093700553517862
+      Garpede - atlas0 #0350035_16: -2630019105212667
+      Garpede - atlas0 #0350035_17: -2599391513079316617
+      Garpede - atlas0 #0350035_18: -369644473338795562
+      Garpede - atlas0 #0350035_2: 1143436847457480075
+      Garpede - atlas0 #0350035_3: -6280459791544192346
+      Garpede - atlas0 #0350035_4: -6591836006785273019
+      Garpede - atlas0 #0350035_5: 7023020685566646583
+      Garpede - atlas0 #0350035_6: -6653470061730729216
+      Garpede - atlas0 #0350035_7: -820761085164707447
+      Garpede - atlas0 #0350035_8: -2322527299477445980
+      Garpede - atlas0 #0350035_9: -37135393724609166
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

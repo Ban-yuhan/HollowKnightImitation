@@ -1,0 +1,4394 @@
+fileFormatVersion: 2
+guid: 987f24d475f0994499526a53e1a4500c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1525228315836345831
+    second: Moss Charger - atlas0 #03710_0
+  - first:
+      213: -6783273317567874251
+    second: Moss Charger - atlas0 #03710_1
+  - first:
+      213: 286968213127288188
+    second: Moss Charger - atlas0 #03710_2
+  - first:
+      213: 7565980312511405307
+    second: Moss Charger - atlas0 #03710_3
+  - first:
+      213: -7238079247454947812
+    second: Moss Charger - atlas0 #03710_4
+  - first:
+      213: -2691132525679831584
+    second: Moss Charger - atlas0 #03710_5
+  - first:
+      213: 8245689701285412674
+    second: Moss Charger - atlas0 #03710_6
+  - first:
+      213: 8832294895687563582
+    second: Moss Charger - atlas0 #03710_7
+  - first:
+      213: 8575785285241128604
+    second: Moss Charger - atlas0 #03710_8
+  - first:
+      213: 1831386796560944022
+    second: Moss Charger - atlas0 #03710_9
+  - first:
+      213: 264218835058388050
+    second: Moss Charger - atlas0 #03710_10
+  - first:
+      213: -4486799623531023832
+    second: Moss Charger - atlas0 #03710_11
+  - first:
+      213: 8267360301588652283
+    second: Moss Charger - atlas0 #03710_12
+  - first:
+      213: -4446185758603480489
+    second: Moss Charger - atlas0 #03710_13
+  - first:
+      213: -8963664748378591160
+    second: Moss Charger - atlas0 #03710_14
+  - first:
+      213: 6687854015872806367
+    second: Moss Charger - atlas0 #03710_15
+  - first:
+      213: 8196975510024205592
+    second: Moss Charger - atlas0 #03710_16
+  - first:
+      213: -6244614084784094868
+    second: Moss Charger - atlas0 #03710_17
+  - first:
+      213: -3265458866035932357
+    second: Moss Charger - atlas0 #03710_18
+  - first:
+      213: 8227834892050797282
+    second: Moss Charger - atlas0 #03710_19
+  - first:
+      213: 3173596368761847560
+    second: Moss Charger - atlas0 #03710_20
+  - first:
+      213: 2210459819418670784
+    second: Moss Charger - atlas0 #03710_21
+  - first:
+      213: -3812145786040964160
+    second: Moss Charger - atlas0 #03710_22
+  - first:
+      213: 2729925393278311565
+    second: Moss Charger - atlas0 #03710_23
+  - first:
+      213: 6266028155568499410
+    second: Moss Charger - atlas0 #03710_24
+  - first:
+      213: -8709696420063537768
+    second: Moss Charger - atlas0 #03710_25
+  - first:
+      213: -4054822388199142505
+    second: Moss Charger - atlas0 #03710_26
+  - first:
+      213: -1464551243830672231
+    second: Moss Charger - atlas0 #03710_27
+  - first:
+      213: -4078693996296702671
+    second: Moss Charger - atlas0 #03710_28
+  - first:
+      213: -5986199342780301494
+    second: Moss Charger - atlas0 #03710_29
+  - first:
+      213: 7944694010404156660
+    second: Moss Charger - atlas0 #03710_30
+  - first:
+      213: 3895971033792390499
+    second: Moss Charger - atlas0 #03710_31
+  - first:
+      213: -9052179451618704357
+    second: Moss Charger - atlas0 #03710_32
+  - first:
+      213: 3300414090210138110
+    second: Moss Charger - atlas0 #03710_33
+  - first:
+      213: 5237527142861239992
+    second: Moss Charger - atlas0 #03710_34
+  - first:
+      213: -7864184080909428724
+    second: Moss Charger - atlas0 #03710_35
+  - first:
+      213: 8329209406130418119
+    second: Moss Charger - atlas0 #03710_36
+  - first:
+      213: -3577838053996841397
+    second: Moss Charger - atlas0 #03710_37
+  - first:
+      213: -4729923636973331127
+    second: Moss Charger - atlas0 #03710_38
+  - first:
+      213: -7381957678067247449
+    second: Moss Charger - atlas0 #03710_39
+  - first:
+      213: 4835762742834593663
+    second: Moss Charger - atlas0 #03710_40
+  - first:
+      213: 2061494237403069952
+    second: Moss Charger - atlas0 #03710_41
+  - first:
+      213: 9151972986258425653
+    second: Moss Charger - atlas0 #03710_42
+  - first:
+      213: 3744567737492159967
+    second: Moss Charger - atlas0 #03710_43
+  - first:
+      213: 3799607493258538385
+    second: Moss Charger - atlas0 #03710_44
+  - first:
+      213: -8570480192250095806
+    second: Moss Charger - atlas0 #03710_45
+  - first:
+      213: 6811649360561310414
+    second: Moss Charger - atlas0 #03710_46
+  - first:
+      213: 4433742280488911043
+    second: Moss Charger - atlas0 #03710_47
+  - first:
+      213: 5571916305591791449
+    second: Moss Charger - atlas0 #03710_48
+  - first:
+      213: -1740268868554151841
+    second: Moss Charger - atlas0 #03710_49
+  - first:
+      213: -1530131489504498175
+    second: Moss Charger - atlas0 #03710_50
+  - first:
+      213: -8377473175560202523
+    second: Moss Charger - atlas0 #03710_51
+  - first:
+      213: 6621778532819201874
+    second: Moss Charger - atlas0 #03710_52
+  - first:
+      213: 2352125281519659361
+    second: Moss Charger - atlas0 #03710_53
+  - first:
+      213: -4049701241198340185
+    second: Moss Charger - atlas0 #03710_54
+  - first:
+      213: -7659714550424555159
+    second: Moss Charger - atlas0 #03710_55
+  - first:
+      213: -177019471246325352
+    second: Moss Charger - atlas0 #03710_56
+  - first:
+      213: -4235980427780967897
+    second: Moss Charger - atlas0 #03710_57
+  - first:
+      213: 565636005490212578
+    second: Moss Charger - atlas0 #03710_58
+  - first:
+      213: -4689371976625543917
+    second: Moss Charger - atlas0 #03710_59
+  - first:
+      213: 4115182743939458763
+    second: Moss Charger - atlas0 #03710_60
+  - first:
+      213: -7063341521922529047
+    second: Moss Charger - atlas0 #03710_61
+  - first:
+      213: 6337046683787541684
+    second: Moss Charger - atlas0 #03710_62
+  - first:
+      213: 6200463528689156824
+    second: Moss Charger - atlas0 #03710_63
+  - first:
+      213: -6868626465090331249
+    second: Moss Charger - atlas0 #03710_64
+  - first:
+      213: 5874400952439933846
+    second: Moss Charger - atlas0 #03710_65
+  - first:
+      213: -301966002642348080
+    second: Moss Charger - atlas0 #03710_66
+  - first:
+      213: 4190991883762293695
+    second: Moss Charger - atlas0 #03710_67
+  - first:
+      213: -1134715490389409470
+    second: Moss Charger - atlas0 #03710_68
+  - first:
+      213: 888273649357168899
+    second: Moss Charger - atlas0 #03710_69
+  - first:
+      213: 1227048865633859582
+    second: Moss Charger - atlas0 #03710_70
+  - first:
+      213: -666706097978913444
+    second: Moss Charger - atlas0 #03710_71
+  - first:
+      213: -7940490449852205595
+    second: Moss Charger - atlas0 #03710_72
+  - first:
+      213: 3308280309085611707
+    second: Moss Charger - atlas0 #03710_73
+  - first:
+      213: -6060004184263594935
+    second: Moss Charger - atlas0 #03710_74
+  - first:
+      213: 765704715489727277
+    second: Moss Charger - atlas0 #03710_75
+  - first:
+      213: 9020103045336440168
+    second: Moss Charger - atlas0 #03710_76
+  - first:
+      213: -4183939226207762850
+    second: Moss Charger - atlas0 #03710_77
+  - first:
+      213: 1816998691900059953
+    second: Moss Charger - atlas0 #03710_78
+  - first:
+      213: -5511312652365900280
+    second: Moss Charger - atlas0 #03710_79
+  - first:
+      213: 1949049059514258263
+    second: Moss Charger - atlas0 #03710_80
+  - first:
+      213: 6953078001376676313
+    second: Moss Charger - atlas0 #03710_81
+  - first:
+      213: -7942727890660820601
+    second: Moss Charger - atlas0 #03710_82
+  - first:
+      213: 5012700894801121847
+    second: Moss Charger - atlas0 #03710_83
+  - first:
+      213: 50830865695972677
+    second: Moss Charger - atlas0 #03710_84
+  - first:
+      213: 1616383193956314891
+    second: Moss Charger - atlas0 #03710_85
+  - first:
+      213: -6705949738940071824
+    second: Moss Charger - atlas0 #03710_86
+  - first:
+      213: -5280543960834762639
+    second: Moss Charger - atlas0 #03710_87
+  - first:
+      213: -1878888345797962947
+    second: Moss Charger - atlas0 #03710_88
+  - first:
+      213: -6658157008948556158
+    second: Moss Charger - atlas0 #03710_89
+  - first:
+      213: -1040905937500034385
+    second: Moss Charger - atlas0 #03710_90
+  - first:
+      213: -6254280279001164557
+    second: Moss Charger - atlas0 #03710_91
+  - first:
+      213: -4029589185477511329
+    second: Moss Charger - atlas0 #03710_92
+  - first:
+      213: 8818650751287480695
+    second: Moss Charger - atlas0 #03710_93
+  - first:
+      213: -7975643488779702038
+    second: Moss Charger - atlas0 #03710_94
+  - first:
+      213: 5332263465176301888
+    second: Moss Charger - atlas0 #03710_95
+  - first:
+      213: 4232983353539698506
+    second: Moss Charger - atlas0 #03710_96
+  - first:
+      213: -2043416159546509853
+    second: Moss Charger - atlas0 #03710_97
+  - first:
+      213: 7245333569317915968
+    second: Moss Charger - atlas0 #03710_98
+  - first:
+      213: -5607688748277138933
+    second: Moss Charger - atlas0 #03710_99
+  - first:
+      213: -7029669312514570791
+    second: Moss Charger - atlas0 #03710_100
+  - first:
+      213: -4954521067735345324
+    second: Moss Charger - atlas0 #03710_101
+  - first:
+      213: 5354897118610519399
+    second: Moss Charger - atlas0 #03710_102
+  - first:
+      213: 5033191472641234799
+    second: Moss Charger - atlas0 #03710_103
+  - first:
+      213: -4439989790774277240
+    second: Moss Charger - atlas0 #03710_104
+  - first:
+      213: 2903559164993228577
+    second: Moss Charger - atlas0 #03710_105
+  - first:
+      213: 7485552990566555258
+    second: Moss Charger - atlas0 #03710_106
+  - first:
+      213: 1091328843333687759
+    second: Moss Charger - atlas0 #03710_107
+  - first:
+      213: 7106443601049555845
+    second: Moss Charger - atlas0 #03710_108
+  - first:
+      213: -4402351095278149178
+    second: Moss Charger - atlas0 #03710_109
+  - first:
+      213: -8681634486476102988
+    second: Moss Charger - atlas0 #03710_110
+  - first:
+      213: -3903928919325919008
+    second: Moss Charger - atlas0 #03710_111
+  - first:
+      213: 5219300279425768027
+    second: Moss Charger - atlas0 #03710_112
+  - first:
+      213: -7008438328169248926
+    second: Moss Charger - atlas0 #03710_113
+  - first:
+      213: 83008420533729371
+    second: Moss Charger - atlas0 #03710_114
+  - first:
+      213: 4846876238280593312
+    second: Moss Charger - atlas0 #03710_115
+  - first:
+      213: 8586267166076259882
+    second: Moss Charger - atlas0 #03710_116
+  - first:
+      213: -6511086242200469323
+    second: Moss Charger - atlas0 #03710_117
+  - first:
+      213: 1535529825465382549
+    second: Moss Charger - atlas0 #03710_118
+  - first:
+      213: 6181111827308046364
+    second: Moss Charger - atlas0 #03710_119
+  - first:
+      213: -1922557839334137434
+    second: Moss Charger - atlas0 #03710_120
+  - first:
+      213: 1803539437828301967
+    second: Moss Charger - atlas0 #03710_121
+  - first:
+      213: 6509705109918086186
+    second: Moss Charger - atlas0 #03710_122
+  - first:
+      213: -9147390636109796299
+    second: Moss Charger - atlas0 #03710_123
+  - first:
+      213: -4552300875439634209
+    second: Moss Charger - atlas0 #03710_124
+  - first:
+      213: 7637320700449488332
+    second: Moss Charger - atlas0 #03710_125
+  - first:
+      213: 4843585440510921960
+    second: Moss Charger - atlas0 #03710_126
+  - first:
+      213: 6654871840494614529
+    second: Moss Charger - atlas0 #03710_127
+  - first:
+      213: -1064975146927551038
+    second: Moss Charger - atlas0 #03710_128
+  - first:
+      213: -4260523355937373
+    second: Moss Charger - atlas0 #03710_129
+  - first:
+      213: -4926904159715794192
+    second: Moss Charger - atlas0 #03710_130
+  - first:
+      213: -3389194209012431396
+    second: Moss Charger - atlas0 #03710_131
+  - first:
+      213: -1263677719479078160
+    second: Moss Charger - atlas0 #03710_132
+  - first:
+      213: -6995710746643523340
+    second: Moss Charger - atlas0 #03710_133
+  - first:
+      213: 5672208767246375275
+    second: Moss Charger - atlas0 #03710_134
+  - first:
+      213: 4424346456447634928
+    second: Moss Charger - atlas0 #03710_135
+  - first:
+      213: 2158549371786511432
+    second: Moss Charger - atlas0 #03710_136
+  - first:
+      213: 5553921542207797849
+    second: Moss Charger - atlas0 #03710_137
+  - first:
+      213: -788162300888830606
+    second: Moss Charger - atlas0 #03710_138
+  - first:
+      213: -1315450194064241511
+    second: Moss Charger - atlas0 #03710_139
+  - first:
+      213: 6193630736022869296
+    second: Moss Charger - atlas0 #03710_140
+  - first:
+      213: -2292726020687345564
+    second: Moss Charger - atlas0 #03710_141
+  - first:
+      213: 966870668112328877
+    second: Moss Charger - atlas0 #03710_142
+  - first:
+      213: 468521412062307315
+    second: Moss Charger - atlas0 #03710_143
+  - first:
+      213: -1507014733189313760
+    second: Moss Charger - atlas0 #03710_144
+  - first:
+      213: -2946106033888870453
+    second: Moss Charger - atlas0 #03710_145
+  - first:
+      213: 8690748277693033854
+    second: Moss Charger - atlas0 #03710_146
+  - first:
+      213: -8950708511766213460
+    second: Moss Charger - atlas0 #03710_147
+  - first:
+      213: 3853233691281289667
+    second: Moss Charger - atlas0 #03710_148
+  - first:
+      213: -2262318454080080668
+    second: Moss Charger - atlas0 #03710_149
+  - first:
+      213: -1413273351452768752
+    second: Moss Charger - atlas0 #03710_150
+  - first:
+      213: 6814684171029762051
+    second: Moss Charger - atlas0 #03710_151
+  - first:
+      213: 1576311406545776194
+    second: Moss Charger - atlas0 #03710_152
+  - first:
+      213: 4445269528589277939
+    second: Moss Charger - atlas0 #03710_153
+  - first:
+      213: -2234283180318290828
+    second: Moss Charger - atlas0 #03710_154
+  - first:
+      213: 4868102815240336528
+    second: Moss Charger - atlas0 #03710_155
+  - first:
+      213: -4545341704957040306
+    second: Moss Charger - atlas0 #03710_156
+  - first:
+      213: 2212714359374983499
+    second: Moss Charger - atlas0 #03710_157
+  - first:
+      213: 7617264454820228347
+    second: Moss Charger - atlas0 #03710_158
+  - first:
+      213: -7401966874825663285
+    second: Moss Charger - atlas0 #03710_159
+  - first:
+      213: 121707836002312228
+    second: Moss Charger - atlas0 #03710_160
+  - first:
+      213: 7282561356995358398
+    second: Moss Charger - atlas0 #03710_161
+  - first:
+      213: 5553524937510693028
+    second: Moss Charger - atlas0 #03710_162
+  - first:
+      213: 1134130498446454557
+    second: Moss Charger - atlas0 #03710_163
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Moss Charger - atlas0 #03710_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1891
+        width: 394
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7edeace7213ba2510800000000000000
+      internalID: 1525228315836345831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moss Charger - atlas0 #03710_1
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 2002
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53b3bf36bd8fcd1a0800000000000000
+      internalID: -6783273317567874251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moss Charger - atlas0 #03710_2
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 2008
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c75d745c1148bf300800000000000000
+      internalID: 286968213127288188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moss Charger - atlas0 #03710_3
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 1889
+        width: 97
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfc57d80203cff860800000000000000
+      internalID: 7565980312511405307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moss Charger - atlas0 #03710_4
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 1967
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c16325ff54d2d8b90800000000000000
+      internalID: -7238079247454947812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moss Charger - atlas0 #03710_5
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 1948
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e59a53e93d27aad0800000000000000
+      internalID: -2691132525679831584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moss Charger - atlas0 #03710_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1198
+        width: 206
+        height: 695
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24fb63588139e6270800000000000000
+      internalID: 8245689701285412674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moss Charger - atlas0 #03710_7
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 1882
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e39f3f0896d929a70800000000000000
+      internalID: 8832294895687563582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moss Charger - atlas0 #03710_8
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 1787
+        width: 198
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c96c1dcc74f430770800000000000000
+      internalID: 8575785285241128604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moss Charger - atlas0 #03710_9
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 1787
+        width: 96
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69b0b5f96946a6910800000000000000
+      internalID: 1831386796560944022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moss Charger - atlas0 #03710_10
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 1598
+        width: 118
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25c6f9e61a1baa300800000000000000
+      internalID: 264218835058388050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moss Charger - atlas0 #03710_11
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 1871
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 822b315b38fabb1c0800000000000000
+      internalID: -4486799623531023832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moss Charger - atlas0 #03710_12
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 1818
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf0ab5654609bb270800000000000000
+      internalID: 8267360301588652283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moss Charger - atlas0 #03710_13
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 1833
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 752f9050c99fb42c0800000000000000
+      internalID: -4446185758603480489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moss Charger - atlas0 #03710_14
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 1819
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 840f333276aaa9380800000000000000
+      internalID: -8963664748378591160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moss Charger - atlas0 #03710_15
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 1781
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdda4cd2bc700dc50800000000000000
+      internalID: 6687854015872806367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moss Charger - atlas0 #03710_16
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 1794
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 815b1930cc181c170800000000000000
+      internalID: 8196975510024205592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moss Charger - atlas0 #03710_17
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 1386
+        width: 113
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c610b05439ca659a0800000000000000
+      internalID: -6244614084784094868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moss Charger - atlas0 #03710_18
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 1280
+        width: 115
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3347456672cea2d0800000000000000
+      internalID: -3265458866035932357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moss Charger - atlas0 #03710_19
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 1211
+        width: 295
+        height: 578
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e2904bcd342f2270800000000000000
+      internalID: 8227834892050797282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moss Charger - atlas0 #03710_20
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 1270
+        width: 246
+        height: 513
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80ff48c3511ea0c20800000000000000
+      internalID: 3173596368761847560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moss Charger - atlas0 #03710_21
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 1317
+        width: 189
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c659b68e712dae10800000000000000
+      internalID: 2210459819418670784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moss Charger - atlas0 #03710_22
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 1248
+        width: 111
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cba60fea99881bc0800000000000000
+      internalID: -3812145786040964160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moss Charger - atlas0 #03710_23
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 1259
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8c1ca17ea4a2e520800000000000000
+      internalID: 2729925393278311565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moss Charger - atlas0 #03710_24
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 1284
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2daa14d986765f650800000000000000
+      internalID: 6266028155568499410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moss Charger - atlas0 #03710_25
+      rect:
+        serializedVersion: 2
+        x: 955
+        y: 1287
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8951f9c7041f02780800000000000000
+      internalID: -8709696420063537768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moss Charger - atlas0 #03710_26
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 1168
+        width: 116
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79bc61475806ab7c0800000000000000
+      internalID: -4054822388199142505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moss Charger - atlas0 #03710_27
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 1245
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 994cd1c376edcabe0800000000000000
+      internalID: -1464551243830672231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moss Charger - atlas0 #03710_28
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 1230
+        width: 30
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13577339b619567c0800000000000000
+      internalID: -4078693996296702671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moss Charger - atlas0 #03710_29
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 1248
+        width: 29
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4f37eaf96fbceca0800000000000000
+      internalID: -5986199342780301494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moss Charger - atlas0 #03710_30
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 1246
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f430531c19314e60800000000000000
+      internalID: 7944694010404156660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moss Charger - atlas0 #03710_31
+      rect:
+        serializedVersion: 2
+        x: 951
+        y: 1249
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36528647305411630800000000000000
+      internalID: 3895971033792390499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moss Charger - atlas0 #03710_32
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 1033
+        width: 90
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b144d2fcfb2306280800000000000000
+      internalID: -9052179451618704357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moss Charger - atlas0 #03710_33
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 1208
+        width: 30
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef75ba2f02d6dcd20800000000000000
+      internalID: 3300414090210138110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moss Charger - atlas0 #03710_34
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 1214
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b6f5b3df2f6fa840800000000000000
+      internalID: 5237527142861239992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moss Charger - atlas0 #03710_35
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 1214
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c089c11ae3eccd290800000000000000
+      internalID: -7864184080909428724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moss Charger - atlas0 #03710_36
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 1199
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c1fe3823db479370800000000000000
+      internalID: 8329209406130418119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moss Charger - atlas0 #03710_37
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 1223
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b46b4affe37f85ec0800000000000000
+      internalID: -3577838053996841397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moss Charger - atlas0 #03710_38
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 856
+        width: 318
+        height: 344
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94d1b7b238feb5eb0800000000000000
+      internalID: -4729923636973331127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moss Charger - atlas0 #03710_39
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 860
+        width: 204
+        height: 353
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a695d36a940e8990800000000000000
+      internalID: -7381957678067247449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moss Charger - atlas0 #03710_40
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 1200
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7f79b8f7941c1340800000000000000
+      internalID: 4835762742834593663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moss Charger - atlas0 #03710_41
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 1188
+        width: 30
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00ebcee2616eb9c10800000000000000
+      internalID: 2061494237403069952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moss Charger - atlas0 #03710_42
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 1197
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53787e711f6520f70800000000000000
+      internalID: 9151972986258425653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moss Charger - atlas0 #03710_43
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 1200
+        width: 22
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fddbb96848067f330800000000000000
+      internalID: 3744567737492159967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moss Charger - atlas0 #03710_44
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 1197
+        width: 30
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19d669942eaeab430800000000000000
+      internalID: 3799607493258538385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moss Charger - atlas0 #03710_45
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 1179
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 247596a6ca98f0980800000000000000
+      internalID: -8570480192250095806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moss Charger - atlas0 #03710_46
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 1171
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eca06c6f007d78e50800000000000000
+      internalID: 6811649360561310414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moss Charger - atlas0 #03710_47
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 1192
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c00c26fc11d78d30800000000000000
+      internalID: 4433742280488911043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moss Charger - atlas0 #03710_48
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 1164
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95f6101db5c635d40800000000000000
+      internalID: 5571916305591791449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moss Charger - atlas0 #03710_49
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 1178
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f58a8243fa259d7e0800000000000000
+      internalID: -1740268868554151841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moss Charger - atlas0 #03710_50
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 1154
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10ee17c6481e3cae0800000000000000
+      internalID: -1530131489504498175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moss Charger - atlas0 #03710_51
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 1175
+        width: 27
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e6de57588c3dbb80800000000000000
+      internalID: -8377473175560202523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moss Charger - atlas0 #03710_52
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 1057
+        width: 118
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25feefded7845eb50800000000000000
+      internalID: 6621778532819201874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moss Charger - atlas0 #03710_53
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 1154
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 169e1304b7d64a020800000000000000
+      internalID: 2352125281519659361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moss Charger - atlas0 #03710_54
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 1129
+        width: 31
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a71ae76d229cc7c0800000000000000
+      internalID: -4049701241198340185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moss Charger - atlas0 #03710_55
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 1125
+        width: 30
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 961bd05033a33b590800000000000000
+      internalID: -7659714550424555159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moss Charger - atlas0 #03710_56
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 1114
+        width: 16
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89909029ab91b8df0800000000000000
+      internalID: -177019471246325352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moss Charger - atlas0 #03710_57
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 1124
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 722bb9e7e36c635c0800000000000000
+      internalID: -4235980427780967897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moss Charger - atlas0 #03710_58
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 1106
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ee3a6b33fa89d700800000000000000
+      internalID: 565636005490212578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moss Charger - atlas0 #03710_59
+      rect:
+        serializedVersion: 2
+        x: 956
+        y: 1126
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 315209958010ceeb0800000000000000
+      internalID: -4689371976625543917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moss Charger - atlas0 #03710_60
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 1091
+        width: 31
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc6245607e01c1930800000000000000
+      internalID: 4115182743939458763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moss Charger - atlas0 #03710_61
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 1093
+        width: 35
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e86a8a1f48f9fd90800000000000000
+      internalID: -7063341521922529047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moss Charger - atlas0 #03710_62
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 1078
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bc39304266b1f750800000000000000
+      internalID: 6337046683787541684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moss Charger - atlas0 #03710_63
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 1089
+        width: 13
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d248465ab87c0650800000000000000
+      internalID: 6200463528689156824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moss Charger - atlas0 #03710_64
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 1054
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8d917d1f9cbda0a0800000000000000
+      internalID: -6868626465090331249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moss Charger - atlas0 #03710_65
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 1065
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69b0666da80168150800000000000000
+      internalID: 5874400952439933846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moss Charger - atlas0 #03710_66
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 1077
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d7124e35833fcbf0800000000000000
+      internalID: -301966002642348080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moss Charger - atlas0 #03710_67
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 978
+        width: 116
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbb5238d9e4692a30800000000000000
+      internalID: 4190991883762293695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moss Charger - atlas0 #03710_68
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 1040
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 241c432064ea040f0800000000000000
+      internalID: -1134715490389409470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moss Charger - atlas0 #03710_69
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 919
+        width: 83
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30126458d28c35c00800000000000000
+      internalID: 888273649357168899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moss Charger - atlas0 #03710_70
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 989
+        width: 15
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef7f62e217a570110800000000000000
+      internalID: 1227048865633859582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moss Charger - atlas0 #03710_71
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 1016
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5d416416526fb6f0800000000000000
+      internalID: -666706097978913444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moss Charger - atlas0 #03710_72
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 1007
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e57d22a106bdc190800000000000000
+      internalID: -7940490449852205595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moss Charger - atlas0 #03710_73
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 1004
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb6a770c96f59ed20800000000000000
+      internalID: 3308280309085611707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moss Charger - atlas0 #03710_74
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 987
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94c669b3d4a86eba0800000000000000
+      internalID: -6060004184263594935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moss Charger - atlas0 #03710_75
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 963
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d235b91c16450aa00800000000000000
+      internalID: 765704715489727277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moss Charger - atlas0 #03710_76
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 980
+        width: 30
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86d92bedde7dd2d70800000000000000
+      internalID: 9020103045336440168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moss Charger - atlas0 #03710_77
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 984
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e564014f079afe5c0800000000000000
+      internalID: -4183939226207762850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moss Charger - atlas0 #03710_78
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 963
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1317d04fea6473910800000000000000
+      internalID: 1816998691900059953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moss Charger - atlas0 #03710_79
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 975
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8065d95c752e383b0800000000000000
+      internalID: -5511312652365900280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moss Charger - atlas0 #03710_80
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 865
+        width: 94
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 753182a0bc96c0b10800000000000000
+      internalID: 1949049059514258263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moss Charger - atlas0 #03710_81
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 517
+        width: 221
+        height: 341
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d9c3af6a9b4e7060800000000000000
+      internalID: 6953078001376676313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moss Charger - atlas0 #03710_82
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 522
+        width: 327
+        height: 386
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 789f299d013c5c190800000000000000
+      internalID: -7942727890660820601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moss Charger - atlas0 #03710_83
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 843
+        width: 67
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73257e7c7e0b09540800000000000000
+      internalID: 5012700894801121847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moss Charger - atlas0 #03710_84
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 706
+        width: 82
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54d1f6d276694b000800000000000000
+      internalID: 50830865695972677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moss Charger - atlas0 #03710_85
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 729
+        width: 311
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0f6da073fb8e6610800000000000000
+      internalID: 1616383193956314891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moss Charger - atlas0 #03710_86
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 748
+        width: 91
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0708ad8fd3eafe2a0800000000000000
+      internalID: -6705949738940071824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moss Charger - atlas0 #03710_87
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 517
+        width: 111
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1781c91ce3db7b6b0800000000000000
+      internalID: -5280543960834762639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moss Charger - atlas0 #03710_88
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 648
+        width: 77
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3357181109dce5e0800000000000000
+      internalID: -1878888345797962947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moss Charger - atlas0 #03710_89
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 698
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28e08de0a797993a0800000000000000
+      internalID: -6658157008948556158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moss Charger - atlas0 #03710_90
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 250
+        width: 384
+        height: 481
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faa27b69095fd81f0800000000000000
+      internalID: -1040905937500034385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moss Charger - atlas0 #03710_91
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 630
+        width: 93
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f4976c09355439a0800000000000000
+      internalID: -6254280279001164557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moss Charger - atlas0 #03710_92
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 632
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f577bd84cf50418c0800000000000000
+      internalID: -4029589185477511329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moss Charger - atlas0 #03710_93
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 620
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 771d8b49224226a70800000000000000
+      internalID: 8818650751287480695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moss Charger - atlas0 #03710_94
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 564
+        width: 71
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae0f024f082d05190800000000000000
+      internalID: -7975643488779702038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moss Charger - atlas0 #03710_95
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 616
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04180aabe51000a40800000000000000
+      internalID: 5332263465176301888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moss Charger - atlas0 #03710_96
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 549
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4f10e7cee39eba30800000000000000
+      internalID: 4232983353539698506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moss Charger - atlas0 #03710_97
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 547
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e5ffe154d354a3e0800000000000000
+      internalID: -2043416159546509853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moss Charger - atlas0 #03710_98
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 256
+        width: 304
+        height: 271
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04d486e6e789c8460800000000000000
+      internalID: 7245333569317915968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moss Charger - atlas0 #03710_99
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 526
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0a7cf35bcc7d22b0800000000000000
+      internalID: -5607688748277138933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moss Charger - atlas0 #03710_100
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 265
+        width: 304
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d5ca1b4109917e90800000000000000
+      internalID: -7029669312514570791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moss Charger - atlas0 #03710_101
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 247
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 457127dc6510e3bb0800000000000000
+      internalID: -4954521067735345324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moss Charger - atlas0 #03710_102
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 240
+        width: 30
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 765fa83de8a605a40800000000000000
+      internalID: 5354897118610519399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moss Charger - atlas0 #03710_103
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 238
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f675e453afc79d540800000000000000
+      internalID: 5033191472641234799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moss Charger - atlas0 #03710_104
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 235
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88bc9823fccf162c0800000000000000
+      internalID: -4439989790774277240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moss Charger - atlas0 #03710_105
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 234
+        width: 33
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12f40c54da38b4820800000000000000
+      internalID: 2903559164993228577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moss Charger - atlas0 #03710_106
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 227
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7e1516e8c602e760800000000000000
+      internalID: 7485552990566555258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moss Charger - atlas0 #03710_107
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 236
+        width: 23
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc9da080dcd252f00800000000000000
+      internalID: 1091328843333687759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moss Charger - atlas0 #03710_108
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 235
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58318e8bdc82f9260800000000000000
+      internalID: 7106443601049555845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moss Charger - atlas0 #03710_109
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 222
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c1e465e005b7e2c0800000000000000
+      internalID: -4402351095278149178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moss Charger - atlas0 #03710_110
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 225
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b2afcb8e63a48780800000000000000
+      internalID: -8681634486476102988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moss Charger - atlas0 #03710_111
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 230
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e8343fe45572d9c0800000000000000
+      internalID: -3903928919325919008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moss Charger - atlas0 #03710_112
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 216
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5a154b73fdae6840800000000000000
+      internalID: 5219300279425768027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moss Charger - atlas0 #03710_113
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 226
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2674d3b09760dbe90800000000000000
+      internalID: -7008438328169248926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moss Charger - atlas0 #03710_114
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 216
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b58774bf7b7e62100800000000000000
+      internalID: 83008420533729371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moss Charger - atlas0 #03710_115
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 204
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0af0ff44240934340800000000000000
+      internalID: 4846876238280593312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moss Charger - atlas0 #03710_116
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 212
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2e439cde7c882770800000000000000
+      internalID: 8586267166076259882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moss Charger - atlas0 #03710_117
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 170
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b045b75f89f3a5a0800000000000000
+      internalID: -6511086242200469323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moss Charger - atlas0 #03710_118
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 199
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 596b1ec9d3c4f4510800000000000000
+      internalID: 1535529825465382549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moss Charger - atlas0 #03710_119
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 185
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1869af3578b7c550800000000000000
+      internalID: 6181111827308046364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moss Charger - atlas0 #03710_120
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 197
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a1a85ec4d3b155e0800000000000000
+      internalID: -1922557839334137434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moss Charger - atlas0 #03710_121
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 187
+        width: 26
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f84e92a2095770910800000000000000
+      internalID: 1803539437828301967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moss Charger - atlas0 #03710_122
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 191
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a24763dbe4e175a50800000000000000
+      internalID: 6509705109918086186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moss Charger - atlas0 #03710_123
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 176
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53ce0f07ea0fd0180800000000000000
+      internalID: -9147390636109796299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moss Charger - atlas0 #03710_124
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 167
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd888b0197af2d0c0800000000000000
+      internalID: -4552300875439634209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moss Charger - atlas0 #03710_125
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 155
+        width: 29
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccd770a76b63df960800000000000000
+      internalID: 7637320700449488332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moss Charger - atlas0 #03710_126
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 160
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ec48e4bb4fd73340800000000000000
+      internalID: 4843585440510921960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moss Charger - atlas0 #03710_127
+      rect:
+        serializedVersion: 2
+        x: 941
+        y: 160
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1087e6e0eaada5c50800000000000000
+      internalID: 6654871840494614529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moss Charger - atlas0 #03710_128
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 157
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cd83c01fb27831f0800000000000000
+      internalID: -1064975146927551038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moss Charger - atlas0 #03710_129
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 147
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a5efca931dd0fff0800000000000000
+      internalID: -4260523355937373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moss Charger - atlas0 #03710_130
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 146
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f2eeb545ce10abb0800000000000000
+      internalID: -4926904159715794192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moss Charger - atlas0 #03710_131
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 156
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd5c009d2d927f0d0800000000000000
+      internalID: -3389194209012431396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moss Charger - atlas0 #03710_132
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 108
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f2bfd33fc3867ee0800000000000000
+      internalID: -1263677719479078160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moss Charger - atlas0 #03710_133
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 89
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f81eea042e3aee90800000000000000
+      internalID: -6995710746643523340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moss Charger - atlas0 #03710_134
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 96
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b69939732dbb7be40800000000000000
+      internalID: 5672208767246375275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moss Charger - atlas0 #03710_135
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 100
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fdc1d339af666d30800000000000000
+      internalID: 4424346456447634928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moss Charger - atlas0 #03710_136
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 105
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8444a779735b4fd10800000000000000
+      internalID: 2158549371786511432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moss Charger - atlas0 #03710_137
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 80
+        width: 13
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95a7fa9773e731d40800000000000000
+      internalID: 5553921542207797849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moss Charger - atlas0 #03710_138
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 94
+        width: 20
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27daa2e2092ef05f0800000000000000
+      internalID: -788162300888830606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moss Charger - atlas0 #03710_139
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 79
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99c051f94059ebde0800000000000000
+      internalID: -1315450194064241511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moss Charger - atlas0 #03710_140
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 81
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0359592d65234f550800000000000000
+      internalID: 6193630736022869296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moss Charger - atlas0 #03710_141
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 85
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 468c2a1e4d99e20e0800000000000000
+      internalID: -2292726020687345564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moss Charger - atlas0 #03710_142
+      rect:
+        serializedVersion: 2
+        x: 971
+        y: 76
+        width: 41
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da8749cffb30b6d00800000000000000
+      internalID: 966870668112328877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moss Charger - atlas0 #03710_143
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 65
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f363afedb5808600800000000000000
+      internalID: 468521412062307315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moss Charger - atlas0 #03710_144
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 58
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02b88fca512061be0800000000000000
+      internalID: -1507014733189313760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moss Charger - atlas0 #03710_145
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 42
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcf3b6bdb245d17d0800000000000000
+      internalID: -2946106033888870453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moss Charger - atlas0 #03710_146
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 55
+        width: 27
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7d2b34538dbb9870800000000000000
+      internalID: 8690748277693033854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moss Charger - atlas0 #03710_147
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 29
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cac0c1c0802b8c380800000000000000
+      internalID: -8950708511766213460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moss Charger - atlas0 #03710_148
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 33
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c1736d70af697530800000000000000
+      internalID: 3853233691281289667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moss Charger - atlas0 #03710_149
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 21
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e4febf2a51aa90e0800000000000000
+      internalID: -2262318454080080668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moss Charger - atlas0 #03710_150
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 14
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 016c12cef5b036ce0800000000000000
+      internalID: -1413273351452768752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moss Charger - atlas0 #03710_151
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 30
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 300d4b6d52f929e50800000000000000
+      internalID: 6814684171029762051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moss Charger - atlas0 #03710_152
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 39
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24eae826fde20e510800000000000000
+      internalID: 1576311406545776194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moss Charger - atlas0 #03710_153
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 22
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fa9e6e8515c0bd30800000000000000
+      internalID: 4445269528589277939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moss Charger - atlas0 #03710_154
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 10
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47c8f75094b3ef0e0800000000000000
+      internalID: -2234283180318290828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moss Charger - atlas0 #03710_155
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 11
+        width: 30
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 094ba78d7b9fe8340800000000000000
+      internalID: 4868102815240336528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moss Charger - atlas0 #03710_156
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 24
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4964453dc3bbe0c0800000000000000
+      internalID: -4545341704957040306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moss Charger - atlas0 #03710_157
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 7
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b41b3f38cf325be10800000000000000
+      internalID: 2212714359374983499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moss Charger - atlas0 #03710_158
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 9
+        width: 21
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfce4c5e9a5f5b960800000000000000
+      internalID: 7617264454820228347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moss Charger - atlas0 #03710_159
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 0
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bccdeca385ee64990800000000000000
+      internalID: -7401966874825663285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moss Charger - atlas0 #03710_160
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 0
+        width: 25
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 420ac4bc1a460b100800000000000000
+      internalID: 121707836002312228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moss Charger - atlas0 #03710_161
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 0
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebee1b238fad01560800000000000000
+      internalID: 7282561356995358398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moss Charger - atlas0 #03710_162
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 0
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a8299fb185121d40800000000000000
+      internalID: 5553524937510693028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moss Charger - atlas0 #03710_163
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 0
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1f66d0fdad3dbf00800000000000000
+      internalID: 1134130498446454557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Moss Charger - atlas0 #03710_0: 1525228315836345831
+      Moss Charger - atlas0 #03710_1: -6783273317567874251
+      Moss Charger - atlas0 #03710_10: 264218835058388050
+      Moss Charger - atlas0 #03710_100: -7029669312514570791
+      Moss Charger - atlas0 #03710_101: -4954521067735345324
+      Moss Charger - atlas0 #03710_102: 5354897118610519399
+      Moss Charger - atlas0 #03710_103: 5033191472641234799
+      Moss Charger - atlas0 #03710_104: -4439989790774277240
+      Moss Charger - atlas0 #03710_105: 2903559164993228577
+      Moss Charger - atlas0 #03710_106: 7485552990566555258
+      Moss Charger - atlas0 #03710_107: 1091328843333687759
+      Moss Charger - atlas0 #03710_108: 7106443601049555845
+      Moss Charger - atlas0 #03710_109: -4402351095278149178
+      Moss Charger - atlas0 #03710_11: -4486799623531023832
+      Moss Charger - atlas0 #03710_110: -8681634486476102988
+      Moss Charger - atlas0 #03710_111: -3903928919325919008
+      Moss Charger - atlas0 #03710_112: 5219300279425768027
+      Moss Charger - atlas0 #03710_113: -7008438328169248926
+      Moss Charger - atlas0 #03710_114: 83008420533729371
+      Moss Charger - atlas0 #03710_115: 4846876238280593312
+      Moss Charger - atlas0 #03710_116: 8586267166076259882
+      Moss Charger - atlas0 #03710_117: -6511086242200469323
+      Moss Charger - atlas0 #03710_118: 1535529825465382549
+      Moss Charger - atlas0 #03710_119: 6181111827308046364
+      Moss Charger - atlas0 #03710_12: 8267360301588652283
+      Moss Charger - atlas0 #03710_120: -1922557839334137434
+      Moss Charger - atlas0 #03710_121: 1803539437828301967
+      Moss Charger - atlas0 #03710_122: 6509705109918086186
+      Moss Charger - atlas0 #03710_123: -9147390636109796299
+      Moss Charger - atlas0 #03710_124: -4552300875439634209
+      Moss Charger - atlas0 #03710_125: 7637320700449488332
+      Moss Charger - atlas0 #03710_126: 4843585440510921960
+      Moss Charger - atlas0 #03710_127: 6654871840494614529
+      Moss Charger - atlas0 #03710_128: -1064975146927551038
+      Moss Charger - atlas0 #03710_129: -4260523355937373
+      Moss Charger - atlas0 #03710_13: -4446185758603480489
+      Moss Charger - atlas0 #03710_130: -4926904159715794192
+      Moss Charger - atlas0 #03710_131: -3389194209012431396
+      Moss Charger - atlas0 #03710_132: -1263677719479078160
+      Moss Charger - atlas0 #03710_133: -6995710746643523340
+      Moss Charger - atlas0 #03710_134: 5672208767246375275
+      Moss Charger - atlas0 #03710_135: 4424346456447634928
+      Moss Charger - atlas0 #03710_136: 2158549371786511432
+      Moss Charger - atlas0 #03710_137: 5553921542207797849
+      Moss Charger - atlas0 #03710_138: -788162300888830606
+      Moss Charger - atlas0 #03710_139: -1315450194064241511
+      Moss Charger - atlas0 #03710_14: -8963664748378591160
+      Moss Charger - atlas0 #03710_140: 6193630736022869296
+      Moss Charger - atlas0 #03710_141: -2292726020687345564
+      Moss Charger - atlas0 #03710_142: 966870668112328877
+      Moss Charger - atlas0 #03710_143: 468521412062307315
+      Moss Charger - atlas0 #03710_144: -1507014733189313760
+      Moss Charger - atlas0 #03710_145: -2946106033888870453
+      Moss Charger - atlas0 #03710_146: 8690748277693033854
+      Moss Charger - atlas0 #03710_147: -8950708511766213460
+      Moss Charger - atlas0 #03710_148: 3853233691281289667
+      Moss Charger - atlas0 #03710_149: -2262318454080080668
+      Moss Charger - atlas0 #03710_15: 6687854015872806367
+      Moss Charger - atlas0 #03710_150: -1413273351452768752
+      Moss Charger - atlas0 #03710_151: 6814684171029762051
+      Moss Charger - atlas0 #03710_152: 1576311406545776194
+      Moss Charger - atlas0 #03710_153: 4445269528589277939
+      Moss Charger - atlas0 #03710_154: -2234283180318290828
+      Moss Charger - atlas0 #03710_155: 4868102815240336528
+      Moss Charger - atlas0 #03710_156: -4545341704957040306
+      Moss Charger - atlas0 #03710_157: 2212714359374983499
+      Moss Charger - atlas0 #03710_158: 7617264454820228347
+      Moss Charger - atlas0 #03710_159: -7401966874825663285
+      Moss Charger - atlas0 #03710_16: 8196975510024205592
+      Moss Charger - atlas0 #03710_160: 121707836002312228
+      Moss Charger - atlas0 #03710_161: 7282561356995358398
+      Moss Charger - atlas0 #03710_162: 5553524937510693028
+      Moss Charger - atlas0 #03710_163: 1134130498446454557
+      Moss Charger - atlas0 #03710_17: -6244614084784094868
+      Moss Charger - atlas0 #03710_18: -3265458866035932357
+      Moss Charger - atlas0 #03710_19: 8227834892050797282
+      Moss Charger - atlas0 #03710_2: 286968213127288188
+      Moss Charger - atlas0 #03710_20: 3173596368761847560
+      Moss Charger - atlas0 #03710_21: 2210459819418670784
+      Moss Charger - atlas0 #03710_22: -3812145786040964160
+      Moss Charger - atlas0 #03710_23: 2729925393278311565
+      Moss Charger - atlas0 #03710_24: 6266028155568499410
+      Moss Charger - atlas0 #03710_25: -8709696420063537768
+      Moss Charger - atlas0 #03710_26: -4054822388199142505
+      Moss Charger - atlas0 #03710_27: -1464551243830672231
+      Moss Charger - atlas0 #03710_28: -4078693996296702671
+      Moss Charger - atlas0 #03710_29: -5986199342780301494
+      Moss Charger - atlas0 #03710_3: 7565980312511405307
+      Moss Charger - atlas0 #03710_30: 7944694010404156660
+      Moss Charger - atlas0 #03710_31: 3895971033792390499
+      Moss Charger - atlas0 #03710_32: -9052179451618704357
+      Moss Charger - atlas0 #03710_33: 3300414090210138110
+      Moss Charger - atlas0 #03710_34: 5237527142861239992
+      Moss Charger - atlas0 #03710_35: -7864184080909428724
+      Moss Charger - atlas0 #03710_36: 8329209406130418119
+      Moss Charger - atlas0 #03710_37: -3577838053996841397
+      Moss Charger - atlas0 #03710_38: -4729923636973331127
+      Moss Charger - atlas0 #03710_39: -7381957678067247449
+      Moss Charger - atlas0 #03710_4: -7238079247454947812
+      Moss Charger - atlas0 #03710_40: 4835762742834593663
+      Moss Charger - atlas0 #03710_41: 2061494237403069952
+      Moss Charger - atlas0 #03710_42: 9151972986258425653
+      Moss Charger - atlas0 #03710_43: 3744567737492159967
+      Moss Charger - atlas0 #03710_44: 3799607493258538385
+      Moss Charger - atlas0 #03710_45: -8570480192250095806
+      Moss Charger - atlas0 #03710_46: 6811649360561310414
+      Moss Charger - atlas0 #03710_47: 4433742280488911043
+      Moss Charger - atlas0 #03710_48: 5571916305591791449
+      Moss Charger - atlas0 #03710_49: -1740268868554151841
+      Moss Charger - atlas0 #03710_5: -2691132525679831584
+      Moss Charger - atlas0 #03710_50: -1530131489504498175
+      Moss Charger - atlas0 #03710_51: -8377473175560202523
+      Moss Charger - atlas0 #03710_52: 6621778532819201874
+      Moss Charger - atlas0 #03710_53: 2352125281519659361
+      Moss Charger - atlas0 #03710_54: -4049701241198340185
+      Moss Charger - atlas0 #03710_55: -7659714550424555159
+      Moss Charger - atlas0 #03710_56: -177019471246325352
+      Moss Charger - atlas0 #03710_57: -4235980427780967897
+      Moss Charger - atlas0 #03710_58: 565636005490212578
+      Moss Charger - atlas0 #03710_59: -4689371976625543917
+      Moss Charger - atlas0 #03710_6: 8245689701285412674
+      Moss Charger - atlas0 #03710_60: 4115182743939458763
+      Moss Charger - atlas0 #03710_61: -7063341521922529047
+      Moss Charger - atlas0 #03710_62: 6337046683787541684
+      Moss Charger - atlas0 #03710_63: 6200463528689156824
+      Moss Charger - atlas0 #03710_64: -6868626465090331249
+      Moss Charger - atlas0 #03710_65: 5874400952439933846
+      Moss Charger - atlas0 #03710_66: -301966002642348080
+      Moss Charger - atlas0 #03710_67: 4190991883762293695
+      Moss Charger - atlas0 #03710_68: -1134715490389409470
+      Moss Charger - atlas0 #03710_69: 888273649357168899
+      Moss Charger - atlas0 #03710_7: 8832294895687563582
+      Moss Charger - atlas0 #03710_70: 1227048865633859582
+      Moss Charger - atlas0 #03710_71: -666706097978913444
+      Moss Charger - atlas0 #03710_72: -7940490449852205595
+      Moss Charger - atlas0 #03710_73: 3308280309085611707
+      Moss Charger - atlas0 #03710_74: -6060004184263594935
+      Moss Charger - atlas0 #03710_75: 765704715489727277
+      Moss Charger - atlas0 #03710_76: 9020103045336440168
+      Moss Charger - atlas0 #03710_77: -4183939226207762850
+      Moss Charger - atlas0 #03710_78: 1816998691900059953
+      Moss Charger - atlas0 #03710_79: -5511312652365900280
+      Moss Charger - atlas0 #03710_8: 8575785285241128604
+      Moss Charger - atlas0 #03710_80: 1949049059514258263
+      Moss Charger - atlas0 #03710_81: 6953078001376676313
+      Moss Charger - atlas0 #03710_82: -7942727890660820601
+      Moss Charger - atlas0 #03710_83: 5012700894801121847
+      Moss Charger - atlas0 #03710_84: 50830865695972677
+      Moss Charger - atlas0 #03710_85: 1616383193956314891
+      Moss Charger - atlas0 #03710_86: -6705949738940071824
+      Moss Charger - atlas0 #03710_87: -5280543960834762639
+      Moss Charger - atlas0 #03710_88: -1878888345797962947
+      Moss Charger - atlas0 #03710_89: -6658157008948556158
+      Moss Charger - atlas0 #03710_9: 1831386796560944022
+      Moss Charger - atlas0 #03710_90: -1040905937500034385
+      Moss Charger - atlas0 #03710_91: -6254280279001164557
+      Moss Charger - atlas0 #03710_92: -4029589185477511329
+      Moss Charger - atlas0 #03710_93: 8818650751287480695
+      Moss Charger - atlas0 #03710_94: -7975643488779702038
+      Moss Charger - atlas0 #03710_95: 5332263465176301888
+      Moss Charger - atlas0 #03710_96: 4232983353539698506
+      Moss Charger - atlas0 #03710_97: -2043416159546509853
+      Moss Charger - atlas0 #03710_98: 7245333569317915968
+      Moss Charger - atlas0 #03710_99: -5607688748277138933
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

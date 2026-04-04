@@ -1,0 +1,4666 @@
+fileFormatVersion: 2
+guid: 26d3a372784166940a78435edd3fb68d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7070754663209092391
+    second: Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur
+      - atlas0 #0330041_0
+  - first:
+      213: -8142923872251378587
+    second: Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur
+      - atlas0 #0330041_1
+  - first:
+      213: -4442976981109712935
+    second: Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur
+      - atlas0 #0330041_2
+  - first:
+      213: -52593312812873649
+    second: Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur
+      - atlas0 #0330041_3
+  - first:
+      213: -6811987460350827457
+    second: Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur
+      - atlas0 #0330041_4
+  - first:
+      213: -8192270939656927724
+    second: Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur
+      - atlas0 #0330041_5
+  - first:
+      213: 3493257445181413012
+    second: Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur
+      - atlas0 #0330041_6
+  - first:
+      213: -3028587980181677948
+    second: Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur
+      - atlas0 #0330041_7
+  - first:
+      213: -4144746342896033907
+    second: Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur
+      - atlas0 #0330041_8
+  - first:
+      213: -5821755367415946800
+    second: Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur
+      - atlas0 #0330041_9
+  - first:
+      213: 537383519351864184
+    second: Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur
+      - atlas0 #0330041_10
+  - first:
+      213: -5150800919824445284
+    second: Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur
+      - atlas0 #0330041_11
+  - first:
+      213: -8543144677610449877
+    second: Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur
+      - atlas0 #0330041_12
+  - first:
+      213: 5233830900884988062
+    second: Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur
+      - atlas0 #0330041_13
+  - first:
+      213: -168575775481673415
+    second: Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur
+      - atlas0 #0330041_14
+  - first:
+      213: 1186785439150251051
+    second: Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur
+      - atlas0 #0330041_15
+  - first:
+      213: 6344943969268393154
+    second: Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur
+      - atlas0 #0330041_16
+  - first:
+      213: 2999911435729407771
+    second: Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur
+      - atlas0 #0330041_17
+  - first:
+      213: 4174358338626415724
+    second: Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur
+      - atlas0 #0330041_18
+  - first:
+      213: 6300833504279702024
+    second: Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur
+      - atlas0 #0330041_19
+  - first:
+      213: 7292701974645441382
+    second: Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur
+      - atlas0 #0330041_20
+  - first:
+      213: -5482402313365995981
+    second: Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur
+      - atlas0 #0330041_21
+  - first:
+      213: -6601404569552214782
+    second: Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur
+      - atlas0 #0330041_22
+  - first:
+      213: 65274326782156511
+    second: Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur
+      - atlas0 #0330041_23
+  - first:
+      213: -276663856419474197
+    second: Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur
+      - atlas0 #0330041_24
+  - first:
+      213: 7748715586277078838
+    second: Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur
+      - atlas0 #0330041_25
+  - first:
+      213: 2176813162714694068
+    second: Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur
+      - atlas0 #0330041_26
+  - first:
+      213: -6635749776591332246
+    second: Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur
+      - atlas0 #0330041_27
+  - first:
+      213: 9129609217364118927
+    second: Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur
+      - atlas0 #0330041_28
+  - first:
+      213: 1921213625125949306
+    second: Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur
+      - atlas0 #0330041_29
+  - first:
+      213: -7339531057091000236
+    second: Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur
+      - atlas0 #0330041_30
+  - first:
+      213: 7353057882505168892
+    second: Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur
+      - atlas0 #0330041_31
+  - first:
+      213: -4489816552424144029
+    second: Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur
+      - atlas0 #0330041_32
+  - first:
+      213: 1684369464248269480
+    second: Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur
+      - atlas0 #0330041_33
+  - first:
+      213: -5199530955772239764
+    second: Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur
+      - atlas0 #0330041_34
+  - first:
+      213: 6859187587006371815
+    second: Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur
+      - atlas0 #0330041_35
+  - first:
+      213: -5848085238148816763
+    second: Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur
+      - atlas0 #0330041_36
+  - first:
+      213: -5477166948938161721
+    second: Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur
+      - atlas0 #0330041_37
+  - first:
+      213: -1517809705696913912
+    second: Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur
+      - atlas0 #0330041_38
+  - first:
+      213: -1717732795793899122
+    second: Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur
+      - atlas0 #0330041_39
+  - first:
+      213: -454872922867577545
+    second: Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur
+      - atlas0 #0330041_40
+  - first:
+      213: 5283274648405770032
+    second: Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur
+      - atlas0 #0330041_41
+  - first:
+      213: -435077076418048204
+    second: Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur
+      - atlas0 #0330041_42
+  - first:
+      213: -904687296789116445
+    second: Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur
+      - atlas0 #0330041_43
+  - first:
+      213: -3603266402381767698
+    second: Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur
+      - atlas0 #0330041_44
+  - first:
+      213: 4949788279177080246
+    second: Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur
+      - atlas0 #0330041_45
+  - first:
+      213: -6344945302246421437
+    second: Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur
+      - atlas0 #0330041_46
+  - first:
+      213: 3613263996350851083
+    second: Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur
+      - atlas0 #0330041_47
+  - first:
+      213: -3115413456561603949
+    second: Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur
+      - atlas0 #0330041_48
+  - first:
+      213: -2698741847587514398
+    second: Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur
+      - atlas0 #0330041_49
+  - first:
+      213: -4181012635571237972
+    second: Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur
+      - atlas0 #0330041_50
+  - first:
+      213: -3998846327852251284
+    second: Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur
+      - atlas0 #0330041_51
+  - first:
+      213: 9171847375862323734
+    second: Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur
+      - atlas0 #0330041_52
+  - first:
+      213: -5690536199451168603
+    second: Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur
+      - atlas0 #0330041_53
+  - first:
+      213: 6593929916215791200
+    second: Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur
+      - atlas0 #0330041_54
+  - first:
+      213: -2910205188082508668
+    second: Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur
+      - atlas0 #0330041_55
+  - first:
+      213: 3509827377051166857
+    second: Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur
+      - atlas0 #0330041_56
+  - first:
+      213: -8239082050083495603
+    second: Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur
+      - atlas0 #0330041_57
+  - first:
+      213: -4129858369058401276
+    second: Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur
+      - atlas0 #0330041_58
+  - first:
+      213: -2708424386898343937
+    second: Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur
+      - atlas0 #0330041_59
+  - first:
+      213: 2708240505595051575
+    second: Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur
+      - atlas0 #0330041_60
+  - first:
+      213: 7117725945799370274
+    second: Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur
+      - atlas0 #0330041_61
+  - first:
+      213: -8548879995900913489
+    second: Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur
+      - atlas0 #0330041_62
+  - first:
+      213: -6481578651023565378
+    second: Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur
+      - atlas0 #0330041_63
+  - first:
+      213: 8691504689413113783
+    second: Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur
+      - atlas0 #0330041_64
+  - first:
+      213: 2441885370949837165
+    second: Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur
+      - atlas0 #0330041_65
+  - first:
+      213: 5839455080093458720
+    second: Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur
+      - atlas0 #0330041_66
+  - first:
+      213: -317809641387233360
+    second: Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur
+      - atlas0 #0330041_67
+  - first:
+      213: -411157841616261443
+    second: Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur
+      - atlas0 #0330041_68
+  - first:
+      213: -4348836364677203390
+    second: Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur
+      - atlas0 #0330041_69
+  - first:
+      213: -5068216978153621239
+    second: Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur
+      - atlas0 #0330041_70
+  - first:
+      213: 7462661153428150329
+    second: Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur
+      - atlas0 #0330041_71
+  - first:
+      213: 1626900177712207884
+    second: Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur
+      - atlas0 #0330041_72
+  - first:
+      213: 4454789150777320953
+    second: Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur
+      - atlas0 #0330041_73
+  - first:
+      213: -7019304050006027944
+    second: Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur
+      - atlas0 #0330041_74
+  - first:
+      213: 1632586075317297491
+    second: Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur
+      - atlas0 #0330041_75
+  - first:
+      213: 7634533064280027240
+    second: Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur
+      - atlas0 #0330041_76
+  - first:
+      213: 1917661308087843259
+    second: Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur
+      - atlas0 #0330041_77
+  - first:
+      213: 6293733321997747409
+    second: Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur
+      - atlas0 #0330041_78
+  - first:
+      213: -3894215715235176336
+    second: Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur
+      - atlas0 #0330041_79
+  - first:
+      213: 5240535960676313944
+    second: Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur
+      - atlas0 #0330041_80
+  - first:
+      213: -4846703750933578788
+    second: Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur
+      - atlas0 #0330041_81
+  - first:
+      213: -2985862670913005096
+    second: Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur
+      - atlas0 #0330041_82
+  - first:
+      213: 2921206469755239266
+    second: Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur
+      - atlas0 #0330041_83
+  - first:
+      213: 2780281653527709555
+    second: Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur
+      - atlas0 #0330041_84
+  - first:
+      213: 6040516337081699624
+    second: Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur
+      - atlas0 #0330041_85
+  - first:
+      213: 3779215063746159702
+    second: Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur
+      - atlas0 #0330041_86
+  - first:
+      213: -1665802739899068865
+    second: Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur
+      - atlas0 #0330041_87
+  - first:
+      213: 8806798827525696054
+    second: Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur
+      - atlas0 #0330041_88
+  - first:
+      213: -1671578592016455583
+    second: Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur
+      - atlas0 #0330041_89
+  - first:
+      213: -8559611598827022230
+    second: Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur
+      - atlas0 #0330041_90
+  - first:
+      213: 2653962620256465201
+    second: Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur
+      - atlas0 #0330041_91
+  - first:
+      213: 5647970129112338978
+    second: Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur
+      - atlas0 #0330041_92
+  - first:
+      213: -2698146247095187304
+    second: Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur
+      - atlas0 #0330041_93
+  - first:
+      213: -715995764529963070
+    second: Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur
+      - atlas0 #0330041_94
+  - first:
+      213: 4499444084959715787
+    second: Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur
+      - atlas0 #0330041_95
+  - first:
+      213: 8291920562005243971
+    second: Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur
+      - atlas0 #0330041_96
+  - first:
+      213: 4952587048078160132
+    second: Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur
+      - atlas0 #0330041_97
+  - first:
+      213: -7298136529888702991
+    second: Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur
+      - atlas0 #0330041_98
+  - first:
+      213: -2325689289636092175
+    second: Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur
+      - atlas0 #0330041_99
+  - first:
+      213: -3554013038815892029
+    second: Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur
+      - atlas0 #0330041_100
+  - first:
+      213: 2918836777845460011
+    second: Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur
+      - atlas0 #0330041_101
+  - first:
+      213: -3940518874944498150
+    second: Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur
+      - atlas0 #0330041_102
+  - first:
+      213: -2846523676981504330
+    second: Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur
+      - atlas0 #0330041_103
+  - first:
+      213: 1906011170562217349
+    second: Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur
+      - atlas0 #0330041_104
+  - first:
+      213: 3347919466305925560
+    second: Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur
+      - atlas0 #0330041_105
+  - first:
+      213: -1232056863711203096
+    second: Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur
+      - atlas0 #0330041_106
+  - first:
+      213: -8490945645783990560
+    second: Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur
+      - atlas0 #0330041_107
+  - first:
+      213: 6796121098618883309
+    second: Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur
+      - atlas0 #0330041_108
+  - first:
+      213: -5678773087703984990
+    second: Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur
+      - atlas0 #0330041_109
+  - first:
+      213: 2258186500420369641
+    second: Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur
+      - atlas0 #0330041_110
+  - first:
+      213: 423260119130685989
+    second: Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur
+      - atlas0 #0330041_111
+  - first:
+      213: 3853959571422758520
+    second: Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur
+      - atlas0 #0330041_112
+  - first:
+      213: -6894763843200257571
+    second: Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur
+      - atlas0 #0330041_113
+  - first:
+      213: 6118401870038135519
+    second: Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur
+      - atlas0 #0330041_114
+  - first:
+      213: -6109927918739911529
+    second: Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur
+      - atlas0 #0330041_115
+  - first:
+      213: 6872741662857249955
+    second: Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur
+      - atlas0 #0330041_116
+  - first:
+      213: -2593240884404051618
+    second: Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur
+      - atlas0 #0330041_117
+  - first:
+      213: 4997367814346028858
+    second: Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur
+      - atlas0 #0330041_118
+  - first:
+      213: -232744121403955068
+    second: Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur
+      - atlas0 #0330041_119
+  - first:
+      213: -8616839623153472812
+    second: Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur
+      - atlas0 #0330041_120
+  - first:
+      213: 4746102491820787867
+    second: Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur
+      - atlas0 #0330041_121
+  - first:
+      213: 2301314664990756641
+    second: Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur
+      - atlas0 #0330041_122
+  - first:
+      213: 2472174538167244103
+    second: Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur
+      - atlas0 #0330041_123
+  - first:
+      213: -5665756507404675447
+    second: Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur
+      - atlas0 #0330041_124
+  - first:
+      213: 3319690484835450865
+    second: Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur
+      - atlas0 #0330041_125
+  - first:
+      213: -4960408975236427260
+    second: Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur
+      - atlas0 #0330041_126
+  - first:
+      213: -1903893931779677958
+    second: Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur
+      - atlas0 #0330041_127
+  - first:
+      213: 8026930490536556894
+    second: Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur
+      - atlas0 #0330041_128
+  - first:
+      213: -9059387879573349104
+    second: Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur
+      - atlas0 #0330041_129
+  - first:
+      213: -6604705032244762490
+    second: Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur
+      - atlas0 #0330041_130
+  - first:
+      213: -5050969580190798295
+    second: Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur
+      - atlas0 #0330041_131
+  - first:
+      213: -8516553879690466290
+    second: Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur
+      - atlas0 #0330041_132
+  - first:
+      213: 8344015379046967028
+    second: Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur
+      - atlas0 #0330041_133
+  - first:
+      213: -7356401564345497049
+    second: Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur
+      - atlas0 #0330041_134
+  - first:
+      213: -841909909680569455
+    second: Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur
+      - atlas0 #0330041_135
+  - first:
+      213: 1330344513880194043
+    second: Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur
+      - atlas0 #0330041_136
+  - first:
+      213: -481070263170513776
+    second: Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur
+      - atlas0 #0330041_137
+  - first:
+      213: 4703727053212980621
+    second: Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur
+      - atlas0 #0330041_138
+  - first:
+      213: -8193916130004124144
+    second: Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur
+      - atlas0 #0330041_139
+  - first:
+      213: 7207997195318222395
+    second: Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur
+      - atlas0 #0330041_140
+  - first:
+      213: 3819034600223376795
+    second: Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur
+      - atlas0 #0330041_141
+  - first:
+      213: 8334783066171357704
+    second: Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur
+      - atlas0 #0330041_142
+  - first:
+      213: -410290044118747027
+    second: Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur
+      - atlas0 #0330041_143
+  - first:
+      213: 3995893911692906897
+    second: Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur
+      - atlas0 #0330041_144
+  - first:
+      213: -534258526125207763
+    second: Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur
+      - atlas0 #0330041_145
+  - first:
+      213: -1138274776873629091
+    second: Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur
+      - atlas0 #0330041_146
+  - first:
+      213: -3378680966086593857
+    second: Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur
+      - atlas0 #0330041_147
+  - first:
+      213: -7044099189247617262
+    second: Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur
+      - atlas0 #0330041_148
+  - first:
+      213: -8372569612693632398
+    second: Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur
+      - atlas0 #0330041_149
+  - first:
+      213: 8714750509215354296
+    second: Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur
+      - atlas0 #0330041_150
+  - first:
+      213: 4779355114025044581
+    second: Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur
+      - atlas0 #0330041_151
+  - first:
+      213: 6290729819377118088
+    second: Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur
+      - atlas0 #0330041_152
+  - first:
+      213: 8236650848429123361
+    second: Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur
+      - atlas0 #0330041_153
+  - first:
+      213: -6610593562147535199
+    second: Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur
+      - atlas0 #0330041_154
+  - first:
+      213: -2684559828961834607
+    second: Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur
+      - atlas0 #0330041_155
+  - first:
+      213: 8715832082155468512
+    second: Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur
+      - atlas0 #0330041_156
+  - first:
+      213: -731680334028623420
+    second: Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur
+      - atlas0 #0330041_157
+  - first:
+      213: 6054099370911883246
+    second: Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur
+      - atlas0 #0330041_158
+  - first:
+      213: 8458701450641678097
+    second: Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur
+      - atlas0 #0330041_159
+  - first:
+      213: 4747538891926019416
+    second: Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur
+      - atlas0 #0330041_160
+  - first:
+      213: -7434920632084155315
+    second: Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur
+      - atlas0 #0330041_161
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur
+        - atlas0 #0330041_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3884
+        width: 201
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9da3c75a812afdd90800000000000000
+      internalID: -7070754663209092391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur
+        - atlas0 #0330041_1
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 3875
+        width: 543
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 564886991e58efe80800000000000000
+      internalID: -8142923872251378587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur
+        - atlas0 #0330041_2
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 3875
+        width: 151
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d7d7bfb9ff5752c0800000000000000
+      internalID: -4442976981109712935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur
+        - atlas0 #0330041_3
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 3859
+        width: 242
+        height: 237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f484a3029a6254ff0800000000000000
+      internalID: -52593312812873649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur
+        - atlas0 #0330041_4
+      rect:
+        serializedVersion: 2
+        x: 1129
+        y: 3854
+        width: 223
+        height: 237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f34af5b0f75f671a0800000000000000
+      internalID: -6811987460350827457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur
+        - atlas0 #0330041_5
+      rect:
+        serializedVersion: 2
+        x: 1241
+        y: 4072
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4164ef12cf43f4e80800000000000000
+      internalID: -8192270939656927724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur
+        - atlas0 #0330041_6
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 3847
+        width: 234
+        height: 249
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 496d609632b8a7030800000000000000
+      internalID: 3493257445181413012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur
+        - atlas0 #0330041_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3942
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 488d046374b48f5d0800000000000000
+      internalID: -3028587980181677948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur
+        - atlas0 #0330041_8
+      rect:
+        serializedVersion: 2
+        x: 1588
+        y: 3825
+        width: 214
+        height: 231
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8f15933927ea76c0800000000000000
+      internalID: -4144746342896033907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur
+        - atlas0 #0330041_9
+      rect:
+        serializedVersion: 2
+        x: 1578
+        y: 3926
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d1e2fb9658f43fa0800000000000000
+      internalID: -5821755367415946800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur
+        - atlas0 #0330041_10
+      rect:
+        serializedVersion: 2
+        x: 1582
+        y: 3901
+        width: 11
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87bfd13b67b257700800000000000000
+      internalID: 537383519351864184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur
+        - atlas0 #0330041_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3659
+        width: 207
+        height: 229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c90db118adda488b0800000000000000
+      internalID: -5150800919824445284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur
+        - atlas0 #0330041_12
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 3740
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b249242ed27a07980800000000000000
+      internalID: -8543144677610449877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur
+        - atlas0 #0330041_13
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 3699
+        width: 172
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9066bd697d42a840800000000000000
+      internalID: 5233830900884988062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur
+        - atlas0 #0330041_14
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 3699
+        width: 200
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 939cda0b93919adf0800000000000000
+      internalID: -168575775481673415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur
+        - atlas0 #0330041_15
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 3682
+        width: 149
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2c182da11f487010800000000000000
+      internalID: 1186785439150251051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur
+        - atlas0 #0330041_16
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 3665
+        width: 230
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c4efff4ce4cd0850800000000000000
+      internalID: 6344943969268393154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur
+        - atlas0 #0330041_17
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 3665
+        width: 159
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1f884c7e83d1a920800000000000000
+      internalID: 2999911435729407771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur
+        - atlas0 #0330041_18
+      rect:
+        serializedVersion: 2
+        x: 1151
+        y: 3687
+        width: 212
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6c6403dacc4ee930800000000000000
+      internalID: 4174358338626415724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur
+        - atlas0 #0330041_19
+      rect:
+        serializedVersion: 2
+        x: 1352
+        y: 3642
+        width: 243
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80aa87b50be017750800000000000000
+      internalID: 6300833504279702024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur
+        - atlas0 #0330041_20
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 3519
+        width: 252
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 663088bbec1e43560800000000000000
+      internalID: 7292701974645441382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur
+        - atlas0 #0330041_21
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 3692
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33e3a0c94289ae3b0800000000000000
+      internalID: -5482402313365995981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur
+        - atlas0 #0330041_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3438
+        width: 255
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 205233d05891364a0800000000000000
+      internalID: -6601404569552214782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur
+        - atlas0 #0330041_23
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3203
+        width: 506
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fde9dc487a6e7e000800000000000000
+      internalID: 65274326782156511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur
+        - atlas0 #0330041_24
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 3447
+        width: 252
+        height: 237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be47deb30b7192cf0800000000000000
+      internalID: -276663856419474197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur
+        - atlas0 #0330041_25
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 3428
+        width: 252
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 637f39175c7f88b60800000000000000
+      internalID: 7748715586277078838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur
+        - atlas0 #0330041_26
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 3506
+        width: 152
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b1010ac908953e10800000000000000
+      internalID: 2176813162714694068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur
+        - atlas0 #0330041_27
+      rect:
+        serializedVersion: 2
+        x: 1018
+        y: 3274
+        width: 258
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6c55e36cb419e3a0800000000000000
+      internalID: -6635749776591332246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur
+        - atlas0 #0330041_28
+      rect:
+        serializedVersion: 2
+        x: 1158
+        y: 3506
+        width: 184
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8dce136633e2be70800000000000000
+      internalID: 9129609217364118927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur
+        - atlas0 #0330041_29
+      rect:
+        serializedVersion: 2
+        x: 1340
+        y: 3497
+        width: 166
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7fc54fec9589aa10800000000000000
+      internalID: 1921213625125949306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur
+        - atlas0 #0330041_30
+      rect:
+        serializedVersion: 2
+        x: 1504
+        y: 3474
+        width: 112
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 458c42cd36fb42a90800000000000000
+      internalID: -7339531057091000236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur
+        - atlas0 #0330041_31
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 3204
+        width: 256
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf74b9b9f2f4b0660800000000000000
+      internalID: 7353057882505168892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur
+        - atlas0 #0330041_32
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 3443
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 363071632a7f0b1c0800000000000000
+      internalID: -4489816552424144029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur
+        - atlas0 #0330041_33
+      rect:
+        serializedVersion: 2
+        x: 1274
+        y: 3346
+        width: 141
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8aa78038a15106710800000000000000
+      internalID: 1684369464248269480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur
+        - atlas0 #0330041_34
+      rect:
+        serializedVersion: 2
+        x: 1413
+        y: 3349
+        width: 231
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c606c8ed42e87d7b0800000000000000
+      internalID: -5199530955772239764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur
+        - atlas0 #0330041_35
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 3174
+        width: 258
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e79843d4cab03f50800000000000000
+      internalID: 6859187587006371815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur
+        - atlas0 #0330041_36
+      rect:
+        serializedVersion: 2
+        x: 1274
+        y: 3115
+        width: 255
+        height: 237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5802febd57d67dea0800000000000000
+      internalID: -5848085238148816763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur
+        - atlas0 #0330041_37
+      rect:
+        serializedVersion: 2
+        x: 1501
+        y: 3346
+        width: 21
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c1e701eda13df3b0800000000000000
+      internalID: -5477166948938161721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur
+        - atlas0 #0330041_38
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 3063
+        width: 243
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8069b474d18afeae0800000000000000
+      internalID: -1517809705696913912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur
+        - atlas0 #0330041_39
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 2793
+        width: 266
+        height: 483
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e818aa78f136928e0800000000000000
+      internalID: -1717732795793899122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur
+        - atlas0 #0330041_40
+      rect:
+        serializedVersion: 2
+        x: 1527
+        y: 3170
+        width: 117
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73dc8869c77ffa9f0800000000000000
+      internalID: -454872922867577545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur
+        - atlas0 #0330041_41
+      rect:
+        serializedVersion: 2
+        x: 1642
+        y: 3170
+        width: 124
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03f7d0dfc46f15940800000000000000
+      internalID: 5283274648405770032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur
+        - atlas0 #0330041_42
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 3067
+        width: 224
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43fcf2244bb46f9f0800000000000000
+      internalID: -435077076418048204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur
+        - atlas0 #0330041_43
+      rect:
+        serializedVersion: 2
+        x: 1985
+        y: 3233
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e9831262b7e173f0800000000000000
+      internalID: -904687296789116445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur
+        - atlas0 #0330041_44
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2950
+        width: 256
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eeb5fe64c40aefdc0800000000000000
+      internalID: -3603266402381767698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur
+        - atlas0 #0330041_45
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 3119
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bdedbdf63e21b440800000000000000
+      internalID: 4949788279177080246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur
+        - atlas0 #0330041_46
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 3110
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34c81545dd932f7a0800000000000000
+      internalID: -6344945302246421437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur
+        - atlas0 #0330041_47
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 2958
+        width: 268
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b086336f574e42230800000000000000
+      internalID: 3613263996350851083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur
+        - atlas0 #0330041_48
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 2917
+        width: 248
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39a7c29a7f3d3c4d0800000000000000
+      internalID: -3115413456561603949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur
+        - atlas0 #0330041_49
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 2931
+        width: 242
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e7901296942c8ad0800000000000000
+      internalID: -2698741847587514398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur
+        - atlas0 #0330041_50
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 3093
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cab4b5fe82f0af5c0800000000000000
+      internalID: -4181012635571237972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur
+        - atlas0 #0330041_51
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 2915
+        width: 260
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c67cdfc937e3188c0800000000000000
+      internalID: -3998846327852251284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur
+        - atlas0 #0330041_52
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 2836
+        width: 223
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61a5f540892f84f70800000000000000
+      internalID: 9171847375862323734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur
+        - atlas0 #0330041_53
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 3061
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a03632f9772701b0800000000000000
+      internalID: -5690536199451168603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur
+        - atlas0 #0330041_54
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 3058
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06e0dd99258528b50800000000000000
+      internalID: 6593929916215791200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur
+        - atlas0 #0330041_55
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 3058
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48cd7d4eccfdc97d0800000000000000
+      internalID: -2910205188082508668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur
+        - atlas0 #0330041_56
+      rect:
+        serializedVersion: 2
+        x: 1758
+        y: 2819
+        width: 281
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9886310576965b030800000000000000
+      internalID: 3509827377051166857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur
+        - atlas0 #0330041_57
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2744
+        width: 273
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d41e9792786e8ad80800000000000000
+      internalID: -8239082050083495603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur
+        - atlas0 #0330041_58
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 2575
+        width: 503
+        height: 388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 404999bb1bbcfa6c0800000000000000
+      internalID: -4129858369058401276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur
+        - atlas0 #0330041_59
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 2672
+        width: 242
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff74be5be5eb96ad0800000000000000
+      internalID: -2708424386898343937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur
+        - atlas0 #0330041_60
+      rect:
+        serializedVersion: 2
+        x: 1268
+        y: 2897
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73e3156146a959520800000000000000
+      internalID: 2708240505595051575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur
+        - atlas0 #0330041_61
+      rect:
+        serializedVersion: 2
+        x: 1291
+        y: 2690
+        width: 263
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 226e3ff490e37c260800000000000000
+      internalID: 7117725945799370274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur
+        - atlas0 #0330041_62
+      rect:
+        serializedVersion: 2
+        x: 1552
+        y: 2717
+        width: 201
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa812e800f64c5980800000000000000
+      internalID: -8548879995900913489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur
+        - atlas0 #0330041_63
+      rect:
+        serializedVersion: 2
+        x: 1740
+        y: 2876
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebd1cf9ce8ecc06a0800000000000000
+      internalID: -6481578651023565378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur
+        - atlas0 #0330041_64
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2537
+        width: 263
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b74c18277d6e9870800000000000000
+      internalID: 8691504689413113783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur
+        - atlas0 #0330041_65
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 2448
+        width: 275
+        height: 249
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6120b5aec153e120800000000000000
+      internalID: 2441885370949837165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur
+        - atlas0 #0330041_66
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 2428
+        width: 241
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02122d2e479e90150800000000000000
+      internalID: 5839455080093458720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur
+        - atlas0 #0330041_67
+      rect:
+        serializedVersion: 2
+        x: 1019
+        y: 2600
+        width: 274
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bf6be2a0d9e69bf0800000000000000
+      internalID: -317809641387233360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur
+        - atlas0 #0330041_68
+      rect:
+        serializedVersion: 2
+        x: 1292
+        y: 2497
+        width: 274
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbea8d71f164b4af0800000000000000
+      internalID: -411157841616261443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur
+        - atlas0 #0330041_69
+      rect:
+        serializedVersion: 2
+        x: 1570
+        y: 2502
+        width: 209
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24a3d111e54d5a3c0800000000000000
+      internalID: -4348836364677203390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur
+        - atlas0 #0330041_70
+      rect:
+        serializedVersion: 2
+        x: 1777
+        y: 2622
+        width: 271
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 909bc8cc2831aa9b0800000000000000
+      internalID: -5068216978153621239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur
+        - atlas0 #0330041_71
+      rect:
+        serializedVersion: 2
+        x: 1778
+        y: 2412
+        width: 263
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9381139b7c2b09760800000000000000
+      internalID: 7462661153428150329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur
+        - atlas0 #0330041_72
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 2300
+        width: 229
+        height: 277
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c085e898719e39610800000000000000
+      internalID: 1626900177712207884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur
+        - atlas0 #0330041_73
+      rect:
+        serializedVersion: 2
+        x: 1019
+        y: 2353
+        width: 275
+        height: 249
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f5a851512792dd30800000000000000
+      internalID: 4454789150777320953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur
+        - atlas0 #0330041_74
+      rect:
+        serializedVersion: 2
+        x: 1570
+        y: 2569
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8511ee8082c669e90800000000000000
+      internalID: -7019304050006027944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur
+        - atlas0 #0330041_75
+      rect:
+        serializedVersion: 2
+        x: 2021
+        y: 2545
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 351698cb26c18a610800000000000000
+      internalID: 1632586075317297491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur
+        - atlas0 #0330041_76
+      rect:
+        serializedVersion: 2
+        x: 2032
+        y: 2535
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 860b26a5f5f43f960800000000000000
+      internalID: 7634533064280027240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur
+        - atlas0 #0330041_77
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2324
+        width: 276
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb9361cacc6ec9a10800000000000000
+      internalID: 1917661308087843259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur
+        - atlas0 #0330041_78
+      rect:
+        serializedVersion: 2
+        x: 2021
+        y: 2516
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d407b85c15d75750800000000000000
+      internalID: 6293733321997747409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur
+        - atlas0 #0330041_79
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 2014
+        width: 281
+        height: 436
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 070e9ae7077f4f9c0800000000000000
+      internalID: -3894215715235176336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur
+        - atlas0 #0330041_80
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 2160
+        width: 237
+        height: 267
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85ba5c0d0bf1ab840800000000000000
+      internalID: 5240535960676313944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur
+        - atlas0 #0330041_81
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 2142
+        width: 274
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdbfc021e9c0dbcb0800000000000000
+      internalID: -4846703750933578788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur
+        - atlas0 #0330041_82
+      rect:
+        serializedVersion: 2
+        x: 1296
+        y: 2305
+        width: 276
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d9912878b51096d0800000000000000
+      internalID: -2985862670913005096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur
+        - atlas0 #0330041_83
+      rect:
+        serializedVersion: 2
+        x: 1576
+        y: 2236
+        width: 204
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26b75599ec53a8820800000000000000
+      internalID: 2921206469755239266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur
+        - atlas0 #0330041_84
+      rect:
+        serializedVersion: 2
+        x: 1778
+        y: 2330
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3770e0eee6b859620800000000000000
+      internalID: 2780281653527709555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur
+        - atlas0 #0330041_85
+      rect:
+        serializedVersion: 2
+        x: 1785
+        y: 2202
+        width: 262
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82dc2b3ca9934d350800000000000000
+      internalID: 6040516337081699624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur
+        - atlas0 #0330041_86
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2123
+        width: 280
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 654256cc318727430800000000000000
+      internalID: 3779215063746159702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur
+        - atlas0 #0330041_87
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 2035
+        width: 227
+        height: 267
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3e817edb31e1e8e0800000000000000
+      internalID: -1665802739899068865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur
+        - atlas0 #0330041_88
+      rect:
+        serializedVersion: 2
+        x: 1292
+        y: 2241
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63aeefa8fd8083a70800000000000000
+      internalID: 8806798827525696054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur
+        - atlas0 #0330041_89
+      rect:
+        serializedVersion: 2
+        x: 1298
+        y: 2121
+        width: 280
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16826b0802c5dc8e0800000000000000
+      internalID: -1671578592016455583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur
+        - atlas0 #0330041_90
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 1909
+        width: 236
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a681a940a96263980800000000000000
+      internalID: -8559611598827022230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur
+        - atlas0 #0330041_91
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 2139
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1313d8b11f4c4d420800000000000000
+      internalID: 2653962620256465201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur
+        - atlas0 #0330041_92
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 1945
+        width: 280
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22212cf78ee916e40800000000000000
+      internalID: 5647970129112338978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur
+        - atlas0 #0330041_93
+      rect:
+        serializedVersion: 2
+        x: 1589
+        y: 1955
+        width: 191
+        height: 283
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89886dd98424e8ad0800000000000000
+      internalID: -2698146247095187304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur
+        - atlas0 #0330041_94
+      rect:
+        serializedVersion: 2
+        x: 1778
+        y: 1981
+        width: 269
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cfd18a45a54016f0800000000000000
+      internalID: -715995764529963070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur
+        - atlas0 #0330041_95
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1892
+        width: 282
+        height: 233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc1a1c26e8c317e30800000000000000
+      internalID: 4499444084959715787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur
+        - atlas0 #0330041_96
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 1796
+        width: 501
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 348741491d1d21370800000000000000
+      internalID: 8291920562005243971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur
+        - atlas0 #0330041_97
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 1699
+        width: 288
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40136e72eaf1bb440800000000000000
+      internalID: 4952587048078160132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur
+        - atlas0 #0330041_98
+      rect:
+        serializedVersion: 2
+        x: 1306
+        y: 1927
+        width: 285
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fd8ea54e7fc7ba90800000000000000
+      internalID: -7298136529888702991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur
+        - atlas0 #0330041_99
+      rect:
+        serializedVersion: 2
+        x: 1438
+        y: 1921
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f66f41c9ed79bfd0800000000000000
+      internalID: -2325689289636092175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur
+        - atlas0 #0330041_100
+      rect:
+        serializedVersion: 2
+        x: 1596
+        y: 1703
+        width: 184
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cda54e98fb9daec0800000000000000
+      internalID: -3554013038815892029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur
+        - atlas0 #0330041_101
+      rect:
+        serializedVersion: 2
+        x: 1778
+        y: 1760
+        width: 269
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2c03d4b59ac18820800000000000000
+      internalID: 2918836777845460011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur
+        - atlas0 #0330041_102
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 1625
+        width: 224
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a16163406f67059c0800000000000000
+      internalID: -3940518874944498150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur
+        - atlas0 #0330041_103
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 1904
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b657cc1ccd1f78d0800000000000000
+      internalID: -2846523676981504330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur
+        - atlas0 #0330041_104
+      rect:
+        serializedVersion: 2
+        x: 1306
+        y: 1733
+        width: 287
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5859947af03837a10800000000000000
+      internalID: 1906011170562217349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur
+        - atlas0 #0330041_105
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1697
+        width: 289
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b1b7cd3403367e20800000000000000
+      internalID: 3347919466305925560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur
+        - atlas0 #0330041_106
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1307
+        width: 790
+        height: 507
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e079676fcad6eee0800000000000000
+      internalID: -1232056863711203096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur
+        - atlas0 #0330041_107
+      rect:
+        serializedVersion: 2
+        x: 1017
+        y: 1506
+        width: 294
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ee35ef0ce91a2a80800000000000000
+      internalID: -8490945645783990560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur
+        - atlas0 #0330041_108
+      rect:
+        serializedVersion: 2
+        x: 1309
+        y: 1550
+        width: 289
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dec47bdb12ca05e50800000000000000
+      internalID: 6796121098618883309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur
+        - atlas0 #0330041_109
+      rect:
+        serializedVersion: 2
+        x: 1599
+        y: 1499
+        width: 181
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a41b53d6f1f031b0800000000000000
+      internalID: -5678773087703984990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur
+        - atlas0 #0330041_110
+      rect:
+        serializedVersion: 2
+        x: 1778
+        y: 1534
+        width: 256
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ec732268a0b65f10800000000000000
+      internalID: 2258186500420369641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur
+        - atlas0 #0330041_111
+      rect:
+        serializedVersion: 2
+        x: 2041
+        y: 1666
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 522cf58f5d8bfd500800000000000000
+      internalID: 423260119130685989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur
+        - atlas0 #0330041_112
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 1439
+        width: 291
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 876ce51afc30c7530800000000000000
+      internalID: 3853959571422758520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur
+        - atlas0 #0330041_113
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 1182
+        width: 295
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd177db80d0e050a0800000000000000
+      internalID: -6894763843200257571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur
+        - atlas0 #0330041_114
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 1391
+        width: 216
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd275b8851ee8e450800000000000000
+      internalID: 6118401870038135519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur
+        - atlas0 #0330041_115
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 1298
+        width: 299
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79c04400eec253ba0800000000000000
+      internalID: -6109927918739911529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur
+        - atlas0 #0330041_116
+      rect:
+        serializedVersion: 2
+        x: 1311
+        y: 1356
+        width: 290
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a442a70122e06f50800000000000000
+      internalID: 6872741662857249955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur
+        - atlas0 #0330041_117
+      rect:
+        serializedVersion: 2
+        x: 1674
+        y: 1348
+        width: 75
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e51a31cb725f20cd0800000000000000
+      internalID: -2593240884404051618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur
+        - atlas0 #0330041_118
+      rect:
+        serializedVersion: 2
+        x: 1778
+        y: 1338
+        width: 270
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a37b01acc873a5540800000000000000
+      internalID: 4997367814346028858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur
+        - atlas0 #0330041_119
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1038
+        width: 341
+        height: 271
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4882828647025ccf0800000000000000
+      internalID: -232744121403955068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur
+        - atlas0 #0330041_120
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 1110
+        width: 172
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4da2d674406da6880800000000000000
+      internalID: -8616839623153472812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur
+        - atlas0 #0330041_121
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 992
+        width: 296
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b980394021b8dd140800000000000000
+      internalID: 4746102491820787867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur
+        - atlas0 #0330041_122
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 858
+        width: 530
+        height: 535
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12fcb23be79efef10800000000000000
+      internalID: 2301314664990756641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur
+        - atlas0 #0330041_123
+      rect:
+        serializedVersion: 2
+        x: 1328
+        y: 1007
+        width: 52
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7455932f4adee4220800000000000000
+      internalID: 2472174538167244103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur
+        - atlas0 #0330041_124
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 1135
+        width: 402
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 986594899703f51b0800000000000000
+      internalID: -5665756507404675447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur
+        - atlas0 #0330041_125
+      rect:
+        serializedVersion: 2
+        x: 1501
+        y: 1130
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ff7cd058e8e11e20800000000000000
+      internalID: 3319690484835450865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur
+        - atlas0 #0330041_126
+      rect:
+        serializedVersion: 2
+        x: 1692
+        y: 917
+        width: 89
+        height: 301
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4029f528156192bb0800000000000000
+      internalID: -4960408975236427260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur
+        - atlas0 #0330041_127
+      rect:
+        serializedVersion: 2
+        x: 1779
+        y: 1107
+        width: 269
+        height: 233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af0204a6e820495e0800000000000000
+      internalID: -1903893931779677958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur
+        - atlas0 #0330041_128
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 765
+        width: 350
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e59fe2da0c2656f60800000000000000
+      internalID: 8026930490536556894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur
+        - atlas0 #0330041_129
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 829
+        width: 153
+        height: 283
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01d1d83e8b6964280800000000000000
+      internalID: -9059387879573349104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur
+        - atlas0 #0330041_130
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 706
+        width: 519
+        height: 411
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 688e0d234cf5754a0800000000000000
+      internalID: -6604705032244762490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur
+        - atlas0 #0330041_131
+      rect:
+        serializedVersion: 2
+        x: 1332
+        y: 858
+        width: 49
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92e6c619de957e9b0800000000000000
+      internalID: -5050969580190798295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur
+        - atlas0 #0330041_132
+      rect:
+        serializedVersion: 2
+        x: 1379
+        y: 937
+        width: 301
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0c239a7e5f1fc980800000000000000
+      internalID: -8516553879690466290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur
+        - atlas0 #0330041_133
+      rect:
+        serializedVersion: 2
+        x: 1383
+        y: 710
+        width: 311
+        height: 229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f6ad7c57c5ebc370800000000000000
+      internalID: 8344015379046967028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur
+        - atlas0 #0330041_134
+      rect:
+        serializedVersion: 2
+        x: 1787
+        y: 834
+        width: 261
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72a0f0cc0cfc8e990800000000000000
+      internalID: -7356401564345497049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur
+        - atlas0 #0330041_135
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 237
+        width: 513
+        height: 668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 193cb94d56fe054f0800000000000000
+      internalID: -841909909680569455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur
+        - atlas0 #0330041_136
+      rect:
+        serializedVersion: 2
+        x: 1025
+        y: 642
+        width: 313
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfbf7b27945567210800000000000000
+      internalID: 1330344513880194043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur
+        - atlas0 #0330041_137
+      rect:
+        serializedVersion: 2
+        x: 1336
+        y: 642
+        width: 49
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 094c7bbf425e259f0800000000000000
+      internalID: -481070263170513776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur
+        - atlas0 #0330041_138
+      rect:
+        serializedVersion: 2
+        x: 1692
+        y: 783
+        width: 97
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d85972f55def64140800000000000000
+      internalID: 4703727053212980621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur
+        - atlas0 #0330041_139
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 494
+        width: 96
+        height: 291
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01eb2c761bc594e80800000000000000
+      internalID: -8193916130004124144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur
+        - atlas0 #0330041_140
+      rect:
+        serializedVersion: 2
+        x: 1794
+        y: 525
+        width: 254
+        height: 311
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3e54f07243f70460800000000000000
+      internalID: 7207997195318222395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur
+        - atlas0 #0330041_141
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 508
+        width: 380
+        height: 273
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b958d3b1cbfeff430800000000000000
+      internalID: 3819034600223376795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur
+        - atlas0 #0330041_142
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 449
+        width: 136
+        height: 329
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80ab5130a091ba370800000000000000
+      internalID: 8334783066171357704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur
+        - atlas0 #0330041_143
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 673
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d683c61f06b5e4af0800000000000000
+      internalID: -410290044118747027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur
+        - atlas0 #0330041_144
+      rect:
+        serializedVersion: 2
+        x: 1383
+        y: 494
+        width: 316
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1911a9e6754447730800000000000000
+      internalID: 3995893911692906897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur
+        - atlas0 #0330041_145
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 661
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2f451c73bee598f0800000000000000
+      internalID: -534258526125207763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur
+        - atlas0 #0330041_146
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 647
+        width: 6
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5a09ab0f190430f0800000000000000
+      internalID: -1138274776873629091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur
+        - atlas0 #0330041_147
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 513
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb2f807ff838c11d0800000000000000
+      internalID: -3378680966086593857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur
+        - atlas0 #0330041_148
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 442
+        width: 359
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 217574ecb155e3e90800000000000000
+      internalID: -7044099189247617262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur
+        - atlas0 #0330041_149
+      rect:
+        serializedVersion: 2
+        x: 1795
+        y: 261
+        width: 253
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27a8a2a0c48aecb80800000000000000
+      internalID: -8372569612693632398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur
+        - atlas0 #0330041_150
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 240
+        width: 388
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bd8fe75a6301f870800000000000000
+      internalID: 8714750509215354296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur
+        - atlas0 #0330041_151
+      rect:
+        serializedVersion: 2
+        x: 1427
+        y: 233
+        width: 370
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56ac8e2772ea35240800000000000000
+      internalID: 4779355114025044581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur
+        - atlas0 #0330041_152
+      rect:
+        serializedVersion: 2
+        x: 2010
+        y: 472
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88b2ee5e0792d4750800000000000000
+      internalID: 6290729819377118088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur
+        - atlas0 #0330041_153
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 344
+        width: 131
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 127a9879e467e4270800000000000000
+      internalID: 8236650848429123361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur
+        - atlas0 #0330041_154
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 240
+        width: 132
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a646bdfd247244a0800000000000000
+      internalID: -6610593562147535199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur
+        - atlas0 #0330041_155
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 0
+        width: 403
+        height: 444
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19942781f078ebad0800000000000000
+      internalID: -2684559828961834607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur
+        - atlas0 #0330041_156
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 519
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e674daa91bd4f870800000000000000
+      internalID: 8715832082155468512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur
+        - atlas0 #0330041_157
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 0
+        width: 511
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c1b511ec9c88d5f0800000000000000
+      internalID: -731680334028623420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur
+        - atlas0 #0330041_158
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 231
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eef5e164d4b740450800000000000000
+      internalID: 6054099370911883246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur
+        - atlas0 #0330041_159
+      rect:
+        serializedVersion: 2
+        x: 1427
+        y: 0
+        width: 372
+        height: 235
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11f149a3728536570800000000000000
+      internalID: 8458701450641678097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur
+        - atlas0 #0330041_160
+      rect:
+        serializedVersion: 2
+        x: 1797
+        y: 0
+        width: 251
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85d1a9af775a2e140800000000000000
+      internalID: 4747538891926019416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur
+        - atlas0 #0330041_161
+      rect:
+        serializedVersion: 2
+        x: 2010
+        y: 206
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d44b667b31bd1d890800000000000000
+      internalID: -7434920632084155315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur - atlas0 #0330041_0: -7070754663209092391
+      Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur - atlas0 #0330041_1: -8142923872251378587
+      Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur - atlas0 #0330041_10: 537383519351864184
+      Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur - atlas0 #0330041_100: -3554013038815892029
+      Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur - atlas0 #0330041_101: 2918836777845460011
+      Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur - atlas0 #0330041_102: -3940518874944498150
+      Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur - atlas0 #0330041_103: -2846523676981504330
+      Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur - atlas0 #0330041_104: 1906011170562217349
+      Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur - atlas0 #0330041_105: 3347919466305925560
+      Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur - atlas0 #0330041_106: -1232056863711203096
+      Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur - atlas0 #0330041_107: -8490945645783990560
+      Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur - atlas0 #0330041_108: 6796121098618883309
+      Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur - atlas0 #0330041_109: -5678773087703984990
+      Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur - atlas0 #0330041_11: -5150800919824445284
+      Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur - atlas0 #0330041_110: 2258186500420369641
+      Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur - atlas0 #0330041_111: 423260119130685989
+      Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur - atlas0 #0330041_112: 3853959571422758520
+      Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur - atlas0 #0330041_113: -6894763843200257571
+      Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur - atlas0 #0330041_114: 6118401870038135519
+      Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur - atlas0 #0330041_115: -6109927918739911529
+      Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur - atlas0 #0330041_116: 6872741662857249955
+      Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur - atlas0 #0330041_117: -2593240884404051618
+      Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur - atlas0 #0330041_118: 4997367814346028858
+      Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur - atlas0 #0330041_119: -232744121403955068
+      Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur - atlas0 #0330041_12: -8543144677610449877
+      Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur - atlas0 #0330041_120: -8616839623153472812
+      Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur - atlas0 #0330041_121: 4746102491820787867
+      Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur - atlas0 #0330041_122: 2301314664990756641
+      Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur - atlas0 #0330041_123: 2472174538167244103
+      Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur - atlas0 #0330041_124: -5665756507404675447
+      Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur - atlas0 #0330041_125: 3319690484835450865
+      Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur - atlas0 #0330041_126: -4960408975236427260
+      Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur - atlas0 #0330041_127: -1903893931779677958
+      Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur - atlas0 #0330041_128: 8026930490536556894
+      Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur - atlas0 #0330041_129: -9059387879573349104
+      Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur - atlas0 #0330041_13: 5233830900884988062
+      Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur - atlas0 #0330041_130: -6604705032244762490
+      Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur - atlas0 #0330041_131: -5050969580190798295
+      Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur - atlas0 #0330041_132: -8516553879690466290
+      Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur - atlas0 #0330041_133: 8344015379046967028
+      Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur - atlas0 #0330041_134: -7356401564345497049
+      Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur - atlas0 #0330041_135: -841909909680569455
+      Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur - atlas0 #0330041_136: 1330344513880194043
+      Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur - atlas0 #0330041_137: -481070263170513776
+      Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur - atlas0 #0330041_138: 4703727053212980621
+      Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur - atlas0 #0330041_139: -8193916130004124144
+      Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur - atlas0 #0330041_14: -168575775481673415
+      Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur - atlas0 #0330041_140: 7207997195318222395
+      Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur - atlas0 #0330041_141: 3819034600223376795
+      Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur - atlas0 #0330041_142: 8334783066171357704
+      Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur - atlas0 #0330041_143: -410290044118747027
+      Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur - atlas0 #0330041_144: 3995893911692906897
+      Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur - atlas0 #0330041_145: -534258526125207763
+      Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur - atlas0 #0330041_146: -1138274776873629091
+      Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur - atlas0 #0330041_147: -3378680966086593857
+      Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur - atlas0 #0330041_148: -7044099189247617262
+      Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur - atlas0 #0330041_149: -8372569612693632398
+      Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur - atlas0 #0330041_15: 1186785439150251051
+      Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur - atlas0 #0330041_150: 8714750509215354296
+      Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur - atlas0 #0330041_151: 4779355114025044581
+      Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur - atlas0 #0330041_152: 6290729819377118088
+      Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur - atlas0 #0330041_153: 8236650848429123361
+      Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur - atlas0 #0330041_154: -6610593562147535199
+      Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur - atlas0 #0330041_155: -2684559828961834607
+      Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur - atlas0 #0330041_156: 8715832082155468512
+      Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur - atlas0 #0330041_157: -731680334028623420
+      Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur - atlas0 #0330041_158: 6054099370911883246
+      Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur - atlas0 #0330041_159: 8458701450641678097
+      Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur - atlas0 #0330041_16: 6344943969268393154
+      Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur - atlas0 #0330041_160: 4747538891926019416
+      Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur - atlas0 #0330041_161: -7434920632084155315
+      Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur - atlas0 #0330041_17: 2999911435729407771
+      Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur - atlas0 #0330041_18: 4174358338626415724
+      Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur - atlas0 #0330041_19: 6300833504279702024
+      Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur - atlas0 #0330041_2: -4442976981109712935
+      Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur - atlas0 #0330041_20: 7292701974645441382
+      Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur - atlas0 #0330041_21: -5482402313365995981
+      Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur - atlas0 #0330041_22: -6601404569552214782
+      Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur - atlas0 #0330041_23: 65274326782156511
+      Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur - atlas0 #0330041_24: -276663856419474197
+      Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur - atlas0 #0330041_25: 7748715586277078838
+      Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur - atlas0 #0330041_26: 2176813162714694068
+      Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur - atlas0 #0330041_27: -6635749776591332246
+      Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur - atlas0 #0330041_28: 9129609217364118927
+      Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur - atlas0 #0330041_29: 1921213625125949306
+      Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur - atlas0 #0330041_3: -52593312812873649
+      Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur - atlas0 #0330041_30: -7339531057091000236
+      Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur - atlas0 #0330041_31: 7353057882505168892
+      Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur - atlas0 #0330041_32: -4489816552424144029
+      Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur - atlas0 #0330041_33: 1684369464248269480
+      Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur - atlas0 #0330041_34: -5199530955772239764
+      Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur - atlas0 #0330041_35: 6859187587006371815
+      Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur - atlas0 #0330041_36: -5848085238148816763
+      Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur - atlas0 #0330041_37: -5477166948938161721
+      Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur - atlas0 #0330041_38: -1517809705696913912
+      Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur - atlas0 #0330041_39: -1717732795793899122
+      Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur - atlas0 #0330041_4: -6811987460350827457
+      Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur - atlas0 #0330041_40: -454872922867577545
+      Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur - atlas0 #0330041_41: 5283274648405770032
+      Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur - atlas0 #0330041_42: -435077076418048204
+      Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur - atlas0 #0330041_43: -904687296789116445
+      Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur - atlas0 #0330041_44: -3603266402381767698
+      Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur - atlas0 #0330041_45: 4949788279177080246
+      Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur - atlas0 #0330041_46: -6344945302246421437
+      Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur - atlas0 #0330041_47: 3613263996350851083
+      Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur - atlas0 #0330041_48: -3115413456561603949
+      Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur - atlas0 #0330041_49: -2698741847587514398
+      Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur - atlas0 #0330041_5: -8192270939656927724
+      Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur - atlas0 #0330041_50: -4181012635571237972
+      Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur - atlas0 #0330041_51: -3998846327852251284
+      Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur - atlas0 #0330041_52: 9171847375862323734
+      Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur - atlas0 #0330041_53: -5690536199451168603
+      Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur - atlas0 #0330041_54: 6593929916215791200
+      Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur - atlas0 #0330041_55: -2910205188082508668
+      Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur - atlas0 #0330041_56: 3509827377051166857
+      Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur - atlas0 #0330041_57: -8239082050083495603
+      Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur - atlas0 #0330041_58: -4129858369058401276
+      Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur - atlas0 #0330041_59: -2708424386898343937
+      Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur - atlas0 #0330041_6: 3493257445181413012
+      Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur - atlas0 #0330041_60: 2708240505595051575
+      Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur - atlas0 #0330041_61: 7117725945799370274
+      Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur - atlas0 #0330041_62: -8548879995900913489
+      Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur - atlas0 #0330041_63: -6481578651023565378
+      Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur - atlas0 #0330041_64: 8691504689413113783
+      Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur - atlas0 #0330041_65: 2441885370949837165
+      Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur - atlas0 #0330041_66: 5839455080093458720
+      Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur - atlas0 #0330041_67: -317809641387233360
+      Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur - atlas0 #0330041_68: -411157841616261443
+      Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur - atlas0 #0330041_69: -4348836364677203390
+      Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur - atlas0 #0330041_7: -3028587980181677948
+      Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur - atlas0 #0330041_70: -5068216978153621239
+      Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur - atlas0 #0330041_71: 7462661153428150329
+      Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur - atlas0 #0330041_72: 1626900177712207884
+      Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur - atlas0 #0330041_73: 4454789150777320953
+      Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur - atlas0 #0330041_74: -7019304050006027944
+      Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur - atlas0 #0330041_75: 1632586075317297491
+      Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur - atlas0 #0330041_76: 7634533064280027240
+      Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur - atlas0 #0330041_77: 1917661308087843259
+      Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur - atlas0 #0330041_78: 6293733321997747409
+      Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur - atlas0 #0330041_79: -3894215715235176336
+      Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur - atlas0 #0330041_8: -4144746342896033907
+      Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur - atlas0 #0330041_80: 5240535960676313944
+      Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur - atlas0 #0330041_81: -4846703750933578788
+      Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur - atlas0 #0330041_82: -2985862670913005096
+      Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur - atlas0 #0330041_83: 2921206469755239266
+      Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur - atlas0 #0330041_84: 2780281653527709555
+      Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur - atlas0 #0330041_85: 6040516337081699624
+      Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur - atlas0 #0330041_86: 3779215063746159702
+      Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur - atlas0 #0330041_87: -1665802739899068865
+      Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur - atlas0 #0330041_88: 8806798827525696054
+      Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur - atlas0 #0330041_89: -1671578592016455583
+      Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur - atlas0 #0330041_9: -5821755367415946800
+      Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur - atlas0 #0330041_90: -8559611598827022230
+      Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur - atlas0 #0330041_91: 2653962620256465201
+      Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur - atlas0 #0330041_92: 5647970129112338978
+      Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur - atlas0 #0330041_93: -2698146247095187304
+      Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur - atlas0 #0330041_94: -715995764529963070
+      Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur - atlas0 #0330041_95: 4499444084959715787
+      Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur - atlas0 #0330041_96: 8291920562005243971
+      Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur - atlas0 #0330041_97: 4952587048078160132
+      Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur - atlas0 #0330041_98: -7298136529888702991
+      Heavy Fool, Winged Fool, Shielded Fool, Armoured Squit, Sharp Baldur - atlas0 #0330041_99: -2325689289636092175
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

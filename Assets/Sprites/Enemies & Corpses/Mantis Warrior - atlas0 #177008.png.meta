@@ -1,0 +1,1066 @@
+fileFormatVersion: 2
+guid: 84a5d7171f43fbc46bf33bebd0c59146
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3124133016008700617
+    second: Mantis Warrior - atlas0 #177008_0
+  - first:
+      213: -2975252083509159705
+    second: Mantis Warrior - atlas0 #177008_1
+  - first:
+      213: 3965075901584120180
+    second: Mantis Warrior - atlas0 #177008_2
+  - first:
+      213: -8548358989089429303
+    second: Mantis Warrior - atlas0 #177008_3
+  - first:
+      213: 1822588365494104039
+    second: Mantis Warrior - atlas0 #177008_4
+  - first:
+      213: 4991180434903975512
+    second: Mantis Warrior - atlas0 #177008_5
+  - first:
+      213: -1396615003761047265
+    second: Mantis Warrior - atlas0 #177008_6
+  - first:
+      213: 5380075590799224011
+    second: Mantis Warrior - atlas0 #177008_7
+  - first:
+      213: 6105820279480803454
+    second: Mantis Warrior - atlas0 #177008_8
+  - first:
+      213: 2859960317729802211
+    second: Mantis Warrior - atlas0 #177008_9
+  - first:
+      213: -441944013597579233
+    second: Mantis Warrior - atlas0 #177008_10
+  - first:
+      213: -7291939888336662237
+    second: Mantis Warrior - atlas0 #177008_11
+  - first:
+      213: 6394087214585830837
+    second: Mantis Warrior - atlas0 #177008_12
+  - first:
+      213: 5454235817113256800
+    second: Mantis Warrior - atlas0 #177008_13
+  - first:
+      213: 6270762952109257779
+    second: Mantis Warrior - atlas0 #177008_14
+  - first:
+      213: 4317937678554607636
+    second: Mantis Warrior - atlas0 #177008_15
+  - first:
+      213: 6882743463827379563
+    second: Mantis Warrior - atlas0 #177008_16
+  - first:
+      213: 3069743558205896045
+    second: Mantis Warrior - atlas0 #177008_17
+  - first:
+      213: -6450633820928691999
+    second: Mantis Warrior - atlas0 #177008_18
+  - first:
+      213: 8892920597247062961
+    second: Mantis Warrior - atlas0 #177008_19
+  - first:
+      213: -9084544056003828328
+    second: Mantis Warrior - atlas0 #177008_20
+  - first:
+      213: -5517644495334366820
+    second: Mantis Warrior - atlas0 #177008_21
+  - first:
+      213: 5641705421152881463
+    second: Mantis Warrior - atlas0 #177008_22
+  - first:
+      213: 1117974520746109173
+    second: Mantis Warrior - atlas0 #177008_23
+  - first:
+      213: 6347123878120692596
+    second: Mantis Warrior - atlas0 #177008_24
+  - first:
+      213: 3129404635703627810
+    second: Mantis Warrior - atlas0 #177008_25
+  - first:
+      213: -3026394892463456198
+    second: Mantis Warrior - atlas0 #177008_26
+  - first:
+      213: -5575815899762102037
+    second: Mantis Warrior - atlas0 #177008_27
+  - first:
+      213: -3028197440515409571
+    second: Mantis Warrior - atlas0 #177008_28
+  - first:
+      213: 8657387385679008304
+    second: Mantis Warrior - atlas0 #177008_29
+  - first:
+      213: -6998979973944642786
+    second: Mantis Warrior - atlas0 #177008_30
+  - first:
+      213: -5574141826960712285
+    second: Mantis Warrior - atlas0 #177008_31
+  - first:
+      213: 8320133938555552305
+    second: Mantis Warrior - atlas0 #177008_32
+  - first:
+      213: -7548738955967879318
+    second: Mantis Warrior - atlas0 #177008_33
+  - first:
+      213: 4203993219949154712
+    second: Mantis Warrior - atlas0 #177008_34
+  - first:
+      213: 6255104487384283717
+    second: Mantis Warrior - atlas0 #177008_35
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Mantis Warrior - atlas0 #177008_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2021
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73d4bb50399d4a4d0800000000000000
+      internalID: -3124133016008700617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis Warrior - atlas0 #177008_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1668
+        width: 297
+        height: 355
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e8123d5ef7c5b6d0800000000000000
+      internalID: -2975252083509159705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis Warrior - atlas0 #177008_2
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 1660
+        width: 280
+        height: 362
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 479126d4687c60730800000000000000
+      internalID: 3965075901584120180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis Warrior - atlas0 #177008_3
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 1651
+        width: 255
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c8aec26ac02e5980800000000000000
+      internalID: -8548358989089429303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis Warrior - atlas0 #177008_4
+      rect:
+        serializedVersion: 2
+        x: 1631
+        y: 1865
+        width: 367
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ef290146722b4910800000000000000
+      internalID: 1822588365494104039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis Warrior - atlas0 #177008_5
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 1907
+        width: 382
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 856c450492c344540800000000000000
+      internalID: 4991180434903975512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis Warrior - atlas0 #177008_6
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 1660
+        width: 398
+        height: 249
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1987dcbd0a3e9ce0800000000000000
+      internalID: -1396615003761047265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis Warrior - atlas0 #177008_7
+      rect:
+        serializedVersion: 2
+        x: 1222
+        y: 1622
+        width: 232
+        height: 392
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcc6656be3ed9aa40800000000000000
+      internalID: 5380075590799224011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis Warrior - atlas0 #177008_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 547
+        width: 655
+        height: 1123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7064d4b13b3cb450800000000000000
+      internalID: 6105820279480803454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis Warrior - atlas0 #177008_9
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 1453
+        width: 393
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e78ff991ce90b720800000000000000
+      internalID: 2859960317729802211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis Warrior - atlas0 #177008_10
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 998
+        width: 499
+        height: 626
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f18e7ead246edd9f0800000000000000
+      internalID: -441944013597579233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis Warrior - atlas0 #177008_11
+      rect:
+        serializedVersion: 2
+        x: 1427
+        y: 1271
+        width: 393
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32111305e43ddca90800000000000000
+      internalID: -7291939888336662237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis Warrior - atlas0 #177008_12
+      rect:
+        serializedVersion: 2
+        x: 1452
+        y: 1499
+        width: 181
+        height: 384
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bd5140c17c5cb850800000000000000
+      internalID: 6394087214585830837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis Warrior - atlas0 #177008_13
+      rect:
+        serializedVersion: 2
+        x: 1631
+        y: 1499
+        width: 184
+        height: 368
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0638f30f39651bb40800000000000000
+      internalID: 5454235817113256800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis Warrior - atlas0 #177008_14
+      rect:
+        serializedVersion: 2
+        x: 1818
+        y: 1267
+        width: 219
+        height: 389
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 334f6275ea9360750800000000000000
+      internalID: 6270762952109257779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis Warrior - atlas0 #177008_15
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 1165
+        width: 352
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 410b584f0756ceb30800000000000000
+      internalID: 4317937678554607636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis Warrior - atlas0 #177008_16
+      rect:
+        serializedVersion: 2
+        x: 1181
+        y: 878
+        width: 231
+        height: 393
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b659299c6ba648f50800000000000000
+      internalID: 6882743463827379563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis Warrior - atlas0 #177008_17
+      rect:
+        serializedVersion: 2
+        x: 1410
+        y: 878
+        width: 233
+        height: 395
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d65f762808be99a20800000000000000
+      internalID: 3069743558205896045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis Warrior - atlas0 #177008_18
+      rect:
+        serializedVersion: 2
+        x: 1641
+        y: 1067
+        width: 371
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e0bc6f77beba76a0800000000000000
+      internalID: -6450633820928691999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis Warrior - atlas0 #177008_19
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 730
+        width: 280
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b37aae9a200a6b70800000000000000
+      internalID: 8892920597247062961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis Warrior - atlas0 #177008_20
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 631
+        width: 261
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 895618320573de180800000000000000
+      internalID: -9084544056003828328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis Warrior - atlas0 #177008_21
+      rect:
+        serializedVersion: 2
+        x: 1148
+        y: 631
+        width: 381
+        height: 249
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c91a4b2b0936d63b0800000000000000
+      internalID: -5517644495334366820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis Warrior - atlas0 #177008_22
+      rect:
+        serializedVersion: 2
+        x: 1527
+        y: 618
+        width: 393
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73b8633803d5b4e40800000000000000
+      internalID: 5641705421152881463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis Warrior - atlas0 #177008_23
+      rect:
+        serializedVersion: 2
+        x: 1637
+        y: 846
+        width: 389
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f8620147e7d38f00800000000000000
+      internalID: 1117974520746109173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis Warrior - atlas0 #177008_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 337
+        height: 549
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47b98c4e983851850800000000000000
+      internalID: 6347123878120692596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis Warrior - atlas0 #177008_25
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 0
+        width: 255
+        height: 384
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22053959fe0ed6b20800000000000000
+      internalID: 3129404635703627810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis Warrior - atlas0 #177008_26
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 382
+        width: 280
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a30c8ac31e51006d0800000000000000
+      internalID: -3026394892463456198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis Warrior - atlas0 #177008_27
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 376
+        width: 377
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be074b92bf8be92b0800000000000000
+      internalID: -5575815899762102037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis Warrior - atlas0 #177008_28
+      rect:
+        serializedVersion: 2
+        x: 1223
+        y: 250
+        width: 254
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d59f450d87ea9f5d0800000000000000
+      internalID: -3028197440515409571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis Warrior - atlas0 #177008_29
+      rect:
+        serializedVersion: 2
+        x: 1475
+        y: 250
+        width: 250
+        height: 370
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 032585e55f7352870800000000000000
+      internalID: 8657387385679008304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis Warrior - atlas0 #177008_30
+      rect:
+        serializedVersion: 2
+        x: 1840
+        y: 377
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e13f4febbc0aede90800000000000000
+      internalID: -6998979973944642786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis Warrior - atlas0 #177008_31
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 0
+        width: 256
+        height: 381
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ad1c5c9a8ba4a2b0800000000000000
+      internalID: -5574141826960712285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis Warrior - atlas0 #177008_32
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 0
+        width: 257
+        height: 378
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13286433cbd077370800000000000000
+      internalID: 8320133938555552305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis Warrior - atlas0 #177008_33
+      rect:
+        serializedVersion: 2
+        x: 1097
+        y: 0
+        width: 381
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a67a16b1aed7d3790800000000000000
+      internalID: -7548738955967879318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis Warrior - atlas0 #177008_34
+      rect:
+        serializedVersion: 2
+        x: 1476
+        y: 0
+        width: 366
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89158315f85975a30800000000000000
+      internalID: 4203993219949154712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis Warrior - atlas0 #177008_35
+      rect:
+        serializedVersion: 2
+        x: 1856
+        y: 0
+        width: 188
+        height: 361
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54afd7be3689ec650800000000000000
+      internalID: 6255104487384283717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Mantis Warrior - atlas0 #177008_0: -3124133016008700617
+      Mantis Warrior - atlas0 #177008_1: -2975252083509159705
+      Mantis Warrior - atlas0 #177008_10: -441944013597579233
+      Mantis Warrior - atlas0 #177008_11: -7291939888336662237
+      Mantis Warrior - atlas0 #177008_12: 6394087214585830837
+      Mantis Warrior - atlas0 #177008_13: 5454235817113256800
+      Mantis Warrior - atlas0 #177008_14: 6270762952109257779
+      Mantis Warrior - atlas0 #177008_15: 4317937678554607636
+      Mantis Warrior - atlas0 #177008_16: 6882743463827379563
+      Mantis Warrior - atlas0 #177008_17: 3069743558205896045
+      Mantis Warrior - atlas0 #177008_18: -6450633820928691999
+      Mantis Warrior - atlas0 #177008_19: 8892920597247062961
+      Mantis Warrior - atlas0 #177008_2: 3965075901584120180
+      Mantis Warrior - atlas0 #177008_20: -9084544056003828328
+      Mantis Warrior - atlas0 #177008_21: -5517644495334366820
+      Mantis Warrior - atlas0 #177008_22: 5641705421152881463
+      Mantis Warrior - atlas0 #177008_23: 1117974520746109173
+      Mantis Warrior - atlas0 #177008_24: 6347123878120692596
+      Mantis Warrior - atlas0 #177008_25: 3129404635703627810
+      Mantis Warrior - atlas0 #177008_26: -3026394892463456198
+      Mantis Warrior - atlas0 #177008_27: -5575815899762102037
+      Mantis Warrior - atlas0 #177008_28: -3028197440515409571
+      Mantis Warrior - atlas0 #177008_29: 8657387385679008304
+      Mantis Warrior - atlas0 #177008_3: -8548358989089429303
+      Mantis Warrior - atlas0 #177008_30: -6998979973944642786
+      Mantis Warrior - atlas0 #177008_31: -5574141826960712285
+      Mantis Warrior - atlas0 #177008_32: 8320133938555552305
+      Mantis Warrior - atlas0 #177008_33: -7548738955967879318
+      Mantis Warrior - atlas0 #177008_34: 4203993219949154712
+      Mantis Warrior - atlas0 #177008_35: 6255104487384283717
+      Mantis Warrior - atlas0 #177008_4: 1822588365494104039
+      Mantis Warrior - atlas0 #177008_5: 4991180434903975512
+      Mantis Warrior - atlas0 #177008_6: -1396615003761047265
+      Mantis Warrior - atlas0 #177008_7: 5380075590799224011
+      Mantis Warrior - atlas0 #177008_8: 6105820279480803454
+      Mantis Warrior - atlas0 #177008_9: 2859960317729802211
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

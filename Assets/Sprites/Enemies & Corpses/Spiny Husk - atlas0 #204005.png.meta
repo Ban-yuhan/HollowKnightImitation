@@ -1,0 +1,1066 @@
+fileFormatVersion: 2
+guid: 08cf8a191d12e774a8686f5149fe2a56
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1173759820158480594
+    second: Spiny Husk - atlas0 #204005_0
+  - first:
+      213: 8547074920125460039
+    second: Spiny Husk - atlas0 #204005_1
+  - first:
+      213: 7333755072863236965
+    second: Spiny Husk - atlas0 #204005_2
+  - first:
+      213: -3978990363490657866
+    second: Spiny Husk - atlas0 #204005_3
+  - first:
+      213: 7580404008001671634
+    second: Spiny Husk - atlas0 #204005_4
+  - first:
+      213: -3849578827050936435
+    second: Spiny Husk - atlas0 #204005_5
+  - first:
+      213: 7145619847455502088
+    second: Spiny Husk - atlas0 #204005_6
+  - first:
+      213: 4202905224494759871
+    second: Spiny Husk - atlas0 #204005_7
+  - first:
+      213: -8639695142319373259
+    second: Spiny Husk - atlas0 #204005_8
+  - first:
+      213: -8828849283499031373
+    second: Spiny Husk - atlas0 #204005_9
+  - first:
+      213: -1403051408884616795
+    second: Spiny Husk - atlas0 #204005_10
+  - first:
+      213: -7482807417831747035
+    second: Spiny Husk - atlas0 #204005_11
+  - first:
+      213: 5321815264404082044
+    second: Spiny Husk - atlas0 #204005_12
+  - first:
+      213: -5504396653616119311
+    second: Spiny Husk - atlas0 #204005_13
+  - first:
+      213: -4495701465290040362
+    second: Spiny Husk - atlas0 #204005_14
+  - first:
+      213: 4120995202534993902
+    second: Spiny Husk - atlas0 #204005_15
+  - first:
+      213: 453612925853815737
+    second: Spiny Husk - atlas0 #204005_16
+  - first:
+      213: -572618113791936630
+    second: Spiny Husk - atlas0 #204005_17
+  - first:
+      213: -4811134363593700990
+    second: Spiny Husk - atlas0 #204005_18
+  - first:
+      213: 5525088415070336732
+    second: Spiny Husk - atlas0 #204005_19
+  - first:
+      213: 1203510643190010652
+    second: Spiny Husk - atlas0 #204005_20
+  - first:
+      213: -8961411625786968008
+    second: Spiny Husk - atlas0 #204005_21
+  - first:
+      213: 7000566946069765977
+    second: Spiny Husk - atlas0 #204005_22
+  - first:
+      213: -4931501452432491543
+    second: Spiny Husk - atlas0 #204005_23
+  - first:
+      213: -6222712957198027271
+    second: Spiny Husk - atlas0 #204005_24
+  - first:
+      213: -5210447893192705655
+    second: Spiny Husk - atlas0 #204005_25
+  - first:
+      213: 3507237012906649892
+    second: Spiny Husk - atlas0 #204005_26
+  - first:
+      213: 7029406858568317453
+    second: Spiny Husk - atlas0 #204005_27
+  - first:
+      213: -2524803286669636642
+    second: Spiny Husk - atlas0 #204005_28
+  - first:
+      213: 8937051697585579313
+    second: Spiny Husk - atlas0 #204005_29
+  - first:
+      213: 7281194779162636695
+    second: Spiny Husk - atlas0 #204005_30
+  - first:
+      213: 1717509176757564443
+    second: Spiny Husk - atlas0 #204005_31
+  - first:
+      213: -8825180918180924995
+    second: Spiny Husk - atlas0 #204005_32
+  - first:
+      213: 2917278810476002992
+    second: Spiny Husk - atlas0 #204005_33
+  - first:
+      213: -6799570150168362153
+    second: Spiny Husk - atlas0 #204005_34
+  - first:
+      213: 7684760140538850411
+    second: Spiny Husk - atlas0 #204005_35
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Spiny Husk - atlas0 #204005_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 686
+        width: 118
+        height: 309
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2fc3d399a7f5bfe0800000000000000
+      internalID: -1173759820158480594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spiny Husk - atlas0 #204005_1
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 839
+        width: 128
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74e6ab20b5f4d9670800000000000000
+      internalID: 8547074920125460039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spiny Husk - atlas0 #204005_2
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 785
+        width: 116
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5637bb3026bb6c560800000000000000
+      internalID: 7333755072863236965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spiny Husk - atlas0 #204005_3
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 829
+        width: 99
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b9df639859c7c8c0800000000000000
+      internalID: -3978990363490657866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spiny Husk - atlas0 #204005_4
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 687
+        width: 145
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d113e65841033960800000000000000
+      internalID: 7580404008001671634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spiny Husk - atlas0 #204005_5
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 666
+        width: 219
+        height: 353
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8793c6e37c839ac0800000000000000
+      internalID: -3849578827050936435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spiny Husk - atlas0 #204005_6
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 905
+        width: 138
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80fe09364675a2360800000000000000
+      internalID: 7145619847455502088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spiny Husk - atlas0 #204005_7
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 786
+        width: 158
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbfb4a2a808b35a30800000000000000
+      internalID: 4202905224494759871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spiny Husk - atlas0 #204005_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 533
+        width: 257
+        height: 309
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 534c26a0b03a91880800000000000000
+      internalID: -8639695142319373259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spiny Husk - atlas0 #204005_9
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 626
+        width: 114
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b404999a50a97580800000000000000
+      internalID: -8828849283499031373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spiny Husk - atlas0 #204005_10
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 699
+        width: 141
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a132d36d2c578ce0800000000000000
+      internalID: -1403051408884616795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spiny Husk - atlas0 #204005_11
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 435
+        width: 193
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5221b719c4ab72890800000000000000
+      internalID: -7482807417831747035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spiny Husk - atlas0 #204005_12
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 666
+        width: 157
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7d8e0b69c2ead940800000000000000
+      internalID: 5321815264404082044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spiny Husk - atlas0 #204005_13
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 457
+        width: 115
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f1cc5638647c93b0800000000000000
+      internalID: -5504396653616119311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spiny Husk - atlas0 #204005_14
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 562
+        width: 156
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6db1f29265f0c91c0800000000000000
+      internalID: -4495701465290040362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spiny Husk - atlas0 #204005_15
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 429
+        width: 152
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eefef208d47b03930800000000000000
+      internalID: 4120995202534993902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spiny Husk - atlas0 #204005_16
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 535
+        width: 154
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b3da0f7d8e8b4600800000000000000
+      internalID: 453612925853815737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spiny Husk - atlas0 #204005_17
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 535
+        width: 154
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a873a7ffbd6ad08f0800000000000000
+      internalID: -572618113791936630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spiny Husk - atlas0 #204005_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 380
+        width: 130
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 289825b69ca6b3db0800000000000000
+      internalID: -4811134363593700990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spiny Husk - atlas0 #204005_19
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 400
+        width: 130
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd6b4ece3ae0dac40800000000000000
+      internalID: 5525088415070336732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spiny Husk - atlas0 #204005_20
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 328
+        width: 155
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c131eb2bd8ab3b010800000000000000
+      internalID: 1203510643190010652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spiny Husk - atlas0 #204005_21
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 306
+        width: 157
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83879ee1b9ba2a380800000000000000
+      internalID: -8961411625786968008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spiny Husk - atlas0 #204005_22
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 295
+        width: 153
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95f54defb82072160800000000000000
+      internalID: 7000566946069765977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spiny Husk - atlas0 #204005_23
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 404
+        width: 155
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9eb3076ae89cf8bb0800000000000000
+      internalID: -4931501452432491543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spiny Husk - atlas0 #204005_24
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 269
+        width: 153
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f5bdf6e88b74a9a0800000000000000
+      internalID: -6222712957198027271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spiny Husk - atlas0 #204005_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 246
+        width: 149
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 989f09d4f35c0b7b0800000000000000
+      internalID: -5210447893192705655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spiny Husk - atlas0 #204005_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 260
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42927692b753ca030800000000000000
+      internalID: 3507237012906649892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spiny Husk - atlas0 #204005_27
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 246
+        width: 112
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0ab8a26b487d8160800000000000000
+      internalID: 7029406858568317453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spiny Husk - atlas0 #204005_28
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 198
+        width: 156
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edb415aa9c816fcd0800000000000000
+      internalID: -2524803286669636642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spiny Husk - atlas0 #204005_29
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 171
+        width: 152
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 135e3ed1b29c60c70800000000000000
+      internalID: 8937051697585579313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spiny Husk - atlas0 #204005_30
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 162
+        width: 176
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 791fa6003100c0560800000000000000
+      internalID: 7281194779162636695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spiny Husk - atlas0 #204005_31
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 133
+        width: 153
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b14bb1b1f71d5d710800000000000000
+      internalID: 1717509176757564443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spiny Husk - atlas0 #204005_32
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 0
+        width: 227
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db1354576b8a68580800000000000000
+      internalID: -8825180918180924995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spiny Husk - atlas0 #204005_33
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 0
+        width: 200
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0be32392f914c7820800000000000000
+      internalID: 2917278810476002992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spiny Husk - atlas0 #204005_34
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 0
+        width: 179
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7538ddd59f213a1a0800000000000000
+      internalID: -6799570150168362153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spiny Husk - atlas0 #204005_35
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 0
+        width: 159
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6c26e8d1a0c5aa60800000000000000
+      internalID: 7684760140538850411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Spiny Husk - atlas0 #204005_0: -1173759820158480594
+      Spiny Husk - atlas0 #204005_1: 8547074920125460039
+      Spiny Husk - atlas0 #204005_10: -1403051408884616795
+      Spiny Husk - atlas0 #204005_11: -7482807417831747035
+      Spiny Husk - atlas0 #204005_12: 5321815264404082044
+      Spiny Husk - atlas0 #204005_13: -5504396653616119311
+      Spiny Husk - atlas0 #204005_14: -4495701465290040362
+      Spiny Husk - atlas0 #204005_15: 4120995202534993902
+      Spiny Husk - atlas0 #204005_16: 453612925853815737
+      Spiny Husk - atlas0 #204005_17: -572618113791936630
+      Spiny Husk - atlas0 #204005_18: -4811134363593700990
+      Spiny Husk - atlas0 #204005_19: 5525088415070336732
+      Spiny Husk - atlas0 #204005_2: 7333755072863236965
+      Spiny Husk - atlas0 #204005_20: 1203510643190010652
+      Spiny Husk - atlas0 #204005_21: -8961411625786968008
+      Spiny Husk - atlas0 #204005_22: 7000566946069765977
+      Spiny Husk - atlas0 #204005_23: -4931501452432491543
+      Spiny Husk - atlas0 #204005_24: -6222712957198027271
+      Spiny Husk - atlas0 #204005_25: -5210447893192705655
+      Spiny Husk - atlas0 #204005_26: 3507237012906649892
+      Spiny Husk - atlas0 #204005_27: 7029406858568317453
+      Spiny Husk - atlas0 #204005_28: -2524803286669636642
+      Spiny Husk - atlas0 #204005_29: 8937051697585579313
+      Spiny Husk - atlas0 #204005_3: -3978990363490657866
+      Spiny Husk - atlas0 #204005_30: 7281194779162636695
+      Spiny Husk - atlas0 #204005_31: 1717509176757564443
+      Spiny Husk - atlas0 #204005_32: -8825180918180924995
+      Spiny Husk - atlas0 #204005_33: 2917278810476002992
+      Spiny Husk - atlas0 #204005_34: -6799570150168362153
+      Spiny Husk - atlas0 #204005_35: 7684760140538850411
+      Spiny Husk - atlas0 #204005_4: 7580404008001671634
+      Spiny Husk - atlas0 #204005_5: -3849578827050936435
+      Spiny Husk - atlas0 #204005_6: 7145619847455502088
+      Spiny Husk - atlas0 #204005_7: 4202905224494759871
+      Spiny Husk - atlas0 #204005_8: -8639695142319373259
+      Spiny Husk - atlas0 #204005_9: -8828849283499031373
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1300 @@
+fileFormatVersion: 2
+guid: 24156fb236762f54fb561d53f67a5776
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2863289354868297661
+    second: The Knight Shape of Unn - atlas0 #50300415_0
+  - first:
+      213: -7466828769809559885
+    second: The Knight Shape of Unn - atlas0 #50300415_1
+  - first:
+      213: 3918964429848368187
+    second: The Knight Shape of Unn - atlas0 #50300415_2
+  - first:
+      213: -9035817209377038868
+    second: The Knight Shape of Unn - atlas0 #50300415_3
+  - first:
+      213: -9022061232295591162
+    second: The Knight Shape of Unn - atlas0 #50300415_4
+  - first:
+      213: -2346983113705195376
+    second: The Knight Shape of Unn - atlas0 #50300415_5
+  - first:
+      213: 1479676406424480984
+    second: The Knight Shape of Unn - atlas0 #50300415_6
+  - first:
+      213: -3008695623425866079
+    second: The Knight Shape of Unn - atlas0 #50300415_7
+  - first:
+      213: -3224438091992834761
+    second: The Knight Shape of Unn - atlas0 #50300415_8
+  - first:
+      213: 1466344518117247797
+    second: The Knight Shape of Unn - atlas0 #50300415_9
+  - first:
+      213: -819271102975440626
+    second: The Knight Shape of Unn - atlas0 #50300415_10
+  - first:
+      213: -4445318413699984468
+    second: The Knight Shape of Unn - atlas0 #50300415_11
+  - first:
+      213: 8753166573976844288
+    second: The Knight Shape of Unn - atlas0 #50300415_12
+  - first:
+      213: -2716769556788679950
+    second: The Knight Shape of Unn - atlas0 #50300415_13
+  - first:
+      213: -586834227229073258
+    second: The Knight Shape of Unn - atlas0 #50300415_14
+  - first:
+      213: 2668319489668472279
+    second: The Knight Shape of Unn - atlas0 #50300415_15
+  - first:
+      213: -7372242688577155486
+    second: The Knight Shape of Unn - atlas0 #50300415_16
+  - first:
+      213: -3162767664405555943
+    second: The Knight Shape of Unn - atlas0 #50300415_17
+  - first:
+      213: 1092186212189871512
+    second: The Knight Shape of Unn - atlas0 #50300415_18
+  - first:
+      213: 9004847164363877032
+    second: The Knight Shape of Unn - atlas0 #50300415_19
+  - first:
+      213: 6558316183943630456
+    second: The Knight Shape of Unn - atlas0 #50300415_20
+  - first:
+      213: -594549274601302080
+    second: The Knight Shape of Unn - atlas0 #50300415_21
+  - first:
+      213: -8850364019579171326
+    second: The Knight Shape of Unn - atlas0 #50300415_22
+  - first:
+      213: -9124699587856234480
+    second: The Knight Shape of Unn - atlas0 #50300415_23
+  - first:
+      213: -3995534777909487174
+    second: The Knight Shape of Unn - atlas0 #50300415_24
+  - first:
+      213: -2009923977145506305
+    second: The Knight Shape of Unn - atlas0 #50300415_25
+  - first:
+      213: 7443274205856949317
+    second: The Knight Shape of Unn - atlas0 #50300415_26
+  - first:
+      213: 8382122032630525890
+    second: The Knight Shape of Unn - atlas0 #50300415_27
+  - first:
+      213: 6513497651528795797
+    second: The Knight Shape of Unn - atlas0 #50300415_28
+  - first:
+      213: -6151196780673308561
+    second: The Knight Shape of Unn - atlas0 #50300415_29
+  - first:
+      213: -5887863573154816688
+    second: The Knight Shape of Unn - atlas0 #50300415_30
+  - first:
+      213: -5754112544472185528
+    second: The Knight Shape of Unn - atlas0 #50300415_31
+  - first:
+      213: 8648905224173297701
+    second: The Knight Shape of Unn - atlas0 #50300415_32
+  - first:
+      213: -503592279814044349
+    second: The Knight Shape of Unn - atlas0 #50300415_33
+  - first:
+      213: -3873220544385439764
+    second: The Knight Shape of Unn - atlas0 #50300415_34
+  - first:
+      213: 5780906838813994113
+    second: The Knight Shape of Unn - atlas0 #50300415_35
+  - first:
+      213: 653585768092824957
+    second: The Knight Shape of Unn - atlas0 #50300415_36
+  - first:
+      213: 3680478882888109681
+    second: The Knight Shape of Unn - atlas0 #50300415_37
+  - first:
+      213: -4501204151858302399
+    second: The Knight Shape of Unn - atlas0 #50300415_38
+  - first:
+      213: -2903672592168562193
+    second: The Knight Shape of Unn - atlas0 #50300415_39
+  - first:
+      213: 1961125273789408746
+    second: The Knight Shape of Unn - atlas0 #50300415_40
+  - first:
+      213: -5850759396212551031
+    second: The Knight Shape of Unn - atlas0 #50300415_41
+  - first:
+      213: -1335265175124848964
+    second: The Knight Shape of Unn - atlas0 #50300415_42
+  - first:
+      213: -5442577140529307446
+    second: The Knight Shape of Unn - atlas0 #50300415_43
+  - first:
+      213: 5640630601415669260
+    second: The Knight Shape of Unn - atlas0 #50300415_44
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: The Knight Shape of Unn - atlas0 #50300415_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 816
+        width: 88
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 340fae9808d8348d0800000000000000
+      internalID: -2863289354868297661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight Shape of Unn - atlas0 #50300415_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 721
+        width: 101
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3be85d87bce706890800000000000000
+      internalID: -7466828769809559885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight Shape of Unn - atlas0 #50300415_2
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 805
+        width: 104
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b34d088a265f26630800000000000000
+      internalID: 3918964429848368187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight Shape of Unn - atlas0 #50300415_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 516
+        width: 103
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ced58b33f145a9280800000000000000
+      internalID: -9035817209377038868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight Shape of Unn - atlas0 #50300415_4
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 605
+        width: 310
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 603c2333c133bc280800000000000000
+      internalID: -9022061232295591162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight Shape of Unn - atlas0 #50300415_5
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 698
+        width: 103
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 098f2cdfa47dd6fd0800000000000000
+      internalID: -2346983113705195376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight Shape of Unn - atlas0 #50300415_6
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 201
+        width: 239
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dc257b1addd88410800000000000000
+      internalID: 1479676406424480984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight Shape of Unn - atlas0 #50300415_7
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 634
+        width: 94
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a6cd607547fe36d0800000000000000
+      internalID: -3008695623425866079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight Shape of Unn - atlas0 #50300415_8
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 591
+        width: 107
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73d578e93ae7043d0800000000000000
+      internalID: -3224438091992834761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight Shape of Unn - atlas0 #50300415_9
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 608
+        width: 87
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53b48b8f190895410800000000000000
+      internalID: 1466344518117247797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight Shape of Unn - atlas0 #50300415_10
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 507
+        width: 109
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e090864c54d51a4f0800000000000000
+      internalID: -819271102975440626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight Shape of Unn - atlas0 #50300415_11
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 513
+        width: 98
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca3d8ed747e0f42c0800000000000000
+      internalID: -4445318413699984468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight Shape of Unn - atlas0 #50300415_12
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 503
+        width: 105
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00876bd6f9e797970800000000000000
+      internalID: 8753166573976844288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight Shape of Unn - atlas0 #50300415_13
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 599
+        width: 103
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fae30f6b781c4ad0800000000000000
+      internalID: -2716769556788679950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight Shape of Unn - atlas0 #50300415_14
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 304
+        width: 122
+        height: 297
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69068f721652bd7f0800000000000000
+      internalID: -586834227229073258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight Shape of Unn - atlas0 #50300415_15
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 307
+        width: 85
+        height: 326
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ddd0f04076c70520800000000000000
+      internalID: 2668319489668472279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight Shape of Unn - atlas0 #50300415_16
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 497
+        width: 82
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26e4365a55880b990800000000000000
+      internalID: -7372242688577155486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight Shape of Unn - atlas0 #50300415_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 304
+        width: 106
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 915d308f0979b14d0800000000000000
+      internalID: -3162767664405555943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight Shape of Unn - atlas0 #50300415_18
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 404
+        width: 108
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89d1826c299382f00800000000000000
+      internalID: 1092186212189871512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight Shape of Unn - atlas0 #50300415_19
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 203
+        width: 120
+        height: 312
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8aaa79849c4a7fc70800000000000000
+      internalID: 9004847164363877032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight Shape of Unn - atlas0 #50300415_20
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 296
+        width: 113
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87ec7a462d1d30b50800000000000000
+      internalID: 6558316183943630456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight Shape of Unn - atlas0 #50300415_21
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 497
+        width: 111
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c75ce5b59cbfb7f0800000000000000
+      internalID: -594549274601302080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight Shape of Unn - atlas0 #50300415_22
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 295
+        width: 122
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20ec510c0d03d2580800000000000000
+      internalID: -8850364019579171326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight Shape of Unn - atlas0 #50300415_23
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 202
+        width: 111
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0180dafc11e8e5180800000000000000
+      internalID: -9124699587856234480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight Shape of Unn - atlas0 #50300415_24
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 199
+        width: 114
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab95cfae9420d88c0800000000000000
+      internalID: -3995534777909487174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight Shape of Unn - atlas0 #50300415_25
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 191
+        width: 108
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff5a3b4bac05b14e0800000000000000
+      internalID: -2009923977145506305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight Shape of Unn - atlas0 #50300415_26
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 191
+        width: 108
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5446eed3472db4760800000000000000
+      internalID: 7443274205856949317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight Shape of Unn - atlas0 #50300415_27
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 198
+        width: 120
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cfeaea0497435470800000000000000
+      internalID: 8382122032630525890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight Shape of Unn - atlas0 #50300415_28
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 95
+        width: 125
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59607b4aa97946a50800000000000000
+      internalID: 6513497651528795797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight Shape of Unn - atlas0 #50300415_29
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 266
+        width: 98
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f68e0705e1f82aaa0800000000000000
+      internalID: -6151196780673308561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight Shape of Unn - atlas0 #50300415_30
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 135
+        width: 74
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05d1524864b1a4ea0800000000000000
+      internalID: -5887863573154816688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight Shape of Unn - atlas0 #50300415_31
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 100
+        width: 113
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 845cd1d90294520b0800000000000000
+      internalID: -5754112544472185528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight Shape of Unn - atlas0 #50300415_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 120
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 520aede3a75170870800000000000000
+      internalID: 8648905224173297701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight Shape of Unn - atlas0 #50300415_33
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 100
+        width: 117
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3450e0a5d71e209f0800000000000000
+      internalID: -503592279814044349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight Shape of Unn - atlas0 #50300415_34
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 0
+        width: 115
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce72923af6e8f3ac0800000000000000
+      internalID: -3873220544385439764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight Shape of Unn - atlas0 #50300415_35
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 100
+        width: 112
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18c622f2428e93050800000000000000
+      internalID: 5780906838813994113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight Shape of Unn - atlas0 #50300415_36
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 0
+        width: 124
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d757c611bc0021900800000000000000
+      internalID: 653585768092824957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight Shape of Unn - atlas0 #50300415_37
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 95
+        width: 242
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17e4fd14b00b31330800000000000000
+      internalID: 3680478882888109681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight Shape of Unn - atlas0 #50300415_38
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 95
+        width: 110
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 142f8fa1ca28881c0800000000000000
+      internalID: -4501204151858302399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight Shape of Unn - atlas0 #50300415_39
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 0
+        width: 238
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe151c7692514b7d0800000000000000
+      internalID: -2903672592168562193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight Shape of Unn - atlas0 #50300415_40
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 0
+        width: 66
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae52248cb01573b10800000000000000
+      internalID: 1961125273789408746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight Shape of Unn - atlas0 #50300415_41
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 7
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 982d87ae35dedcea0800000000000000
+      internalID: -5850759396212551031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight Shape of Unn - atlas0 #50300415_42
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 0
+        width: 125
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbecbb3d56f287de0800000000000000
+      internalID: -1335265175124848964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight Shape of Unn - atlas0 #50300415_43
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 0
+        width: 124
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac0e61c3de41874b0800000000000000
+      internalID: -5442577140529307446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight Shape of Unn - atlas0 #50300415_44
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 0
+        width: 123
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c06349a85ab874e40800000000000000
+      internalID: 5640630601415669260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      The Knight Shape of Unn - atlas0 #50300415_0: -2863289354868297661
+      The Knight Shape of Unn - atlas0 #50300415_1: -7466828769809559885
+      The Knight Shape of Unn - atlas0 #50300415_10: -819271102975440626
+      The Knight Shape of Unn - atlas0 #50300415_11: -4445318413699984468
+      The Knight Shape of Unn - atlas0 #50300415_12: 8753166573976844288
+      The Knight Shape of Unn - atlas0 #50300415_13: -2716769556788679950
+      The Knight Shape of Unn - atlas0 #50300415_14: -586834227229073258
+      The Knight Shape of Unn - atlas0 #50300415_15: 2668319489668472279
+      The Knight Shape of Unn - atlas0 #50300415_16: -7372242688577155486
+      The Knight Shape of Unn - atlas0 #50300415_17: -3162767664405555943
+      The Knight Shape of Unn - atlas0 #50300415_18: 1092186212189871512
+      The Knight Shape of Unn - atlas0 #50300415_19: 9004847164363877032
+      The Knight Shape of Unn - atlas0 #50300415_2: 3918964429848368187
+      The Knight Shape of Unn - atlas0 #50300415_20: 6558316183943630456
+      The Knight Shape of Unn - atlas0 #50300415_21: -594549274601302080
+      The Knight Shape of Unn - atlas0 #50300415_22: -8850364019579171326
+      The Knight Shape of Unn - atlas0 #50300415_23: -9124699587856234480
+      The Knight Shape of Unn - atlas0 #50300415_24: -3995534777909487174
+      The Knight Shape of Unn - atlas0 #50300415_25: -2009923977145506305
+      The Knight Shape of Unn - atlas0 #50300415_26: 7443274205856949317
+      The Knight Shape of Unn - atlas0 #50300415_27: 8382122032630525890
+      The Knight Shape of Unn - atlas0 #50300415_28: 6513497651528795797
+      The Knight Shape of Unn - atlas0 #50300415_29: -6151196780673308561
+      The Knight Shape of Unn - atlas0 #50300415_3: -9035817209377038868
+      The Knight Shape of Unn - atlas0 #50300415_30: -5887863573154816688
+      The Knight Shape of Unn - atlas0 #50300415_31: -5754112544472185528
+      The Knight Shape of Unn - atlas0 #50300415_32: 8648905224173297701
+      The Knight Shape of Unn - atlas0 #50300415_33: -503592279814044349
+      The Knight Shape of Unn - atlas0 #50300415_34: -3873220544385439764
+      The Knight Shape of Unn - atlas0 #50300415_35: 5780906838813994113
+      The Knight Shape of Unn - atlas0 #50300415_36: 653585768092824957
+      The Knight Shape of Unn - atlas0 #50300415_37: 3680478882888109681
+      The Knight Shape of Unn - atlas0 #50300415_38: -4501204151858302399
+      The Knight Shape of Unn - atlas0 #50300415_39: -2903672592168562193
+      The Knight Shape of Unn - atlas0 #50300415_4: -9022061232295591162
+      The Knight Shape of Unn - atlas0 #50300415_40: 1961125273789408746
+      The Knight Shape of Unn - atlas0 #50300415_41: -5850759396212551031
+      The Knight Shape of Unn - atlas0 #50300415_42: -1335265175124848964
+      The Knight Shape of Unn - atlas0 #50300415_43: -5442577140529307446
+      The Knight Shape of Unn - atlas0 #50300415_44: 5640630601415669260
+      The Knight Shape of Unn - atlas0 #50300415_5: -2346983113705195376
+      The Knight Shape of Unn - atlas0 #50300415_6: 1479676406424480984
+      The Knight Shape of Unn - atlas0 #50300415_7: -3008695623425866079
+      The Knight Shape of Unn - atlas0 #50300415_8: -3224438091992834761
+      The Knight Shape of Unn - atlas0 #50300415_9: 1466344518117247797
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

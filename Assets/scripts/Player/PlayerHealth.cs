@@ -34,6 +34,7 @@ public class PlayerHealth : MonoBehaviour, IDamageable
     void Die()
     {
         Destroy(gameObject, 1f);
+        
     }
 
 

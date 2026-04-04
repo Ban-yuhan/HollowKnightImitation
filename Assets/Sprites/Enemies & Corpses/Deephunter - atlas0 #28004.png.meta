@@ -1,0 +1,1040 @@
+fileFormatVersion: 2
+guid: a4d851b7bd660534d9c0ab0810ea0773
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4830273422761573864
+    second: Deephunter - atlas0 #28004_0
+  - first:
+      213: 4247380333359786451
+    second: Deephunter - atlas0 #28004_1
+  - first:
+      213: 4224746066663027328
+    second: Deephunter - atlas0 #28004_2
+  - first:
+      213: 63151530050934745
+    second: Deephunter - atlas0 #28004_3
+  - first:
+      213: -8987709808004234228
+    second: Deephunter - atlas0 #28004_4
+  - first:
+      213: -335701573115182817
+    second: Deephunter - atlas0 #28004_5
+  - first:
+      213: -5514558504240061987
+    second: Deephunter - atlas0 #28004_6
+  - first:
+      213: 5781370306666692848
+    second: Deephunter - atlas0 #28004_7
+  - first:
+      213: 7801035685503671634
+    second: Deephunter - atlas0 #28004_8
+  - first:
+      213: -8468439976205202116
+    second: Deephunter - atlas0 #28004_9
+  - first:
+      213: 724203523330338685
+    second: Deephunter - atlas0 #28004_10
+  - first:
+      213: 6180121497356265496
+    second: Deephunter - atlas0 #28004_11
+  - first:
+      213: -5050086116718954321
+    second: Deephunter - atlas0 #28004_12
+  - first:
+      213: -3090564930921680193
+    second: Deephunter - atlas0 #28004_13
+  - first:
+      213: 4288424160112793400
+    second: Deephunter - atlas0 #28004_14
+  - first:
+      213: 2454223592275912000
+    second: Deephunter - atlas0 #28004_15
+  - first:
+      213: -9044487567271582350
+    second: Deephunter - atlas0 #28004_16
+  - first:
+      213: 5978334450900675311
+    second: Deephunter - atlas0 #28004_17
+  - first:
+      213: -366545108261952788
+    second: Deephunter - atlas0 #28004_18
+  - first:
+      213: 7184658309401895967
+    second: Deephunter - atlas0 #28004_19
+  - first:
+      213: 1079915838183578548
+    second: Deephunter - atlas0 #28004_20
+  - first:
+      213: -4347187477237749130
+    second: Deephunter - atlas0 #28004_21
+  - first:
+      213: -7651421176831807685
+    second: Deephunter - atlas0 #28004_22
+  - first:
+      213: -1382130266968729454
+    second: Deephunter - atlas0 #28004_23
+  - first:
+      213: 6086484817239793046
+    second: Deephunter - atlas0 #28004_24
+  - first:
+      213: 4683876372298406281
+    second: Deephunter - atlas0 #28004_25
+  - first:
+      213: 171545016799425003
+    second: Deephunter - atlas0 #28004_26
+  - first:
+      213: 1001862634174971476
+    second: Deephunter - atlas0 #28004_27
+  - first:
+      213: 8726628174775597143
+    second: Deephunter - atlas0 #28004_28
+  - first:
+      213: -5667786275475054358
+    second: Deephunter - atlas0 #28004_29
+  - first:
+      213: 704371063673650750
+    second: Deephunter - atlas0 #28004_30
+  - first:
+      213: 7818766941764790807
+    second: Deephunter - atlas0 #28004_31
+  - first:
+      213: 1271319834642121750
+    second: Deephunter - atlas0 #28004_32
+  - first:
+      213: -1672019794089624696
+    second: Deephunter - atlas0 #28004_33
+  - first:
+      213: -5838638556656497420
+    second: Deephunter - atlas0 #28004_34
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Deephunter - atlas0 #28004_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 548
+        width: 137
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8edb6bb0614980340800000000000000
+      internalID: 4830273422761573864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deephunter - atlas0 #28004_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 441
+        width: 169
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d9e3ebd8e9b1fa30800000000000000
+      internalID: 4247380333359786451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deephunter - atlas0 #28004_2
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 444
+        width: 138
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 082bda9f92051aa30800000000000000
+      internalID: 4224746066663027328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deephunter - atlas0 #28004_3
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 384
+        width: 153
+        height: 233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d755b36bfb50e000800000000000000
+      internalID: 63151530050934745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deephunter - atlas0 #28004_4
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 395
+        width: 165
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c040d9d6c8d354380800000000000000
+      internalID: -8987709808004234228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deephunter - atlas0 #28004_5
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 438
+        width: 131
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f110ee7a239575bf0800000000000000
+      internalID: -335701573115182817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deephunter - atlas0 #28004_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 311
+        width: 168
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd169adf14a5873b0800000000000000
+      internalID: -5514558504240061987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deephunter - atlas0 #28004_7
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 0
+        width: 323
+        height: 446
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f00cd3b9ad8b3050800000000000000
+      internalID: 5781370306666692848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deephunter - atlas0 #28004_8
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 280
+        width: 180
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25d9792df98d24c60800000000000000
+      internalID: 7801035685503671634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deephunter - atlas0 #28004_9
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 282
+        width: 158
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3d429895be0a7a80800000000000000
+      internalID: -8468439976205202116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deephunter - atlas0 #28004_10
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 332
+        width: 156
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7fe0397443ec0a00800000000000000
+      internalID: 724203523330338685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deephunter - atlas0 #28004_11
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 364
+        width: 128
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 818eca612c334c550800000000000000
+      internalID: 6180121497356265496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deephunter - atlas0 #28004_12
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 172
+        width: 116
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa8b5dfee6d7ae9b0800000000000000
+      internalID: -5050086116718954321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deephunter - atlas0 #28004_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 169
+        width: 170
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb23221e19b1c15d0800000000000000
+      internalID: -3090564930921680193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deephunter - atlas0 #28004_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 231
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 837d9b57d0b838b30800000000000000
+      internalID: 4288424160112793400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deephunter - atlas0 #28004_15
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 160
+        width: 176
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0452df8aa572f0220800000000000000
+      internalID: 2454223592275912000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deephunter - atlas0 #28004_16
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 146
+        width: 131
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27527513a768b7280800000000000000
+      internalID: -9044487567271582350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deephunter - atlas0 #28004_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 185
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fea2a6e228f47f250800000000000000
+      internalID: 5978334450900675311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deephunter - atlas0 #28004_18
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 171
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce2a3e38a25c9eaf0800000000000000
+      internalID: -366545108261952788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deephunter - atlas0 #28004_19
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 0
+        width: 113
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f14657c9aa805b360800000000000000
+      internalID: 7184658309401895967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deephunter - atlas0 #28004_20
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 159
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bb1042bbb1acfe00800000000000000
+      internalID: 1079915838183578548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deephunter - atlas0 #28004_21
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 0
+        width: 159
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67aa7379500bba3c0800000000000000
+      internalID: -4347187477237749130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deephunter - atlas0 #28004_22
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 0
+        width: 196
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3fe9088af0b0d590800000000000000
+      internalID: -7651421176831807685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deephunter - atlas0 #28004_23
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 12
+        width: 153
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 298530458dfa1dce0800000000000000
+      internalID: -1382130266968729454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deephunter - atlas0 #28004_24
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 103
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69dd26691b9877450800000000000000
+      internalID: 6086484817239793046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deephunter - atlas0 #28004_25
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 97
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98911be8eb8700140800000000000000
+      internalID: 4683876372298406281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deephunter - atlas0 #28004_26
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 0
+        width: 179
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be1715da843716200800000000000000
+      internalID: 171545016799425003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deephunter - atlas0 #28004_27
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 96
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45e7cb7f1c457ed00800000000000000
+      internalID: 1001862634174971476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deephunter - atlas0 #28004_28
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 73
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7583a6cd6163b1970800000000000000
+      internalID: 8726628174775597143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deephunter - atlas0 #28004_29
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 70
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae0a973696af751b0800000000000000
+      internalID: -5667786275475054358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deephunter - atlas0 #28004_30
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 50
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3ef45020cd66c900800000000000000
+      internalID: 704371063673650750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deephunter - atlas0 #28004_31
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 38
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71a2571ab17d18c60800000000000000
+      internalID: 7818766941764790807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deephunter - atlas0 #28004_32
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 36
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61480c367a2a4a110800000000000000
+      internalID: 1271319834642121750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deephunter - atlas0 #28004_33
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 14
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88bbdd32bdacbc8e0800000000000000
+      internalID: -1672019794089624696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deephunter - atlas0 #28004_34
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 3
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fc079aca2df8fea0800000000000000
+      internalID: -5838638556656497420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Deephunter - atlas0 #28004_0: 4830273422761573864
+      Deephunter - atlas0 #28004_1: 4247380333359786451
+      Deephunter - atlas0 #28004_10: 724203523330338685
+      Deephunter - atlas0 #28004_11: 6180121497356265496
+      Deephunter - atlas0 #28004_12: -5050086116718954321
+      Deephunter - atlas0 #28004_13: -3090564930921680193
+      Deephunter - atlas0 #28004_14: 4288424160112793400
+      Deephunter - atlas0 #28004_15: 2454223592275912000
+      Deephunter - atlas0 #28004_16: -9044487567271582350
+      Deephunter - atlas0 #28004_17: 5978334450900675311
+      Deephunter - atlas0 #28004_18: -366545108261952788
+      Deephunter - atlas0 #28004_19: 7184658309401895967
+      Deephunter - atlas0 #28004_2: 4224746066663027328
+      Deephunter - atlas0 #28004_20: 1079915838183578548
+      Deephunter - atlas0 #28004_21: -4347187477237749130
+      Deephunter - atlas0 #28004_22: -7651421176831807685
+      Deephunter - atlas0 #28004_23: -1382130266968729454
+      Deephunter - atlas0 #28004_24: 6086484817239793046
+      Deephunter - atlas0 #28004_25: 4683876372298406281
+      Deephunter - atlas0 #28004_26: 171545016799425003
+      Deephunter - atlas0 #28004_27: 1001862634174971476
+      Deephunter - atlas0 #28004_28: 8726628174775597143
+      Deephunter - atlas0 #28004_29: -5667786275475054358
+      Deephunter - atlas0 #28004_3: 63151530050934745
+      Deephunter - atlas0 #28004_30: 704371063673650750
+      Deephunter - atlas0 #28004_31: 7818766941764790807
+      Deephunter - atlas0 #28004_32: 1271319834642121750
+      Deephunter - atlas0 #28004_33: -1672019794089624696
+      Deephunter - atlas0 #28004_34: -5838638556656497420
+      Deephunter - atlas0 #28004_4: -8987709808004234228
+      Deephunter - atlas0 #28004_5: -335701573115182817
+      Deephunter - atlas0 #28004_6: -5514558504240061987
+      Deephunter - atlas0 #28004_7: 5781370306666692848
+      Deephunter - atlas0 #28004_8: 7801035685503671634
+      Deephunter - atlas0 #28004_9: -8468439976205202116
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

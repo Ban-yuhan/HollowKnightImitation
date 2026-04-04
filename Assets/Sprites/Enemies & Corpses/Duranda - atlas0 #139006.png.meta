@@ -1,0 +1,494 @@
+fileFormatVersion: 2
+guid: 80510e4d863d5854c82794f8fcf47136
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5689160556940642029
+    second: Duranda - atlas0 #139006_0
+  - first:
+      213: 4392813470237477057
+    second: Duranda - atlas0 #139006_1
+  - first:
+      213: -5370502597493272924
+    second: Duranda - atlas0 #139006_2
+  - first:
+      213: 5615693841501052262
+    second: Duranda - atlas0 #139006_3
+  - first:
+      213: 7129488517239262023
+    second: Duranda - atlas0 #139006_4
+  - first:
+      213: 3307196360110895286
+    second: Duranda - atlas0 #139006_5
+  - first:
+      213: -8135172203443788927
+    second: Duranda - atlas0 #139006_6
+  - first:
+      213: 6726399671748331868
+    second: Duranda - atlas0 #139006_7
+  - first:
+      213: -2364457776916313843
+    second: Duranda - atlas0 #139006_8
+  - first:
+      213: 5993903033189119986
+    second: Duranda - atlas0 #139006_9
+  - first:
+      213: 2579627809223796672
+    second: Duranda - atlas0 #139006_10
+  - first:
+      213: -8777728668197351464
+    second: Duranda - atlas0 #139006_11
+  - first:
+      213: -5808119623389024886
+    second: Duranda - atlas0 #139006_12
+  - first:
+      213: -2061604954311158348
+    second: Duranda - atlas0 #139006_13
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Duranda - atlas0 #139006_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 912
+        width: 274
+        height: 304
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 319b36dad9a0c01b0800000000000000
+      internalID: -5689160556940642029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duranda - atlas0 #139006_1
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 952
+        width: 266
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c84e0ab39866fc30800000000000000
+      internalID: 4392813470237477057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duranda - atlas0 #139006_2
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 1202
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4aec91b77542875b0800000000000000
+      internalID: -5370502597493272924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duranda - atlas0 #139006_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 623
+        width: 300
+        height: 291
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66dd40eabc3feed40800000000000000
+      internalID: 5615693841501052262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duranda - atlas0 #139006_4
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 626
+        width: 264
+        height: 328
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74bc544680801f260800000000000000
+      internalID: 7129488517239262023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duranda - atlas0 #139006_5
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 871
+        width: 303
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b0ffd6319585ed20800000000000000
+      internalID: 3307196360110895286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duranda - atlas0 #139006_6
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 589
+        width: 303
+        height: 284
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 183e913abff0a1f80800000000000000
+      internalID: -8135172203443788927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duranda - atlas0 #139006_7
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 797
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c590ddb0dd8f85d50800000000000000
+      internalID: 6726399671748331868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duranda - atlas0 #139006_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 301
+        width: 271
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d094e78ed22cf2fd0800000000000000
+      internalID: -2364457776916313843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duranda - atlas0 #139006_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 303
+        height: 303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f7bf573d0f9e2350800000000000000
+      internalID: 5993903033189119986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duranda - atlas0 #139006_10
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 295
+        width: 266
+        height: 333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c7e08533ddacc320800000000000000
+      internalID: 2579627809223796672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duranda - atlas0 #139006_11
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 294
+        width: 300
+        height: 297
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8df855d584e3f2680800000000000000
+      internalID: -8777728668197351464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duranda - atlas0 #139006_12
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 0
+        width: 310
+        height: 297
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8debeaa9f9656fa0800000000000000
+      internalID: -5808119623389024886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duranda - atlas0 #139006_13
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 0
+        width: 310
+        height: 296
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b519178735b363e0800000000000000
+      internalID: -2061604954311158348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Duranda - atlas0 #139006_0: -5689160556940642029
+      Duranda - atlas0 #139006_1: 4392813470237477057
+      Duranda - atlas0 #139006_10: 2579627809223796672
+      Duranda - atlas0 #139006_11: -8777728668197351464
+      Duranda - atlas0 #139006_12: -5808119623389024886
+      Duranda - atlas0 #139006_13: -2061604954311158348
+      Duranda - atlas0 #139006_2: -5370502597493272924
+      Duranda - atlas0 #139006_3: 5615693841501052262
+      Duranda - atlas0 #139006_4: 7129488517239262023
+      Duranda - atlas0 #139006_5: 3307196360110895286
+      Duranda - atlas0 #139006_6: -8135172203443788927
+      Duranda - atlas0 #139006_7: 6726399671748331868
+      Duranda - atlas0 #139006_8: -2364457776916313843
+      Duranda - atlas0 #139006_9: 5993903033189119986
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

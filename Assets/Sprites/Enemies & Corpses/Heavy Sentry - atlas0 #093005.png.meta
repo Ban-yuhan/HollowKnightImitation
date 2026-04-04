@@ -1,0 +1,2210 @@
+fileFormatVersion: 2
+guid: 163eecf23bb0b6c4096489bbaa2fe2a9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2819702654161087441
+    second: Heavy Sentry - atlas0 #093005_0
+  - first:
+      213: 3202966777533374802
+    second: Heavy Sentry - atlas0 #093005_1
+  - first:
+      213: 7507370201856357539
+    second: Heavy Sentry - atlas0 #093005_2
+  - first:
+      213: -1905467293234444838
+    second: Heavy Sentry - atlas0 #093005_3
+  - first:
+      213: -5265175758543966905
+    second: Heavy Sentry - atlas0 #093005_4
+  - first:
+      213: -53979932773235490
+    second: Heavy Sentry - atlas0 #093005_5
+  - first:
+      213: -1396626928899459441
+    second: Heavy Sentry - atlas0 #093005_6
+  - first:
+      213: -8760062735629854005
+    second: Heavy Sentry - atlas0 #093005_7
+  - first:
+      213: -1424068648665575896
+    second: Heavy Sentry - atlas0 #093005_8
+  - first:
+      213: -8788973157513942617
+    second: Heavy Sentry - atlas0 #093005_9
+  - first:
+      213: 1883889086847622697
+    second: Heavy Sentry - atlas0 #093005_10
+  - first:
+      213: 6481282223235105013
+    second: Heavy Sentry - atlas0 #093005_11
+  - first:
+      213: 554905156890271291
+    second: Heavy Sentry - atlas0 #093005_12
+  - first:
+      213: -6406682840426276572
+    second: Heavy Sentry - atlas0 #093005_13
+  - first:
+      213: 8259813274463526971
+    second: Heavy Sentry - atlas0 #093005_14
+  - first:
+      213: 7087104459220171158
+    second: Heavy Sentry - atlas0 #093005_15
+  - first:
+      213: -1341342393726888972
+    second: Heavy Sentry - atlas0 #093005_16
+  - first:
+      213: 5549556183904333845
+    second: Heavy Sentry - atlas0 #093005_17
+  - first:
+      213: -453792603294662735
+    second: Heavy Sentry - atlas0 #093005_18
+  - first:
+      213: -5817817426806765913
+    second: Heavy Sentry - atlas0 #093005_19
+  - first:
+      213: 4067538542866084403
+    second: Heavy Sentry - atlas0 #093005_20
+  - first:
+      213: 3661193000991661569
+    second: Heavy Sentry - atlas0 #093005_21
+  - first:
+      213: 8598365518202411752
+    second: Heavy Sentry - atlas0 #093005_22
+  - first:
+      213: -8681127339480372381
+    second: Heavy Sentry - atlas0 #093005_23
+  - first:
+      213: -7319611028382332417
+    second: Heavy Sentry - atlas0 #093005_24
+  - first:
+      213: -1036257673127601724
+    second: Heavy Sentry - atlas0 #093005_25
+  - first:
+      213: 204661016569443833
+    second: Heavy Sentry - atlas0 #093005_26
+  - first:
+      213: -7086896422922335041
+    second: Heavy Sentry - atlas0 #093005_27
+  - first:
+      213: -3414131936298489059
+    second: Heavy Sentry - atlas0 #093005_28
+  - first:
+      213: -2844848320348683135
+    second: Heavy Sentry - atlas0 #093005_29
+  - first:
+      213: -2846023936636511586
+    second: Heavy Sentry - atlas0 #093005_30
+  - first:
+      213: -5470161246559134881
+    second: Heavy Sentry - atlas0 #093005_31
+  - first:
+      213: -5069572240675076126
+    second: Heavy Sentry - atlas0 #093005_32
+  - first:
+      213: 7643916448446165172
+    second: Heavy Sentry - atlas0 #093005_33
+  - first:
+      213: -8714290909649094424
+    second: Heavy Sentry - atlas0 #093005_34
+  - first:
+      213: -4074579853376514218
+    second: Heavy Sentry - atlas0 #093005_35
+  - first:
+      213: 4411555146314229212
+    second: Heavy Sentry - atlas0 #093005_36
+  - first:
+      213: -1636415800494985846
+    second: Heavy Sentry - atlas0 #093005_37
+  - first:
+      213: -4647004867334551051
+    second: Heavy Sentry - atlas0 #093005_38
+  - first:
+      213: 3696032342172899913
+    second: Heavy Sentry - atlas0 #093005_39
+  - first:
+      213: -8238087390302004066
+    second: Heavy Sentry - atlas0 #093005_40
+  - first:
+      213: 4251880714593261848
+    second: Heavy Sentry - atlas0 #093005_41
+  - first:
+      213: 5695711669959331508
+    second: Heavy Sentry - atlas0 #093005_42
+  - first:
+      213: -6282315407152355394
+    second: Heavy Sentry - atlas0 #093005_43
+  - first:
+      213: -7769244001584070640
+    second: Heavy Sentry - atlas0 #093005_44
+  - first:
+      213: -4457882152375692424
+    second: Heavy Sentry - atlas0 #093005_45
+  - first:
+      213: 7280081319993383776
+    second: Heavy Sentry - atlas0 #093005_46
+  - first:
+      213: 1863392172425591799
+    second: Heavy Sentry - atlas0 #093005_47
+  - first:
+      213: 1231144126243497047
+    second: Heavy Sentry - atlas0 #093005_48
+  - first:
+      213: 6646136787491487783
+    second: Heavy Sentry - atlas0 #093005_49
+  - first:
+      213: 8878550728296626753
+    second: Heavy Sentry - atlas0 #093005_50
+  - first:
+      213: -1649796944552045456
+    second: Heavy Sentry - atlas0 #093005_51
+  - first:
+      213: 3208401882272921888
+    second: Heavy Sentry - atlas0 #093005_52
+  - first:
+      213: 4842986008090597452
+    second: Heavy Sentry - atlas0 #093005_53
+  - first:
+      213: -3826039186986107611
+    second: Heavy Sentry - atlas0 #093005_54
+  - first:
+      213: -5661296268527003095
+    second: Heavy Sentry - atlas0 #093005_55
+  - first:
+      213: 5715263423820070067
+    second: Heavy Sentry - atlas0 #093005_56
+  - first:
+      213: 8931793820530866370
+    second: Heavy Sentry - atlas0 #093005_57
+  - first:
+      213: -9091099044406824547
+    second: Heavy Sentry - atlas0 #093005_58
+  - first:
+      213: -8215810237848002125
+    second: Heavy Sentry - atlas0 #093005_59
+  - first:
+      213: 8295978764400892979
+    second: Heavy Sentry - atlas0 #093005_60
+  - first:
+      213: -2263997609967623311
+    second: Heavy Sentry - atlas0 #093005_61
+  - first:
+      213: -8332343812329964356
+    second: Heavy Sentry - atlas0 #093005_62
+  - first:
+      213: -967165186149514167
+    second: Heavy Sentry - atlas0 #093005_63
+  - first:
+      213: -205314991305697145
+    second: Heavy Sentry - atlas0 #093005_64
+  - first:
+      213: -7388591316988512414
+    second: Heavy Sentry - atlas0 #093005_65
+  - first:
+      213: 7413374467837735255
+    second: Heavy Sentry - atlas0 #093005_66
+  - first:
+      213: 3266051328218205296
+    second: Heavy Sentry - atlas0 #093005_67
+  - first:
+      213: 5898289360277075259
+    second: Heavy Sentry - atlas0 #093005_68
+  - first:
+      213: 1485118153775305730
+    second: Heavy Sentry - atlas0 #093005_69
+  - first:
+      213: 973660442243794667
+    second: Heavy Sentry - atlas0 #093005_70
+  - first:
+      213: -1636536961732049320
+    second: Heavy Sentry - atlas0 #093005_71
+  - first:
+      213: 7074583396784638496
+    second: Heavy Sentry - atlas0 #093005_72
+  - first:
+      213: -1318431709052118676
+    second: Heavy Sentry - atlas0 #093005_73
+  - first:
+      213: 1324328380659421446
+    second: Heavy Sentry - atlas0 #093005_74
+  - first:
+      213: 4796983758239045541
+    second: Heavy Sentry - atlas0 #093005_75
+  - first:
+      213: -7331208445302707018
+    second: Heavy Sentry - atlas0 #093005_76
+  - first:
+      213: -2988170260915291565
+    second: Heavy Sentry - atlas0 #093005_77
+  - first:
+      213: -4481321952486320380
+    second: Heavy Sentry - atlas0 #093005_78
+  - first:
+      213: -905058646957028244
+    second: Heavy Sentry - atlas0 #093005_79
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Heavy Sentry - atlas0 #093005_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2356
+        width: 176
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1db6f71ef98912720800000000000000
+      internalID: 2819702654161087441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Sentry - atlas0 #093005_1
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 2390
+        width: 153
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 251214a6059337c20800000000000000
+      internalID: 3202966777533374802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Sentry - atlas0 #093005_2
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 2163
+        width: 183
+        height: 229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a4300f3c698f2860800000000000000
+      internalID: 7507370201856357539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Sentry - atlas0 #093005_3
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 2338
+        width: 157
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad5c2a7a79b6e85e0800000000000000
+      internalID: -1905467293234444838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Sentry - atlas0 #093005_4
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 2068
+        width: 248
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74d2dff2b865ee6b0800000000000000
+      internalID: -5265175758543966905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Sentry - atlas0 #093005_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2104
+        width: 179
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed44d028989304ff0800000000000000
+      internalID: -53979932773235490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Sentry - atlas0 #093005_6
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 2119
+        width: 195
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f86f333353f2e9ce0800000000000000
+      internalID: -1396626928899459441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Sentry - atlas0 #093005_7
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 2194
+        width: 178
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bca55a0da510e6680800000000000000
+      internalID: -8760062735629854005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Sentry - atlas0 #093005_8
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 1826
+        width: 423
+        height: 436
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82e848ceb11bc3ce0800000000000000
+      internalID: -1424068648665575896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Sentry - atlas0 #093005_9
+      rect:
+        serializedVersion: 2
+        x: 1757
+        y: 2072
+        width: 155
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a920fdaa7b470680800000000000000
+      internalID: -8788973157513942617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Sentry - atlas0 #093005_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1870
+        width: 215
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92e99c9a42be42a10800000000000000
+      internalID: 1883889086847622697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Sentry - atlas0 #093005_11
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 1911
+        width: 187
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f08bfcb7d322f950800000000000000
+      internalID: 6481282223235105013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Sentry - atlas0 #093005_12
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 1887
+        width: 208
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3e1a78dc4b63b700800000000000000
+      internalID: 554905156890271291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Sentry - atlas0 #093005_13
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 1862
+        width: 234
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4291dc396e3e617a0800000000000000
+      internalID: -6406682840426276572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Sentry - atlas0 #093005_14
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 1802
+        width: 235
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3064772960c0a270800000000000000
+      internalID: 8259813274463526971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Sentry - atlas0 #093005_15
+      rect:
+        serializedVersion: 2
+        x: 1289
+        y: 2004
+        width: 231
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 699b7e1e4f37a5260800000000000000
+      internalID: 7087104459220171158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Sentry - atlas0 #093005_16
+      rect:
+        serializedVersion: 2
+        x: 1289
+        y: 1841
+        width: 241
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f39cbb1338926de0800000000000000
+      internalID: -1341342393726888972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Sentry - atlas0 #093005_17
+      rect:
+        serializedVersion: 2
+        x: 1528
+        y: 1973
+        width: 231
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 510b0ba42fbf30d40800000000000000
+      internalID: 5549556183904333845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Sentry - atlas0 #093005_18
+      rect:
+        serializedVersion: 2
+        x: 1815
+        y: 1833
+        width: 165
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bffbe6180ec3b9f0800000000000000
+      internalID: -453792603294662735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Sentry - atlas0 #093005_19
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 1942
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a60b1bdfd5f24fa0800000000000000
+      internalID: -5817817426806765913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Sentry - atlas0 #093005_20
+      rect:
+        serializedVersion: 2
+        x: 1580
+        y: 1799
+        width: 237
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3323eb501ccc27830800000000000000
+      internalID: 4067538542866084403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Sentry - atlas0 #093005_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1625
+        width: 218
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10e1146f2ab2fc230800000000000000
+      internalID: 3661193000991661569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Sentry - atlas0 #093005_22
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 1650
+        width: 191
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ea1c69f1e7835770800000000000000
+      internalID: 8598365518202411752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Sentry - atlas0 #093005_23
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 1648
+        width: 196
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36b2758eda0768780800000000000000
+      internalID: -8681127339480372381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Sentry - atlas0 #093005_24
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 1651
+        width: 244
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff94d37fc848b6a90800000000000000
+      internalID: -7319611028382332417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Sentry - atlas0 #093005_25
+      rect:
+        serializedVersion: 2
+        x: 1112
+        y: 1599
+        width: 241
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c9d479f2297e91f0800000000000000
+      internalID: -1036257673127601724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Sentry - atlas0 #093005_26
+      rect:
+        serializedVersion: 2
+        x: 1201
+        y: 1810
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f5fdf73c1a17d200800000000000000
+      internalID: 204661016569443833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Sentry - atlas0 #093005_27
+      rect:
+        serializedVersion: 2
+        x: 1351
+        y: 1646
+        width: 231
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbc4ab7504946ad90800000000000000
+      internalID: -7086896422922335041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Sentry - atlas0 #093005_28
+      rect:
+        serializedVersion: 2
+        x: 1850
+        y: 1549
+        width: 183
+        height: 286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1bac90c7119e90d0800000000000000
+      internalID: -3414131936298489059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Sentry - atlas0 #093005_29
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 1583
+        width: 238
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18400c976811588d0800000000000000
+      internalID: -2844848320348683135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Sentry - atlas0 #093005_30
+      rect:
+        serializedVersion: 2
+        x: 1604
+        y: 1575
+        width: 239
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9a958afe44e088d0800000000000000
+      internalID: -2846023936636511586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Sentry - atlas0 #093005_31
+      rect:
+        serializedVersion: 2
+        x: 1688
+        y: 1791
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5b1cb214551614b0800000000000000
+      internalID: -5470161246559134881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Sentry - atlas0 #093005_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1374
+        width: 225
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e7816728e245a9b0800000000000000
+      internalID: -5069572240675076126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Sentry - atlas0 #093005_33
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 1387
+        width: 211
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b0366ab285a41a60800000000000000
+      internalID: 7643916448446165172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Sentry - atlas0 #093005_34
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 1406
+        width: 208
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e833f4869e901780800000000000000
+      internalID: -8714290909649094424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Sentry - atlas0 #093005_35
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 1433
+        width: 240
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 657978e163f2477c0800000000000000
+      internalID: -4074579853376514218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Sentry - atlas0 #093005_36
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1209
+        width: 238
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd52b1b380ef83d30800000000000000
+      internalID: 4411555146314229212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Sentry - atlas0 #093005_37
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 1368
+        width: 242
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8de8a2ef784a49e0800000000000000
+      internalID: -1636415800494985846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Sentry - atlas0 #093005_38
+      rect:
+        serializedVersion: 2
+        x: 1189
+        y: 1342
+        width: 212
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f9430da1b5828fb0800000000000000
+      internalID: -4647004867334551051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Sentry - atlas0 #093005_39
+      rect:
+        serializedVersion: 2
+        x: 1399
+        y: 1385
+        width: 207
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94a129135d1fa4330800000000000000
+      internalID: 3696032342172899913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Sentry - atlas0 #093005_40
+      rect:
+        serializedVersion: 2
+        x: 1648
+        y: 1311
+        width: 204
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9c9c607a2f6cad80800000000000000
+      internalID: -8238087390302004066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Sentry - atlas0 #093005_41
+      rect:
+        serializedVersion: 2
+        x: 1851
+        y: 1264
+        width: 188
+        height: 287
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8195aa48bf6b10b30800000000000000
+      internalID: 4251880714593261848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Sentry - atlas0 #093005_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1115
+        width: 225
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4be09fe269b3b0f40800000000000000
+      internalID: 5695711669959331508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Sentry - atlas0 #093005_43
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 1122
+        width: 211
+        height: 267
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb768bd1c6bb0d8a0800000000000000
+      internalID: -6282315407152355394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Sentry - atlas0 #093005_44
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 1130
+        width: 210
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0104f386eb91e2490800000000000000
+      internalID: -7769244001584070640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Sentry - atlas0 #093005_45
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 1001
+        width: 268
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 873d7112dcb6222c0800000000000000
+      internalID: -4457882152375692424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Sentry - atlas0 #093005_46
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 1142
+        width: 237
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06b9926936b080560800000000000000
+      internalID: 7280081319993383776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Sentry - atlas0 #093005_47
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 899
+        width: 240
+        height: 243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fbbba2ee491cd910800000000000000
+      internalID: 1863392172425591799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Sentry - atlas0 #093005_48
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1113
+        width: 242
+        height: 231
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7546d085f07e51110800000000000000
+      internalID: 1231144126243497047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Sentry - atlas0 #093005_49
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 1123
+        width: 210
+        height: 264
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 720061b0232db3c50800000000000000
+      internalID: 6646136787491487783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Sentry - atlas0 #093005_50
+      rect:
+        serializedVersion: 2
+        x: 1670
+        y: 1018
+        width: 183
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14af768c8d2f63b70800000000000000
+      internalID: 8878550728296626753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Sentry - atlas0 #093005_51
+      rect:
+        serializedVersion: 2
+        x: 1858
+        y: 955
+        width: 177
+        height: 311
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07453708b6eba19e0800000000000000
+      internalID: -1649796944552045456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Sentry - atlas0 #093005_52
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 573
+        width: 225
+        height: 544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02972995388868c20800000000000000
+      internalID: 3208401882272921888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Sentry - atlas0 #093005_53
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 853
+        width: 223
+        height: 271
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c485d687d1eb53340800000000000000
+      internalID: 4842986008090597452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Sentry - atlas0 #093005_54
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 896
+        width: 246
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52df7f271ad27eac0800000000000000
+      internalID: -3826039186986107611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Sentry - atlas0 #093005_55
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 632
+        width: 228
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92a1432e9090f61b0800000000000000
+      internalID: -5661296268527003095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Sentry - atlas0 #093005_56
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 776
+        width: 262
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bcf39e9dc1b05f40800000000000000
+      internalID: 5715263423820070067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Sentry - atlas0 #093005_57
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 674
+        width: 266
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c875c7382b14fb70800000000000000
+      internalID: 8931793820530866370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Sentry - atlas0 #093005_58
+      rect:
+        serializedVersion: 2
+        x: 1236
+        y: 887
+        width: 264
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d91fc38f59de5d180800000000000000
+      internalID: -9091099044406824547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Sentry - atlas0 #093005_59
+      rect:
+        serializedVersion: 2
+        x: 1240
+        y: 645
+        width: 432
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b16d0f2e149bfd80800000000000000
+      internalID: -8215810237848002125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Sentry - atlas0 #093005_60
+      rect:
+        serializedVersion: 2
+        x: 1670
+        y: 729
+        width: 190
+        height: 291
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33c9c447bbc312370800000000000000
+      internalID: 8295978764400892979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Sentry - atlas0 #093005_61
+      rect:
+        serializedVersion: 2
+        x: 1858
+        y: 666
+        width: 190
+        height: 291
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 173eb8d3b2aa490e0800000000000000
+      internalID: -2263997609967623311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Sentry - atlas0 #093005_62
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 327
+        width: 270
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbcf5a703719d5c80800000000000000
+      internalID: -8332343812329964356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Sentry - atlas0 #093005_63
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 565
+        width: 215
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9440f603360f392f0800000000000000
+      internalID: -967165186149514167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Sentry - atlas0 #093005_64
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 330
+        width: 265
+        height: 237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 788592c6a13962df0800000000000000
+      internalID: -205314991305697145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Sentry - atlas0 #093005_65
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 330
+        width: 173
+        height: 304
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2673d58f753767990800000000000000
+      internalID: -7388591316988512414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Sentry - atlas0 #093005_66
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 552
+        width: 270
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7513b6efcc891e660800000000000000
+      internalID: 7413374467837735255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Sentry - atlas0 #093005_67
+      rect:
+        serializedVersion: 2
+        x: 1047
+        y: 299
+        width: 195
+        height: 377
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07c83a4f068535d20800000000000000
+      internalID: 3266051328218205296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Sentry - atlas0 #093005_68
+      rect:
+        serializedVersion: 2
+        x: 1240
+        y: 436
+        width: 320
+        height: 211
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b35f7c53ceeead150800000000000000
+      internalID: 5898289360277075259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Sentry - atlas0 #093005_69
+      rect:
+        serializedVersion: 2
+        x: 1675
+        y: 349
+        width: 185
+        height: 382
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 204d245a7133c9410800000000000000
+      internalID: 1485118153775305730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Sentry - atlas0 #093005_70
+      rect:
+        serializedVersion: 2
+        x: 1858
+        y: 354
+        width: 179
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be68ac77303238d00800000000000000
+      internalID: 973660442243794667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Sentry - atlas0 #093005_71
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 373
+        height: 329
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8560a26dd4ad949e0800000000000000
+      internalID: -1636536961732049320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Sentry - atlas0 #093005_72
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 0
+        width: 356
+        height: 332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02a893bdd18fd2260800000000000000
+      internalID: 7074583396784638496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Sentry - atlas0 #093005_73
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 301
+        width: 287
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c695651985df3bde0800000000000000
+      internalID: -1318431709052118676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Sentry - atlas0 #093005_74
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 0
+        width: 603
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6015c2745a5f06210800000000000000
+      internalID: 1324328380659421446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Sentry - atlas0 #093005_75
+      rect:
+        serializedVersion: 2
+        x: 1356
+        y: 214
+        width: 321
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a71827005f429240800000000000000
+      internalID: 4796983758239045541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Sentry - atlas0 #093005_76
+      rect:
+        serializedVersion: 2
+        x: 1337
+        y: 179
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bc636be2c0524a90800000000000000
+      internalID: -7331208445302707018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Sentry - atlas0 #093005_77
+      rect:
+        serializedVersion: 2
+        x: 1349
+        y: 9
+        width: 310
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35af1cdcaf2e786d0800000000000000
+      internalID: -2988170260915291565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Sentry - atlas0 #093005_78
+      rect:
+        serializedVersion: 2
+        x: 1706
+        y: 0
+        width: 322
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40794e16d652fc1c0800000000000000
+      internalID: -4481321952486320380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heavy Sentry - atlas0 #093005_79
+      rect:
+        serializedVersion: 2
+        x: 2026
+        y: 0
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6c0b3fa4f59073f0800000000000000
+      internalID: -905058646957028244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Heavy Sentry - atlas0 #093005_0: 2819702654161087441
+      Heavy Sentry - atlas0 #093005_1: 3202966777533374802
+      Heavy Sentry - atlas0 #093005_10: 1883889086847622697
+      Heavy Sentry - atlas0 #093005_11: 6481282223235105013
+      Heavy Sentry - atlas0 #093005_12: 554905156890271291
+      Heavy Sentry - atlas0 #093005_13: -6406682840426276572
+      Heavy Sentry - atlas0 #093005_14: 8259813274463526971
+      Heavy Sentry - atlas0 #093005_15: 7087104459220171158
+      Heavy Sentry - atlas0 #093005_16: -1341342393726888972
+      Heavy Sentry - atlas0 #093005_17: 5549556183904333845
+      Heavy Sentry - atlas0 #093005_18: -453792603294662735
+      Heavy Sentry - atlas0 #093005_19: -5817817426806765913
+      Heavy Sentry - atlas0 #093005_2: 7507370201856357539
+      Heavy Sentry - atlas0 #093005_20: 4067538542866084403
+      Heavy Sentry - atlas0 #093005_21: 3661193000991661569
+      Heavy Sentry - atlas0 #093005_22: 8598365518202411752
+      Heavy Sentry - atlas0 #093005_23: -8681127339480372381
+      Heavy Sentry - atlas0 #093005_24: -7319611028382332417
+      Heavy Sentry - atlas0 #093005_25: -1036257673127601724
+      Heavy Sentry - atlas0 #093005_26: 204661016569443833
+      Heavy Sentry - atlas0 #093005_27: -7086896422922335041
+      Heavy Sentry - atlas0 #093005_28: -3414131936298489059
+      Heavy Sentry - atlas0 #093005_29: -2844848320348683135
+      Heavy Sentry - atlas0 #093005_3: -1905467293234444838
+      Heavy Sentry - atlas0 #093005_30: -2846023936636511586
+      Heavy Sentry - atlas0 #093005_31: -5470161246559134881
+      Heavy Sentry - atlas0 #093005_32: -5069572240675076126
+      Heavy Sentry - atlas0 #093005_33: 7643916448446165172
+      Heavy Sentry - atlas0 #093005_34: -8714290909649094424
+      Heavy Sentry - atlas0 #093005_35: -4074579853376514218
+      Heavy Sentry - atlas0 #093005_36: 4411555146314229212
+      Heavy Sentry - atlas0 #093005_37: -1636415800494985846
+      Heavy Sentry - atlas0 #093005_38: -4647004867334551051
+      Heavy Sentry - atlas0 #093005_39: 3696032342172899913
+      Heavy Sentry - atlas0 #093005_4: -5265175758543966905
+      Heavy Sentry - atlas0 #093005_40: -8238087390302004066
+      Heavy Sentry - atlas0 #093005_41: 4251880714593261848
+      Heavy Sentry - atlas0 #093005_42: 5695711669959331508
+      Heavy Sentry - atlas0 #093005_43: -6282315407152355394
+      Heavy Sentry - atlas0 #093005_44: -7769244001584070640
+      Heavy Sentry - atlas0 #093005_45: -4457882152375692424
+      Heavy Sentry - atlas0 #093005_46: 7280081319993383776
+      Heavy Sentry - atlas0 #093005_47: 1863392172425591799
+      Heavy Sentry - atlas0 #093005_48: 1231144126243497047
+      Heavy Sentry - atlas0 #093005_49: 6646136787491487783
+      Heavy Sentry - atlas0 #093005_5: -53979932773235490
+      Heavy Sentry - atlas0 #093005_50: 8878550728296626753
+      Heavy Sentry - atlas0 #093005_51: -1649796944552045456
+      Heavy Sentry - atlas0 #093005_52: 3208401882272921888
+      Heavy Sentry - atlas0 #093005_53: 4842986008090597452
+      Heavy Sentry - atlas0 #093005_54: -3826039186986107611
+      Heavy Sentry - atlas0 #093005_55: -5661296268527003095
+      Heavy Sentry - atlas0 #093005_56: 5715263423820070067
+      Heavy Sentry - atlas0 #093005_57: 8931793820530866370
+      Heavy Sentry - atlas0 #093005_58: -9091099044406824547
+      Heavy Sentry - atlas0 #093005_59: -8215810237848002125
+      Heavy Sentry - atlas0 #093005_6: -1396626928899459441
+      Heavy Sentry - atlas0 #093005_60: 8295978764400892979
+      Heavy Sentry - atlas0 #093005_61: -2263997609967623311
+      Heavy Sentry - atlas0 #093005_62: -8332343812329964356
+      Heavy Sentry - atlas0 #093005_63: -967165186149514167
+      Heavy Sentry - atlas0 #093005_64: -205314991305697145
+      Heavy Sentry - atlas0 #093005_65: -7388591316988512414
+      Heavy Sentry - atlas0 #093005_66: 7413374467837735255
+      Heavy Sentry - atlas0 #093005_67: 3266051328218205296
+      Heavy Sentry - atlas0 #093005_68: 5898289360277075259
+      Heavy Sentry - atlas0 #093005_69: 1485118153775305730
+      Heavy Sentry - atlas0 #093005_7: -8760062735629854005
+      Heavy Sentry - atlas0 #093005_70: 973660442243794667
+      Heavy Sentry - atlas0 #093005_71: -1636536961732049320
+      Heavy Sentry - atlas0 #093005_72: 7074583396784638496
+      Heavy Sentry - atlas0 #093005_73: -1318431709052118676
+      Heavy Sentry - atlas0 #093005_74: 1324328380659421446
+      Heavy Sentry - atlas0 #093005_75: 4796983758239045541
+      Heavy Sentry - atlas0 #093005_76: -7331208445302707018
+      Heavy Sentry - atlas0 #093005_77: -2988170260915291565
+      Heavy Sentry - atlas0 #093005_78: -4481321952486320380
+      Heavy Sentry - atlas0 #093005_79: -905058646957028244
+      Heavy Sentry - atlas0 #093005_8: -1424068648665575896
+      Heavy Sentry - atlas0 #093005_9: -8788973157513942617
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

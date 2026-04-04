@@ -1,0 +1,572 @@
+fileFormatVersion: 2
+guid: 4d3a37b31c014b343aa4c05ed4d49788
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2988274513312369863
+    second: Aluba - atlas0 #15505_0
+  - first:
+      213: -8535729837600236124
+    second: Aluba - atlas0 #15505_1
+  - first:
+      213: -1612712193871023868
+    second: Aluba - atlas0 #15505_2
+  - first:
+      213: 1923177252787248905
+    second: Aluba - atlas0 #15505_3
+  - first:
+      213: 1714577465770857199
+    second: Aluba - atlas0 #15505_4
+  - first:
+      213: 4712528322446758195
+    second: Aluba - atlas0 #15505_5
+  - first:
+      213: 233363764939803557
+    second: Aluba - atlas0 #15505_6
+  - first:
+      213: 3252440846689714126
+    second: Aluba - atlas0 #15505_7
+  - first:
+      213: -7295110200846000657
+    second: Aluba - atlas0 #15505_8
+  - first:
+      213: -7940568195172747689
+    second: Aluba - atlas0 #15505_9
+  - first:
+      213: -6560912338165700523
+    second: Aluba - atlas0 #15505_10
+  - first:
+      213: 6178007647506929668
+    second: Aluba - atlas0 #15505_11
+  - first:
+      213: 3573814104735053055
+    second: Aluba - atlas0 #15505_12
+  - first:
+      213: 7616106440901691628
+    second: Aluba - atlas0 #15505_13
+  - first:
+      213: -1019479886661374966
+    second: Aluba - atlas0 #15505_14
+  - first:
+      213: -2048151863360143670
+    second: Aluba - atlas0 #15505_15
+  - first:
+      213: 6673831491285935899
+    second: Aluba - atlas0 #15505_16
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Aluba - atlas0 #15505_0
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 955
+        width: 116
+        height: 407
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 933b9a6a9248786d0800000000000000
+      internalID: -2988274513312369863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aluba - atlas0 #15505_1
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 1205
+        width: 184
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ad922bdfeefa8980800000000000000
+      internalID: -8535729837600236124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aluba - atlas0 #15505_2
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 800
+        width: 146
+        height: 407
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 401706fddce7e99e0800000000000000
+      internalID: -1612712193871023868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aluba - atlas0 #15505_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 976
+        width: 192
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90fde70a58f70ba10800000000000000
+      internalID: 1923177252787248905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aluba - atlas0 #15505_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 790
+        width: 310
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe25923fe176bc710800000000000000
+      internalID: 1714577465770857199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aluba - atlas0 #15505_5
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 955
+        width: 265
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 331186d8a83466140800000000000000
+      internalID: 4712528322446758195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aluba - atlas0 #15505_6
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 763
+        width: 104
+        height: 407
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ab4fa89b131d3300800000000000000
+      internalID: 233363764939803557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aluba - atlas0 #15505_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 598
+        width: 376
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecf39e7c7bdf22d20800000000000000
+      internalID: 3252440846689714126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aluba - atlas0 #15505_8
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 763
+        width: 331
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fedde396cef82ca90800000000000000
+      internalID: -7295110200846000657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aluba - atlas0 #15505_9
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 599
+        width: 403
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 756b6f32c4f6dc190800000000000000
+      internalID: -7940568195172747689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aluba - atlas0 #15505_10
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 402
+        width: 202
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 558e7295df4f2f4a0800000000000000
+      internalID: -6560912338165700523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aluba - atlas0 #15505_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 399
+        width: 402
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4081c411931bcb550800000000000000
+      internalID: 6178007647506929668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aluba - atlas0 #15505_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 200
+        width: 803
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff4730e4efcb89130800000000000000
+      internalID: 3573814104735053055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aluba - atlas0 #15505_13
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 400
+        width: 402
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce88285c478d1b960800000000000000
+      internalID: 7616106440901691628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aluba - atlas0 #15505_14
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 0
+        width: 201
+        height: 404
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0ca4ebc1741ad1f0800000000000000
+      internalID: -1019479886661374966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aluba - atlas0 #15505_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 413
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ace3d5a5bb08393e0800000000000000
+      internalID: -2048151863360143670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aluba - atlas0 #15505_16
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 0
+        width: 397
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b17e9e0c1663e9c50800000000000000
+      internalID: 6673831491285935899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Aluba - atlas0 #15505_0: -2988274513312369863
+      Aluba - atlas0 #15505_1: -8535729837600236124
+      Aluba - atlas0 #15505_10: -6560912338165700523
+      Aluba - atlas0 #15505_11: 6178007647506929668
+      Aluba - atlas0 #15505_12: 3573814104735053055
+      Aluba - atlas0 #15505_13: 7616106440901691628
+      Aluba - atlas0 #15505_14: -1019479886661374966
+      Aluba - atlas0 #15505_15: -2048151863360143670
+      Aluba - atlas0 #15505_16: 6673831491285935899
+      Aluba - atlas0 #15505_2: -1612712193871023868
+      Aluba - atlas0 #15505_3: 1923177252787248905
+      Aluba - atlas0 #15505_4: 1714577465770857199
+      Aluba - atlas0 #15505_5: 4712528322446758195
+      Aluba - atlas0 #15505_6: 233363764939803557
+      Aluba - atlas0 #15505_7: 3252440846689714126
+      Aluba - atlas0 #15505_8: -7295110200846000657
+      Aluba - atlas0 #15505_9: -7940568195172747689
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

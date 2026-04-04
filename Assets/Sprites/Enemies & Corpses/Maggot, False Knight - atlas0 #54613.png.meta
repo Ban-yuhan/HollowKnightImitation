@@ -1,0 +1,780 @@
+fileFormatVersion: 2
+guid: 204c9dd88b20c0f4abc837ef3c086c6d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8629190834405465901
+    second: Maggot, False Knight - atlas0 #54613_0
+  - first:
+      213: -4178191642959628018
+    second: Maggot, False Knight - atlas0 #54613_1
+  - first:
+      213: 7563736310063416165
+    second: Maggot, False Knight - atlas0 #54613_2
+  - first:
+      213: 2239849333478515102
+    second: Maggot, False Knight - atlas0 #54613_3
+  - first:
+      213: 1168983326008152839
+    second: Maggot, False Knight - atlas0 #54613_4
+  - first:
+      213: 3805546435869915554
+    second: Maggot, False Knight - atlas0 #54613_5
+  - first:
+      213: 6655281778796268441
+    second: Maggot, False Knight - atlas0 #54613_6
+  - first:
+      213: -5637856822276206186
+    second: Maggot, False Knight - atlas0 #54613_7
+  - first:
+      213: -6157031070403506062
+    second: Maggot, False Knight - atlas0 #54613_8
+  - first:
+      213: 8775193196765227188
+    second: Maggot, False Knight - atlas0 #54613_9
+  - first:
+      213: 8344143650305136997
+    second: Maggot, False Knight - atlas0 #54613_10
+  - first:
+      213: 4684600465912189027
+    second: Maggot, False Knight - atlas0 #54613_11
+  - first:
+      213: -3748550571236283465
+    second: Maggot, False Knight - atlas0 #54613_12
+  - first:
+      213: 6339827336192565300
+    second: Maggot, False Knight - atlas0 #54613_13
+  - first:
+      213: -4934372809899495131
+    second: Maggot, False Knight - atlas0 #54613_14
+  - first:
+      213: -2987969694055520617
+    second: Maggot, False Knight - atlas0 #54613_15
+  - first:
+      213: -3490413854689682011
+    second: Maggot, False Knight - atlas0 #54613_16
+  - first:
+      213: 3609687300939939808
+    second: Maggot, False Knight - atlas0 #54613_17
+  - first:
+      213: -4101777358949345704
+    second: Maggot, False Knight - atlas0 #54613_18
+  - first:
+      213: 6239161353577215362
+    second: Maggot, False Knight - atlas0 #54613_19
+  - first:
+      213: -608074576228858861
+    second: Maggot, False Knight - atlas0 #54613_20
+  - first:
+      213: 6435762155951582564
+    second: Maggot, False Knight - atlas0 #54613_21
+  - first:
+      213: 4612591326741055693
+    second: Maggot, False Knight - atlas0 #54613_22
+  - first:
+      213: 6988140268502535612
+    second: Maggot, False Knight - atlas0 #54613_23
+  - first:
+      213: -7847874473594796931
+    second: Maggot, False Knight - atlas0 #54613_24
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Maggot, False Knight - atlas0 #54613_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1430
+        width: 224
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d0a430d7a4fe3880800000000000000
+      internalID: -8629190834405465901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maggot, False Knight - atlas0 #54613_1
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 1588
+        width: 217
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e09b2e576d41406c0800000000000000
+      internalID: -4178191642959628018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maggot, False Knight - atlas0 #54613_2
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 1236
+        width: 236
+        height: 354
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 563cd00891ac7f860800000000000000
+      internalID: 7563736310063416165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maggot, False Knight - atlas0 #54613_3
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 1414
+        width: 217
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e91e1600a1b851f10800000000000000
+      internalID: 2239849333478515102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maggot, False Knight - atlas0 #54613_4
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 1561
+        width: 219
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70312173420193010800000000000000
+      internalID: 1168983326008152839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maggot, False Knight - atlas0 #54613_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 710
+        width: 387
+        height: 722
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a9b74e125400d430800000000000000
+      internalID: 3805546435869915554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maggot, False Knight - atlas0 #54613_6
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 1234
+        width: 221
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99b0841448f4c5c50800000000000000
+      internalID: 6655281778796268441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maggot, False Knight - atlas0 #54613_7
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 1342
+        width: 182
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 691d6bd371f42c1b0800000000000000
+      internalID: -5637856822276206186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maggot, False Knight - atlas0 #54613_8
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 1118
+        width: 175
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2705e81ecd4dd8aa0800000000000000
+      internalID: -6157031070403506062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maggot, False Knight - atlas0 #54613_9
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 716
+        width: 250
+        height: 522
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b8ad9038bfb7c970800000000000000
+      internalID: 8775193196765227188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maggot, False Knight - atlas0 #54613_10
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 883
+        width: 245
+        height: 353
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 569d447d07a5cc370800000000000000
+      internalID: 8344143650305136997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maggot, False Knight - atlas0 #54613_11
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 701
+        width: 228
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 360535dbd4b030140800000000000000
+      internalID: 4684600465912189027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maggot, False Knight - atlas0 #54613_12
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 883
+        width: 156
+        height: 237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bbafdabd197afbc0800000000000000
+      internalID: -3748550571236283465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maggot, False Knight - atlas0 #54613_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 455
+        width: 165
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 430a1175f579bf750800000000000000
+      internalID: 6339827336192565300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maggot, False Knight - atlas0 #54613_14
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 530
+        width: 230
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5213894a216958bb0800000000000000
+      internalID: -4934372809899495131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maggot, False Knight - atlas0 #54613_15
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 356
+        width: 261
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 796203ae4699886d0800000000000000
+      internalID: -2987969694055520617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maggot, False Knight - atlas0 #54613_16
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 348
+        width: 332
+        height: 370
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ad9e18971f8f8fc0800000000000000
+      internalID: -3490413854689682011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maggot, False Knight - atlas0 #54613_17
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 523
+        width: 257
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ef73caa97f281230800000000000000
+      internalID: 3609687300939939808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maggot, False Knight - atlas0 #54613_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 194
+        width: 174
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8569514693f8317c0800000000000000
+      internalID: -4101777358949345704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maggot, False Knight - atlas0 #54613_19
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 178
+        width: 257
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 285b050d134f59650800000000000000
+      internalID: 6239161353577215362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maggot, False Knight - atlas0 #54613_20
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 0
+        width: 264
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 314cee6056faf87f0800000000000000
+      internalID: -608074576228858861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maggot, False Knight - atlas0 #54613_21
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 262
+        width: 176
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46d656c259b605950800000000000000
+      internalID: 6435762155951582564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maggot, False Knight - atlas0 #54613_22
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 0
+        width: 176
+        height: 264
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc8c2748f57330040800000000000000
+      internalID: 4612591326741055693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maggot, False Knight - atlas0 #54613_23
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 253
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbd42b8ac8cdaf060800000000000000
+      internalID: 6988140268502535612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maggot, False Knight - atlas0 #54613_24
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 0
+        width: 265
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d74c68ffebfb61390800000000000000
+      internalID: -7847874473594796931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Maggot, False Knight - atlas0 #54613_0: -8629190834405465901
+      Maggot, False Knight - atlas0 #54613_1: -4178191642959628018
+      Maggot, False Knight - atlas0 #54613_10: 8344143650305136997
+      Maggot, False Knight - atlas0 #54613_11: 4684600465912189027
+      Maggot, False Knight - atlas0 #54613_12: -3748550571236283465
+      Maggot, False Knight - atlas0 #54613_13: 6339827336192565300
+      Maggot, False Knight - atlas0 #54613_14: -4934372809899495131
+      Maggot, False Knight - atlas0 #54613_15: -2987969694055520617
+      Maggot, False Knight - atlas0 #54613_16: -3490413854689682011
+      Maggot, False Knight - atlas0 #54613_17: 3609687300939939808
+      Maggot, False Knight - atlas0 #54613_18: -4101777358949345704
+      Maggot, False Knight - atlas0 #54613_19: 6239161353577215362
+      Maggot, False Knight - atlas0 #54613_2: 7563736310063416165
+      Maggot, False Knight - atlas0 #54613_20: -608074576228858861
+      Maggot, False Knight - atlas0 #54613_21: 6435762155951582564
+      Maggot, False Knight - atlas0 #54613_22: 4612591326741055693
+      Maggot, False Knight - atlas0 #54613_23: 6988140268502535612
+      Maggot, False Knight - atlas0 #54613_24: -7847874473594796931
+      Maggot, False Knight - atlas0 #54613_3: 2239849333478515102
+      Maggot, False Knight - atlas0 #54613_4: 1168983326008152839
+      Maggot, False Knight - atlas0 #54613_5: 3805546435869915554
+      Maggot, False Knight - atlas0 #54613_6: 6655281778796268441
+      Maggot, False Knight - atlas0 #54613_7: -5637856822276206186
+      Maggot, False Knight - atlas0 #54613_8: -6157031070403506062
+      Maggot, False Knight - atlas0 #54613_9: 8775193196765227188
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

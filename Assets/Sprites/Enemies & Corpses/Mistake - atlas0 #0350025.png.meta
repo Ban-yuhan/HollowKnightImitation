@@ -1,0 +1,1092 @@
+fileFormatVersion: 2
+guid: 4198f4a04367f824b938e55082f3ed06
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1094424924509463210
+    second: Mistake - atlas0 #0350025_0
+  - first:
+      213: 4445499640405207951
+    second: Mistake - atlas0 #0350025_1
+  - first:
+      213: 8372171034852393567
+    second: Mistake - atlas0 #0350025_2
+  - first:
+      213: -3222535341116261565
+    second: Mistake - atlas0 #0350025_3
+  - first:
+      213: 2229942483146846592
+    second: Mistake - atlas0 #0350025_4
+  - first:
+      213: -3127940882479884240
+    second: Mistake - atlas0 #0350025_5
+  - first:
+      213: 174533826465683384
+    second: Mistake - atlas0 #0350025_6
+  - first:
+      213: 540233997540449293
+    second: Mistake - atlas0 #0350025_7
+  - first:
+      213: -9055504266846398627
+    second: Mistake - atlas0 #0350025_8
+  - first:
+      213: 1714902907348692101
+    second: Mistake - atlas0 #0350025_9
+  - first:
+      213: -8426601561399458625
+    second: Mistake - atlas0 #0350025_10
+  - first:
+      213: -1524802640812417321
+    second: Mistake - atlas0 #0350025_11
+  - first:
+      213: 1260721693139945963
+    second: Mistake - atlas0 #0350025_12
+  - first:
+      213: -8543797994906689526
+    second: Mistake - atlas0 #0350025_13
+  - first:
+      213: 7694558369313671270
+    second: Mistake - atlas0 #0350025_14
+  - first:
+      213: -1776145379139312829
+    second: Mistake - atlas0 #0350025_15
+  - first:
+      213: 4498833144573376361
+    second: Mistake - atlas0 #0350025_16
+  - first:
+      213: -3575824716959389896
+    second: Mistake - atlas0 #0350025_17
+  - first:
+      213: -1591025449287654480
+    second: Mistake - atlas0 #0350025_18
+  - first:
+      213: 6645687490537816206
+    second: Mistake - atlas0 #0350025_19
+  - first:
+      213: 451307906695547695
+    second: Mistake - atlas0 #0350025_20
+  - first:
+      213: 8140520605273980670
+    second: Mistake - atlas0 #0350025_21
+  - first:
+      213: 507122312899591333
+    second: Mistake - atlas0 #0350025_22
+  - first:
+      213: 6298879034106700193
+    second: Mistake - atlas0 #0350025_23
+  - first:
+      213: 4570658676655156321
+    second: Mistake - atlas0 #0350025_24
+  - first:
+      213: 6617669123100196131
+    second: Mistake - atlas0 #0350025_25
+  - first:
+      213: 3838146995611724509
+    second: Mistake - atlas0 #0350025_26
+  - first:
+      213: -4603608442041834807
+    second: Mistake - atlas0 #0350025_27
+  - first:
+      213: -6460943600491770992
+    second: Mistake - atlas0 #0350025_28
+  - first:
+      213: -3150679592163060023
+    second: Mistake - atlas0 #0350025_29
+  - first:
+      213: -3768668738692061622
+    second: Mistake - atlas0 #0350025_30
+  - first:
+      213: -8451080290385624179
+    second: Mistake - atlas0 #0350025_31
+  - first:
+      213: -2175295547230242219
+    second: Mistake - atlas0 #0350025_32
+  - first:
+      213: 8660209308499486765
+    second: Mistake - atlas0 #0350025_33
+  - first:
+      213: -1981182388172886119
+    second: Mistake - atlas0 #0350025_34
+  - first:
+      213: -2564695048964182825
+    second: Mistake - atlas0 #0350025_35
+  - first:
+      213: 1432261101454784300
+    second: Mistake - atlas0 #0350025_36
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Mistake - atlas0 #0350025_0
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 1062
+        width: 92
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65d97456452dfc0f0800000000000000
+      internalID: -1094424924509463210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mistake - atlas0 #0350025_1
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 839
+        width: 93
+        height: 235
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8baa73ae5691bd30800000000000000
+      internalID: 4445499640405207951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mistake - atlas0 #0350025_2
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 1071
+        width: 85
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f520133d23def2470800000000000000
+      internalID: 8372171034852393567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mistake - atlas0 #0350025_3
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 851
+        width: 125
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34b7f945e214743d0800000000000000
+      internalID: -3222535341116261565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mistake - atlas0 #0350025_4
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 861
+        width: 86
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0813589afd852fe10800000000000000
+      internalID: 2229942483146846592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mistake - atlas0 #0350025_5
+      rect:
+        serializedVersion: 2
+        x: 941
+        y: 705
+        width: 81
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0385d5507525794d0800000000000000
+      internalID: -3127940882479884240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mistake - atlas0 #0350025_6
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 815
+        width: 113
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b7d6c727911c6200800000000000000
+      internalID: 174533826465683384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mistake - atlas0 #0350025_7
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 835
+        width: 89
+        height: 231
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0cdcfe55fb4f7700800000000000000
+      internalID: 540233997540449293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mistake - atlas0 #0350025_8
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 618
+        width: 194
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d571690f8d2645280800000000000000
+      internalID: -9055504266846398627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mistake - atlas0 #0350025_9
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 839
+        width: 98
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58cadc8bb1f8cc710800000000000000
+      internalID: 1714902907348692101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mistake - atlas0 #0350025_10
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 618
+        width: 101
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb48805a682be0b80800000000000000
+      internalID: -8426601561399458625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mistake - atlas0 #0350025_11
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 628
+        width: 108
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7de5cc1b310d6dae0800000000000000
+      internalID: -1524802640812417321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mistake - atlas0 #0350025_12
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 631
+        width: 96
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be94c3843bbfe7110800000000000000
+      internalID: 1260721693139945963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mistake - atlas0 #0350025_13
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 501
+        width: 122
+        height: 425
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0064e89df45e6980800000000000000
+      internalID: -8543797994906689526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mistake - atlas0 #0350025_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 493
+        width: 223
+        height: 345
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6684372c11098ca60800000000000000
+      internalID: 7694558369313671270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mistake - atlas0 #0350025_15
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 593
+        width: 112
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34323f6203dd957e0800000000000000
+      internalID: -1776145379139312829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mistake - atlas0 #0350025_16
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 617
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 967bc0eb8e01f6e30800000000000000
+      internalID: 4498833144573376361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mistake - atlas0 #0350025_17
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 165
+        width: 49
+        height: 454
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 837e29e8d5e106ec0800000000000000
+      internalID: -3575824716959389896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mistake - atlas0 #0350025_18
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 495
+        width: 211
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b36a9298ca8be9e0800000000000000
+      internalID: -1591025449287654480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mistake - atlas0 #0350025_19
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 398
+        width: 115
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8083c1ff893a3c50800000000000000
+      internalID: 6645687490537816206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mistake - atlas0 #0350025_20
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 160
+        width: 197
+        height: 473
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2bc9e6662e534600800000000000000
+      internalID: 451307906695547695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mistake - atlas0 #0350025_21
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 277
+        width: 76
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efe7a143c50f8f070800000000000000
+      internalID: 8140520605273980670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mistake - atlas0 #0350025_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 370
+        width: 210
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5acfd068e09a90700800000000000000
+      internalID: 507122312899591333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mistake - atlas0 #0350025_23
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 247
+        width: 245
+        height: 211
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a1e51fcb1d1a6750800000000000000
+      internalID: 6298879034106700193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mistake - atlas0 #0350025_24
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 169
+        width: 127
+        height: 426
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16c669b99dd3e6f30800000000000000
+      internalID: 4570658676655156321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mistake - atlas0 #0350025_25
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 368
+        width: 211
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32d357b610fa6db50800000000000000
+      internalID: 6617669123100196131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mistake - atlas0 #0350025_26
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 245
+        width: 219
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dda6b2d6b56d34530800000000000000
+      internalID: 3838146995611724509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mistake - atlas0 #0350025_27
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 277
+        width: 122
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c26b1f4382bc10c0800000000000000
+      internalID: -4603608442041834807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mistake - atlas0 #0350025_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 127
+        width: 245
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09bcad2e60e1656a0800000000000000
+      internalID: -6460943600491770992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mistake - atlas0 #0350025_29
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 2
+        width: 171
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c65c0c9a998644d0800000000000000
+      internalID: -3150679592163060023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mistake - atlas0 #0350025_30
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 118
+        width: 218
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a46e32adfbff2bbc0800000000000000
+      internalID: -3768668738692061622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mistake - atlas0 #0350025_31
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 0
+        width: 173
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d83824b604bb7ba80800000000000000
+      internalID: -8451080290385624179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mistake - atlas0 #0350025_32
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 138
+        width: 198
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55a3ad9993ccfc1e0800000000000000
+      internalID: -2175295547230242219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mistake - atlas0 #0350025_33
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 0
+        width: 198
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d28a4a97b7e3f2870800000000000000
+      internalID: 8660209308499486765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mistake - atlas0 #0350025_34
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 246
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99fe1bd5d1d6184e0800000000000000
+      internalID: -1981182388172886119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mistake - atlas0 #0350025_35
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 0
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dc6949f07f586cd0800000000000000
+      internalID: -2564695048964182825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mistake - atlas0 #0350025_36
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 0
+        width: 239
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2772d122e960e310800000000000000
+      internalID: 1432261101454784300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Mistake - atlas0 #0350025_0: -1094424924509463210
+      Mistake - atlas0 #0350025_1: 4445499640405207951
+      Mistake - atlas0 #0350025_10: -8426601561399458625
+      Mistake - atlas0 #0350025_11: -1524802640812417321
+      Mistake - atlas0 #0350025_12: 1260721693139945963
+      Mistake - atlas0 #0350025_13: -8543797994906689526
+      Mistake - atlas0 #0350025_14: 7694558369313671270
+      Mistake - atlas0 #0350025_15: -1776145379139312829
+      Mistake - atlas0 #0350025_16: 4498833144573376361
+      Mistake - atlas0 #0350025_17: -3575824716959389896
+      Mistake - atlas0 #0350025_18: -1591025449287654480
+      Mistake - atlas0 #0350025_19: 6645687490537816206
+      Mistake - atlas0 #0350025_2: 8372171034852393567
+      Mistake - atlas0 #0350025_20: 451307906695547695
+      Mistake - atlas0 #0350025_21: 8140520605273980670
+      Mistake - atlas0 #0350025_22: 507122312899591333
+      Mistake - atlas0 #0350025_23: 6298879034106700193
+      Mistake - atlas0 #0350025_24: 4570658676655156321
+      Mistake - atlas0 #0350025_25: 6617669123100196131
+      Mistake - atlas0 #0350025_26: 3838146995611724509
+      Mistake - atlas0 #0350025_27: -4603608442041834807
+      Mistake - atlas0 #0350025_28: -6460943600491770992
+      Mistake - atlas0 #0350025_29: -3150679592163060023
+      Mistake - atlas0 #0350025_3: -3222535341116261565
+      Mistake - atlas0 #0350025_30: -3768668738692061622
+      Mistake - atlas0 #0350025_31: -8451080290385624179
+      Mistake - atlas0 #0350025_32: -2175295547230242219
+      Mistake - atlas0 #0350025_33: 8660209308499486765
+      Mistake - atlas0 #0350025_34: -1981182388172886119
+      Mistake - atlas0 #0350025_35: -2564695048964182825
+      Mistake - atlas0 #0350025_36: 1432261101454784300
+      Mistake - atlas0 #0350025_4: 2229942483146846592
+      Mistake - atlas0 #0350025_5: -3127940882479884240
+      Mistake - atlas0 #0350025_6: 174533826465683384
+      Mistake - atlas0 #0350025_7: 540233997540449293
+      Mistake - atlas0 #0350025_8: -9055504266846398627
+      Mistake - atlas0 #0350025_9: 1714902907348692101
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

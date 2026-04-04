@@ -1,0 +1,624 @@
+fileFormatVersion: 2
+guid: e3834e9757c4d7d42bafe9adc3a07a69
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4538496668114615827
+    second: Baldur - atlas0 #051014_0
+  - first:
+      213: -216991419474543317
+    second: Baldur - atlas0 #051014_1
+  - first:
+      213: -4017295698589210472
+    second: Baldur - atlas0 #051014_2
+  - first:
+      213: -3290984301430163828
+    second: Baldur - atlas0 #051014_3
+  - first:
+      213: -1967288385991129038
+    second: Baldur - atlas0 #051014_4
+  - first:
+      213: 89806260210725507
+    second: Baldur - atlas0 #051014_5
+  - first:
+      213: -356957913400906255
+    second: Baldur - atlas0 #051014_6
+  - first:
+      213: 6771013596670640019
+    second: Baldur - atlas0 #051014_7
+  - first:
+      213: -8605313189063099676
+    second: Baldur - atlas0 #051014_8
+  - first:
+      213: -3988901747419658183
+    second: Baldur - atlas0 #051014_9
+  - first:
+      213: 1040130012005010670
+    second: Baldur - atlas0 #051014_10
+  - first:
+      213: -5886920175180653573
+    second: Baldur - atlas0 #051014_11
+  - first:
+      213: 8578511201955283433
+    second: Baldur - atlas0 #051014_12
+  - first:
+      213: -3036086087726969583
+    second: Baldur - atlas0 #051014_13
+  - first:
+      213: 2627501801479425672
+    second: Baldur - atlas0 #051014_14
+  - first:
+      213: -7095488959419420218
+    second: Baldur - atlas0 #051014_15
+  - first:
+      213: -2496094652709772977
+    second: Baldur - atlas0 #051014_16
+  - first:
+      213: -3472051857933590974
+    second: Baldur - atlas0 #051014_17
+  - first:
+      213: 2531532294027643115
+    second: Baldur - atlas0 #051014_18
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Baldur - atlas0 #051014_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 389
+        width: 88
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31ef3457caafbfe30800000000000000
+      internalID: 4538496668114615827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baldur - atlas0 #051014_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 139
+        width: 124
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2d79e224771dfcf0800000000000000
+      internalID: -216991419474543317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baldur - atlas0 #051014_2
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 389
+        width: 85
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 898a2efb8d2bf38c0800000000000000
+      internalID: -4017295698589210472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baldur - atlas0 #051014_3
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 368
+        width: 93
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c863ed7d6331452d0800000000000000
+      internalID: -3290984301430163828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baldur - atlas0 #051014_4
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 368
+        width: 84
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2384f36d2a9c2b4e0800000000000000
+      internalID: -1967288385991129038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baldur - atlas0 #051014_5
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 207
+        width: 166
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 382777e515e0f3100800000000000000
+      internalID: 89806260210725507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baldur - atlas0 #051014_6
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 240
+        width: 110
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fd69f34ba4db0bf0800000000000000
+      internalID: -356957913400906255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baldur - atlas0 #051014_7
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 281
+        width: 100
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39fb4e6edf877fd50800000000000000
+      internalID: 6771013596670640019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baldur - atlas0 #051014_8
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 177
+        width: 110
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4eaf8e85f39c39880800000000000000
+      internalID: -8605313189063099676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baldur - atlas0 #051014_9
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 155
+        width: 113
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 938cd1daef294a8c0800000000000000
+      internalID: -3988901747419658183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baldur - atlas0 #051014_10
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 201
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eec08cd2cb84f6e00800000000000000
+      internalID: 1040130012005010670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baldur - atlas0 #051014_11
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 96
+        width: 111
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfbd6497a457d4ea0800000000000000
+      internalID: -5886920175180653573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baldur - atlas0 #051014_12
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 80
+        width: 117
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e1014ebc7efc0770800000000000000
+      internalID: 8578511201955283433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baldur - atlas0 #051014_13
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 172
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11d47810ac7add5d0800000000000000
+      internalID: -3036086087726969583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baldur - atlas0 #051014_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 69
+        width: 135
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88e41e3a7f2c67420800000000000000
+      internalID: 2627501801479425672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baldur - atlas0 #051014_15
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 75
+        width: 130
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c1791a8262c78d90800000000000000
+      internalID: -7095488959419420218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baldur - atlas0 #051014_16
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 0
+        width: 266
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f416b7363271c5dd0800000000000000
+      internalID: -2496094652709772977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baldur - atlas0 #051014_17
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 0
+        width: 111
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24e122e1b3bc0dfc0800000000000000
+      internalID: -3472051857933590974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baldur - atlas0 #051014_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 139
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be882f2753fc12320800000000000000
+      internalID: 2531532294027643115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Baldur - atlas0 #051014_0: 4538496668114615827
+      Baldur - atlas0 #051014_1: -216991419474543317
+      Baldur - atlas0 #051014_10: 1040130012005010670
+      Baldur - atlas0 #051014_11: -5886920175180653573
+      Baldur - atlas0 #051014_12: 8578511201955283433
+      Baldur - atlas0 #051014_13: -3036086087726969583
+      Baldur - atlas0 #051014_14: 2627501801479425672
+      Baldur - atlas0 #051014_15: -7095488959419420218
+      Baldur - atlas0 #051014_16: -2496094652709772977
+      Baldur - atlas0 #051014_17: -3472051857933590974
+      Baldur - atlas0 #051014_18: 2531532294027643115
+      Baldur - atlas0 #051014_2: -4017295698589210472
+      Baldur - atlas0 #051014_3: -3290984301430163828
+      Baldur - atlas0 #051014_4: -1967288385991129038
+      Baldur - atlas0 #051014_5: 89806260210725507
+      Baldur - atlas0 #051014_6: -356957913400906255
+      Baldur - atlas0 #051014_7: 6771013596670640019
+      Baldur - atlas0 #051014_8: -8605313189063099676
+      Baldur - atlas0 #051014_9: -3988901747419658183
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

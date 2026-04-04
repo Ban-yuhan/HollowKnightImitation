@@ -1,0 +1,936 @@
+fileFormatVersion: 2
+guid: 5e477165d2e9c83499df635e8c9aa47d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8673428015668764330
+    second: Royal Retainer - atlas0 #36814_0
+  - first:
+      213: -711761593143163668
+    second: Royal Retainer - atlas0 #36814_1
+  - first:
+      213: 4602245949854511920
+    second: Royal Retainer - atlas0 #36814_2
+  - first:
+      213: -7776527565400735548
+    second: Royal Retainer - atlas0 #36814_3
+  - first:
+      213: -5150767605155459113
+    second: Royal Retainer - atlas0 #36814_4
+  - first:
+      213: -3690772928620016123
+    second: Royal Retainer - atlas0 #36814_5
+  - first:
+      213: 5725422366212302798
+    second: Royal Retainer - atlas0 #36814_6
+  - first:
+      213: 6866110138277746776
+    second: Royal Retainer - atlas0 #36814_7
+  - first:
+      213: -7727296070146822175
+    second: Royal Retainer - atlas0 #36814_8
+  - first:
+      213: 5679154699672081418
+    second: Royal Retainer - atlas0 #36814_9
+  - first:
+      213: -5198308577740493191
+    second: Royal Retainer - atlas0 #36814_10
+  - first:
+      213: 3804375928082472466
+    second: Royal Retainer - atlas0 #36814_11
+  - first:
+      213: 3530803945628764642
+    second: Royal Retainer - atlas0 #36814_12
+  - first:
+      213: 550435589806463579
+    second: Royal Retainer - atlas0 #36814_13
+  - first:
+      213: -8345464436193686784
+    second: Royal Retainer - atlas0 #36814_14
+  - first:
+      213: 7660771517650338780
+    second: Royal Retainer - atlas0 #36814_15
+  - first:
+      213: 2929694827447548494
+    second: Royal Retainer - atlas0 #36814_16
+  - first:
+      213: 7582858053059046660
+    second: Royal Retainer - atlas0 #36814_17
+  - first:
+      213: 1515399146694729928
+    second: Royal Retainer - atlas0 #36814_18
+  - first:
+      213: -7935465574868229187
+    second: Royal Retainer - atlas0 #36814_19
+  - first:
+      213: 1232112634538501708
+    second: Royal Retainer - atlas0 #36814_20
+  - first:
+      213: -7177889955632261453
+    second: Royal Retainer - atlas0 #36814_21
+  - first:
+      213: 2420846961174019167
+    second: Royal Retainer - atlas0 #36814_22
+  - first:
+      213: 7061975435863743542
+    second: Royal Retainer - atlas0 #36814_23
+  - first:
+      213: 926931989972947333
+    second: Royal Retainer - atlas0 #36814_24
+  - first:
+      213: -8071021177564787412
+    second: Royal Retainer - atlas0 #36814_25
+  - first:
+      213: 6094018154699390406
+    second: Royal Retainer - atlas0 #36814_26
+  - first:
+      213: 6301355686152852187
+    second: Royal Retainer - atlas0 #36814_27
+  - first:
+      213: 1055871187613221153
+    second: Royal Retainer - atlas0 #36814_28
+  - first:
+      213: -2787264921397849608
+    second: Royal Retainer - atlas0 #36814_29
+  - first:
+      213: 5151390626625698073
+    second: Royal Retainer - atlas0 #36814_30
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Royal Retainer - atlas0 #36814_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 596
+        width: 390
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aae9bd293d43e5870800000000000000
+      internalID: 8673428015668764330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Royal Retainer - atlas0 #36814_1
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 714
+        width: 204
+        height: 299
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce48fe32a905f16f0800000000000000
+      internalID: -711761593143163668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Royal Retainer - atlas0 #36814_2
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 1010
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 033fe02ce467edf30800000000000000
+      internalID: 4602245949854511920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Royal Retainer - atlas0 #36814_3
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 912
+        width: 162
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c0814e8169341490800000000000000
+      internalID: -7776527565400735548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Royal Retainer - atlas0 #36814_4
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 744
+        width: 122
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7df8e1e272cc488b0800000000000000
+      internalID: -5150767605155459113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Royal Retainer - atlas0 #36814_5
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 924
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50ec9f2739db7ccc0800000000000000
+      internalID: -3690772928620016123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Royal Retainer - atlas0 #36814_6
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 919
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec72927be49c47f40800000000000000
+      internalID: 5725422366212302798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Royal Retainer - atlas0 #36814_7
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 714
+        width: 288
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 858d0c4eac2594f50800000000000000
+      internalID: 6866110138277746776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Royal Retainer - atlas0 #36814_8
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 820
+        width: 156
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ef60a84a2123c490800000000000000
+      internalID: -7727296070146822175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Royal Retainer - atlas0 #36814_9
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 595
+        width: 133
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a04d1722c1960de40800000000000000
+      internalID: 5679154699672081418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Royal Retainer - atlas0 #36814_10
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 551
+        width: 119
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97e69eee3e5ebd7b0800000000000000
+      internalID: -5198308577740493191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Royal Retainer - atlas0 #36814_11
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 515
+        width: 215
+        height: 231
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21e176900cbdbc430800000000000000
+      internalID: 3804375928082472466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Royal Retainer - atlas0 #36814_12
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 316
+        width: 203
+        height: 301
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e900c64b7feff030800000000000000
+      internalID: 3530803945628764642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Royal Retainer - atlas0 #36814_13
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 615
+        width: 202
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5a952aa04a83a700800000000000000
+      internalID: 550435589806463579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Royal Retainer - atlas0 #36814_14
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 607
+        width: 159
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00b050bbf44fe2c80800000000000000
+      internalID: -8345464436193686784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Royal Retainer - atlas0 #36814_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 385
+        width: 266
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd38af65b17805a60800000000000000
+      internalID: 7660771517650338780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Royal Retainer - atlas0 #36814_16
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 384
+        width: 149
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4a7f426ced58a820800000000000000
+      internalID: 2929694827447548494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Royal Retainer - atlas0 #36814_17
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 129
+        width: 117
+        height: 388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40d6bca3939bb3960800000000000000
+      internalID: 7582858053059046660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Royal Retainer - atlas0 #36814_18
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 419
+        width: 113
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c06ba7be77c70510800000000000000
+      internalID: 1515399146694729928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Royal Retainer - atlas0 #36814_19
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 174
+        width: 141
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db363a28a109fd190800000000000000
+      internalID: -7935465574868229187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Royal Retainer - atlas0 #36814_20
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 130
+        width: 268
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4620f0c9e7591110800000000000000
+      internalID: 1232112634538501708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Royal Retainer - atlas0 #36814_21
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 233
+        width: 199
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b6d1bd8d13036c90800000000000000
+      internalID: -7177889955632261453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Royal Retainer - atlas0 #36814_22
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 331
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5c7c582c73989120800000000000000
+      internalID: 2420846961174019167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Royal Retainer - atlas0 #36814_23
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 229
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63c51333e3d210260800000000000000
+      internalID: 7061975435863743542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Royal Retainer - atlas0 #36814_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 170
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5819849dbbf1ddc00800000000000000
+      internalID: 926931989972947333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Royal Retainer - atlas0 #36814_25
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 0
+        width: 213
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2d88984009fdff80800000000000000
+      internalID: -8071021177564787412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Royal Retainer - atlas0 #36814_26
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 0
+        width: 182
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cd73a5693d429450800000000000000
+      internalID: 6094018154699390406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Royal Retainer - atlas0 #36814_27
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 103
+        width: 401
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd2578c4c99e27750800000000000000
+      internalID: 6301355686152852187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Royal Retainer - atlas0 #36814_28
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 99
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 121814a304537ae00800000000000000
+      internalID: 1055871187613221153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Royal Retainer - atlas0 #36814_29
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 0
+        width: 198
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f19c215255a159d0800000000000000
+      internalID: -2787264921397849608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Royal Retainer - atlas0 #36814_30
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 0
+        width: 200
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9193d4f4b7a6d7740800000000000000
+      internalID: 5151390626625698073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Royal Retainer - atlas0 #36814_0: 8673428015668764330
+      Royal Retainer - atlas0 #36814_1: -711761593143163668
+      Royal Retainer - atlas0 #36814_10: -5198308577740493191
+      Royal Retainer - atlas0 #36814_11: 3804375928082472466
+      Royal Retainer - atlas0 #36814_12: 3530803945628764642
+      Royal Retainer - atlas0 #36814_13: 550435589806463579
+      Royal Retainer - atlas0 #36814_14: -8345464436193686784
+      Royal Retainer - atlas0 #36814_15: 7660771517650338780
+      Royal Retainer - atlas0 #36814_16: 2929694827447548494
+      Royal Retainer - atlas0 #36814_17: 7582858053059046660
+      Royal Retainer - atlas0 #36814_18: 1515399146694729928
+      Royal Retainer - atlas0 #36814_19: -7935465574868229187
+      Royal Retainer - atlas0 #36814_2: 4602245949854511920
+      Royal Retainer - atlas0 #36814_20: 1232112634538501708
+      Royal Retainer - atlas0 #36814_21: -7177889955632261453
+      Royal Retainer - atlas0 #36814_22: 2420846961174019167
+      Royal Retainer - atlas0 #36814_23: 7061975435863743542
+      Royal Retainer - atlas0 #36814_24: 926931989972947333
+      Royal Retainer - atlas0 #36814_25: -8071021177564787412
+      Royal Retainer - atlas0 #36814_26: 6094018154699390406
+      Royal Retainer - atlas0 #36814_27: 6301355686152852187
+      Royal Retainer - atlas0 #36814_28: 1055871187613221153
+      Royal Retainer - atlas0 #36814_29: -2787264921397849608
+      Royal Retainer - atlas0 #36814_3: -7776527565400735548
+      Royal Retainer - atlas0 #36814_30: 5151390626625698073
+      Royal Retainer - atlas0 #36814_4: -5150767605155459113
+      Royal Retainer - atlas0 #36814_5: -3690772928620016123
+      Royal Retainer - atlas0 #36814_6: 5725422366212302798
+      Royal Retainer - atlas0 #36814_7: 6866110138277746776
+      Royal Retainer - atlas0 #36814_8: -7727296070146822175
+      Royal Retainer - atlas0 #36814_9: 5679154699672081418
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,2600 @@
+fileFormatVersion: 2
+guid: 23c6b27bee0c19c4690ac54ee4d0d0d7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2057718784004897910
+    second: Pale Lurker - atlas0 #450004_0
+  - first:
+      213: -6525908023800748221
+    second: Pale Lurker - atlas0 #450004_1
+  - first:
+      213: -9149523695407600303
+    second: Pale Lurker - atlas0 #450004_2
+  - first:
+      213: -5481969850313393522
+    second: Pale Lurker - atlas0 #450004_3
+  - first:
+      213: 4409047417934443589
+    second: Pale Lurker - atlas0 #450004_4
+  - first:
+      213: 6438562807860647813
+    second: Pale Lurker - atlas0 #450004_5
+  - first:
+      213: -551508776593119381
+    second: Pale Lurker - atlas0 #450004_6
+  - first:
+      213: 2049573387765311310
+    second: Pale Lurker - atlas0 #450004_7
+  - first:
+      213: -6880296828557167292
+    second: Pale Lurker - atlas0 #450004_8
+  - first:
+      213: 6915296418915269186
+    second: Pale Lurker - atlas0 #450004_9
+  - first:
+      213: 3556464493185577046
+    second: Pale Lurker - atlas0 #450004_10
+  - first:
+      213: -177271658945175154
+    second: Pale Lurker - atlas0 #450004_11
+  - first:
+      213: 6440098643843740231
+    second: Pale Lurker - atlas0 #450004_12
+  - first:
+      213: 4812441118875833897
+    second: Pale Lurker - atlas0 #450004_13
+  - first:
+      213: 3489071090867504264
+    second: Pale Lurker - atlas0 #450004_14
+  - first:
+      213: -6617539627950965215
+    second: Pale Lurker - atlas0 #450004_15
+  - first:
+      213: 5379683819904449789
+    second: Pale Lurker - atlas0 #450004_16
+  - first:
+      213: -699079774122604084
+    second: Pale Lurker - atlas0 #450004_17
+  - first:
+      213: -5279577696832079369
+    second: Pale Lurker - atlas0 #450004_18
+  - first:
+      213: 2062214479590172342
+    second: Pale Lurker - atlas0 #450004_19
+  - first:
+      213: -3125894822018816083
+    second: Pale Lurker - atlas0 #450004_20
+  - first:
+      213: -4940718417940849982
+    second: Pale Lurker - atlas0 #450004_21
+  - first:
+      213: 8743898745259747950
+    second: Pale Lurker - atlas0 #450004_22
+  - first:
+      213: -3846819878046911448
+    second: Pale Lurker - atlas0 #450004_23
+  - first:
+      213: 7688555049593904091
+    second: Pale Lurker - atlas0 #450004_24
+  - first:
+      213: -8056089047471988320
+    second: Pale Lurker - atlas0 #450004_25
+  - first:
+      213: -1055034900300732613
+    second: Pale Lurker - atlas0 #450004_26
+  - first:
+      213: 3136503513699300446
+    second: Pale Lurker - atlas0 #450004_27
+  - first:
+      213: 4304677887360318283
+    second: Pale Lurker - atlas0 #450004_28
+  - first:
+      213: 3353542614686054008
+    second: Pale Lurker - atlas0 #450004_29
+  - first:
+      213: -7175590783184424785
+    second: Pale Lurker - atlas0 #450004_30
+  - first:
+      213: -8334235744804195317
+    second: Pale Lurker - atlas0 #450004_31
+  - first:
+      213: -4026547450935974026
+    second: Pale Lurker - atlas0 #450004_32
+  - first:
+      213: -4424036578430605988
+    second: Pale Lurker - atlas0 #450004_33
+  - first:
+      213: -3415834405308537810
+    second: Pale Lurker - atlas0 #450004_34
+  - first:
+      213: -478625314388426273
+    second: Pale Lurker - atlas0 #450004_35
+  - first:
+      213: -3873978517374205651
+    second: Pale Lurker - atlas0 #450004_36
+  - first:
+      213: 3913307717126658890
+    second: Pale Lurker - atlas0 #450004_37
+  - first:
+      213: -4884378428834158376
+    second: Pale Lurker - atlas0 #450004_38
+  - first:
+      213: -6221342773432865862
+    second: Pale Lurker - atlas0 #450004_39
+  - first:
+      213: 565621204004833228
+    second: Pale Lurker - atlas0 #450004_40
+  - first:
+      213: -6944862447198256661
+    second: Pale Lurker - atlas0 #450004_41
+  - first:
+      213: -4617697395161431974
+    second: Pale Lurker - atlas0 #450004_42
+  - first:
+      213: 8804715276083110367
+    second: Pale Lurker - atlas0 #450004_43
+  - first:
+      213: -7782700403266960261
+    second: Pale Lurker - atlas0 #450004_44
+  - first:
+      213: 1253574363517805176
+    second: Pale Lurker - atlas0 #450004_45
+  - first:
+      213: -6382114756122878883
+    second: Pale Lurker - atlas0 #450004_46
+  - first:
+      213: 9130803115410111542
+    second: Pale Lurker - atlas0 #450004_47
+  - first:
+      213: 6237417445843995779
+    second: Pale Lurker - atlas0 #450004_48
+  - first:
+      213: -1374901935354942189
+    second: Pale Lurker - atlas0 #450004_49
+  - first:
+      213: 8246418102074252909
+    second: Pale Lurker - atlas0 #450004_50
+  - first:
+      213: 3090565384418219593
+    second: Pale Lurker - atlas0 #450004_51
+  - first:
+      213: 5195895275438833172
+    second: Pale Lurker - atlas0 #450004_52
+  - first:
+      213: -885764475948230487
+    second: Pale Lurker - atlas0 #450004_53
+  - first:
+      213: 4456757163670326313
+    second: Pale Lurker - atlas0 #450004_54
+  - first:
+      213: -3683644533017008110
+    second: Pale Lurker - atlas0 #450004_55
+  - first:
+      213: 4445901960248090317
+    second: Pale Lurker - atlas0 #450004_56
+  - first:
+      213: 3786468108655613299
+    second: Pale Lurker - atlas0 #450004_57
+  - first:
+      213: 9052824414845279891
+    second: Pale Lurker - atlas0 #450004_58
+  - first:
+      213: 6315885879112420750
+    second: Pale Lurker - atlas0 #450004_59
+  - first:
+      213: 5112779518956692093
+    second: Pale Lurker - atlas0 #450004_60
+  - first:
+      213: -1665721147940282398
+    second: Pale Lurker - atlas0 #450004_61
+  - first:
+      213: 2113948745811149110
+    second: Pale Lurker - atlas0 #450004_62
+  - first:
+      213: 1440323654881716531
+    second: Pale Lurker - atlas0 #450004_63
+  - first:
+      213: -3934728611281073322
+    second: Pale Lurker - atlas0 #450004_64
+  - first:
+      213: -8845497562198878362
+    second: Pale Lurker - atlas0 #450004_65
+  - first:
+      213: 1428321170144603530
+    second: Pale Lurker - atlas0 #450004_66
+  - first:
+      213: 3016197661974023301
+    second: Pale Lurker - atlas0 #450004_67
+  - first:
+      213: 6704308897321505414
+    second: Pale Lurker - atlas0 #450004_68
+  - first:
+      213: -1834339802992960484
+    second: Pale Lurker - atlas0 #450004_69
+  - first:
+      213: 8245001883735334057
+    second: Pale Lurker - atlas0 #450004_70
+  - first:
+      213: 2445453013102134516
+    second: Pale Lurker - atlas0 #450004_71
+  - first:
+      213: -7785507612142883306
+    second: Pale Lurker - atlas0 #450004_72
+  - first:
+      213: -4632438444966954538
+    second: Pale Lurker - atlas0 #450004_73
+  - first:
+      213: 4149550250599819449
+    second: Pale Lurker - atlas0 #450004_74
+  - first:
+      213: 1241689858022446469
+    second: Pale Lurker - atlas0 #450004_75
+  - first:
+      213: 3192282981121662038
+    second: Pale Lurker - atlas0 #450004_76
+  - first:
+      213: -2358381031106283349
+    second: Pale Lurker - atlas0 #450004_77
+  - first:
+      213: 728480770833307983
+    second: Pale Lurker - atlas0 #450004_78
+  - first:
+      213: -3737432276141017218
+    second: Pale Lurker - atlas0 #450004_79
+  - first:
+      213: 3932451519860947061
+    second: Pale Lurker - atlas0 #450004_80
+  - first:
+      213: 6809726210327633383
+    second: Pale Lurker - atlas0 #450004_81
+  - first:
+      213: 2723767490901437878
+    second: Pale Lurker - atlas0 #450004_82
+  - first:
+      213: 320021273604928611
+    second: Pale Lurker - atlas0 #450004_83
+  - first:
+      213: -4437772188196328125
+    second: Pale Lurker - atlas0 #450004_84
+  - first:
+      213: 799036541032527023
+    second: Pale Lurker - atlas0 #450004_85
+  - first:
+      213: 8106702229640714513
+    second: Pale Lurker - atlas0 #450004_86
+  - first:
+      213: -5449668715446712841
+    second: Pale Lurker - atlas0 #450004_87
+  - first:
+      213: 4204651437128860144
+    second: Pale Lurker - atlas0 #450004_88
+  - first:
+      213: 4772656062743736826
+    second: Pale Lurker - atlas0 #450004_89
+  - first:
+      213: 8015299810624948320
+    second: Pale Lurker - atlas0 #450004_90
+  - first:
+      213: -8816446386700458835
+    second: Pale Lurker - atlas0 #450004_91
+  - first:
+      213: 6526881568191118879
+    second: Pale Lurker - atlas0 #450004_92
+  - first:
+      213: -6876261507969083732
+    second: Pale Lurker - atlas0 #450004_93
+  - first:
+      213: 1610542861857704122
+    second: Pale Lurker - atlas0 #450004_94
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Pale Lurker - atlas0 #450004_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1853
+        width: 142
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a834dbf0ba38173e0800000000000000
+      internalID: -2057718784004897910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pale Lurker - atlas0 #450004_1
+      rect:
+        serializedVersion: 2
+        x: 1697
+        y: 1673
+        width: 166
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3472c746a315f65a0800000000000000
+      internalID: -6525908023800748221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pale Lurker - atlas0 #450004_2
+      rect:
+        serializedVersion: 2
+        x: 1861
+        y: 1759
+        width: 185
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15de53fdcac560180800000000000000
+      internalID: -9149523695407600303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pale Lurker - atlas0 #450004_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1703
+        width: 166
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8a3ba247712ce3b0800000000000000
+      internalID: -5481969850313393522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pale Lurker - atlas0 #450004_4
+      rect:
+        serializedVersion: 2
+        x: 1514
+        y: 1551
+        width: 171
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 544f5d73445103d30800000000000000
+      internalID: 4409047417934443589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pale Lurker - atlas0 #450004_5
+      rect:
+        serializedVersion: 2
+        x: 1874
+        y: 1583
+        width: 174
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5875392c2ce5a5950800000000000000
+      internalID: 6438562807860647813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pale Lurker - atlas0 #450004_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1551
+        width: 185
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6728a090b5a858f0800000000000000
+      internalID: -551508776593119381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pale Lurker - atlas0 #450004_7
+      rect:
+        serializedVersion: 2
+        x: 1732
+        y: 1501
+        width: 144
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4768d6132c817c10800000000000000
+      internalID: 2049573387765311310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pale Lurker - atlas0 #450004_8
+      rect:
+        serializedVersion: 2
+        x: 1886
+        y: 1251
+        width: 162
+        height: 334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4457a90ec764480a0800000000000000
+      internalID: -6880296828557167292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pale Lurker - atlas0 #450004_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1397
+        width: 167
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24ab9f5447118ff50800000000000000
+      internalID: 6915296418915269186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pale Lurker - atlas0 #450004_10
+      rect:
+        serializedVersion: 2
+        x: 1334
+        y: 1359
+        width: 182
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 650bd941d991b5130800000000000000
+      internalID: 3556464493185577046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pale Lurker - atlas0 #450004_11
+      rect:
+        serializedVersion: 2
+        x: 1682
+        y: 1538
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8124db8d543a8df0800000000000000
+      internalID: -177271658945175154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pale Lurker - atlas0 #450004_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1256
+        width: 184
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 742f7c07893df5950800000000000000
+      internalID: 6440098643843740231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pale Lurker - atlas0 #450004_13
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 1384
+        width: 179
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 926d31143b939c240800000000000000
+      internalID: 4812441118875833897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pale Lurker - atlas0 #450004_14
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 1256
+        width: 166
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8840e37dbabab6030800000000000000
+      internalID: 3489071090867504264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pale Lurker - atlas0 #450004_15
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 1235
+        width: 128
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12e79e405c6c924a0800000000000000
+      internalID: -6617539627950965215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pale Lurker - atlas0 #450004_16
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 1256
+        width: 142
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfc32517ee978aa40800000000000000
+      internalID: 5379683819904449789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pale Lurker - atlas0 #450004_17
+      rect:
+        serializedVersion: 2
+        x: 1126
+        y: 362
+        width: 346
+        height: 1037
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc903c936ae5c46f0800000000000000
+      internalID: -699079774122604084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pale Lurker - atlas0 #450004_18
+      rect:
+        serializedVersion: 2
+        x: 1538
+        y: 1318
+        width: 192
+        height: 211
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f9bf30ae0c2bb6b0800000000000000
+      internalID: -5279577696832079369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pale Lurker - atlas0 #450004_19
+      rect:
+        serializedVersion: 2
+        x: 1729
+        y: 1336
+        width: 159
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b6a3a2a4257e9c10800000000000000
+      internalID: 2062214479590172342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pale Lurker - atlas0 #450004_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1099
+        width: 164
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da7e55898379e94d0800000000000000
+      internalID: -3125894822018816083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pale Lurker - atlas0 #450004_21
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 1083
+        width: 143
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cad763a6ca0f6bb0800000000000000
+      internalID: -4940718417940849982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pale Lurker - atlas0 #450004_22
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 1232
+        width: 149
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6ae037e491985970800000000000000
+      internalID: 8743898745259747950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pale Lurker - atlas0 #450004_23
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 1099
+        width: 163
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8243a16c3b95d9ac0800000000000000
+      internalID: -3846819878046911448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pale Lurker - atlas0 #450004_24
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 1088
+        width: 176
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdb9417f41c33ba60800000000000000
+      internalID: 7688555049593904091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pale Lurker - atlas0 #450004_25
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 1085
+        width: 170
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a1648eb1b5033090800000000000000
+      internalID: -8056089047471988320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pale Lurker - atlas0 #450004_26
+      rect:
+        serializedVersion: 2
+        x: 1333
+        y: 1154
+        width: 207
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b376fe51953cb51f0800000000000000
+      internalID: -1055034900300732613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pale Lurker - atlas0 #450004_27
+      rect:
+        serializedVersion: 2
+        x: 1556
+        y: 1101
+        width: 187
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e54bfcae359178b20800000000000000
+      internalID: 3136503513699300446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pale Lurker - atlas0 #450004_28
+      rect:
+        serializedVersion: 2
+        x: 1741
+        y: 1163
+        width: 152
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4b379c3bb94dbb30800000000000000
+      internalID: 4304677887360318283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pale Lurker - atlas0 #450004_29
+      rect:
+        serializedVersion: 2
+        x: 1899
+        y: 1083
+        width: 149
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8763f7f7d3d2a8e20800000000000000
+      internalID: 3353542614686054008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pale Lurker - atlas0 #450004_30
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 926
+        width: 147
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa0b9ba533e2b6c90800000000000000
+      internalID: -7175590783184424785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pale Lurker - atlas0 #450004_31
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 1083
+        width: 183
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b04359c2fb8d65c80800000000000000
+      internalID: -8334235744804195317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pale Lurker - atlas0 #450004_32
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 926
+        width: 144
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 677e4bb4d64de18c0800000000000000
+      internalID: -4026547450935974026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pale Lurker - atlas0 #450004_33
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 921
+        width: 182
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c552f45eb2aaa92c0800000000000000
+      internalID: -4424036578430605988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pale Lurker - atlas0 #450004_34
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 907
+        width: 174
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e24e60cc4b48890d0800000000000000
+      internalID: -3415834405308537810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pale Lurker - atlas0 #450004_35
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 905
+        width: 170
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd14e5bffc49b59f0800000000000000
+      internalID: -478625314388426273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pale Lurker - atlas0 #450004_36
+      rect:
+        serializedVersion: 2
+        x: 1390
+        y: 970
+        width: 168
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d218a6c401ddc3ac0800000000000000
+      internalID: -3873978517374205651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pale Lurker - atlas0 #450004_37
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 860
+        width: 187
+        height: 243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4b112892acde4630800000000000000
+      internalID: 3913307717126658890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pale Lurker - atlas0 #450004_38
+      rect:
+        serializedVersion: 2
+        x: 1745
+        y: 970
+        width: 156
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d862c092b3373cb0800000000000000
+      internalID: -4884378428834158376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pale Lurker - atlas0 #450004_39
+      rect:
+        serializedVersion: 2
+        x: 1907
+        y: 914
+        width: 141
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abb279ba5b959a9a0800000000000000
+      internalID: -6221342773432865862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pale Lurker - atlas0 #450004_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 929
+        width: 152
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc7032efc7d79d700800000000000000
+      internalID: 565621204004833228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pale Lurker - atlas0 #450004_41
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 633
+        width: 553
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be14cc45664ee9f90800000000000000
+      internalID: -6944862447198256661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pale Lurker - atlas0 #450004_42
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 838
+        width: 125
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5008294fa4aaefb0800000000000000
+      internalID: -4617697395161431974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pale Lurker - atlas0 #450004_43
+      rect:
+        serializedVersion: 2
+        x: 1449
+        y: 896
+        width: 77
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd1a36be4e1a03a70800000000000000
+      internalID: 8804715276083110367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pale Lurker - atlas0 #450004_44
+      rect:
+        serializedVersion: 2
+        x: 1785
+        y: 827
+        width: 124
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b74cbfdb73b4ef390800000000000000
+      internalID: -7782700403266960261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pale Lurker - atlas0 #450004_45
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 716
+        width: 211
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 872e30ded37956110800000000000000
+      internalID: 1253574363517805176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pale Lurker - atlas0 #450004_46
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 716
+        width: 176
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5c5485717c2e67a0800000000000000
+      internalID: -6382114756122878883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pale Lurker - atlas0 #450004_47
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 673
+        width: 169
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63cbc007e0127be70800000000000000
+      internalID: 9130803115410111542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pale Lurker - atlas0 #450004_48
+      rect:
+        serializedVersion: 2
+        x: 1456
+        y: 767
+        width: 106
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38c0b57ae12cf8650800000000000000
+      internalID: 6237417445843995779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pale Lurker - atlas0 #450004_49
+      rect:
+        serializedVersion: 2
+        x: 1565
+        y: 646
+        width: 222
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31deb2e69fd5bece0800000000000000
+      internalID: -1374901935354942189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pale Lurker - atlas0 #450004_50
+      rect:
+        serializedVersion: 2
+        x: 1785
+        y: 649
+        width: 122
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6e9c7b8299217270800000000000000
+      internalID: 8246418102074252909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pale Lurker - atlas0 #450004_51
+      rect:
+        serializedVersion: 2
+        x: 1844
+        y: 822
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 946dd55b7d4e3ea20800000000000000
+      internalID: 3090565384418219593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pale Lurker - atlas0 #450004_52
+      rect:
+        serializedVersion: 2
+        x: 1908
+        y: 731
+        width: 139
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41e79a659378b1840800000000000000
+      internalID: 5195895275438833172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pale Lurker - atlas0 #450004_53
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 779
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a81270f6e125b3f0800000000000000
+      internalID: -885764475948230487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pale Lurker - atlas0 #450004_54
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 767
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92c4fb6070599dd30800000000000000
+      internalID: 4456757163670326313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pale Lurker - atlas0 #450004_55
+      rect:
+        serializedVersion: 2
+        x: 1465
+        y: 672
+        width: 98
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21826b260d011ecc0800000000000000
+      internalID: -3683644533017008110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pale Lurker - atlas0 #450004_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 331
+        width: 588
+        height: 306
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcedcc6074403bd30800000000000000
+      internalID: 4445901960248090317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pale Lurker - atlas0 #450004_57
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 542
+        width: 78
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37553c9eeac3c8430800000000000000
+      internalID: 3786468108655613299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pale Lurker - atlas0 #450004_58
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 556
+        width: 35
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39e16d467d712ad70800000000000000
+      internalID: 9052824414845279891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pale Lurker - atlas0 #450004_59
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 539
+        width: 94
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8dc66a7eb886a750800000000000000
+      internalID: 6315885879112420750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pale Lurker - atlas0 #450004_60
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 518
+        width: 169
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d726e4242ed34f640800000000000000
+      internalID: 5112779518956692093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pale Lurker - atlas0 #450004_61
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 351
+        width: 179
+        height: 323
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2efd92af07b22e8e0800000000000000
+      internalID: -1665721147940282398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pale Lurker - atlas0 #450004_62
+      rect:
+        serializedVersion: 2
+        x: 1470
+        y: 362
+        width: 100
+        height: 312
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 631c4732f21465d10800000000000000
+      internalID: 2113948745811149110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pale Lurker - atlas0 #450004_63
+      rect:
+        serializedVersion: 2
+        x: 1569
+        y: 337
+        width: 342
+        height: 312
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33921d2abbe0df310800000000000000
+      internalID: 1440323654881716531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pale Lurker - atlas0 #450004_64
+      rect:
+        serializedVersion: 2
+        x: 1907
+        y: 557
+        width: 141
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65b8605dc290569c0800000000000000
+      internalID: -3934728611281073322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pale Lurker - atlas0 #450004_65
+      rect:
+        serializedVersion: 2
+        x: 1909
+        y: 375
+        width: 135
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6675d8725da7e3580800000000000000
+      internalID: -8845497562198878362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pale Lurker - atlas0 #450004_66
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 491
+        width: 135
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8da3a3698a62d310800000000000000
+      internalID: 1428321170144603530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pale Lurker - atlas0 #450004_67
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 510
+        width: 122
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58c43560bcfabd920800000000000000
+      internalID: 3016197661974023301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pale Lurker - atlas0 #450004_68
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 462
+        width: 66
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 682d651db6d7a0d50800000000000000
+      internalID: 6704308897321505414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pale Lurker - atlas0 #450004_69
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 401
+        width: 98
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1c9e3dfaad1b86e0800000000000000
+      internalID: -1834339802992960484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pale Lurker - atlas0 #450004_70
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 351
+        width: 15
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ac987487812c6270800000000000000
+      internalID: 8245001883735334057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pale Lurker - atlas0 #450004_71
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 0
+        width: 696
+        height: 364
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f48cd01f8effe120800000000000000
+      internalID: 2445453013102134516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pale Lurker - atlas0 #450004_72
+      rect:
+        serializedVersion: 2
+        x: 1958
+        y: 0
+        width: 87
+        height: 377
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61eaf1e731254f390800000000000000
+      internalID: -7785507612142883306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pale Lurker - atlas0 #450004_73
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 31
+        width: 428
+        height: 303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d9b1eb27c546bfb0800000000000000
+      internalID: -4632438444966954538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pale Lurker - atlas0 #450004_74
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 328
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b8a2a8b7f9269930800000000000000
+      internalID: 4149550250599819449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pale Lurker - atlas0 #450004_75
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 9
+        width: 355
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58512acd85e5b3110800000000000000
+      internalID: 1241689858022446469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pale Lurker - atlas0 #450004_76
+      rect:
+        serializedVersion: 2
+        x: 1279
+        y: 109
+        width: 292
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65c184835744d4c20800000000000000
+      internalID: 3192282981121662038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pale Lurker - atlas0 #450004_77
+      rect:
+        serializedVersion: 2
+        x: 1762
+        y: 274
+        width: 11
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba8f3eb82f8554fd0800000000000000
+      internalID: -2358381031106283349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pale Lurker - atlas0 #450004_78
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 429
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f49d833c6651c1a00800000000000000
+      internalID: 728480770833307983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pale Lurker - atlas0 #450004_79
+      rect:
+        serializedVersion: 2
+        x: 1722
+        y: 240
+        width: 27
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e77f8888529f12cc0800000000000000
+      internalID: -3737432276141017218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pale Lurker - atlas0 #450004_80
+      rect:
+        serializedVersion: 2
+        x: 1787
+        y: 253
+        width: 12
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 578b1c182dfd29630800000000000000
+      internalID: 3932451519860947061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pale Lurker - atlas0 #450004_81
+      rect:
+        serializedVersion: 2
+        x: 1640
+        y: 198
+        width: 58
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7edde38a8e1018e50800000000000000
+      internalID: 6809726210327633383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pale Lurker - atlas0 #450004_82
+      rect:
+        serializedVersion: 2
+        x: 1698
+        y: 211
+        width: 28
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bdefe11a14ccc520800000000000000
+      internalID: 2723767490901437878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pale Lurker - atlas0 #450004_83
+      rect:
+        serializedVersion: 2
+        x: 1715
+        y: 212
+        width: 34
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3643acd17a1f07400800000000000000
+      internalID: 320021273604928611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pale Lurker - atlas0 #450004_84
+      rect:
+        serializedVersion: 2
+        x: 1815
+        y: 204
+        width: 30
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34d237805bdd962c0800000000000000
+      internalID: -4437772188196328125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pale Lurker - atlas0 #450004_85
+      rect:
+        serializedVersion: 2
+        x: 1888
+        y: 202
+        width: 72
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa4fcc6208fb61b00800000000000000
+      internalID: 799036541032527023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pale Lurker - atlas0 #450004_86
+      rect:
+        serializedVersion: 2
+        x: 1729
+        y: 195
+        width: 25
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1191a990abac08070800000000000000
+      internalID: 8106702229640714513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pale Lurker - atlas0 #450004_87
+      rect:
+        serializedVersion: 2
+        x: 1569
+        y: 167
+        width: 86
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f54d384d23ee54b0800000000000000
+      internalID: -5449668715446712841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pale Lurker - atlas0 #450004_88
+      rect:
+        serializedVersion: 2
+        x: 1703
+        y: 104
+        width: 58
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f1c662743ce95a30800000000000000
+      internalID: 4204651437128860144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pale Lurker - atlas0 #450004_89
+      rect:
+        serializedVersion: 2
+        x: 1705
+        y: 137
+        width: 39
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af174f60761eb3240800000000000000
+      internalID: 4772656062743736826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pale Lurker - atlas0 #450004_90
+      rect:
+        serializedVersion: 2
+        x: 1807
+        y: 90
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0684e8cf5b01c3f60800000000000000
+      internalID: 8015299810624948320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pale Lurker - atlas0 #450004_91
+      rect:
+        serializedVersion: 2
+        x: 1810
+        y: 134
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da4617b09b0b5a580800000000000000
+      internalID: -8816446386700458835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pale Lurker - atlas0 #450004_92
+      rect:
+        serializedVersion: 2
+        x: 1715
+        y: 80
+        width: 24
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1e73139434249a50800000000000000
+      internalID: 6526881568191118879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pale Lurker - atlas0 #450004_93
+      rect:
+        serializedVersion: 2
+        x: 1734
+        y: 0
+        width: 24
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca69fca279c9290a0800000000000000
+      internalID: -6876261507969083732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pale Lurker - atlas0 #450004_94
+      rect:
+        serializedVersion: 2
+        x: 1787
+        y: 50
+        width: 12
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab8c198233cc95610800000000000000
+      internalID: 1610542861857704122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Pale Lurker - atlas0 #450004_0: -2057718784004897910
+      Pale Lurker - atlas0 #450004_1: -6525908023800748221
+      Pale Lurker - atlas0 #450004_10: 3556464493185577046
+      Pale Lurker - atlas0 #450004_11: -177271658945175154
+      Pale Lurker - atlas0 #450004_12: 6440098643843740231
+      Pale Lurker - atlas0 #450004_13: 4812441118875833897
+      Pale Lurker - atlas0 #450004_14: 3489071090867504264
+      Pale Lurker - atlas0 #450004_15: -6617539627950965215
+      Pale Lurker - atlas0 #450004_16: 5379683819904449789
+      Pale Lurker - atlas0 #450004_17: -699079774122604084
+      Pale Lurker - atlas0 #450004_18: -5279577696832079369
+      Pale Lurker - atlas0 #450004_19: 2062214479590172342
+      Pale Lurker - atlas0 #450004_2: -9149523695407600303
+      Pale Lurker - atlas0 #450004_20: -3125894822018816083
+      Pale Lurker - atlas0 #450004_21: -4940718417940849982
+      Pale Lurker - atlas0 #450004_22: 8743898745259747950
+      Pale Lurker - atlas0 #450004_23: -3846819878046911448
+      Pale Lurker - atlas0 #450004_24: 7688555049593904091
+      Pale Lurker - atlas0 #450004_25: -8056089047471988320
+      Pale Lurker - atlas0 #450004_26: -1055034900300732613
+      Pale Lurker - atlas0 #450004_27: 3136503513699300446
+      Pale Lurker - atlas0 #450004_28: 4304677887360318283
+      Pale Lurker - atlas0 #450004_29: 3353542614686054008
+      Pale Lurker - atlas0 #450004_3: -5481969850313393522
+      Pale Lurker - atlas0 #450004_30: -7175590783184424785
+      Pale Lurker - atlas0 #450004_31: -8334235744804195317
+      Pale Lurker - atlas0 #450004_32: -4026547450935974026
+      Pale Lurker - atlas0 #450004_33: -4424036578430605988
+      Pale Lurker - atlas0 #450004_34: -3415834405308537810
+      Pale Lurker - atlas0 #450004_35: -478625314388426273
+      Pale Lurker - atlas0 #450004_36: -3873978517374205651
+      Pale Lurker - atlas0 #450004_37: 3913307717126658890
+      Pale Lurker - atlas0 #450004_38: -4884378428834158376
+      Pale Lurker - atlas0 #450004_39: -6221342773432865862
+      Pale Lurker - atlas0 #450004_4: 4409047417934443589
+      Pale Lurker - atlas0 #450004_40: 565621204004833228
+      Pale Lurker - atlas0 #450004_41: -6944862447198256661
+      Pale Lurker - atlas0 #450004_42: -4617697395161431974
+      Pale Lurker - atlas0 #450004_43: 8804715276083110367
+      Pale Lurker - atlas0 #450004_44: -7782700403266960261
+      Pale Lurker - atlas0 #450004_45: 1253574363517805176
+      Pale Lurker - atlas0 #450004_46: -6382114756122878883
+      Pale Lurker - atlas0 #450004_47: 9130803115410111542
+      Pale Lurker - atlas0 #450004_48: 6237417445843995779
+      Pale Lurker - atlas0 #450004_49: -1374901935354942189
+      Pale Lurker - atlas0 #450004_5: 6438562807860647813
+      Pale Lurker - atlas0 #450004_50: 8246418102074252909
+      Pale Lurker - atlas0 #450004_51: 3090565384418219593
+      Pale Lurker - atlas0 #450004_52: 5195895275438833172
+      Pale Lurker - atlas0 #450004_53: -885764475948230487
+      Pale Lurker - atlas0 #450004_54: 4456757163670326313
+      Pale Lurker - atlas0 #450004_55: -3683644533017008110
+      Pale Lurker - atlas0 #450004_56: 4445901960248090317
+      Pale Lurker - atlas0 #450004_57: 3786468108655613299
+      Pale Lurker - atlas0 #450004_58: 9052824414845279891
+      Pale Lurker - atlas0 #450004_59: 6315885879112420750
+      Pale Lurker - atlas0 #450004_6: -551508776593119381
+      Pale Lurker - atlas0 #450004_60: 5112779518956692093
+      Pale Lurker - atlas0 #450004_61: -1665721147940282398
+      Pale Lurker - atlas0 #450004_62: 2113948745811149110
+      Pale Lurker - atlas0 #450004_63: 1440323654881716531
+      Pale Lurker - atlas0 #450004_64: -3934728611281073322
+      Pale Lurker - atlas0 #450004_65: -8845497562198878362
+      Pale Lurker - atlas0 #450004_66: 1428321170144603530
+      Pale Lurker - atlas0 #450004_67: 3016197661974023301
+      Pale Lurker - atlas0 #450004_68: 6704308897321505414
+      Pale Lurker - atlas0 #450004_69: -1834339802992960484
+      Pale Lurker - atlas0 #450004_7: 2049573387765311310
+      Pale Lurker - atlas0 #450004_70: 8245001883735334057
+      Pale Lurker - atlas0 #450004_71: 2445453013102134516
+      Pale Lurker - atlas0 #450004_72: -7785507612142883306
+      Pale Lurker - atlas0 #450004_73: -4632438444966954538
+      Pale Lurker - atlas0 #450004_74: 4149550250599819449
+      Pale Lurker - atlas0 #450004_75: 1241689858022446469
+      Pale Lurker - atlas0 #450004_76: 3192282981121662038
+      Pale Lurker - atlas0 #450004_77: -2358381031106283349
+      Pale Lurker - atlas0 #450004_78: 728480770833307983
+      Pale Lurker - atlas0 #450004_79: -3737432276141017218
+      Pale Lurker - atlas0 #450004_8: -6880296828557167292
+      Pale Lurker - atlas0 #450004_80: 3932451519860947061
+      Pale Lurker - atlas0 #450004_81: 6809726210327633383
+      Pale Lurker - atlas0 #450004_82: 2723767490901437878
+      Pale Lurker - atlas0 #450004_83: 320021273604928611
+      Pale Lurker - atlas0 #450004_84: -4437772188196328125
+      Pale Lurker - atlas0 #450004_85: 799036541032527023
+      Pale Lurker - atlas0 #450004_86: 8106702229640714513
+      Pale Lurker - atlas0 #450004_87: -5449668715446712841
+      Pale Lurker - atlas0 #450004_88: 4204651437128860144
+      Pale Lurker - atlas0 #450004_89: 4772656062743736826
+      Pale Lurker - atlas0 #450004_9: 6915296418915269186
+      Pale Lurker - atlas0 #450004_90: 8015299810624948320
+      Pale Lurker - atlas0 #450004_91: -8816446386700458835
+      Pale Lurker - atlas0 #450004_92: 6526881568191118879
+      Pale Lurker - atlas0 #450004_93: -6876261507969083732
+      Pale Lurker - atlas0 #450004_94: 1610542861857704122
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

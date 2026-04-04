@@ -1,0 +1,3666 @@
+fileFormatVersion: 2
+guid: 284d5e5867f6ebe439959abfed19f70a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1317732234837616311
+    second: Grimmchild - atlas0 #00000392_0
+  - first:
+      213: 7283534844929540429
+    second: Grimmchild - atlas0 #00000392_1
+  - first:
+      213: -3285148672747901037
+    second: Grimmchild - atlas0 #00000392_2
+  - first:
+      213: 137266357555581599
+    second: Grimmchild - atlas0 #00000392_3
+  - first:
+      213: -2377074205040468579
+    second: Grimmchild - atlas0 #00000392_4
+  - first:
+      213: -7872480482643648120
+    second: Grimmchild - atlas0 #00000392_5
+  - first:
+      213: 5823285338307680374
+    second: Grimmchild - atlas0 #00000392_6
+  - first:
+      213: -4690463060156864372
+    second: Grimmchild - atlas0 #00000392_7
+  - first:
+      213: 2031782382805561003
+    second: Grimmchild - atlas0 #00000392_8
+  - first:
+      213: 3676147808632809079
+    second: Grimmchild - atlas0 #00000392_9
+  - first:
+      213: -8862769820618272861
+    second: Grimmchild - atlas0 #00000392_10
+  - first:
+      213: 790261784542840793
+    second: Grimmchild - atlas0 #00000392_11
+  - first:
+      213: 7787950010680010320
+    second: Grimmchild - atlas0 #00000392_12
+  - first:
+      213: 3129251034902001942
+    second: Grimmchild - atlas0 #00000392_13
+  - first:
+      213: 7150846315804541778
+    second: Grimmchild - atlas0 #00000392_14
+  - first:
+      213: -6957170575655347348
+    second: Grimmchild - atlas0 #00000392_15
+  - first:
+      213: 4079940890312176280
+    second: Grimmchild - atlas0 #00000392_16
+  - first:
+      213: -822706891274256595
+    second: Grimmchild - atlas0 #00000392_17
+  - first:
+      213: -1951517693793611615
+    second: Grimmchild - atlas0 #00000392_18
+  - first:
+      213: 5169323273096592607
+    second: Grimmchild - atlas0 #00000392_19
+  - first:
+      213: -8116292322237213286
+    second: Grimmchild - atlas0 #00000392_20
+  - first:
+      213: 2813192511005738237
+    second: Grimmchild - atlas0 #00000392_21
+  - first:
+      213: 7207295068150972594
+    second: Grimmchild - atlas0 #00000392_22
+  - first:
+      213: 1834321595227899734
+    second: Grimmchild - atlas0 #00000392_23
+  - first:
+      213: 837808219164573079
+    second: Grimmchild - atlas0 #00000392_24
+  - first:
+      213: -265385678877403273
+    second: Grimmchild - atlas0 #00000392_25
+  - first:
+      213: 2428174340883459694
+    second: Grimmchild - atlas0 #00000392_26
+  - first:
+      213: 1222737605981899858
+    second: Grimmchild - atlas0 #00000392_27
+  - first:
+      213: -8580860770720392007
+    second: Grimmchild - atlas0 #00000392_28
+  - first:
+      213: -844453541445121630
+    second: Grimmchild - atlas0 #00000392_29
+  - first:
+      213: 6869516298156456300
+    second: Grimmchild - atlas0 #00000392_30
+  - first:
+      213: -3831233536077128376
+    second: Grimmchild - atlas0 #00000392_31
+  - first:
+      213: -6334528280293584047
+    second: Grimmchild - atlas0 #00000392_32
+  - first:
+      213: 1861810901125266508
+    second: Grimmchild - atlas0 #00000392_33
+  - first:
+      213: 7402446112021852178
+    second: Grimmchild - atlas0 #00000392_34
+  - first:
+      213: 1588588217778322226
+    second: Grimmchild - atlas0 #00000392_35
+  - first:
+      213: -6933346687685591126
+    second: Grimmchild - atlas0 #00000392_36
+  - first:
+      213: -3423529021358542495
+    second: Grimmchild - atlas0 #00000392_37
+  - first:
+      213: -4997261089720824728
+    second: Grimmchild - atlas0 #00000392_38
+  - first:
+      213: -8569799799690433394
+    second: Grimmchild - atlas0 #00000392_39
+  - first:
+      213: 8570755772621861297
+    second: Grimmchild - atlas0 #00000392_40
+  - first:
+      213: 4397044756524954101
+    second: Grimmchild - atlas0 #00000392_41
+  - first:
+      213: 2692013403165919866
+    second: Grimmchild - atlas0 #00000392_42
+  - first:
+      213: 1306235796008671121
+    second: Grimmchild - atlas0 #00000392_43
+  - first:
+      213: -6431617535040211009
+    second: Grimmchild - atlas0 #00000392_44
+  - first:
+      213: 2041781782982770779
+    second: Grimmchild - atlas0 #00000392_45
+  - first:
+      213: -384252553421096416
+    second: Grimmchild - atlas0 #00000392_46
+  - first:
+      213: 1110804035675230015
+    second: Grimmchild - atlas0 #00000392_47
+  - first:
+      213: 7316931208250928396
+    second: Grimmchild - atlas0 #00000392_48
+  - first:
+      213: 5195453242071864438
+    second: Grimmchild - atlas0 #00000392_49
+  - first:
+      213: 1753984495530474619
+    second: Grimmchild - atlas0 #00000392_50
+  - first:
+      213: -3966464040067781852
+    second: Grimmchild - atlas0 #00000392_51
+  - first:
+      213: -8677344534236934890
+    second: Grimmchild - atlas0 #00000392_52
+  - first:
+      213: 1861779816328126059
+    second: Grimmchild - atlas0 #00000392_53
+  - first:
+      213: -6797844274858082168
+    second: Grimmchild - atlas0 #00000392_54
+  - first:
+      213: -4079763199380521867
+    second: Grimmchild - atlas0 #00000392_55
+  - first:
+      213: -5948147354330609721
+    second: Grimmchild - atlas0 #00000392_56
+  - first:
+      213: 6777636284117345992
+    second: Grimmchild - atlas0 #00000392_57
+  - first:
+      213: -5295803684243480073
+    second: Grimmchild - atlas0 #00000392_58
+  - first:
+      213: -2279567209147447084
+    second: Grimmchild - atlas0 #00000392_59
+  - first:
+      213: -5311742031479586785
+    second: Grimmchild - atlas0 #00000392_60
+  - first:
+      213: 7812679405147507041
+    second: Grimmchild - atlas0 #00000392_61
+  - first:
+      213: 2194019593945425852
+    second: Grimmchild - atlas0 #00000392_62
+  - first:
+      213: 2292811254449747447
+    second: Grimmchild - atlas0 #00000392_63
+  - first:
+      213: -8820214298863793003
+    second: Grimmchild - atlas0 #00000392_64
+  - first:
+      213: -5780355705149481965
+    second: Grimmchild - atlas0 #00000392_65
+  - first:
+      213: -1671677822911482639
+    second: Grimmchild - atlas0 #00000392_66
+  - first:
+      213: 1133181141272733062
+    second: Grimmchild - atlas0 #00000392_67
+  - first:
+      213: 4176160506189743547
+    second: Grimmchild - atlas0 #00000392_68
+  - first:
+      213: 4197319241140446783
+    second: Grimmchild - atlas0 #00000392_69
+  - first:
+      213: -349829063779260874
+    second: Grimmchild - atlas0 #00000392_70
+  - first:
+      213: -3056754355442611131
+    second: Grimmchild - atlas0 #00000392_71
+  - first:
+      213: -6663548987280764466
+    second: Grimmchild - atlas0 #00000392_72
+  - first:
+      213: 1197490355806656485
+    second: Grimmchild - atlas0 #00000392_73
+  - first:
+      213: 6623046190459833987
+    second: Grimmchild - atlas0 #00000392_74
+  - first:
+      213: 8073887157951855936
+    second: Grimmchild - atlas0 #00000392_75
+  - first:
+      213: -5579832777963660927
+    second: Grimmchild - atlas0 #00000392_76
+  - first:
+      213: 5513583906463740347
+    second: Grimmchild - atlas0 #00000392_77
+  - first:
+      213: 8402546507034471770
+    second: Grimmchild - atlas0 #00000392_78
+  - first:
+      213: -5494823227056269638
+    second: Grimmchild - atlas0 #00000392_79
+  - first:
+      213: -2787709839461125391
+    second: Grimmchild - atlas0 #00000392_80
+  - first:
+      213: -5508715756579431427
+    second: Grimmchild - atlas0 #00000392_81
+  - first:
+      213: -442628620818070891
+    second: Grimmchild - atlas0 #00000392_82
+  - first:
+      213: -2217913931200230224
+    second: Grimmchild - atlas0 #00000392_83
+  - first:
+      213: 2825282071103929224
+    second: Grimmchild - atlas0 #00000392_84
+  - first:
+      213: -3291403439751888192
+    second: Grimmchild - atlas0 #00000392_85
+  - first:
+      213: -5746577042298165255
+    second: Grimmchild - atlas0 #00000392_86
+  - first:
+      213: 580478358294411779
+    second: Grimmchild - atlas0 #00000392_87
+  - first:
+      213: 49213009280876174
+    second: Grimmchild - atlas0 #00000392_88
+  - first:
+      213: -8801383819073088461
+    second: Grimmchild - atlas0 #00000392_89
+  - first:
+      213: 545201482419168088
+    second: Grimmchild - atlas0 #00000392_90
+  - first:
+      213: 652552706087809845
+    second: Grimmchild - atlas0 #00000392_91
+  - first:
+      213: 590026279244119150
+    second: Grimmchild - atlas0 #00000392_92
+  - first:
+      213: -7367569925401795599
+    second: Grimmchild - atlas0 #00000392_93
+  - first:
+      213: 2736762818115777067
+    second: Grimmchild - atlas0 #00000392_94
+  - first:
+      213: 3004254675990661044
+    second: Grimmchild - atlas0 #00000392_95
+  - first:
+      213: 7465518060874475011
+    second: Grimmchild - atlas0 #00000392_96
+  - first:
+      213: -2049219504001384370
+    second: Grimmchild - atlas0 #00000392_97
+  - first:
+      213: 9168289625432297399
+    second: Grimmchild - atlas0 #00000392_98
+  - first:
+      213: -3210473284088182355
+    second: Grimmchild - atlas0 #00000392_99
+  - first:
+      213: 2594329981872129438
+    second: Grimmchild - atlas0 #00000392_100
+  - first:
+      213: 6622443053175922974
+    second: Grimmchild - atlas0 #00000392_101
+  - first:
+      213: 1213552906951100919
+    second: Grimmchild - atlas0 #00000392_102
+  - first:
+      213: -2020823294347297429
+    second: Grimmchild - atlas0 #00000392_103
+  - first:
+      213: -5518415918013520069
+    second: Grimmchild - atlas0 #00000392_104
+  - first:
+      213: 2721144044041073675
+    second: Grimmchild - atlas0 #00000392_105
+  - first:
+      213: 6348832915187360862
+    second: Grimmchild - atlas0 #00000392_106
+  - first:
+      213: -1053569839696135546
+    second: Grimmchild - atlas0 #00000392_107
+  - first:
+      213: -7463986314101434087
+    second: Grimmchild - atlas0 #00000392_108
+  - first:
+      213: -2857477049581583614
+    second: Grimmchild - atlas0 #00000392_109
+  - first:
+      213: -1498083873136151500
+    second: Grimmchild - atlas0 #00000392_110
+  - first:
+      213: 6359447115222168646
+    second: Grimmchild - atlas0 #00000392_111
+  - first:
+      213: 7605846236426744866
+    second: Grimmchild - atlas0 #00000392_112
+  - first:
+      213: 1629449945643731566
+    second: Grimmchild - atlas0 #00000392_113
+  - first:
+      213: -2871860276092373602
+    second: Grimmchild - atlas0 #00000392_114
+  - first:
+      213: -1929413255106825001
+    second: Grimmchild - atlas0 #00000392_115
+  - first:
+      213: 5298576678497885167
+    second: Grimmchild - atlas0 #00000392_116
+  - first:
+      213: -2056912441212827120
+    second: Grimmchild - atlas0 #00000392_117
+  - first:
+      213: -3750672578761655402
+    second: Grimmchild - atlas0 #00000392_118
+  - first:
+      213: -9045330569462104322
+    second: Grimmchild - atlas0 #00000392_119
+  - first:
+      213: -7353545775870562572
+    second: Grimmchild - atlas0 #00000392_120
+  - first:
+      213: -6037963140186499653
+    second: Grimmchild - atlas0 #00000392_121
+  - first:
+      213: 4389167096379583501
+    second: Grimmchild - atlas0 #00000392_122
+  - first:
+      213: -7995254838608111945
+    second: Grimmchild - atlas0 #00000392_123
+  - first:
+      213: -4174899256926231314
+    second: Grimmchild - atlas0 #00000392_124
+  - first:
+      213: -456021957877270814
+    second: Grimmchild - atlas0 #00000392_125
+  - first:
+      213: 2126209107137171336
+    second: Grimmchild - atlas0 #00000392_126
+  - first:
+      213: -2393505300165986333
+    second: Grimmchild - atlas0 #00000392_127
+  - first:
+      213: -7958956609151314288
+    second: Grimmchild - atlas0 #00000392_128
+  - first:
+      213: -9051382902766713272
+    second: Grimmchild - atlas0 #00000392_129
+  - first:
+      213: 4039079404033097266
+    second: Grimmchild - atlas0 #00000392_130
+  - first:
+      213: 7560088754725389809
+    second: Grimmchild - atlas0 #00000392_131
+  - first:
+      213: -3438425049279217797
+    second: Grimmchild - atlas0 #00000392_132
+  - first:
+      213: -1483012345006141050
+    second: Grimmchild - atlas0 #00000392_133
+  - first:
+      213: 2565006913053592221
+    second: Grimmchild - atlas0 #00000392_134
+  - first:
+      213: -8072423011361738416
+    second: Grimmchild - atlas0 #00000392_135
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Grimmchild - atlas0 #00000392_0
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 1854
+        width: 149
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b6e3966c76894210800000000000000
+      internalID: 1317732234837616311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grimmchild - atlas0 #00000392_1
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 2010
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4184350a50541560800000000000000
+      internalID: 7283534844929540429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grimmchild - atlas0 #00000392_2
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 2011
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39fe38600bec862d0800000000000000
+      internalID: -3285148672747901037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grimmchild - atlas0 #00000392_3
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 2022
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9256b1660ba7e100800000000000000
+      internalID: 137266357555581599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grimmchild - atlas0 #00000392_4
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 1956
+        width: 127
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9d91d3da9fe20fd0800000000000000
+      internalID: -2377074205040468579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grimmchild - atlas0 #00000392_5
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 1937
+        width: 163
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88164d216b45fb290800000000000000
+      internalID: -7872480482643648120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grimmchild - atlas0 #00000392_6
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 1885
+        width: 210
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 678d19f792770d050800000000000000
+      internalID: 5823285338307680374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grimmchild - atlas0 #00000392_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1863
+        width: 218
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c88224ba2b028eeb0800000000000000
+      internalID: -4690463060156864372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grimmchild - atlas0 #00000392_8
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 1680
+        width: 144
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: baea504ff47523c10800000000000000
+      internalID: 2031782382805561003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grimmchild - atlas0 #00000392_9
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 1805
+        width: 152
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 776a36374fc440330800000000000000
+      internalID: 3676147808632809079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grimmchild - atlas0 #00000392_10
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 1956
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3afcefb1ecd110580800000000000000
+      internalID: -8862769820618272861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grimmchild - atlas0 #00000392_11
+      rect:
+        serializedVersion: 2
+        x: 1148
+        y: 1868
+        width: 104
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d70e33f7e297fa00800000000000000
+      internalID: 790261784542840793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grimmchild - atlas0 #00000392_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1682
+        width: 168
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 056e41bb54b541c60800000000000000
+      internalID: 7787950010680010320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grimmchild - atlas0 #00000392_13
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 1675
+        width: 166
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6197b5c9c355d6b20800000000000000
+      internalID: 3129251034902001942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grimmchild - atlas0 #00000392_14
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 1762
+        width: 380
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 253c0f066d8ec3360800000000000000
+      internalID: 7150846315804541778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grimmchild - atlas0 #00000392_15
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 1850
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6b534cd83a237f90800000000000000
+      internalID: -6957170575655347348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grimmchild - atlas0 #00000392_16
+      rect:
+        serializedVersion: 2
+        x: 1068
+        y: 1741
+        width: 87
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 892f5af8f9cde9830800000000000000
+      internalID: 4079940890312176280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grimmchild - atlas0 #00000392_17
+      rect:
+        serializedVersion: 2
+        x: 1047
+        y: 1815
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2ff457f0782594f0800000000000000
+      internalID: -822706891274256595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grimmchild - atlas0 #00000392_18
+      rect:
+        serializedVersion: 2
+        x: 1153
+        y: 1739
+        width: 90
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a0da804ff0dae4e0800000000000000
+      internalID: -1951517693793611615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grimmchild - atlas0 #00000392_19
+      rect:
+        serializedVersion: 2
+        x: 1241
+        y: 1739
+        width: 96
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdcf41ee0202db740800000000000000
+      internalID: 5169323273096592607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grimmchild - atlas0 #00000392_20
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 1710
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9512d782232d5f80800000000000000
+      internalID: -8116292322237213286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grimmchild - atlas0 #00000392_21
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 1673
+        width: 58
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df4494f0fa77a0720800000000000000
+      internalID: 2813192511005738237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grimmchild - atlas0 #00000392_22
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 1668
+        width: 55
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b04098bda4750460800000000000000
+      internalID: 7207295068150972594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grimmchild - atlas0 #00000392_23
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 1708
+        width: 30
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 657036fa5c1d47910800000000000000
+      internalID: 1834321595227899734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grimmchild - atlas0 #00000392_24
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 1624
+        width: 131
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79df43de22e70ab00800000000000000
+      internalID: 837808219164573079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grimmchild - atlas0 #00000392_25
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 1619
+        width: 268
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77759029129215cf0800000000000000
+      internalID: -265385678877403273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grimmchild - atlas0 #00000392_26
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 1612
+        width: 123
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6ea311b2bb92b120800000000000000
+      internalID: 2428174340883459694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grimmchild - atlas0 #00000392_27
+      rect:
+        serializedVersion: 2
+        x: 1047
+        y: 1604
+        width: 103
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25c0012df5908f010800000000000000
+      internalID: 1222737605981899858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grimmchild - atlas0 #00000392_28
+      rect:
+        serializedVersion: 2
+        x: 1068
+        y: 1731
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bc5026a798aae880800000000000000
+      internalID: -8580860770720392007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grimmchild - atlas0 #00000392_29
+      rect:
+        serializedVersion: 2
+        x: 1148
+        y: 1655
+        width: 89
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a9c7d86af5e744f0800000000000000
+      internalID: -844453541445121630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grimmchild - atlas0 #00000392_30
+      rect:
+        serializedVersion: 2
+        x: 1184
+        y: 1729
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c693f5a4dac655f50800000000000000
+      internalID: 6869516298156456300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grimmchild - atlas0 #00000392_31
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1493
+        width: 162
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84d1f8ec569b4dac0800000000000000
+      internalID: -3831233536077128376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grimmchild - atlas0 #00000392_32
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 1493
+        width: 166
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1535f61471c3718a0800000000000000
+      internalID: -6334528280293584047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grimmchild - atlas0 #00000392_33
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 1491
+        width: 160
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4c7588762b76d910800000000000000
+      internalID: 1861810901125266508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grimmchild - atlas0 #00000392_34
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 1466
+        width: 494
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 210b800e485cab660800000000000000
+      internalID: 7402446112021852178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grimmchild - atlas0 #00000392_35
+      rect:
+        serializedVersion: 2
+        x: 1148
+        y: 1619
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23b3c0f319ccb0610800000000000000
+      internalID: 1588588217778322226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grimmchild - atlas0 #00000392_36
+      rect:
+        serializedVersion: 2
+        x: 1154
+        y: 1554
+        width: 91
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaf7ed70cedc7cf90800000000000000
+      internalID: -6933346687685591126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grimmchild - atlas0 #00000392_37
+      rect:
+        serializedVersion: 2
+        x: 1248
+        y: 1616
+        width: 99
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 161fea36e7e2d70d0800000000000000
+      internalID: -3423529021358542495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grimmchild - atlas0 #00000392_38
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 1433
+        width: 215
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86c0f49f38926aab0800000000000000
+      internalID: -4997261089720824728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grimmchild - atlas0 #00000392_39
+      rect:
+        serializedVersion: 2
+        x: 1187
+        y: 1417
+        width: 96
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8cec37ac74f11980800000000000000
+      internalID: -8569799799690433394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grimmchild - atlas0 #00000392_40
+      rect:
+        serializedVersion: 2
+        x: 1243
+        y: 1515
+        width: 93
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b131c327f071f670800000000000000
+      internalID: 8570755772621861297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grimmchild - atlas0 #00000392_41
+      rect:
+        serializedVersion: 2
+        x: 1334
+        y: 1452
+        width: 86
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f1f926d8e0750d30800000000000000
+      internalID: 4397044756524954101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grimmchild - atlas0 #00000392_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1297
+        width: 168
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7a8b426de3fb5520800000000000000
+      internalID: 2692013403165919866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grimmchild - atlas0 #00000392_43
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 1334
+        width: 714
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1971ff5298ea02210800000000000000
+      internalID: 1306235796008671121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grimmchild - atlas0 #00000392_44
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 1253
+        width: 169
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb731c49ded4eb6a0800000000000000
+      internalID: -6431617535040211009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grimmchild - atlas0 #00000392_45
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 1253
+        width: 178
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b504d8bb6bdd55c10800000000000000
+      internalID: 2041781782982770779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grimmchild - atlas0 #00000392_46
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 1221
+        width: 162
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02a7c49a65cdaaaf0800000000000000
+      internalID: -384252553421096416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grimmchild - atlas0 #00000392_47
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 1324
+        width: 142
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3f0e79926e5a6f00800000000000000
+      internalID: 1110804035675230015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grimmchild - atlas0 #00000392_48
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 1305
+        width: 133
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0d24c9ca26fa8560800000000000000
+      internalID: 7316931208250928396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grimmchild - atlas0 #00000392_49
+      rect:
+        serializedVersion: 2
+        x: 1153
+        y: 1301
+        width: 98
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67458dc6235f91840800000000000000
+      internalID: 5195453242071864438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grimmchild - atlas0 #00000392_50
+      rect:
+        serializedVersion: 2
+        x: 1249
+        y: 1262
+        width: 101
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7cf2ad0b97675810800000000000000
+      internalID: 1753984495530474619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grimmchild - atlas0 #00000392_51
+      rect:
+        serializedVersion: 2
+        x: 1281
+        y: 1358
+        width: 92
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42b266588f944f8c0800000000000000
+      internalID: -3966464040067781852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grimmchild - atlas0 #00000392_52
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 1169
+        width: 153
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61d4123ee11e39780800000000000000
+      internalID: -8677344534236934890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grimmchild - atlas0 #00000392_53
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 1167
+        width: 138
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6eda3af0ee56d910800000000000000
+      internalID: 1861779816328126059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grimmchild - atlas0 #00000392_54
+      rect:
+        serializedVersion: 2
+        x: 1351
+        y: 1235
+        width: 85
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88049a606a439a1a0800000000000000
+      internalID: -6797844274858082168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grimmchild - atlas0 #00000392_55
+      rect:
+        serializedVersion: 2
+        x: 1391
+        y: 1324
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57c76355cf4c167c0800000000000000
+      internalID: -4079763199380521867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grimmchild - atlas0 #00000392_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1007
+        width: 213
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c7c171fe7fe37da0800000000000000
+      internalID: -5948147354330609721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grimmchild - atlas0 #00000392_57
+      rect:
+        serializedVersion: 2
+        x: 956
+        y: 1165
+        width: 135
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c6ec9b7a400f0e50800000000000000
+      internalID: 6777636284117345992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grimmchild - atlas0 #00000392_58
+      rect:
+        serializedVersion: 2
+        x: 1089
+        y: 1155
+        width: 114
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f166788b968186b0800000000000000
+      internalID: -5295803684243480073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grimmchild - atlas0 #00000392_59
+      rect:
+        serializedVersion: 2
+        x: 1202
+        y: 1138
+        width: 192
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d8432173b95d50e0800000000000000
+      internalID: -2279567209147447084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grimmchild - atlas0 #00000392_60
+      rect:
+        serializedVersion: 2
+        x: 1244
+        y: 1257
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f10c523e3c6e846b0800000000000000
+      internalID: -5311742031479586785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grimmchild - atlas0 #00000392_61
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 1097
+        width: 209
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 169c3df86863c6c60800000000000000
+      internalID: 7812679405147507041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grimmchild - atlas0 #00000392_62
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 1051
+        width: 161
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb72d5f3239b27e10800000000000000
+      internalID: 2194019593945425852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grimmchild - atlas0 #00000392_63
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 993
+        width: 144
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f5be7620b3b1df10800000000000000
+      internalID: 2292811254449747447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grimmchild - atlas0 #00000392_64
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 990
+        width: 141
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59c0761a3dd489580800000000000000
+      internalID: -8820214298863793003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grimmchild - atlas0 #00000392_65
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 1087
+        width: 140
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31c992f9c1d08cfa0800000000000000
+      internalID: -5780355705149481965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grimmchild - atlas0 #00000392_66
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 1069
+        width: 120
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f4767280e10dc8e0800000000000000
+      internalID: -1671677822911482639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grimmchild - atlas0 #00000392_67
+      rect:
+        serializedVersion: 2
+        x: 1067
+        y: 1040
+        width: 158
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 685abbf7e3ed9bf00800000000000000
+      internalID: 1133181141272733062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grimmchild - atlas0 #00000392_68
+      rect:
+        serializedVersion: 2
+        x: 1223
+        y: 1034
+        width: 97
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb58478aad3b4f930800000000000000
+      internalID: 4176160506189743547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grimmchild - atlas0 #00000392_69
+      rect:
+        serializedVersion: 2
+        x: 1279
+        y: 1134
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f36a6198c9fdf3a30800000000000000
+      internalID: 4197319241140446783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grimmchild - atlas0 #00000392_70
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 1083
+        width: 84
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6366459e158252bf0800000000000000
+      internalID: -349829063779260874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grimmchild - atlas0 #00000392_71
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 957
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54c073eeb1a3495d0800000000000000
+      internalID: -3056754355442611131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grimmchild - atlas0 #00000392_72
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 996
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec157b540815683a0800000000000000
+      internalID: -6663548987280764466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grimmchild - atlas0 #00000392_73
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 853
+        width: 177
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e7dfcf42275e9010800000000000000
+      internalID: 1197490355806656485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grimmchild - atlas0 #00000392_74
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 853
+        width: 161
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38ecc597b69c9eb50800000000000000
+      internalID: 6623046190459833987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grimmchild - atlas0 #00000392_75
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 912
+        width: 149
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04dfe46c7953c0070800000000000000
+      internalID: 8073887157951855936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grimmchild - atlas0 #00000392_76
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 911
+        width: 163
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1891563d6a37092b0800000000000000
+      internalID: -5579832777963660927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grimmchild - atlas0 #00000392_77
+      rect:
+        serializedVersion: 2
+        x: 1119
+        y: 892
+        width: 129
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb1f418c95f248c40800000000000000
+      internalID: 5513583906463740347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grimmchild - atlas0 #00000392_78
+      rect:
+        serializedVersion: 2
+        x: 1321
+        y: 982
+        width: 92
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5d2d709787db9470800000000000000
+      internalID: 8402546507034471770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grimmchild - atlas0 #00000392_79
+      rect:
+        serializedVersion: 2
+        x: 1411
+        y: 974
+        width: 88
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab6deb743677eb3b0800000000000000
+      internalID: -5494823227056269638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grimmchild - atlas0 #00000392_80
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 810
+        width: 139
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f2fe02cba01059d0800000000000000
+      internalID: -2787709839461125391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grimmchild - atlas0 #00000392_81
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 912
+        width: 100
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfb5c70b43c1d83b0800000000000000
+      internalID: -5508715756579431427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grimmchild - atlas0 #00000392_82
+      rect:
+        serializedVersion: 2
+        x: 1220
+        y: 668
+        width: 217
+        height: 317
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 592c7b05d977bd9f0800000000000000
+      internalID: -442628620818070891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grimmchild - atlas0 #00000392_83
+      rect:
+        serializedVersion: 2
+        x: 1438
+        y: 971
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bc8b64d7036831e0800000000000000
+      internalID: -2217913931200230224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grimmchild - atlas0 #00000392_84
+      rect:
+        serializedVersion: 2
+        x: 1451
+        y: 967
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88bfd6e131b653720800000000000000
+      internalID: 2825282071103929224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grimmchild - atlas0 #00000392_85
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 470
+        width: 198
+        height: 404
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c2071992069252d0800000000000000
+      internalID: -3291403439751888192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grimmchild - atlas0 #00000392_86
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 872
+        width: 212
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f7276f60ae0040b0800000000000000
+      internalID: -5746577042298165255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grimmchild - atlas0 #00000392_87
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 751
+        width: 153
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30ab0f9cdf54e0800800000000000000
+      internalID: 580478358294411779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grimmchild - atlas0 #00000392_88
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 750
+        width: 145
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8eb380a8f6dea000800000000000000
+      internalID: 49213009280876174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grimmchild - atlas0 #00000392_89
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 739
+        width: 130
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 334174c5c043bd580800000000000000
+      internalID: -8801383819073088461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grimmchild - atlas0 #00000392_90
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 735
+        width: 130
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8536c921cd1f09700800000000000000
+      internalID: 545201482419168088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grimmchild - atlas0 #00000392_91
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 672
+        width: 211
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53375939a355e0900800000000000000
+      internalID: 652552706087809845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grimmchild - atlas0 #00000392_92
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 470
+        width: 190
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6cbd7e56c1303800800000000000000
+      internalID: 590026279244119150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grimmchild - atlas0 #00000392_93
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 435
+        width: 180
+        height: 377
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f3239a103221c990800000000000000
+      internalID: -7367569925401795599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grimmchild - atlas0 #00000392_94
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 589
+        width: 154
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b22b948784feaf520800000000000000
+      internalID: 2736762818115777067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grimmchild - atlas0 #00000392_95
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 589
+        width: 151
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b7ca39e5b141b920800000000000000
+      internalID: 3004254675990661044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grimmchild - atlas0 #00000392_96
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 579
+        width: 149
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 306afa25f19da9760800000000000000
+      internalID: 7465518060874475011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grimmchild - atlas0 #00000392_97
+      rect:
+        serializedVersion: 2
+        x: 1018
+        y: 400
+        width: 365
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e400235e7b5bf83e0800000000000000
+      internalID: -2049219504001384370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grimmchild - atlas0 #00000392_98
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 578
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bf8ac1b6de4c3f70800000000000000
+      internalID: 9168289625432297399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grimmchild - atlas0 #00000392_99
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 512
+        width: 108
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da9ca05de8b1273d0800000000000000
+      internalID: -3210473284088182355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grimmchild - atlas0 #00000392_100
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 480
+        width: 250
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9542a78f59e00420800000000000000
+      internalID: 2594329981872129438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grimmchild - atlas0 #00000392_101
+      rect:
+        serializedVersion: 2
+        x: 1371
+        y: 513
+        width: 91
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e11edc1aed4a7eb50800000000000000
+      internalID: 6622443053175922974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grimmchild - atlas0 #00000392_102
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 527
+        width: 116
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f986fe60f767d010800000000000000
+      internalID: 1213552906951100919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grimmchild - atlas0 #00000392_103
+      rect:
+        serializedVersion: 2
+        x: 1454
+        y: 537
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6d389aabe794f3e0800000000000000
+      internalID: -2020823294347297429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grimmchild - atlas0 #00000392_104
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 523
+        width: 33
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3761fbd5f5aa63b0800000000000000
+      internalID: -5518415918013520069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grimmchild - atlas0 #00000392_105
+      rect:
+        serializedVersion: 2
+        x: 1396
+        y: 521
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b04fcbf371273c520800000000000000
+      internalID: 2721144044041073675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grimmchild - atlas0 #00000392_106
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 497
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e54ec0816e59b1850800000000000000
+      internalID: 6348832915187360862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grimmchild - atlas0 #00000392_107
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 353
+        width: 155
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68ab8d610d7f061f0800000000000000
+      internalID: -1053569839696135546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grimmchild - atlas0 #00000392_108
+      rect:
+        serializedVersion: 2
+        x: 1381
+        y: 396
+        width: 90
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9195b934ef79a6890800000000000000
+      internalID: -7463986314101434087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grimmchild - atlas0 #00000392_109
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 474
+        width: 60
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 203cbd153c33858d0800000000000000
+      internalID: -2857477049581583614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grimmchild - atlas0 #00000392_110
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 343
+        width: 176
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4347af197acb53be0800000000000000
+      internalID: -1498083873136151500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grimmchild - atlas0 #00000392_111
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 279
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64433be157b414850800000000000000
+      internalID: 6359447115222168646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grimmchild - atlas0 #00000392_112
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 412
+        width: 148
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2243572cad46d8960800000000000000
+      internalID: 7605846236426744866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grimmchild - atlas0 #00000392_113
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 413
+        width: 102
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6acf55a718fc9610800000000000000
+      internalID: 1629449945643731566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grimmchild - atlas0 #00000392_114
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 450
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9575fe6b4a1528d0800000000000000
+      internalID: -2871860276092373602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grimmchild - atlas0 #00000392_115
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 0
+        width: 186
+        height: 414
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d47d60fdd85935e0800000000000000
+      internalID: -1929413255106825001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grimmchild - atlas0 #00000392_116
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 394
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: feb19018a63588940800000000000000
+      internalID: 5298576678497885167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grimmchild - atlas0 #00000392_117
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 401
+        width: 32
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01a8d6f58016473e0800000000000000
+      internalID: -2056912441212827120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grimmchild - atlas0 #00000392_118
+      rect:
+        serializedVersion: 2
+        x: 1013
+        y: 277
+        width: 145
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69bfc1a592fe2fbc0800000000000000
+      internalID: -3750672578761655402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grimmchild - atlas0 #00000392_119
+      rect:
+        serializedVersion: 2
+        x: 1132
+        y: 140
+        width: 192
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efeba3375c7887280800000000000000
+      internalID: -9045330569462104322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grimmchild - atlas0 #00000392_120
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 204
+        width: 184
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fe29add315f2f990800000000000000
+      internalID: -7353545775870562572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grimmchild - atlas0 #00000392_121
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 184
+        width: 153
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb51846b388d43ca0800000000000000
+      internalID: -6037963140186499653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grimmchild - atlas0 #00000392_122
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 184
+        width: 155
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0ca987283479ec30800000000000000
+      internalID: 4389167096379583501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grimmchild - atlas0 #00000392_123
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 158
+        width: 200
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b65a00c5162b0190800000000000000
+      internalID: -7995254838608111945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grimmchild - atlas0 #00000392_124
+      rect:
+        serializedVersion: 2
+        x: 1299
+        y: 136
+        width: 162
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee4aed1de37cf06c0800000000000000
+      internalID: -4174899256926231314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grimmchild - atlas0 #00000392_125
+      rect:
+        serializedVersion: 2
+        x: 1322
+        y: 263
+        width: 151
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e672f60272eba9f0800000000000000
+      internalID: -456021957877270814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grimmchild - atlas0 #00000392_126
+      rect:
+        serializedVersion: 2
+        x: 1484
+        y: 250
+        width: 82
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88f8c15faefc18d10800000000000000
+      internalID: 2126209107137171336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grimmchild - atlas0 #00000392_127
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 0
+        width: 179
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e7779f5c9f88ced0800000000000000
+      internalID: -2393505300165986333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grimmchild - atlas0 #00000392_128
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 0
+        width: 182
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 096d9c0e12b1c8190800000000000000
+      internalID: -7958956609151314288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grimmchild - atlas0 #00000392_129
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 0
+        width: 155
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 846cb8ac437036280800000000000000
+      internalID: -9051382902766713272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grimmchild - atlas0 #00000392_130
+      rect:
+        serializedVersion: 2
+        x: 967
+        y: 0
+        width: 162
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23e3df86151bd0830800000000000000
+      internalID: 4039079404033097266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grimmchild - atlas0 #00000392_131
+      rect:
+        serializedVersion: 2
+        x: 1127
+        y: 0
+        width: 167
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f505d7daa4dae860800000000000000
+      internalID: 7560088754725389809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grimmchild - atlas0 #00000392_132
+      rect:
+        serializedVersion: 2
+        x: 1292
+        y: 0
+        width: 168
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7f38ee92a24840d0800000000000000
+      internalID: -3438425049279217797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grimmchild - atlas0 #00000392_133
+      rect:
+        serializedVersion: 2
+        x: 1458
+        y: 8
+        width: 184
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 681d36a21284b6be0800000000000000
+      internalID: -1483012345006141050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grimmchild - atlas0 #00000392_134
+      rect:
+        serializedVersion: 2
+        x: 1459
+        y: 110
+        width: 137
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9a0bfa823cb89320800000000000000
+      internalID: 2565006913053592221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grimmchild - atlas0 #00000392_135
+      rect:
+        serializedVersion: 2
+        x: 1572
+        y: 0
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 051381b6a0ef8ff80800000000000000
+      internalID: -8072423011361738416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Grimmchild - atlas0 #00000392_0: 1317732234837616311
+      Grimmchild - atlas0 #00000392_1: 7283534844929540429
+      Grimmchild - atlas0 #00000392_10: -8862769820618272861
+      Grimmchild - atlas0 #00000392_100: 2594329981872129438
+      Grimmchild - atlas0 #00000392_101: 6622443053175922974
+      Grimmchild - atlas0 #00000392_102: 1213552906951100919
+      Grimmchild - atlas0 #00000392_103: -2020823294347297429
+      Grimmchild - atlas0 #00000392_104: -5518415918013520069
+      Grimmchild - atlas0 #00000392_105: 2721144044041073675
+      Grimmchild - atlas0 #00000392_106: 6348832915187360862
+      Grimmchild - atlas0 #00000392_107: -1053569839696135546
+      Grimmchild - atlas0 #00000392_108: -7463986314101434087
+      Grimmchild - atlas0 #00000392_109: -2857477049581583614
+      Grimmchild - atlas0 #00000392_11: 790261784542840793
+      Grimmchild - atlas0 #00000392_110: -1498083873136151500
+      Grimmchild - atlas0 #00000392_111: 6359447115222168646
+      Grimmchild - atlas0 #00000392_112: 7605846236426744866
+      Grimmchild - atlas0 #00000392_113: 1629449945643731566
+      Grimmchild - atlas0 #00000392_114: -2871860276092373602
+      Grimmchild - atlas0 #00000392_115: -1929413255106825001
+      Grimmchild - atlas0 #00000392_116: 5298576678497885167
+      Grimmchild - atlas0 #00000392_117: -2056912441212827120
+      Grimmchild - atlas0 #00000392_118: -3750672578761655402
+      Grimmchild - atlas0 #00000392_119: -9045330569462104322
+      Grimmchild - atlas0 #00000392_12: 7787950010680010320
+      Grimmchild - atlas0 #00000392_120: -7353545775870562572
+      Grimmchild - atlas0 #00000392_121: -6037963140186499653
+      Grimmchild - atlas0 #00000392_122: 4389167096379583501
+      Grimmchild - atlas0 #00000392_123: -7995254838608111945
+      Grimmchild - atlas0 #00000392_124: -4174899256926231314
+      Grimmchild - atlas0 #00000392_125: -456021957877270814
+      Grimmchild - atlas0 #00000392_126: 2126209107137171336
+      Grimmchild - atlas0 #00000392_127: -2393505300165986333
+      Grimmchild - atlas0 #00000392_128: -7958956609151314288
+      Grimmchild - atlas0 #00000392_129: -9051382902766713272
+      Grimmchild - atlas0 #00000392_13: 3129251034902001942
+      Grimmchild - atlas0 #00000392_130: 4039079404033097266
+      Grimmchild - atlas0 #00000392_131: 7560088754725389809
+      Grimmchild - atlas0 #00000392_132: -3438425049279217797
+      Grimmchild - atlas0 #00000392_133: -1483012345006141050
+      Grimmchild - atlas0 #00000392_134: 2565006913053592221
+      Grimmchild - atlas0 #00000392_135: -8072423011361738416
+      Grimmchild - atlas0 #00000392_14: 7150846315804541778
+      Grimmchild - atlas0 #00000392_15: -6957170575655347348
+      Grimmchild - atlas0 #00000392_16: 4079940890312176280
+      Grimmchild - atlas0 #00000392_17: -822706891274256595
+      Grimmchild - atlas0 #00000392_18: -1951517693793611615
+      Grimmchild - atlas0 #00000392_19: 5169323273096592607
+      Grimmchild - atlas0 #00000392_2: -3285148672747901037
+      Grimmchild - atlas0 #00000392_20: -8116292322237213286
+      Grimmchild - atlas0 #00000392_21: 2813192511005738237
+      Grimmchild - atlas0 #00000392_22: 7207295068150972594
+      Grimmchild - atlas0 #00000392_23: 1834321595227899734
+      Grimmchild - atlas0 #00000392_24: 837808219164573079
+      Grimmchild - atlas0 #00000392_25: -265385678877403273
+      Grimmchild - atlas0 #00000392_26: 2428174340883459694
+      Grimmchild - atlas0 #00000392_27: 1222737605981899858
+      Grimmchild - atlas0 #00000392_28: -8580860770720392007
+      Grimmchild - atlas0 #00000392_29: -844453541445121630
+      Grimmchild - atlas0 #00000392_3: 137266357555581599
+      Grimmchild - atlas0 #00000392_30: 6869516298156456300
+      Grimmchild - atlas0 #00000392_31: -3831233536077128376
+      Grimmchild - atlas0 #00000392_32: -6334528280293584047
+      Grimmchild - atlas0 #00000392_33: 1861810901125266508
+      Grimmchild - atlas0 #00000392_34: 7402446112021852178
+      Grimmchild - atlas0 #00000392_35: 1588588217778322226
+      Grimmchild - atlas0 #00000392_36: -6933346687685591126
+      Grimmchild - atlas0 #00000392_37: -3423529021358542495
+      Grimmchild - atlas0 #00000392_38: -4997261089720824728
+      Grimmchild - atlas0 #00000392_39: -8569799799690433394
+      Grimmchild - atlas0 #00000392_4: -2377074205040468579
+      Grimmchild - atlas0 #00000392_40: 8570755772621861297
+      Grimmchild - atlas0 #00000392_41: 4397044756524954101
+      Grimmchild - atlas0 #00000392_42: 2692013403165919866
+      Grimmchild - atlas0 #00000392_43: 1306235796008671121
+      Grimmchild - atlas0 #00000392_44: -6431617535040211009
+      Grimmchild - atlas0 #00000392_45: 2041781782982770779
+      Grimmchild - atlas0 #00000392_46: -384252553421096416
+      Grimmchild - atlas0 #00000392_47: 1110804035675230015
+      Grimmchild - atlas0 #00000392_48: 7316931208250928396
+      Grimmchild - atlas0 #00000392_49: 5195453242071864438
+      Grimmchild - atlas0 #00000392_5: -7872480482643648120
+      Grimmchild - atlas0 #00000392_50: 1753984495530474619
+      Grimmchild - atlas0 #00000392_51: -3966464040067781852
+      Grimmchild - atlas0 #00000392_52: -8677344534236934890
+      Grimmchild - atlas0 #00000392_53: 1861779816328126059
+      Grimmchild - atlas0 #00000392_54: -6797844274858082168
+      Grimmchild - atlas0 #00000392_55: -4079763199380521867
+      Grimmchild - atlas0 #00000392_56: -5948147354330609721
+      Grimmchild - atlas0 #00000392_57: 6777636284117345992
+      Grimmchild - atlas0 #00000392_58: -5295803684243480073
+      Grimmchild - atlas0 #00000392_59: -2279567209147447084
+      Grimmchild - atlas0 #00000392_6: 5823285338307680374
+      Grimmchild - atlas0 #00000392_60: -5311742031479586785
+      Grimmchild - atlas0 #00000392_61: 7812679405147507041
+      Grimmchild - atlas0 #00000392_62: 2194019593945425852
+      Grimmchild - atlas0 #00000392_63: 2292811254449747447
+      Grimmchild - atlas0 #00000392_64: -8820214298863793003
+      Grimmchild - atlas0 #00000392_65: -5780355705149481965
+      Grimmchild - atlas0 #00000392_66: -1671677822911482639
+      Grimmchild - atlas0 #00000392_67: 1133181141272733062
+      Grimmchild - atlas0 #00000392_68: 4176160506189743547
+      Grimmchild - atlas0 #00000392_69: 4197319241140446783
+      Grimmchild - atlas0 #00000392_7: -4690463060156864372
+      Grimmchild - atlas0 #00000392_70: -349829063779260874
+      Grimmchild - atlas0 #00000392_71: -3056754355442611131
+      Grimmchild - atlas0 #00000392_72: -6663548987280764466
+      Grimmchild - atlas0 #00000392_73: 1197490355806656485
+      Grimmchild - atlas0 #00000392_74: 6623046190459833987
+      Grimmchild - atlas0 #00000392_75: 8073887157951855936
+      Grimmchild - atlas0 #00000392_76: -5579832777963660927
+      Grimmchild - atlas0 #00000392_77: 5513583906463740347
+      Grimmchild - atlas0 #00000392_78: 8402546507034471770
+      Grimmchild - atlas0 #00000392_79: -5494823227056269638
+      Grimmchild - atlas0 #00000392_8: 2031782382805561003
+      Grimmchild - atlas0 #00000392_80: -2787709839461125391
+      Grimmchild - atlas0 #00000392_81: -5508715756579431427
+      Grimmchild - atlas0 #00000392_82: -442628620818070891
+      Grimmchild - atlas0 #00000392_83: -2217913931200230224
+      Grimmchild - atlas0 #00000392_84: 2825282071103929224
+      Grimmchild - atlas0 #00000392_85: -3291403439751888192
+      Grimmchild - atlas0 #00000392_86: -5746577042298165255
+      Grimmchild - atlas0 #00000392_87: 580478358294411779
+      Grimmchild - atlas0 #00000392_88: 49213009280876174
+      Grimmchild - atlas0 #00000392_89: -8801383819073088461
+      Grimmchild - atlas0 #00000392_9: 3676147808632809079
+      Grimmchild - atlas0 #00000392_90: 545201482419168088
+      Grimmchild - atlas0 #00000392_91: 652552706087809845
+      Grimmchild - atlas0 #00000392_92: 590026279244119150
+      Grimmchild - atlas0 #00000392_93: -7367569925401795599
+      Grimmchild - atlas0 #00000392_94: 2736762818115777067
+      Grimmchild - atlas0 #00000392_95: 3004254675990661044
+      Grimmchild - atlas0 #00000392_96: 7465518060874475011
+      Grimmchild - atlas0 #00000392_97: -2049219504001384370
+      Grimmchild - atlas0 #00000392_98: 9168289625432297399
+      Grimmchild - atlas0 #00000392_99: -3210473284088182355
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

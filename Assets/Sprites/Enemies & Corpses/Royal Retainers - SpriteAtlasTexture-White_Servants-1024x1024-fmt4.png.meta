@@ -1,0 +1,676 @@
+fileFormatVersion: 2
+guid: c74a6962b7d7b1e4f9315757ce9e94c1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5809636333773419691
+    second: Royal Retainers - SpriteAtlasTexture-White_Servants-1024x1024-fmt4_0
+  - first:
+      213: 6729403836419000939
+    second: Royal Retainers - SpriteAtlasTexture-White_Servants-1024x1024-fmt4_1
+  - first:
+      213: 5991966881062346051
+    second: Royal Retainers - SpriteAtlasTexture-White_Servants-1024x1024-fmt4_2
+  - first:
+      213: -8409463136666554247
+    second: Royal Retainers - SpriteAtlasTexture-White_Servants-1024x1024-fmt4_3
+  - first:
+      213: -8221145912811731495
+    second: Royal Retainers - SpriteAtlasTexture-White_Servants-1024x1024-fmt4_4
+  - first:
+      213: -2234266641542223637
+    second: Royal Retainers - SpriteAtlasTexture-White_Servants-1024x1024-fmt4_5
+  - first:
+      213: -3276229105632245277
+    second: Royal Retainers - SpriteAtlasTexture-White_Servants-1024x1024-fmt4_6
+  - first:
+      213: -3628687929518465725
+    second: Royal Retainers - SpriteAtlasTexture-White_Servants-1024x1024-fmt4_7
+  - first:
+      213: 7271099968098400069
+    second: Royal Retainers - SpriteAtlasTexture-White_Servants-1024x1024-fmt4_8
+  - first:
+      213: -1430814805458744495
+    second: Royal Retainers - SpriteAtlasTexture-White_Servants-1024x1024-fmt4_9
+  - first:
+      213: 6560857316020226677
+    second: Royal Retainers - SpriteAtlasTexture-White_Servants-1024x1024-fmt4_10
+  - first:
+      213: -1783141585136732432
+    second: Royal Retainers - SpriteAtlasTexture-White_Servants-1024x1024-fmt4_11
+  - first:
+      213: -3101818426331497878
+    second: Royal Retainers - SpriteAtlasTexture-White_Servants-1024x1024-fmt4_12
+  - first:
+      213: 8952826731406054501
+    second: Royal Retainers - SpriteAtlasTexture-White_Servants-1024x1024-fmt4_13
+  - first:
+      213: 8879461845904850526
+    second: Royal Retainers - SpriteAtlasTexture-White_Servants-1024x1024-fmt4_14
+  - first:
+      213: 3891148689215224156
+    second: Royal Retainers - SpriteAtlasTexture-White_Servants-1024x1024-fmt4_15
+  - first:
+      213: 1803099067705173080
+    second: Royal Retainers - SpriteAtlasTexture-White_Servants-1024x1024-fmt4_16
+  - first:
+      213: -6647382452930139510
+    second: Royal Retainers - SpriteAtlasTexture-White_Servants-1024x1024-fmt4_17
+  - first:
+      213: -3027817758114271107
+    second: Royal Retainers - SpriteAtlasTexture-White_Servants-1024x1024-fmt4_18
+  - first:
+      213: -2447783914149400047
+    second: Royal Retainers - SpriteAtlasTexture-White_Servants-1024x1024-fmt4_19
+  - first:
+      213: -821760851172392803
+    second: Royal Retainers - SpriteAtlasTexture-White_Servants-1024x1024-fmt4_20
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Royal Retainers - SpriteAtlasTexture-White_Servants-1024x1024-fmt4_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 827
+        width: 192
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55b8b330986006fa0800000000000000
+      internalID: -5809636333773419691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Royal Retainers - SpriteAtlasTexture-White_Servants-1024x1024-fmt4_1
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 877
+        width: 75
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6ac7e3a225a36d50800000000000000
+      internalID: 6729403836419000939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Royal Retainers - SpriteAtlasTexture-White_Servants-1024x1024-fmt4_2
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 708
+        width: 192
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34d50aba12eb72350800000000000000
+      internalID: 5991966881062346051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Royal Retainers - SpriteAtlasTexture-White_Servants-1024x1024-fmt4_3
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 575
+        width: 127
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9707f3b15d59b4b80800000000000000
+      internalID: -8409463136666554247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Royal Retainers - SpriteAtlasTexture-White_Servants-1024x1024-fmt4_4
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 600
+        width: 182
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d5c33c895f98ed80800000000000000
+      internalID: -8221145912811731495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Royal Retainers - SpriteAtlasTexture-White_Servants-1024x1024-fmt4_5
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 497
+        width: 129
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be8ee51c35a4ef0e0800000000000000
+      internalID: -2234266641542223637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Royal Retainers - SpriteAtlasTexture-White_Servants-1024x1024-fmt4_6
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 445
+        width: 129
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e98ef39cfe7882d0800000000000000
+      internalID: -3276229105632245277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Royal Retainers - SpriteAtlasTexture-White_Servants-1024x1024-fmt4_7
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 513
+        width: 191
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34ddd40cd8f44adc0800000000000000
+      internalID: -3628687929518465725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Royal Retainers - SpriteAtlasTexture-White_Servants-1024x1024-fmt4_8
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 619
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 547fbd4a5e228e460800000000000000
+      internalID: 7271099968098400069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Royal Retainers - SpriteAtlasTexture-White_Servants-1024x1024-fmt4_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 151
+        height: 496
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15b0345e389b42ce0800000000000000
+      internalID: -1430814805458744495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Royal Retainers - SpriteAtlasTexture-White_Servants-1024x1024-fmt4_10
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 1
+        width: 146
+        height: 440
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57a886fc7f8dc0b50800000000000000
+      internalID: 6560857316020226677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Royal Retainers - SpriteAtlasTexture-White_Servants-1024x1024-fmt4_11
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 374
+        width: 129
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f6b2b10d220147e0800000000000000
+      internalID: -1783141585136732432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Royal Retainers - SpriteAtlasTexture-White_Servants-1024x1024-fmt4_12
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 394
+        width: 192
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6affbc439024f4d0800000000000000
+      internalID: -3101818426331497878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Royal Retainers - SpriteAtlasTexture-White_Servants-1024x1024-fmt4_13
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 214
+        width: 130
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56454156a74de3c70800000000000000
+      internalID: 8952826731406054501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Royal Retainers - SpriteAtlasTexture-White_Servants-1024x1024-fmt4_14
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 213
+        width: 129
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5efac1e08f2a3b70800000000000000
+      internalID: 8879461845904850526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Royal Retainers - SpriteAtlasTexture-White_Servants-1024x1024-fmt4_15
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 1
+        width: 137
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5976ecdd13200630800000000000000
+      internalID: 3891148689215224156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Royal Retainers - SpriteAtlasTexture-White_Servants-1024x1024-fmt4_16
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 178
+        width: 132
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 854a7618c05e50910800000000000000
+      internalID: 1803099067705173080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Royal Retainers - SpriteAtlasTexture-White_Servants-1024x1024-fmt4_17
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 1
+        width: 138
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8a2feed0e0cfb3a0800000000000000
+      internalID: -6647382452930139510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Royal Retainers - SpriteAtlasTexture-White_Servants-1024x1024-fmt4_18
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 1
+        width: 131
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d70baf28ac70bf5d0800000000000000
+      internalID: -3027817758114271107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Royal Retainers - SpriteAtlasTexture-White_Servants-1024x1024-fmt4_19
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 1
+        width: 130
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 112b53ebf79b70ed0800000000000000
+      internalID: -2447783914149400047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Royal Retainers - SpriteAtlasTexture-White_Servants-1024x1024-fmt4_20
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 1
+        width: 167
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d900c871cd48894f0800000000000000
+      internalID: -821760851172392803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Royal Retainers - SpriteAtlasTexture-White_Servants-1024x1024-fmt4_0: -5809636333773419691
+      Royal Retainers - SpriteAtlasTexture-White_Servants-1024x1024-fmt4_1: 6729403836419000939
+      Royal Retainers - SpriteAtlasTexture-White_Servants-1024x1024-fmt4_10: 6560857316020226677
+      Royal Retainers - SpriteAtlasTexture-White_Servants-1024x1024-fmt4_11: -1783141585136732432
+      Royal Retainers - SpriteAtlasTexture-White_Servants-1024x1024-fmt4_12: -3101818426331497878
+      Royal Retainers - SpriteAtlasTexture-White_Servants-1024x1024-fmt4_13: 8952826731406054501
+      Royal Retainers - SpriteAtlasTexture-White_Servants-1024x1024-fmt4_14: 8879461845904850526
+      Royal Retainers - SpriteAtlasTexture-White_Servants-1024x1024-fmt4_15: 3891148689215224156
+      Royal Retainers - SpriteAtlasTexture-White_Servants-1024x1024-fmt4_16: 1803099067705173080
+      Royal Retainers - SpriteAtlasTexture-White_Servants-1024x1024-fmt4_17: -6647382452930139510
+      Royal Retainers - SpriteAtlasTexture-White_Servants-1024x1024-fmt4_18: -3027817758114271107
+      Royal Retainers - SpriteAtlasTexture-White_Servants-1024x1024-fmt4_19: -2447783914149400047
+      Royal Retainers - SpriteAtlasTexture-White_Servants-1024x1024-fmt4_2: 5991966881062346051
+      Royal Retainers - SpriteAtlasTexture-White_Servants-1024x1024-fmt4_20: -821760851172392803
+      Royal Retainers - SpriteAtlasTexture-White_Servants-1024x1024-fmt4_3: -8409463136666554247
+      Royal Retainers - SpriteAtlasTexture-White_Servants-1024x1024-fmt4_4: -8221145912811731495
+      Royal Retainers - SpriteAtlasTexture-White_Servants-1024x1024-fmt4_5: -2234266641542223637
+      Royal Retainers - SpriteAtlasTexture-White_Servants-1024x1024-fmt4_6: -3276229105632245277
+      Royal Retainers - SpriteAtlasTexture-White_Servants-1024x1024-fmt4_7: -3628687929518465725
+      Royal Retainers - SpriteAtlasTexture-White_Servants-1024x1024-fmt4_8: 7271099968098400069
+      Royal Retainers - SpriteAtlasTexture-White_Servants-1024x1024-fmt4_9: -1430814805458744495
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,416 @@
+fileFormatVersion: 2
+guid: b09275a2a636840439e64c9248e5a108
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1293975019097147733
+    second: Maskfly - atlas0 #129005_0
+  - first:
+      213: -2758384510133765184
+    second: Maskfly - atlas0 #129005_1
+  - first:
+      213: -8645492963574963714
+    second: Maskfly - atlas0 #129005_2
+  - first:
+      213: 676088966350912681
+    second: Maskfly - atlas0 #129005_3
+  - first:
+      213: -2701544707582191719
+    second: Maskfly - atlas0 #129005_4
+  - first:
+      213: -4478988595184029017
+    second: Maskfly - atlas0 #129005_5
+  - first:
+      213: 9006176794416322511
+    second: Maskfly - atlas0 #129005_6
+  - first:
+      213: 2033415566745751217
+    second: Maskfly - atlas0 #129005_7
+  - first:
+      213: 635563947867328846
+    second: Maskfly - atlas0 #129005_8
+  - first:
+      213: -7709957360186613003
+    second: Maskfly - atlas0 #129005_9
+  - first:
+      213: 8836306866583024018
+    second: Maskfly - atlas0 #129005_10
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Maskfly - atlas0 #129005_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 207
+        width: 59
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba63c7e6390ea0ee0800000000000000
+      internalID: -1293975019097147733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maskfly - atlas0 #129005_1
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 263
+        width: 97
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cb798f07ef38b9d0800000000000000
+      internalID: -2758384510133765184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maskfly - atlas0 #129005_2
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 360
+        width: 88
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef1a9f594f9050880800000000000000
+      internalID: -8645492963574963714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maskfly - atlas0 #129005_3
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 303
+        width: 86
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ac38e33553f16900800000000000000
+      internalID: 676088966350912681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maskfly - atlas0 #129005_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 134
+        width: 86
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9971abfd66f228ad0800000000000000
+      internalID: -2701544707582191719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maskfly - atlas0 #129005_5
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 130
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a2b7077a9f67d1c0800000000000000
+      internalID: -4478988595184029017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maskfly - atlas0 #129005_6
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 122
+        width: 172
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc71d87e31e5cfc70800000000000000
+      internalID: 9006176794416322511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maskfly - atlas0 #129005_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 66
+        width: 113
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1be41a83fa4283c10800000000000000
+      internalID: 2033415566745751217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maskfly - atlas0 #129005_8
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 70
+        width: 133
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e415da01b0af1d800800000000000000
+      internalID: 635563947867328846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maskfly - atlas0 #129005_9
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 0
+        width: 121
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f22ba841aab00590800000000000000
+      internalID: -7709957360186613003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Maskfly - atlas0 #129005_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 122
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 291b605474ed0aa70800000000000000
+      internalID: 8836306866583024018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Maskfly - atlas0 #129005_0: -1293975019097147733
+      Maskfly - atlas0 #129005_1: -2758384510133765184
+      Maskfly - atlas0 #129005_10: 8836306866583024018
+      Maskfly - atlas0 #129005_2: -8645492963574963714
+      Maskfly - atlas0 #129005_3: 676088966350912681
+      Maskfly - atlas0 #129005_4: -2701544707582191719
+      Maskfly - atlas0 #129005_5: -4478988595184029017
+      Maskfly - atlas0 #129005_6: 9006176794416322511
+      Maskfly - atlas0 #129005_7: 2033415566745751217
+      Maskfly - atlas0 #129005_8: 635563947867328846
+      Maskfly - atlas0 #129005_9: -7709957360186613003
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

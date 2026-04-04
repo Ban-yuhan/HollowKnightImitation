@@ -1,0 +1,650 @@
+fileFormatVersion: 2
+guid: 6883b483294cb9444b451d5d4ee574a5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 584941659512725644
+    second: Belfly - atlas0 #0340020_0
+  - first:
+      213: 3118347201382141311
+    second: Belfly - atlas0 #0340020_1
+  - first:
+      213: -2268692976075614180
+    second: Belfly - atlas0 #0340020_2
+  - first:
+      213: -5999180501286061833
+    second: Belfly - atlas0 #0340020_3
+  - first:
+      213: 1791604981914366404
+    second: Belfly - atlas0 #0340020_4
+  - first:
+      213: -4154169395531039324
+    second: Belfly - atlas0 #0340020_5
+  - first:
+      213: -434053426230979671
+    second: Belfly - atlas0 #0340020_6
+  - first:
+      213: 9179818593054206169
+    second: Belfly - atlas0 #0340020_7
+  - first:
+      213: 6249053982791488950
+    second: Belfly - atlas0 #0340020_8
+  - first:
+      213: -7022329374560851911
+    second: Belfly - atlas0 #0340020_9
+  - first:
+      213: -4535530633542093654
+    second: Belfly - atlas0 #0340020_10
+  - first:
+      213: -3579476418759193278
+    second: Belfly - atlas0 #0340020_11
+  - first:
+      213: 5611391434372241835
+    second: Belfly - atlas0 #0340020_12
+  - first:
+      213: -7921262377225919578
+    second: Belfly - atlas0 #0340020_13
+  - first:
+      213: -441230826313831507
+    second: Belfly - atlas0 #0340020_14
+  - first:
+      213: 4301869789937586070
+    second: Belfly - atlas0 #0340020_15
+  - first:
+      213: -8646111085562019869
+    second: Belfly - atlas0 #0340020_16
+  - first:
+      213: -8673847681532398450
+    second: Belfly - atlas0 #0340020_17
+  - first:
+      213: -8589153984592262054
+    second: Belfly - atlas0 #0340020_18
+  - first:
+      213: 2392135866681016459
+    second: Belfly - atlas0 #0340020_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Belfly - atlas0 #0340020_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 739
+        width: 122
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c80659517512e1800800000000000000
+      internalID: 584941659512725644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Belfly - atlas0 #0340020_1
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 625
+        width: 142
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7d47b80248964b20800000000000000
+      internalID: 3118347201382141311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Belfly - atlas0 #0340020_2
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 665
+        width: 131
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c18d69022cbf380e0800000000000000
+      internalID: -2268692976075614180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Belfly - atlas0 #0340020_3
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 665
+        width: 128
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f8f46d7e11aebca0800000000000000
+      internalID: -5999180501286061833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Belfly - atlas0 #0340020_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 482
+        width: 249
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c173dc1d3f0dd810800000000000000
+      internalID: 1791604981914366404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Belfly - atlas0 #0340020_5
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 551
+        width: 133
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4adb29ac1fc6956c0800000000000000
+      internalID: -4154169395531039324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Belfly - atlas0 #0340020_6
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 426
+        width: 143
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a316f365bee9f9f0800000000000000
+      internalID: -434053426230979671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Belfly - atlas0 #0340020_7
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 551
+        width: 133
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d8a585af54456f70800000000000000
+      internalID: 9179818593054206169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Belfly - atlas0 #0340020_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 299
+        width: 122
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b5d68a0d7919b650800000000000000
+      internalID: 6249053982791488950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Belfly - atlas0 #0340020_9
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 315
+        width: 225
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9386285c3acab8e90800000000000000
+      internalID: -7022329374560851911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Belfly - atlas0 #0340020_10
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 463
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa432d74bee8e01c0800000000000000
+      internalID: -4535530633542093654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Belfly - atlas0 #0340020_11
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 153
+        width: 167
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24d88f97925235ec0800000000000000
+      internalID: -3579476418759193278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Belfly - atlas0 #0340020_12
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 306
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba95d6577caafdd40800000000000000
+      internalID: 5611391434372241835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Belfly - atlas0 #0340020_13
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 198
+        width: 107
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a368c826d5021290800000000000000
+      internalID: -7921262377225919578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Belfly - atlas0 #0340020_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 157
+        width: 179
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dabac95b6ee60e9f0800000000000000
+      internalID: -441230826313831507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Belfly - atlas0 #0340020_15
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 0
+        width: 133
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69fc63b18cf43bb30800000000000000
+      internalID: 4301869789937586070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Belfly - atlas0 #0340020_16
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 189
+        width: 51
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ef3288d6c7d20880800000000000000
+      internalID: -8646111085562019869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Belfly - atlas0 #0340020_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 180
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e847a6a5d7d40a780800000000000000
+      internalID: -8673847681532398450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Belfly - atlas0 #0340020_18
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 0
+        width: 181
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5c4f3355f13dc880800000000000000
+      internalID: -8589153984592262054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Belfly - atlas0 #0340020_19
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 0
+        width: 24
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b804efb85e2923120800000000000000
+      internalID: 2392135866681016459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Belfly - atlas0 #0340020_0: 584941659512725644
+      Belfly - atlas0 #0340020_1: 3118347201382141311
+      Belfly - atlas0 #0340020_10: -4535530633542093654
+      Belfly - atlas0 #0340020_11: -3579476418759193278
+      Belfly - atlas0 #0340020_12: 5611391434372241835
+      Belfly - atlas0 #0340020_13: -7921262377225919578
+      Belfly - atlas0 #0340020_14: -441230826313831507
+      Belfly - atlas0 #0340020_15: 4301869789937586070
+      Belfly - atlas0 #0340020_16: -8646111085562019869
+      Belfly - atlas0 #0340020_17: -8673847681532398450
+      Belfly - atlas0 #0340020_18: -8589153984592262054
+      Belfly - atlas0 #0340020_19: 2392135866681016459
+      Belfly - atlas0 #0340020_2: -2268692976075614180
+      Belfly - atlas0 #0340020_3: -5999180501286061833
+      Belfly - atlas0 #0340020_4: 1791604981914366404
+      Belfly - atlas0 #0340020_5: -4154169395531039324
+      Belfly - atlas0 #0340020_6: -434053426230979671
+      Belfly - atlas0 #0340020_7: 9179818593054206169
+      Belfly - atlas0 #0340020_8: 6249053982791488950
+      Belfly - atlas0 #0340020_9: -7022329374560851911
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,572 @@
+fileFormatVersion: 2
+guid: 72625b0613ae3cf428bae479cd67c245
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6136182429443056970
+    second: Durandoo - atlas0 #141004_0
+  - first:
+      213: 7499700003863913688
+    second: Durandoo - atlas0 #141004_1
+  - first:
+      213: -7739508698122304957
+    second: Durandoo - atlas0 #141004_2
+  - first:
+      213: -3252827439178468459
+    second: Durandoo - atlas0 #141004_3
+  - first:
+      213: -7122740346825238954
+    second: Durandoo - atlas0 #141004_4
+  - first:
+      213: 8553202789409194338
+    second: Durandoo - atlas0 #141004_5
+  - first:
+      213: 4625118883597077216
+    second: Durandoo - atlas0 #141004_6
+  - first:
+      213: 2645867867219002034
+    second: Durandoo - atlas0 #141004_7
+  - first:
+      213: -2521147204645396131
+    second: Durandoo - atlas0 #141004_8
+  - first:
+      213: -7885953261044602489
+    second: Durandoo - atlas0 #141004_9
+  - first:
+      213: 7567464075159975140
+    second: Durandoo - atlas0 #141004_10
+  - first:
+      213: -3496688042631958524
+    second: Durandoo - atlas0 #141004_11
+  - first:
+      213: -542626297444089172
+    second: Durandoo - atlas0 #141004_12
+  - first:
+      213: -7867904627930018616
+    second: Durandoo - atlas0 #141004_13
+  - first:
+      213: 1275137210422512944
+    second: Durandoo - atlas0 #141004_14
+  - first:
+      213: -7642468776969405322
+    second: Durandoo - atlas0 #141004_15
+  - first:
+      213: 2942330046766198717
+    second: Durandoo - atlas0 #141004_16
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Durandoo - atlas0 #141004_0
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 1476
+        width: 219
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4562ff9869182550800000000000000
+      internalID: 6136182429443056970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Durandoo - atlas0 #141004_1
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 1538
+        width: 19
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d4ed4c1b69441860800000000000000
+      internalID: 7499700003863913688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Durandoo - atlas0 #141004_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 720
+        width: 231
+        height: 762
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 342cf5048ddb79490800000000000000
+      internalID: -7739508698122304957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Durandoo - atlas0 #141004_3
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 1249
+        width: 240
+        height: 229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 593bf14ada2abd2d0800000000000000
+      internalID: -3252827439178468459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Durandoo - atlas0 #141004_4
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 1332
+        width: 257
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65693287461f62d90800000000000000
+      internalID: -7122740346825238954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Durandoo - atlas0 #141004_5
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 1086
+        width: 258
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2618d92ce9413b670800000000000000
+      internalID: 8553202789409194338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Durandoo - atlas0 #141004_6
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 1009
+        width: 341
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ea41c4ae19bf2040800000000000000
+      internalID: 4625118883597077216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Durandoo - atlas0 #141004_7
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 1233
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b2853c8ec208b420800000000000000
+      internalID: 2645867867219002034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Durandoo - atlas0 #141004_8
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 1135
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5164a899f5130dd0800000000000000
+      internalID: -2521147204645396131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Durandoo - atlas0 #141004_9
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 240
+        width: 623
+        height: 771
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7896a186a477f8290800000000000000
+      internalID: -7885953261044602489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Durandoo - atlas0 #141004_10
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 856
+        width: 389
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e4b0727b78050960800000000000000
+      internalID: 7567464075159975140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Durandoo - atlas0 #141004_11
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 622
+        width: 387
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 400f09060c4497fc0800000000000000
+      internalID: -3496688042631958524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Durandoo - atlas0 #141004_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 476
+        width: 375
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca24f07e1443878f0800000000000000
+      internalID: -542626297444089172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Durandoo - atlas0 #141004_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 239
+        width: 387
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cc44954d669fc290800000000000000
+      internalID: -7867904627930018616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Durandoo - atlas0 #141004_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 389
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03dcd13798232b110800000000000000
+      internalID: 1275137210422512944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Durandoo - atlas0 #141004_15
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 0
+        width: 383
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67c79bd832f70f590800000000000000
+      internalID: -7642468776969405322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Durandoo - atlas0 #141004_16
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 0
+        width: 243
+        height: 381
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbf2571a69145d820800000000000000
+      internalID: 2942330046766198717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Durandoo - atlas0 #141004_0: 6136182429443056970
+      Durandoo - atlas0 #141004_1: 7499700003863913688
+      Durandoo - atlas0 #141004_10: 7567464075159975140
+      Durandoo - atlas0 #141004_11: -3496688042631958524
+      Durandoo - atlas0 #141004_12: -542626297444089172
+      Durandoo - atlas0 #141004_13: -7867904627930018616
+      Durandoo - atlas0 #141004_14: 1275137210422512944
+      Durandoo - atlas0 #141004_15: -7642468776969405322
+      Durandoo - atlas0 #141004_16: 2942330046766198717
+      Durandoo - atlas0 #141004_2: -7739508698122304957
+      Durandoo - atlas0 #141004_3: -3252827439178468459
+      Durandoo - atlas0 #141004_4: -7122740346825238954
+      Durandoo - atlas0 #141004_5: 8553202789409194338
+      Durandoo - atlas0 #141004_6: 4625118883597077216
+      Durandoo - atlas0 #141004_7: 2645867867219002034
+      Durandoo - atlas0 #141004_8: -2521147204645396131
+      Durandoo - atlas0 #141004_9: -7885953261044602489
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

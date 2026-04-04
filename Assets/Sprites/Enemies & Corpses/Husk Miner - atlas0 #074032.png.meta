@@ -1,0 +1,1274 @@
+fileFormatVersion: 2
+guid: 0dd7af0fd3ec83743b2b945f7b9041ff
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3023873015469743018
+    second: Husk Miner - atlas0 #074032_0
+  - first:
+      213: 1094099837951699086
+    second: Husk Miner - atlas0 #074032_1
+  - first:
+      213: 6474420321366647568
+    second: Husk Miner - atlas0 #074032_2
+  - first:
+      213: 3955383908143949234
+    second: Husk Miner - atlas0 #074032_3
+  - first:
+      213: -1607555505177194339
+    second: Husk Miner - atlas0 #074032_4
+  - first:
+      213: 8178858169398019161
+    second: Husk Miner - atlas0 #074032_5
+  - first:
+      213: -537737447446709811
+    second: Husk Miner - atlas0 #074032_6
+  - first:
+      213: 3603761701098266480
+    second: Husk Miner - atlas0 #074032_7
+  - first:
+      213: 6892973764487005699
+    second: Husk Miner - atlas0 #074032_8
+  - first:
+      213: 479894944643213283
+    second: Husk Miner - atlas0 #074032_9
+  - first:
+      213: -6095361229806383266
+    second: Husk Miner - atlas0 #074032_10
+  - first:
+      213: 4695442890807417877
+    second: Husk Miner - atlas0 #074032_11
+  - first:
+      213: 1616391951165106504
+    second: Husk Miner - atlas0 #074032_12
+  - first:
+      213: -8624363415617026652
+    second: Husk Miner - atlas0 #074032_13
+  - first:
+      213: 1013201295970130862
+    second: Husk Miner - atlas0 #074032_14
+  - first:
+      213: 4885523773940822136
+    second: Husk Miner - atlas0 #074032_15
+  - first:
+      213: 8345301003431681917
+    second: Husk Miner - atlas0 #074032_16
+  - first:
+      213: -4356886657951889883
+    second: Husk Miner - atlas0 #074032_17
+  - first:
+      213: 6072770581682096354
+    second: Husk Miner - atlas0 #074032_18
+  - first:
+      213: 6880683238079841507
+    second: Husk Miner - atlas0 #074032_19
+  - first:
+      213: -3793799535734563807
+    second: Husk Miner - atlas0 #074032_20
+  - first:
+      213: -3875339788746710449
+    second: Husk Miner - atlas0 #074032_21
+  - first:
+      213: -306506834328600839
+    second: Husk Miner - atlas0 #074032_22
+  - first:
+      213: -3498115029376234669
+    second: Husk Miner - atlas0 #074032_23
+  - first:
+      213: -9175830528033258893
+    second: Husk Miner - atlas0 #074032_24
+  - first:
+      213: -7746972099042702858
+    second: Husk Miner - atlas0 #074032_25
+  - first:
+      213: 2702458398520861583
+    second: Husk Miner - atlas0 #074032_26
+  - first:
+      213: 182108617484072438
+    second: Husk Miner - atlas0 #074032_27
+  - first:
+      213: 7741844026852165967
+    second: Husk Miner - atlas0 #074032_28
+  - first:
+      213: 5875112394754212291
+    second: Husk Miner - atlas0 #074032_29
+  - first:
+      213: -1397064033298275376
+    second: Husk Miner - atlas0 #074032_30
+  - first:
+      213: 3841303448149737380
+    second: Husk Miner - atlas0 #074032_31
+  - first:
+      213: -7410624108802600447
+    second: Husk Miner - atlas0 #074032_32
+  - first:
+      213: 2952844002638357001
+    second: Husk Miner - atlas0 #074032_33
+  - first:
+      213: 3170932524811463407
+    second: Husk Miner - atlas0 #074032_34
+  - first:
+      213: 7130765659240293918
+    second: Husk Miner - atlas0 #074032_35
+  - first:
+      213: -7599292380112395138
+    second: Husk Miner - atlas0 #074032_36
+  - first:
+      213: 4777528193206890591
+    second: Husk Miner - atlas0 #074032_37
+  - first:
+      213: -1777509085826586235
+    second: Husk Miner - atlas0 #074032_38
+  - first:
+      213: 4285826354589570314
+    second: Husk Miner - atlas0 #074032_39
+  - first:
+      213: 147028818563905847
+    second: Husk Miner - atlas0 #074032_40
+  - first:
+      213: 2512185839940209664
+    second: Husk Miner - atlas0 #074032_41
+  - first:
+      213: -6755843986357312614
+    second: Husk Miner - atlas0 #074032_42
+  - first:
+      213: 1137790863389124964
+    second: Husk Miner - atlas0 #074032_43
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Husk Miner - atlas0 #074032_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1370
+        width: 43
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aab96f48c74f6f920800000000000000
+      internalID: 3023873015469743018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Husk Miner - atlas0 #074032_1
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 1390
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e886ced71060f2f00800000000000000
+      internalID: 1094099837951699086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Husk Miner - atlas0 #074032_2
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 1349
+        width: 34
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01321a5baf2c9d950800000000000000
+      internalID: 6474420321366647568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Husk Miner - atlas0 #074032_3
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 1209
+        width: 101
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b5673b35b854e630800000000000000
+      internalID: 3955383908143949234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Husk Miner - atlas0 #074032_4
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1356
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d90903509c0d0b9e0800000000000000
+      internalID: -1607555505177194339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Husk Miner - atlas0 #074032_5
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 1254
+        width: 113
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 954454feb24218170800000000000000
+      internalID: 8178858169398019161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Husk Miner - atlas0 #074032_6
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 1187
+        width: 118
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc9738ef3a29988f0800000000000000
+      internalID: -537737447446709811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Husk Miner - atlas0 #074032_7
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 1293
+        width: 35
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07f9e117c22230230800000000000000
+      internalID: 3603761701098266480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Husk Miner - atlas0 #074032_8
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 1316
+        width: 18
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 306c5564e13c8af50800000000000000
+      internalID: 6892973764487005699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Husk Miner - atlas0 #074032_9
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 1187
+        width: 140
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e7e6f8d8ede8a600800000000000000
+      internalID: 479894944643213283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Husk Miner - atlas0 #074032_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1116
+        width: 126
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5fc3bf814de86ba0800000000000000
+      internalID: -6095361229806383266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Husk Miner - atlas0 #074032_11
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 1013
+        width: 183
+        height: 243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51c95b18e60992140800000000000000
+      internalID: 4695442890807417877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Husk Miner - atlas0 #074032_12
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 1218
+        width: 26
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8492ff26ae39e6610800000000000000
+      internalID: 1616391951165106504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Husk Miner - atlas0 #074032_13
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 1219
+        width: 29
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a5c546da2b105880800000000000000
+      internalID: -8624363415617026652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Husk Miner - atlas0 #074032_14
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 1126
+        width: 150
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eabd344e53d9f0e00800000000000000
+      internalID: 1013201295970130862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Husk Miner - atlas0 #074032_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 946
+        width: 261
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 870f77fdcfddcc340800000000000000
+      internalID: 4885523773940822136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Husk Miner - atlas0 #074032_16
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 1141
+        width: 47
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7f914d1c0770d370800000000000000
+      internalID: 8345301003431681917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Husk Miner - atlas0 #074032_17
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 1153
+        width: 29
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 526832a1baa3983c0800000000000000
+      internalID: -4356886657951889883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Husk Miner - atlas0 #074032_18
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 1165
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e88a9b4ba0d64450800000000000000
+      internalID: 6072770581682096354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Husk Miner - atlas0 #074032_19
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 1039
+        width: 151
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e4cbb913f81d7f50800000000000000
+      internalID: 6880683238079841507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Husk Miner - atlas0 #074032_20
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 854
+        width: 131
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12cdf733c67b95bc0800000000000000
+      internalID: -3793799535734563807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Husk Miner - atlas0 #074032_21
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 885
+        width: 177
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f42a0db9ef6083ac0800000000000000
+      internalID: -3875339788746710449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Husk Miner - atlas0 #074032_22
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 1014
+        width: 176
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fe3d9a78a11fbbf0800000000000000
+      internalID: -306506834328600839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Husk Miner - atlas0 #074032_23
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 886
+        width: 175
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35b03922ae2347fc0800000000000000
+      internalID: -3498115029376234669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Husk Miner - atlas0 #074032_24
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 999
+        width: 176
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 372846910c6e8a080800000000000000
+      internalID: -9175830528033258893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Husk Miner - atlas0 #074032_25
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 912
+        width: 177
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f982bfcbe93d7490800000000000000
+      internalID: -7746972099042702858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Husk Miner - atlas0 #074032_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 331
+        width: 325
+        height: 617
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f836b10689f018520800000000000000
+      internalID: 2702458398520861583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Husk Miner - atlas0 #074032_27
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 749
+        width: 172
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f5fcaf92daf68200800000000000000
+      internalID: 182108617484072438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Husk Miner - atlas0 #074032_28
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 745
+        width: 159
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f49c007df1e807b60800000000000000
+      internalID: 7741844026852165967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Husk Miner - atlas0 #074032_29
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 874
+        width: 180
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c1c1d86897988150800000000000000
+      internalID: 5875112394754212291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Husk Miner - atlas0 #074032_30
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 748
+        width: 180
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d328c6e9a1ac9ce0800000000000000
+      internalID: -1397064033298275376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Husk Miner - atlas0 #074032_31
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 307
+        width: 335
+        height: 607
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4afb27d422d0f4530800000000000000
+      internalID: 3841303448149737380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Husk Miner - atlas0 #074032_32
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 794
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10210eed2ac282990800000000000000
+      internalID: -7410624108802600447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Husk Miner - atlas0 #074032_33
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 606
+        width: 168
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 902e66eb9fb9af820800000000000000
+      internalID: 2952844002638357001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Husk Miner - atlas0 #074032_34
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 466
+        width: 176
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: feaae1cb45a610c20800000000000000
+      internalID: 3170932524811463407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Husk Miner - atlas0 #074032_35
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 602
+        width: 168
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e16629f269195f260800000000000000
+      internalID: 7130765659240293918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Husk Miner - atlas0 #074032_36
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 309
+        width: 227
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e746113d7d3e98690800000000000000
+      internalID: -7599292380112395138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Husk Miner - atlas0 #074032_37
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 496
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f50b28c44903d4240800000000000000
+      internalID: 4777528193206890591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Husk Miner - atlas0 #074032_38
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 180
+        width: 351
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 589e64277e40557e0800000000000000
+      internalID: -1777509085826586235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Husk Miner - atlas0 #074032_39
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 317
+        width: 179
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a05915abc505a7b30800000000000000
+      internalID: 4285826354589570314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Husk Miner - atlas0 #074032_40
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 0
+        width: 229
+        height: 319
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7393f367ee95a0200800000000000000
+      internalID: 147028818563905847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Husk Miner - atlas0 #074032_41
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 396
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00c076716b31dd220800000000000000
+      internalID: 2512185839940209664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Husk Miner - atlas0 #074032_42
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 0
+        width: 366
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a93a63b30bb6e32a0800000000000000
+      internalID: -6755843986357312614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Husk Miner - atlas0 #074032_43
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 154
+        width: 362
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4696ef013ce3acf00800000000000000
+      internalID: 1137790863389124964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Husk Miner - atlas0 #074032_0: 3023873015469743018
+      Husk Miner - atlas0 #074032_1: 1094099837951699086
+      Husk Miner - atlas0 #074032_10: -6095361229806383266
+      Husk Miner - atlas0 #074032_11: 4695442890807417877
+      Husk Miner - atlas0 #074032_12: 1616391951165106504
+      Husk Miner - atlas0 #074032_13: -8624363415617026652
+      Husk Miner - atlas0 #074032_14: 1013201295970130862
+      Husk Miner - atlas0 #074032_15: 4885523773940822136
+      Husk Miner - atlas0 #074032_16: 8345301003431681917
+      Husk Miner - atlas0 #074032_17: -4356886657951889883
+      Husk Miner - atlas0 #074032_18: 6072770581682096354
+      Husk Miner - atlas0 #074032_19: 6880683238079841507
+      Husk Miner - atlas0 #074032_2: 6474420321366647568
+      Husk Miner - atlas0 #074032_20: -3793799535734563807
+      Husk Miner - atlas0 #074032_21: -3875339788746710449
+      Husk Miner - atlas0 #074032_22: -306506834328600839
+      Husk Miner - atlas0 #074032_23: -3498115029376234669
+      Husk Miner - atlas0 #074032_24: -9175830528033258893
+      Husk Miner - atlas0 #074032_25: -7746972099042702858
+      Husk Miner - atlas0 #074032_26: 2702458398520861583
+      Husk Miner - atlas0 #074032_27: 182108617484072438
+      Husk Miner - atlas0 #074032_28: 7741844026852165967
+      Husk Miner - atlas0 #074032_29: 5875112394754212291
+      Husk Miner - atlas0 #074032_3: 3955383908143949234
+      Husk Miner - atlas0 #074032_30: -1397064033298275376
+      Husk Miner - atlas0 #074032_31: 3841303448149737380
+      Husk Miner - atlas0 #074032_32: -7410624108802600447
+      Husk Miner - atlas0 #074032_33: 2952844002638357001
+      Husk Miner - atlas0 #074032_34: 3170932524811463407
+      Husk Miner - atlas0 #074032_35: 7130765659240293918
+      Husk Miner - atlas0 #074032_36: -7599292380112395138
+      Husk Miner - atlas0 #074032_37: 4777528193206890591
+      Husk Miner - atlas0 #074032_38: -1777509085826586235
+      Husk Miner - atlas0 #074032_39: 4285826354589570314
+      Husk Miner - atlas0 #074032_4: -1607555505177194339
+      Husk Miner - atlas0 #074032_40: 147028818563905847
+      Husk Miner - atlas0 #074032_41: 2512185839940209664
+      Husk Miner - atlas0 #074032_42: -6755843986357312614
+      Husk Miner - atlas0 #074032_43: 1137790863389124964
+      Husk Miner - atlas0 #074032_5: 8178858169398019161
+      Husk Miner - atlas0 #074032_6: -537737447446709811
+      Husk Miner - atlas0 #074032_7: 3603761701098266480
+      Husk Miner - atlas0 #074032_8: 6892973764487005699
+      Husk Miner - atlas0 #074032_9: 479894944643213283
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

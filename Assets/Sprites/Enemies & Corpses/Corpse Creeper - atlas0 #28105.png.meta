@@ -1,0 +1,702 @@
+fileFormatVersion: 2
+guid: 4673eba263e48a340b0f46e656cdd290
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2474481237133614339
+    second: Corpse Creeper - atlas0 #28105_0
+  - first:
+      213: -2000826051887722044
+    second: Corpse Creeper - atlas0 #28105_1
+  - first:
+      213: -4655092260000941809
+    second: Corpse Creeper - atlas0 #28105_2
+  - first:
+      213: 8572709001820947928
+    second: Corpse Creeper - atlas0 #28105_3
+  - first:
+      213: -8455416424670627
+    second: Corpse Creeper - atlas0 #28105_4
+  - first:
+      213: -5610726417341730788
+    second: Corpse Creeper - atlas0 #28105_5
+  - first:
+      213: -6715106329233155329
+    second: Corpse Creeper - atlas0 #28105_6
+  - first:
+      213: 8767425909530813318
+    second: Corpse Creeper - atlas0 #28105_7
+  - first:
+      213: -6741024939039997471
+    second: Corpse Creeper - atlas0 #28105_8
+  - first:
+      213: 3329015872759356133
+    second: Corpse Creeper - atlas0 #28105_9
+  - first:
+      213: -8808718377140910060
+    second: Corpse Creeper - atlas0 #28105_10
+  - first:
+      213: -3858738277951306171
+    second: Corpse Creeper - atlas0 #28105_11
+  - first:
+      213: 6930120999078719666
+    second: Corpse Creeper - atlas0 #28105_12
+  - first:
+      213: -1570081483558158354
+    second: Corpse Creeper - atlas0 #28105_13
+  - first:
+      213: 8091172126689257561
+    second: Corpse Creeper - atlas0 #28105_14
+  - first:
+      213: 2766144304100638687
+    second: Corpse Creeper - atlas0 #28105_15
+  - first:
+      213: -6467963610451379408
+    second: Corpse Creeper - atlas0 #28105_16
+  - first:
+      213: 4854679414480803898
+    second: Corpse Creeper - atlas0 #28105_17
+  - first:
+      213: -1014750703045711262
+    second: Corpse Creeper - atlas0 #28105_18
+  - first:
+      213: 6784737124596786346
+    second: Corpse Creeper - atlas0 #28105_19
+  - first:
+      213: -7546671112482492814
+    second: Corpse Creeper - atlas0 #28105_20
+  - first:
+      213: 8806859090133762614
+    second: Corpse Creeper - atlas0 #28105_21
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Corpse Creeper - atlas0 #28105_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1126
+        width: 149
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30dd7b6239f175220800000000000000
+      internalID: 2474481237133614339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Corpse Creeper - atlas0 #28105_1
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 935
+        width: 147
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c192ef7e43ab34e0800000000000000
+      internalID: -2000826051887722044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Corpse Creeper - atlas0 #28105_2
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 1044
+        width: 118
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0939f5d04ac56fb0800000000000000
+      internalID: -4655092260000941809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Corpse Creeper - atlas0 #28105_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1027
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d5c450ca6168f670800000000000000
+      internalID: 8572709001820947928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Corpse Creeper - atlas0 #28105_4
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 889
+        width: 178
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5a5493f7d5f1eff0800000000000000
+      internalID: -8455416424670627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Corpse Creeper - atlas0 #28105_5
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 985
+        width: 176
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c103272ec02b222b0800000000000000
+      internalID: -5610726417341730788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Corpse Creeper - atlas0 #28105_6
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 888
+        width: 187
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffa94192f562fc2a0800000000000000
+      internalID: -6715106329233155329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Corpse Creeper - atlas0 #28105_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 447
+        width: 196
+        height: 490
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 683e324b9672ca970800000000000000
+      internalID: 8767425909530813318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Corpse Creeper - atlas0 #28105_8
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 640
+        width: 261
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e1c87e88811372a0800000000000000
+      internalID: -6741024939039997471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Corpse Creeper - atlas0 #28105_9
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 815
+        width: 164
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ea55736c4a033e20800000000000000
+      internalID: 3329015872759356133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Corpse Creeper - atlas0 #28105_10
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 666
+        width: 175
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4188f0c7e4521c580800000000000000
+      internalID: -8808718377140910060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Corpse Creeper - atlas0 #28105_11
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 809
+        width: 196
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 546828d0bf1037ac0800000000000000
+      internalID: -3858738277951306171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Corpse Creeper - atlas0 #28105_12
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 618
+        width: 328
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b0ff80d45cbc2060800000000000000
+      internalID: 6930120999078719666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Corpse Creeper - atlas0 #28105_13
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 438
+        width: 240
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eeff8189533f53ae0800000000000000
+      internalID: -1570081483558158354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Corpse Creeper - atlas0 #28105_14
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 412
+        width: 189
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 958eadb2e2e994070800000000000000
+      internalID: 8091172126689257561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Corpse Creeper - atlas0 #28105_15
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 0
+        width: 330
+        height: 620
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdf7363c691536620800000000000000
+      internalID: 2766144304100638687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Corpse Creeper - atlas0 #28105_16
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 488
+        width: 121
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03b74e27d5d2d36a0800000000000000
+      internalID: -6467963610451379408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Corpse Creeper - atlas0 #28105_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 241
+        width: 240
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a38978ec4394f5340800000000000000
+      internalID: 4854679414480803898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Corpse Creeper - atlas0 #28105_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 245
+        height: 243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26ae169ac91eae1f0800000000000000
+      internalID: -1014750703045711262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Corpse Creeper - atlas0 #28105_19
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 229
+        width: 240
+        height: 211
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa42ffdb77a382e50800000000000000
+      internalID: 6784737124596786346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Corpse Creeper - atlas0 #28105_20
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 195
+        width: 234
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27e67cf6b96d44790800000000000000
+      internalID: -7546671112482492814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Corpse Creeper - atlas0 #28105_21
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 0
+        width: 514
+        height: 231
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 632c7568eaf383a70800000000000000
+      internalID: 8806859090133762614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Corpse Creeper - atlas0 #28105_0: 2474481237133614339
+      Corpse Creeper - atlas0 #28105_1: -2000826051887722044
+      Corpse Creeper - atlas0 #28105_10: -8808718377140910060
+      Corpse Creeper - atlas0 #28105_11: -3858738277951306171
+      Corpse Creeper - atlas0 #28105_12: 6930120999078719666
+      Corpse Creeper - atlas0 #28105_13: -1570081483558158354
+      Corpse Creeper - atlas0 #28105_14: 8091172126689257561
+      Corpse Creeper - atlas0 #28105_15: 2766144304100638687
+      Corpse Creeper - atlas0 #28105_16: -6467963610451379408
+      Corpse Creeper - atlas0 #28105_17: 4854679414480803898
+      Corpse Creeper - atlas0 #28105_18: -1014750703045711262
+      Corpse Creeper - atlas0 #28105_19: 6784737124596786346
+      Corpse Creeper - atlas0 #28105_2: -4655092260000941809
+      Corpse Creeper - atlas0 #28105_20: -7546671112482492814
+      Corpse Creeper - atlas0 #28105_21: 8806859090133762614
+      Corpse Creeper - atlas0 #28105_3: 8572709001820947928
+      Corpse Creeper - atlas0 #28105_4: -8455416424670627
+      Corpse Creeper - atlas0 #28105_5: -5610726417341730788
+      Corpse Creeper - atlas0 #28105_6: -6715106329233155329
+      Corpse Creeper - atlas0 #28105_7: 8767425909530813318
+      Corpse Creeper - atlas0 #28105_8: -6741024939039997471
+      Corpse Creeper - atlas0 #28105_9: 3329015872759356133
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

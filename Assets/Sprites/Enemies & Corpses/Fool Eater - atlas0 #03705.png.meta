@@ -1,0 +1,780 @@
+fileFormatVersion: 2
+guid: 2238e94de2977c1429db55d39b5991cd
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3693917605733072788
+    second: Fool Eater - atlas0 #03705_0
+  - first:
+      213: -7285677263120991440
+    second: Fool Eater - atlas0 #03705_1
+  - first:
+      213: -6544139875352044108
+    second: Fool Eater - atlas0 #03705_2
+  - first:
+      213: 7394445027984642778
+    second: Fool Eater - atlas0 #03705_3
+  - first:
+      213: 4483111323073250475
+    second: Fool Eater - atlas0 #03705_4
+  - first:
+      213: -7460005414628091654
+    second: Fool Eater - atlas0 #03705_5
+  - first:
+      213: 7435929202545892430
+    second: Fool Eater - atlas0 #03705_6
+  - first:
+      213: 7752349165260861196
+    second: Fool Eater - atlas0 #03705_7
+  - first:
+      213: -8054977400298646554
+    second: Fool Eater - atlas0 #03705_8
+  - first:
+      213: 8289149596872058947
+    second: Fool Eater - atlas0 #03705_9
+  - first:
+      213: -6588061119827298257
+    second: Fool Eater - atlas0 #03705_10
+  - first:
+      213: 7524120560985412949
+    second: Fool Eater - atlas0 #03705_11
+  - first:
+      213: -6347154462809288631
+    second: Fool Eater - atlas0 #03705_12
+  - first:
+      213: 6088146974250934856
+    second: Fool Eater - atlas0 #03705_13
+  - first:
+      213: -3471349106712683275
+    second: Fool Eater - atlas0 #03705_14
+  - first:
+      213: -3219899328847914989
+    second: Fool Eater - atlas0 #03705_15
+  - first:
+      213: 5990699098845727894
+    second: Fool Eater - atlas0 #03705_16
+  - first:
+      213: 5051404603674051485
+    second: Fool Eater - atlas0 #03705_17
+  - first:
+      213: -160969795398157130
+    second: Fool Eater - atlas0 #03705_18
+  - first:
+      213: -5249488544119857747
+    second: Fool Eater - atlas0 #03705_19
+  - first:
+      213: -7464685118843399293
+    second: Fool Eater - atlas0 #03705_20
+  - first:
+      213: 7673635560331879981
+    second: Fool Eater - atlas0 #03705_21
+  - first:
+      213: -242291322781656086
+    second: Fool Eater - atlas0 #03705_22
+  - first:
+      213: -1868612483313697090
+    second: Fool Eater - atlas0 #03705_23
+  - first:
+      213: -1071584511329513117
+    second: Fool Eater - atlas0 #03705_24
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Fool Eater - atlas0 #03705_0
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 892
+        width: 26
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6008b042819cbcc0800000000000000
+      internalID: -3693917605733072788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fool Eater - atlas0 #03705_1
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 760
+        width: 31
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03b788f512314ea90800000000000000
+      internalID: -7285677263120991440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fool Eater - atlas0 #03705_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 764
+        width: 282
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bd1c29a47b8e25a0800000000000000
+      internalID: -6544139875352044108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fool Eater - atlas0 #03705_3
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 870
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad29d2453985e9660800000000000000
+      internalID: 7394445027984642778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fool Eater - atlas0 #03705_4
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 722
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba4005ceef5373e30800000000000000
+      internalID: 4483111323073250475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fool Eater - atlas0 #03705_5
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 554
+        width: 41
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af81a96a99cb87890800000000000000
+      internalID: -7460005414628091654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fool Eater - atlas0 #03705_6
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 186
+        width: 558
+        height: 580
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4c93b4663ab13760800000000000000
+      internalID: 7435929202545892430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fool Eater - atlas0 #03705_7
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 599
+        width: 264
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0f6b2afd70e59b60800000000000000
+      internalID: 7752349165260861196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fool Eater - atlas0 #03705_8
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 617
+        width: 31
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e356654bb8f63090800000000000000
+      internalID: -8054977400298646554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fool Eater - atlas0 #03705_9
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 692
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 348a1abf3a9f80370800000000000000
+      internalID: 8289149596872058947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fool Eater - atlas0 #03705_10
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 398
+        width: 40
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f28b12a01518294a0800000000000000
+      internalID: -6588061119827298257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fool Eater - atlas0 #03705_11
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 389
+        width: 41
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5559fb429cb0b6860800000000000000
+      internalID: 7524120560985412949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fool Eater - atlas0 #03705_12
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 497
+        width: 15
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94097bd05a06ae7a0800000000000000
+      internalID: -6347154462809288631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fool Eater - atlas0 #03705_13
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 459
+        width: 19
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 842a89caa617d7450800000000000000
+      internalID: 6088146974250934856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fool Eater - atlas0 #03705_14
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 409
+        width: 285
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fc5503216a43dfc0800000000000000
+      internalID: -3471349106712683275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fool Eater - atlas0 #03705_15
+      rect:
+        serializedVersion: 2
+        x: 971
+        y: 199
+        width: 50
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3185083ce9e9053d0800000000000000
+      internalID: -3219899328847914989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fool Eater - atlas0 #03705_16
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 188
+        width: 220
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69cc3fe171d332350800000000000000
+      internalID: 5990699098845727894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fool Eater - atlas0 #03705_17
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 370
+        width: 14
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d93c3ca39b13a1640800000000000000
+      internalID: 5051404603674051485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fool Eater - atlas0 #03705_18
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 319
+        width: 252
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bcb9bde2de14cdf0800000000000000
+      internalID: -160969795398157130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fool Eater - atlas0 #03705_19
+      rect:
+        serializedVersion: 2
+        x: 1017
+        y: 280
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dadd04b6bf11627b0800000000000000
+      internalID: -5249488544119857747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fool Eater - atlas0 #03705_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 187
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 383d13b1f6c186890800000000000000
+      internalID: -7464685118843399293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fool Eater - atlas0 #03705_21
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 0
+        width: 212
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d26236da2ea3e7a60800000000000000
+      internalID: 7673635560331879981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fool Eater - atlas0 #03705_22
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 53
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aeb907d535533acf0800000000000000
+      internalID: -242291322781656086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fool Eater - atlas0 #03705_23
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 0
+        width: 310
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebef935c8da5116e0800000000000000
+      internalID: -1868612483313697090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fool Eater - atlas0 #03705_24
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 0
+        width: 296
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 361d46f7097f021f0800000000000000
+      internalID: -1071584511329513117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Fool Eater - atlas0 #03705_0: -3693917605733072788
+      Fool Eater - atlas0 #03705_1: -7285677263120991440
+      Fool Eater - atlas0 #03705_10: -6588061119827298257
+      Fool Eater - atlas0 #03705_11: 7524120560985412949
+      Fool Eater - atlas0 #03705_12: -6347154462809288631
+      Fool Eater - atlas0 #03705_13: 6088146974250934856
+      Fool Eater - atlas0 #03705_14: -3471349106712683275
+      Fool Eater - atlas0 #03705_15: -3219899328847914989
+      Fool Eater - atlas0 #03705_16: 5990699098845727894
+      Fool Eater - atlas0 #03705_17: 5051404603674051485
+      Fool Eater - atlas0 #03705_18: -160969795398157130
+      Fool Eater - atlas0 #03705_19: -5249488544119857747
+      Fool Eater - atlas0 #03705_2: -6544139875352044108
+      Fool Eater - atlas0 #03705_20: -7464685118843399293
+      Fool Eater - atlas0 #03705_21: 7673635560331879981
+      Fool Eater - atlas0 #03705_22: -242291322781656086
+      Fool Eater - atlas0 #03705_23: -1868612483313697090
+      Fool Eater - atlas0 #03705_24: -1071584511329513117
+      Fool Eater - atlas0 #03705_3: 7394445027984642778
+      Fool Eater - atlas0 #03705_4: 4483111323073250475
+      Fool Eater - atlas0 #03705_5: -7460005414628091654
+      Fool Eater - atlas0 #03705_6: 7435929202545892430
+      Fool Eater - atlas0 #03705_7: 7752349165260861196
+      Fool Eater - atlas0 #03705_8: -8054977400298646554
+      Fool Eater - atlas0 #03705_9: 8289149596872058947
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

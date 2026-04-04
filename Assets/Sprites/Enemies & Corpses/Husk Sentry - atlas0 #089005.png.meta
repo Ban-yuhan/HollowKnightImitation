@@ -1,0 +1,2548 @@
+fileFormatVersion: 2
+guid: f34b8849c9e544f4ba153276b03d5505
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8111388810759844606
+    second: Husk Sentry - atlas0 #089005_0
+  - first:
+      213: -3527915323392017397
+    second: Husk Sentry - atlas0 #089005_1
+  - first:
+      213: -4753796754160240563
+    second: Husk Sentry - atlas0 #089005_2
+  - first:
+      213: -5592148220915383781
+    second: Husk Sentry - atlas0 #089005_3
+  - first:
+      213: -6773772310428542089
+    second: Husk Sentry - atlas0 #089005_4
+  - first:
+      213: -4707101349607466786
+    second: Husk Sentry - atlas0 #089005_5
+  - first:
+      213: -7321418424436840293
+    second: Husk Sentry - atlas0 #089005_6
+  - first:
+      213: -1793863088197694404
+    second: Husk Sentry - atlas0 #089005_7
+  - first:
+      213: 1651530416785755778
+    second: Husk Sentry - atlas0 #089005_8
+  - first:
+      213: 797381528666672998
+    second: Husk Sentry - atlas0 #089005_9
+  - first:
+      213: -7892309364766820687
+    second: Husk Sentry - atlas0 #089005_10
+  - first:
+      213: -1885742928635835496
+    second: Husk Sentry - atlas0 #089005_11
+  - first:
+      213: 4265123709268535984
+    second: Husk Sentry - atlas0 #089005_12
+  - first:
+      213: -2567546637160210735
+    second: Husk Sentry - atlas0 #089005_13
+  - first:
+      213: 7926847061830262048
+    second: Husk Sentry - atlas0 #089005_14
+  - first:
+      213: -6562372669542315605
+    second: Husk Sentry - atlas0 #089005_15
+  - first:
+      213: 7051537767305083808
+    second: Husk Sentry - atlas0 #089005_16
+  - first:
+      213: 5983729551694877527
+    second: Husk Sentry - atlas0 #089005_17
+  - first:
+      213: -7903971445371413101
+    second: Husk Sentry - atlas0 #089005_18
+  - first:
+      213: -5187780303917557471
+    second: Husk Sentry - atlas0 #089005_19
+  - first:
+      213: 3767150163387351269
+    second: Husk Sentry - atlas0 #089005_20
+  - first:
+      213: 7344057352552498271
+    second: Husk Sentry - atlas0 #089005_21
+  - first:
+      213: 7980486822090320139
+    second: Husk Sentry - atlas0 #089005_22
+  - first:
+      213: 6206710961466909406
+    second: Husk Sentry - atlas0 #089005_23
+  - first:
+      213: -6807269792857214101
+    second: Husk Sentry - atlas0 #089005_24
+  - first:
+      213: -3851825569560858922
+    second: Husk Sentry - atlas0 #089005_25
+  - first:
+      213: 6728194788012857658
+    second: Husk Sentry - atlas0 #089005_26
+  - first:
+      213: -8921153708124771919
+    second: Husk Sentry - atlas0 #089005_27
+  - first:
+      213: -3095608099159164798
+    second: Husk Sentry - atlas0 #089005_28
+  - first:
+      213: -1691593927625574279
+    second: Husk Sentry - atlas0 #089005_29
+  - first:
+      213: -8692584161989303827
+    second: Husk Sentry - atlas0 #089005_30
+  - first:
+      213: 2934367406193952707
+    second: Husk Sentry - atlas0 #089005_31
+  - first:
+      213: 5749368873852816785
+    second: Husk Sentry - atlas0 #089005_32
+  - first:
+      213: -5576502462121156177
+    second: Husk Sentry - atlas0 #089005_33
+  - first:
+      213: -6480304269905027186
+    second: Husk Sentry - atlas0 #089005_34
+  - first:
+      213: 484346502064168625
+    second: Husk Sentry - atlas0 #089005_35
+  - first:
+      213: -3578493864057559758
+    second: Husk Sentry - atlas0 #089005_36
+  - first:
+      213: -3073976080841918160
+    second: Husk Sentry - atlas0 #089005_37
+  - first:
+      213: 800932821365431568
+    second: Husk Sentry - atlas0 #089005_38
+  - first:
+      213: -4319809782765136220
+    second: Husk Sentry - atlas0 #089005_39
+  - first:
+      213: -8124167823780362542
+    second: Husk Sentry - atlas0 #089005_40
+  - first:
+      213: 3289374697530046709
+    second: Husk Sentry - atlas0 #089005_41
+  - first:
+      213: -3075699462626341948
+    second: Husk Sentry - atlas0 #089005_42
+  - first:
+      213: 2345178356952695788
+    second: Husk Sentry - atlas0 #089005_43
+  - first:
+      213: -7763902636445866375
+    second: Husk Sentry - atlas0 #089005_44
+  - first:
+      213: -4514013524152688845
+    second: Husk Sentry - atlas0 #089005_45
+  - first:
+      213: 7871611561465015464
+    second: Husk Sentry - atlas0 #089005_46
+  - first:
+      213: 4468670949553427592
+    second: Husk Sentry - atlas0 #089005_47
+  - first:
+      213: -4572105477716881587
+    second: Husk Sentry - atlas0 #089005_48
+  - first:
+      213: 3502826676976598968
+    second: Husk Sentry - atlas0 #089005_49
+  - first:
+      213: 97749871796871399
+    second: Husk Sentry - atlas0 #089005_50
+  - first:
+      213: 1347348285706516094
+    second: Husk Sentry - atlas0 #089005_51
+  - first:
+      213: 1803581794004418612
+    second: Husk Sentry - atlas0 #089005_52
+  - first:
+      213: -687323557703846386
+    second: Husk Sentry - atlas0 #089005_53
+  - first:
+      213: 2168562463081216219
+    second: Husk Sentry - atlas0 #089005_54
+  - first:
+      213: -2066707894052651910
+    second: Husk Sentry - atlas0 #089005_55
+  - first:
+      213: -1663475824124240840
+    second: Husk Sentry - atlas0 #089005_56
+  - first:
+      213: -5541602335624239446
+    second: Husk Sentry - atlas0 #089005_57
+  - first:
+      213: 8474121703361819093
+    second: Husk Sentry - atlas0 #089005_58
+  - first:
+      213: -5058878514224821617
+    second: Husk Sentry - atlas0 #089005_59
+  - first:
+      213: 1789349602040079051
+    second: Husk Sentry - atlas0 #089005_60
+  - first:
+      213: 3162658387087248733
+    second: Husk Sentry - atlas0 #089005_61
+  - first:
+      213: -8781647694275972309
+    second: Husk Sentry - atlas0 #089005_62
+  - first:
+      213: -2298969137272694282
+    second: Husk Sentry - atlas0 #089005_63
+  - first:
+      213: -8220891954750376951
+    second: Husk Sentry - atlas0 #089005_64
+  - first:
+      213: 9126414791149847597
+    second: Husk Sentry - atlas0 #089005_65
+  - first:
+      213: 9168261145509177390
+    second: Husk Sentry - atlas0 #089005_66
+  - first:
+      213: 2979103819767668610
+    second: Husk Sentry - atlas0 #089005_67
+  - first:
+      213: 2598619461093782299
+    second: Husk Sentry - atlas0 #089005_68
+  - first:
+      213: -8562337155637624312
+    second: Husk Sentry - atlas0 #089005_69
+  - first:
+      213: -8481978850330020114
+    second: Husk Sentry - atlas0 #089005_70
+  - first:
+      213: -3674202457532578534
+    second: Husk Sentry - atlas0 #089005_71
+  - first:
+      213: -5881468636548023922
+    second: Husk Sentry - atlas0 #089005_72
+  - first:
+      213: -2847383926995704888
+    second: Husk Sentry - atlas0 #089005_73
+  - first:
+      213: 7681946938219450442
+    second: Husk Sentry - atlas0 #089005_74
+  - first:
+      213: 5528189570630281404
+    second: Husk Sentry - atlas0 #089005_75
+  - first:
+      213: 4257208635378996099
+    second: Husk Sentry - atlas0 #089005_76
+  - first:
+      213: 3921646679051512017
+    second: Husk Sentry - atlas0 #089005_77
+  - first:
+      213: 7737455183987128642
+    second: Husk Sentry - atlas0 #089005_78
+  - first:
+      213: -7822092448222625969
+    second: Husk Sentry - atlas0 #089005_79
+  - first:
+      213: -1219680397247429147
+    second: Husk Sentry - atlas0 #089005_80
+  - first:
+      213: 8385490017005668671
+    second: Husk Sentry - atlas0 #089005_81
+  - first:
+      213: 7925699299567297808
+    second: Husk Sentry - atlas0 #089005_82
+  - first:
+      213: 1627072858911343911
+    second: Husk Sentry - atlas0 #089005_83
+  - first:
+      213: 529028060975180460
+    second: Husk Sentry - atlas0 #089005_84
+  - first:
+      213: -2890917518888219350
+    second: Husk Sentry - atlas0 #089005_85
+  - first:
+      213: 58113178390325259
+    second: Husk Sentry - atlas0 #089005_86
+  - first:
+      213: 8402317430239456707
+    second: Husk Sentry - atlas0 #089005_87
+  - first:
+      213: 6482045000597203516
+    second: Husk Sentry - atlas0 #089005_88
+  - first:
+      213: 1468289792443230751
+    second: Husk Sentry - atlas0 #089005_89
+  - first:
+      213: 8883330714466852818
+    second: Husk Sentry - atlas0 #089005_90
+  - first:
+      213: -3950518209886108768
+    second: Husk Sentry - atlas0 #089005_91
+  - first:
+      213: 3247528659934028034
+    second: Husk Sentry - atlas0 #089005_92
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Husk Sentry - atlas0 #089005_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1964
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef23b6cb521719070800000000000000
+      internalID: 8111388810759844606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Husk Sentry - atlas0 #089005_1
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1881
+        width: 135
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0cbf8f74b35a0fc0800000000000000
+      internalID: -3527915323392017397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Husk Sentry - atlas0 #089005_2
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 1905
+        width: 212
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d48bfdde90f170eb0800000000000000
+      internalID: -4753796754160240563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Husk Sentry - atlas0 #089005_3
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 1893
+        width: 111
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b12810152d2b462b0800000000000000
+      internalID: -5592148220915383781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Husk Sentry - atlas0 #089005_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1937
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77b978ff8f9bef1a0800000000000000
+      internalID: -6773772310428542089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Husk Sentry - atlas0 #089005_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1668
+        width: 132
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed892e603440daeb0800000000000000
+      internalID: -4707101349607466786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Husk Sentry - atlas0 #089005_6
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 1709
+        width: 120
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b982177cbb8156a90800000000000000
+      internalID: -7321418424436840293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Husk Sentry - atlas0 #089005_7
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 1773
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3c8a4c860bea17e0800000000000000
+      internalID: -1793863088197694404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Husk Sentry - atlas0 #089005_8
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 1722
+        width: 89
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28e8444f92a6be610800000000000000
+      internalID: 1651530416785755778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Husk Sentry - atlas0 #089005_9
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 1722
+        width: 103
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66f82ae864ed01b00800000000000000
+      internalID: 797381528666672998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Husk Sentry - atlas0 #089005_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1470
+        width: 133
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b6b59fa272e87290800000000000000
+      internalID: -7892309364766820687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Husk Sentry - atlas0 #089005_11
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 1513
+        width: 143
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89bc4f82cce74d5e0800000000000000
+      internalID: -1885742928635835496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Husk Sentry - atlas0 #089005_12
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 1526
+        width: 125
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ba2c0e7a63c03b30800000000000000
+      internalID: 4265123709268535984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Husk Sentry - atlas0 #089005_13
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 1371
+        width: 181
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1de11dbdfed3e5cd0800000000000000
+      internalID: -2567546637160210735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Husk Sentry - atlas0 #089005_14
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 1419
+        width: 163
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02ddd3d8761d10e60800000000000000
+      internalID: 7926847061830262048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Husk Sentry - atlas0 #089005_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1260
+        width: 139
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba9c23473d4cde4a0800000000000000
+      internalID: -6562372669542315605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Husk Sentry - atlas0 #089005_16
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 1323
+        width: 150
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ab787c1d381cd160800000000000000
+      internalID: 7051537767305083808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Husk Sentry - atlas0 #089005_17
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 1141
+        width: 167
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 753d7c8f25a7a0350800000000000000
+      internalID: 5983729551694877527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Husk Sentry - atlas0 #089005_18
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 1223
+        width: 194
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39d5ec3f8d37f4290800000000000000
+      internalID: -7903971445371413101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Husk Sentry - atlas0 #089005_19
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 1221
+        width: 245
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 129d934bc4d4108b0800000000000000
+      internalID: -5187780303917557471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Husk Sentry - atlas0 #089005_20
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 1194
+        width: 124
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e002484d1b974430800000000000000
+      internalID: 3767150163387351269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Husk Sentry - atlas0 #089005_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1040
+        width: 139
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f54ccfc60455be560800000000000000
+      internalID: 7344057352552498271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Husk Sentry - atlas0 #089005_22
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 942
+        width: 160
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0921657b7260ce60800000000000000
+      internalID: 7980486822090320139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Husk Sentry - atlas0 #089005_23
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 1088
+        width: 221
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed222c12cbaa22650800000000000000
+      internalID: 6206710961466909406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Husk Sentry - atlas0 #089005_24
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 745
+        width: 313
+        height: 478
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b63bf7a9038b781a0800000000000000
+      internalID: -6807269792857214101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Husk Sentry - atlas0 #089005_25
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 1035
+        width: 117
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6deee856d019b8ac0800000000000000
+      internalID: -3851825569560858922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Husk Sentry - atlas0 #089005_26
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 994
+        width: 133
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a39142f13895f5d50800000000000000
+      internalID: 6728194788012857658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Husk Sentry - atlas0 #089005_27
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 1041
+        width: 121
+        height: 229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b9609008f1b13480800000000000000
+      internalID: -8921153708124771919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Husk Sentry - atlas0 #089005_28
+      rect:
+        serializedVersion: 2
+        x: 1052
+        y: 1065
+        width: 175
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 288bbc5c5d03a05d0800000000000000
+      internalID: -3095608099159164798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Husk Sentry - atlas0 #089005_29
+      rect:
+        serializedVersion: 2
+        x: 1249
+        y: 1045
+        width: 182
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9787ba709404688e0800000000000000
+      internalID: -1691593927625574279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Husk Sentry - atlas0 #089005_30
+      rect:
+        serializedVersion: 2
+        x: 1787
+        y: 922
+        width: 201
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de1e07c82ccbd5780800000000000000
+      internalID: -8692584161989303827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Husk Sentry - atlas0 #089005_31
+      rect:
+        serializedVersion: 2
+        x: 1057
+        y: 921
+        width: 194
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c7cca6eb97f8b820800000000000000
+      internalID: 2934367406193952707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Husk Sentry - atlas0 #089005_32
+      rect:
+        serializedVersion: 2
+        x: 1099
+        y: 1060
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19d4fa0878cd9cf40800000000000000
+      internalID: 5749368873852816785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Husk Sentry - atlas0 #089005_33
+      rect:
+        serializedVersion: 2
+        x: 1127
+        y: 1060
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa16d286e884c92b0800000000000000
+      internalID: -5576502462121156177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Husk Sentry - atlas0 #089005_34
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 966
+        width: 212
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8f1dd3c9955116a0800000000000000
+      internalID: -6480304269905027186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Husk Sentry - atlas0 #089005_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 838
+        width: 157
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bedcb3d39eb8b600800000000000000
+      internalID: 484346502064168625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Husk Sentry - atlas0 #089005_36
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 585
+        width: 118
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2352fe15ac2a65ec0800000000000000
+      internalID: -3578493864057559758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Husk Sentry - atlas0 #089005_37
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 824
+        width: 134
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 039be558a0b0755d0800000000000000
+      internalID: -3073976080841918160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Husk Sentry - atlas0 #089005_38
+      rect:
+        serializedVersion: 2
+        x: 1323
+        y: 1037
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01d1072582c7d1b00800000000000000
+      internalID: 800932821365431568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Husk Sentry - atlas0 #089005_39
+      rect:
+        serializedVersion: 2
+        x: 1330
+        y: 874
+        width: 181
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a6d601d3e3fc04c0800000000000000
+      internalID: -4319809782765136220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Husk Sentry - atlas0 #089005_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 640
+        width: 161
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d6c9ef6868214f80800000000000000
+      internalID: -8124167823780362542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Husk Sentry - atlas0 #089005_41
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 769
+        width: 195
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f8bf6b0cd436ad20800000000000000
+      internalID: 3289374697530046709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Husk Sentry - atlas0 #089005_42
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 771
+        width: 118
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cb0c4e62abe055d0800000000000000
+      internalID: -3075699462626341948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Husk Sentry - atlas0 #089005_43
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 775
+        width: 137
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce389155a4fbb8020800000000000000
+      internalID: 2345178356952695788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Husk Sentry - atlas0 #089005_44
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 611
+        width: 144
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 976ece3efa3114490800000000000000
+      internalID: -7763902636445866375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Husk Sentry - atlas0 #089005_45
+      rect:
+        serializedVersion: 2
+        x: 1111
+        y: 789
+        width: 221
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33fd195bd900b51c0800000000000000
+      internalID: -4514013524152688845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Husk Sentry - atlas0 #089005_46
+      rect:
+        serializedVersion: 2
+        x: 1167
+        y: 599
+        width: 197
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8aceaf272059d3d60800000000000000
+      internalID: 7871611561465015464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Husk Sentry - atlas0 #089005_47
+      rect:
+        serializedVersion: 2
+        x: 1362
+        y: 701
+        width: 215
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8845d367d88e30e30800000000000000
+      internalID: 4468670949553427592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Husk Sentry - atlas0 #089005_48
+      rect:
+        serializedVersion: 2
+        x: 1444
+        y: 409
+        width: 369
+        height: 382
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4f4115ca4e9c80c0800000000000000
+      internalID: -4572105477716881587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Husk Sentry - atlas0 #089005_49
+      rect:
+        serializedVersion: 2
+        x: 1575
+        y: 788
+        width: 214
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bfb3fecd4a8c9030800000000000000
+      internalID: 3502826676976598968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Husk Sentry - atlas0 #089005_50
+      rect:
+        serializedVersion: 2
+        x: 1811
+        y: 667
+        width: 176
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e0ea419df64b5100800000000000000
+      internalID: 97749871796871399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Husk Sentry - atlas0 #089005_51
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 385
+        width: 153
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e76b446902eb2b210800000000000000
+      internalID: 1347348285706516094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Husk Sentry - atlas0 #089005_52
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 596
+        width: 202
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 430cefaf51c970910800000000000000
+      internalID: 1803581794004418612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Husk Sentry - atlas0 #089005_53
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 567
+        width: 204
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e06fd49add22676f0800000000000000
+      internalID: -687323557703846386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Husk Sentry - atlas0 #089005_54
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 570
+        width: 108
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd8b3351218481e10800000000000000
+      internalID: 2168562463081216219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Husk Sentry - atlas0 #089005_55
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 604
+        width: 181
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7cfe78ce149153e0800000000000000
+      internalID: -2066707894052651910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Husk Sentry - atlas0 #089005_56
+      rect:
+        serializedVersion: 2
+        x: 1429
+        y: 640
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83cdf9a2d852ae8e0800000000000000
+      internalID: -1663475824124240840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Husk Sentry - atlas0 #089005_57
+      rect:
+        serializedVersion: 2
+        x: 1896
+        y: 463
+        width: 148
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa664a259064813b0800000000000000
+      internalID: -5541602335624239446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Husk Sentry - atlas0 #089005_58
+      rect:
+        serializedVersion: 2
+        x: 1433
+        y: 624
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d13f489ac02a9570800000000000000
+      internalID: 8474121703361819093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Husk Sentry - atlas0 #089005_59
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 559
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8a06cd5bc04bc9b0800000000000000
+      internalID: -5058878514224821617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Husk Sentry - atlas0 #089005_60
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 418
+        width: 204
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc2e5909bfb05d810800000000000000
+      internalID: 1789349602040079051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Husk Sentry - atlas0 #089005_61
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 376
+        width: 224
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5dce3ceb0504eb20800000000000000
+      internalID: 3162658387087248733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Husk Sentry - atlas0 #089005_62
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 567
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b237d0003f1512680800000000000000
+      internalID: -8781647694275972309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Husk Sentry - atlas0 #089005_63
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 376
+        width: 107
+        height: 211
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f9564700cb6810e0800000000000000
+      internalID: -2298969137272694282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Husk Sentry - atlas0 #089005_64
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 425
+        width: 209
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 904bc34c25689ed80800000000000000
+      internalID: -8220891954750376951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Husk Sentry - atlas0 #089005_65
+      rect:
+        serializedVersion: 2
+        x: 997
+        y: 418
+        width: 172
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d248b5316e987ae70800000000000000
+      internalID: 9126414791149847597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Husk Sentry - atlas0 #089005_66
+      rect:
+        serializedVersion: 2
+        x: 1168
+        y: 399
+        width: 263
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e282712bfe43c3f70800000000000000
+      internalID: 9168261145509177390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Husk Sentry - atlas0 #089005_67
+      rect:
+        serializedVersion: 2
+        x: 1607
+        y: 425
+        width: 291
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28fd24ed327e75920800000000000000
+      internalID: 2979103819767668610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Husk Sentry - atlas0 #089005_68
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 542
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1379ecb1a6201420800000000000000
+      internalID: 2598619461093782299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Husk Sentry - atlas0 #089005_69
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 211
+        width: 212
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 802471fd8b77c2980800000000000000
+      internalID: -8562337155637624312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Husk Sentry - atlas0 #089005_70
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 196
+        width: 243
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee6f3b1dc25f94a80800000000000000
+      internalID: -8481978850330020114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Husk Sentry - atlas0 #089005_71
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 413
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1547e5e45c920dc0800000000000000
+      internalID: -3674202457532578534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Husk Sentry - atlas0 #089005_72
+      rect:
+        serializedVersion: 2
+        x: 1031
+        y: 196
+        width: 139
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8934f8bf63d06ea0800000000000000
+      internalID: -5881468636548023922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Husk Sentry - atlas0 #089005_73
+      rect:
+        serializedVersion: 2
+        x: 1819
+        y: 414
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c3a34c876f0c78d0800000000000000
+      internalID: -2847383926995704888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Husk Sentry - atlas0 #089005_74
+      rect:
+        serializedVersion: 2
+        x: 1835
+        y: 407
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4058f32a02cb9a60800000000000000
+      internalID: 7681946938219450442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Husk Sentry - atlas0 #089005_75
+      rect:
+        serializedVersion: 2
+        x: 1893
+        y: 238
+        width: 143
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb8ef68ff1318bc40800000000000000
+      internalID: 5528189570630281404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Husk Sentry - atlas0 #089005_76
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 201
+        width: 253
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3839d7eb2b4a41b30800000000000000
+      internalID: 4257208635378996099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Husk Sentry - atlas0 #089005_77
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 398
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d8a47770ec7c6630800000000000000
+      internalID: 3921646679051512017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Husk Sentry - atlas0 #089005_78
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 0
+        width: 396
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 249be0bbe76f06b60800000000000000
+      internalID: 7737455183987128642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Husk Sentry - atlas0 #089005_79
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 201
+        width: 256
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4fbc6f8c58527390800000000000000
+      internalID: -7822092448222625969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Husk Sentry - atlas0 #089005_80
+      rect:
+        serializedVersion: 2
+        x: 1186
+        y: 190
+        width: 283
+        height: 211
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e54f8e0423d21fe0800000000000000
+      internalID: -1219680397247429147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Husk Sentry - atlas0 #089005_81
+      rect:
+        serializedVersion: 2
+        x: 1467
+        y: 181
+        width: 143
+        height: 229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3905330ebe3f5470800000000000000
+      internalID: 8385490017005668671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Husk Sentry - atlas0 #089005_82
+      rect:
+        serializedVersion: 2
+        x: 1608
+        y: 204
+        width: 287
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0156543558dbdfd60800000000000000
+      internalID: 7925699299567297808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Husk Sentry - atlas0 #089005_83
+      rect:
+        serializedVersion: 2
+        x: 1611
+        y: 0
+        width: 359
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72507130526849610800000000000000
+      internalID: 1627072858911343911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Husk Sentry - atlas0 #089005_84
+      rect:
+        serializedVersion: 2
+        x: 1965
+        y: 147
+        width: 36
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caaa3a2f73c775700800000000000000
+      internalID: 529028060975180460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Husk Sentry - atlas0 #089005_85
+      rect:
+        serializedVersion: 2
+        x: 1999
+        y: 147
+        width: 35
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2dc6b355d561e7d0800000000000000
+      internalID: -2890917518888219350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Husk Sentry - atlas0 #089005_86
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 0
+        width: 398
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0869bab0a57ec000800000000000000
+      internalID: 58113178390325259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Husk Sentry - atlas0 #089005_87
+      rect:
+        serializedVersion: 2
+        x: 1186
+        y: 7
+        width: 372
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cdee777f270b9470800000000000000
+      internalID: 8402317430239456707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Husk Sentry - atlas0 #089005_88
+      rect:
+        serializedVersion: 2
+        x: 1430
+        y: 181
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3a61bea599d4f950800000000000000
+      internalID: 6482045000597203516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Husk Sentry - atlas0 #089005_89
+      rect:
+        serializedVersion: 2
+        x: 1965
+        y: 56
+        width: 36
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1a29e179c9606410800000000000000
+      internalID: 1468289792443230751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Husk Sentry - atlas0 #089005_90
+      rect:
+        serializedVersion: 2
+        x: 1978
+        y: 9
+        width: 70
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2df1d1a083ee74b70800000000000000
+      internalID: 8883330714466852818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Husk Sentry - atlas0 #089005_91
+      rect:
+        serializedVersion: 2
+        x: 1481
+        y: 0
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a3c60d6e90fc29c0800000000000000
+      internalID: -3950518209886108768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Husk Sentry - atlas0 #089005_92
+      rect:
+        serializedVersion: 2
+        x: 1965
+        y: 0
+        width: 62
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 201a44d2c1a811d20800000000000000
+      internalID: 3247528659934028034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Husk Sentry - atlas0 #089005_0: 8111388810759844606
+      Husk Sentry - atlas0 #089005_1: -3527915323392017397
+      Husk Sentry - atlas0 #089005_10: -7892309364766820687
+      Husk Sentry - atlas0 #089005_11: -1885742928635835496
+      Husk Sentry - atlas0 #089005_12: 4265123709268535984
+      Husk Sentry - atlas0 #089005_13: -2567546637160210735
+      Husk Sentry - atlas0 #089005_14: 7926847061830262048
+      Husk Sentry - atlas0 #089005_15: -6562372669542315605
+      Husk Sentry - atlas0 #089005_16: 7051537767305083808
+      Husk Sentry - atlas0 #089005_17: 5983729551694877527
+      Husk Sentry - atlas0 #089005_18: -7903971445371413101
+      Husk Sentry - atlas0 #089005_19: -5187780303917557471
+      Husk Sentry - atlas0 #089005_2: -4753796754160240563
+      Husk Sentry - atlas0 #089005_20: 3767150163387351269
+      Husk Sentry - atlas0 #089005_21: 7344057352552498271
+      Husk Sentry - atlas0 #089005_22: 7980486822090320139
+      Husk Sentry - atlas0 #089005_23: 6206710961466909406
+      Husk Sentry - atlas0 #089005_24: -6807269792857214101
+      Husk Sentry - atlas0 #089005_25: -3851825569560858922
+      Husk Sentry - atlas0 #089005_26: 6728194788012857658
+      Husk Sentry - atlas0 #089005_27: -8921153708124771919
+      Husk Sentry - atlas0 #089005_28: -3095608099159164798
+      Husk Sentry - atlas0 #089005_29: -1691593927625574279
+      Husk Sentry - atlas0 #089005_3: -5592148220915383781
+      Husk Sentry - atlas0 #089005_30: -8692584161989303827
+      Husk Sentry - atlas0 #089005_31: 2934367406193952707
+      Husk Sentry - atlas0 #089005_32: 5749368873852816785
+      Husk Sentry - atlas0 #089005_33: -5576502462121156177
+      Husk Sentry - atlas0 #089005_34: -6480304269905027186
+      Husk Sentry - atlas0 #089005_35: 484346502064168625
+      Husk Sentry - atlas0 #089005_36: -3578493864057559758
+      Husk Sentry - atlas0 #089005_37: -3073976080841918160
+      Husk Sentry - atlas0 #089005_38: 800932821365431568
+      Husk Sentry - atlas0 #089005_39: -4319809782765136220
+      Husk Sentry - atlas0 #089005_4: -6773772310428542089
+      Husk Sentry - atlas0 #089005_40: -8124167823780362542
+      Husk Sentry - atlas0 #089005_41: 3289374697530046709
+      Husk Sentry - atlas0 #089005_42: -3075699462626341948
+      Husk Sentry - atlas0 #089005_43: 2345178356952695788
+      Husk Sentry - atlas0 #089005_44: -7763902636445866375
+      Husk Sentry - atlas0 #089005_45: -4514013524152688845
+      Husk Sentry - atlas0 #089005_46: 7871611561465015464
+      Husk Sentry - atlas0 #089005_47: 4468670949553427592
+      Husk Sentry - atlas0 #089005_48: -4572105477716881587
+      Husk Sentry - atlas0 #089005_49: 3502826676976598968
+      Husk Sentry - atlas0 #089005_5: -4707101349607466786
+      Husk Sentry - atlas0 #089005_50: 97749871796871399
+      Husk Sentry - atlas0 #089005_51: 1347348285706516094
+      Husk Sentry - atlas0 #089005_52: 1803581794004418612
+      Husk Sentry - atlas0 #089005_53: -687323557703846386
+      Husk Sentry - atlas0 #089005_54: 2168562463081216219
+      Husk Sentry - atlas0 #089005_55: -2066707894052651910
+      Husk Sentry - atlas0 #089005_56: -1663475824124240840
+      Husk Sentry - atlas0 #089005_57: -5541602335624239446
+      Husk Sentry - atlas0 #089005_58: 8474121703361819093
+      Husk Sentry - atlas0 #089005_59: -5058878514224821617
+      Husk Sentry - atlas0 #089005_6: -7321418424436840293
+      Husk Sentry - atlas0 #089005_60: 1789349602040079051
+      Husk Sentry - atlas0 #089005_61: 3162658387087248733
+      Husk Sentry - atlas0 #089005_62: -8781647694275972309
+      Husk Sentry - atlas0 #089005_63: -2298969137272694282
+      Husk Sentry - atlas0 #089005_64: -8220891954750376951
+      Husk Sentry - atlas0 #089005_65: 9126414791149847597
+      Husk Sentry - atlas0 #089005_66: 9168261145509177390
+      Husk Sentry - atlas0 #089005_67: 2979103819767668610
+      Husk Sentry - atlas0 #089005_68: 2598619461093782299
+      Husk Sentry - atlas0 #089005_69: -8562337155637624312
+      Husk Sentry - atlas0 #089005_7: -1793863088197694404
+      Husk Sentry - atlas0 #089005_70: -8481978850330020114
+      Husk Sentry - atlas0 #089005_71: -3674202457532578534
+      Husk Sentry - atlas0 #089005_72: -5881468636548023922
+      Husk Sentry - atlas0 #089005_73: -2847383926995704888
+      Husk Sentry - atlas0 #089005_74: 7681946938219450442
+      Husk Sentry - atlas0 #089005_75: 5528189570630281404
+      Husk Sentry - atlas0 #089005_76: 4257208635378996099
+      Husk Sentry - atlas0 #089005_77: 3921646679051512017
+      Husk Sentry - atlas0 #089005_78: 7737455183987128642
+      Husk Sentry - atlas0 #089005_79: -7822092448222625969
+      Husk Sentry - atlas0 #089005_8: 1651530416785755778
+      Husk Sentry - atlas0 #089005_80: -1219680397247429147
+      Husk Sentry - atlas0 #089005_81: 8385490017005668671
+      Husk Sentry - atlas0 #089005_82: 7925699299567297808
+      Husk Sentry - atlas0 #089005_83: 1627072858911343911
+      Husk Sentry - atlas0 #089005_84: 529028060975180460
+      Husk Sentry - atlas0 #089005_85: -2890917518888219350
+      Husk Sentry - atlas0 #089005_86: 58113178390325259
+      Husk Sentry - atlas0 #089005_87: 8402317430239456707
+      Husk Sentry - atlas0 #089005_88: 6482045000597203516
+      Husk Sentry - atlas0 #089005_89: 1468289792443230751
+      Husk Sentry - atlas0 #089005_9: 797381528666672998
+      Husk Sentry - atlas0 #089005_90: 8883330714466852818
+      Husk Sentry - atlas0 #089005_91: -3950518209886108768
+      Husk Sentry - atlas0 #089005_92: 3247528659934028034
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

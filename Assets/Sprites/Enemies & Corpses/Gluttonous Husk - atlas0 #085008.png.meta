@@ -1,0 +1,832 @@
+fileFormatVersion: 2
+guid: ffbefe2261b2fec418f18399afa552ad
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -218373789283191838
+    second: Gluttonous Husk - atlas0 #085008_0
+  - first:
+      213: 5391624319965715867
+    second: Gluttonous Husk - atlas0 #085008_1
+  - first:
+      213: -9110523220168470351
+    second: Gluttonous Husk - atlas0 #085008_2
+  - first:
+      213: 3063098414467545990
+    second: Gluttonous Husk - atlas0 #085008_3
+  - first:
+      213: -3983097223857742217
+    second: Gluttonous Husk - atlas0 #085008_4
+  - first:
+      213: -6822070666056738995
+    second: Gluttonous Husk - atlas0 #085008_5
+  - first:
+      213: 3326282589324460871
+    second: Gluttonous Husk - atlas0 #085008_6
+  - first:
+      213: 5507081799023405824
+    second: Gluttonous Husk - atlas0 #085008_7
+  - first:
+      213: 4955688562202088562
+    second: Gluttonous Husk - atlas0 #085008_8
+  - first:
+      213: -6234175061394472815
+    second: Gluttonous Husk - atlas0 #085008_9
+  - first:
+      213: 2645177020482456671
+    second: Gluttonous Husk - atlas0 #085008_10
+  - first:
+      213: -5370796113133721239
+    second: Gluttonous Husk - atlas0 #085008_11
+  - first:
+      213: 7438909945653648129
+    second: Gluttonous Husk - atlas0 #085008_12
+  - first:
+      213: 5048925943118753327
+    second: Gluttonous Husk - atlas0 #085008_13
+  - first:
+      213: 3634349040873827269
+    second: Gluttonous Husk - atlas0 #085008_14
+  - first:
+      213: 1741238994738337116
+    second: Gluttonous Husk - atlas0 #085008_15
+  - first:
+      213: 8097797395532678546
+    second: Gluttonous Husk - atlas0 #085008_16
+  - first:
+      213: -4700273787600569247
+    second: Gluttonous Husk - atlas0 #085008_17
+  - first:
+      213: 1937894379199423052
+    second: Gluttonous Husk - atlas0 #085008_18
+  - first:
+      213: -7763458591070226905
+    second: Gluttonous Husk - atlas0 #085008_19
+  - first:
+      213: -7268500550552544078
+    second: Gluttonous Husk - atlas0 #085008_20
+  - first:
+      213: -1488637332183497500
+    second: Gluttonous Husk - atlas0 #085008_21
+  - first:
+      213: -7843774628343697165
+    second: Gluttonous Husk - atlas0 #085008_22
+  - first:
+      213: -3057682304428543658
+    second: Gluttonous Husk - atlas0 #085008_23
+  - first:
+      213: -1869415123813851367
+    second: Gluttonous Husk - atlas0 #085008_24
+  - first:
+      213: -6365914459394381871
+    second: Gluttonous Husk - atlas0 #085008_25
+  - first:
+      213: 6824999889411265691
+    second: Gluttonous Husk - atlas0 #085008_26
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Gluttonous Husk - atlas0 #085008_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 972
+        width: 271
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e3f485123e28fcf0800000000000000
+      internalID: -218373789283191838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gluttonous Husk - atlas0 #085008_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1030
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9dd9e1c0c5e2da40800000000000000
+      internalID: 5391624319965715867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gluttonous Husk - atlas0 #085008_2
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 934
+        width: 120
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b019ef966be09180800000000000000
+      internalID: -9110523220168470351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gluttonous Husk - atlas0 #085008_3
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 1015
+        width: 141
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68b766a67cf428a20800000000000000
+      internalID: 3063098414467545990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gluttonous Husk - atlas0 #085008_4
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 938
+        width: 171
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77e5d12ad2239b8c0800000000000000
+      internalID: -3983097223857742217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gluttonous Husk - atlas0 #085008_5
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 1011
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d475315cfd22351a0800000000000000
+      internalID: -6822070666056738995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gluttonous Husk - atlas0 #085008_6
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 821
+        width: 130
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 743404f3464592e20800000000000000
+      internalID: 3326282589324460871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gluttonous Husk - atlas0 #085008_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 763
+        width: 130
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00b2fcbe7b51d6c40800000000000000
+      internalID: 5507081799023405824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gluttonous Husk - atlas0 #085008_8
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 785
+        width: 140
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 274958fad7426c440800000000000000
+      internalID: 4955688562202088562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gluttonous Husk - atlas0 #085008_9
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 739
+        width: 142
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 190cbfdcfc2cb79a0800000000000000
+      internalID: -6234175061394472815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gluttonous Husk - atlas0 #085008_10
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 800
+        width: 196
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5c02e14c7e85b420800000000000000
+      internalID: 2645177020482456671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gluttonous Husk - atlas0 #085008_11
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 843
+        width: 177
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 969ad9b04691775b0800000000000000
+      internalID: -5370796113133721239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gluttonous Husk - atlas0 #085008_12
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 705
+        width: 198
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10b5ecabe215c3760800000000000000
+      internalID: 7438909945653648129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gluttonous Husk - atlas0 #085008_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 829
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2ee8d81563611640800000000000000
+      internalID: 5048925943118753327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gluttonous Husk - atlas0 #085008_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 308
+        width: 134
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cbe013723dcf6230800000000000000
+      internalID: 3634349040873827269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gluttonous Husk - atlas0 #085008_15
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 588
+        width: 142
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c55df66e3af1a2810800000000000000
+      internalID: 1741238994738337116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gluttonous Husk - atlas0 #085008_16
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 540
+        width: 141
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2950fc7c3d7216070800000000000000
+      internalID: 8097797395532678546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gluttonous Husk - atlas0 #085008_17
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 0
+        width: 645
+        height: 707
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16cfcfea4e545ceb0800000000000000
+      internalID: -4700273787600569247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gluttonous Husk - atlas0 #085008_18
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 676
+        width: 195
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c426864aba8c4ea10800000000000000
+      internalID: 1937894379199423052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gluttonous Husk - atlas0 #085008_19
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 400
+        width: 341
+        height: 389
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 726fdc24b87a24490800000000000000
+      internalID: -7763458591070226905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gluttonous Husk - atlas0 #085008_20
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 383
+        width: 147
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bc959a6249112b90800000000000000
+      internalID: -7268500550552544078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gluttonous Husk - atlas0 #085008_21
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 397
+        width: 200
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e441d7cb3c475be0800000000000000
+      internalID: -1488637332183497500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gluttonous Husk - atlas0 #085008_22
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 265
+        width: 221
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f03a5b9880552390800000000000000
+      internalID: -7843774628343697165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gluttonous Husk - atlas0 #085008_23
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 154
+        width: 188
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 651f988f42ee095d0800000000000000
+      internalID: -3057682304428543658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gluttonous Husk - atlas0 #085008_24
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 162
+        width: 135
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91f155779d08e06e0800000000000000
+      internalID: -1869415123813851367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gluttonous Husk - atlas0 #085008_25
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 0
+        width: 186
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d76649f68ab7a7a0800000000000000
+      internalID: -6365914459394381871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gluttonous Husk - atlas0 #085008_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 196
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9450703d3547be50800000000000000
+      internalID: 6824999889411265691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Gluttonous Husk - atlas0 #085008_0: -218373789283191838
+      Gluttonous Husk - atlas0 #085008_1: 5391624319965715867
+      Gluttonous Husk - atlas0 #085008_10: 2645177020482456671
+      Gluttonous Husk - atlas0 #085008_11: -5370796113133721239
+      Gluttonous Husk - atlas0 #085008_12: 7438909945653648129
+      Gluttonous Husk - atlas0 #085008_13: 5048925943118753327
+      Gluttonous Husk - atlas0 #085008_14: 3634349040873827269
+      Gluttonous Husk - atlas0 #085008_15: 1741238994738337116
+      Gluttonous Husk - atlas0 #085008_16: 8097797395532678546
+      Gluttonous Husk - atlas0 #085008_17: -4700273787600569247
+      Gluttonous Husk - atlas0 #085008_18: 1937894379199423052
+      Gluttonous Husk - atlas0 #085008_19: -7763458591070226905
+      Gluttonous Husk - atlas0 #085008_2: -9110523220168470351
+      Gluttonous Husk - atlas0 #085008_20: -7268500550552544078
+      Gluttonous Husk - atlas0 #085008_21: -1488637332183497500
+      Gluttonous Husk - atlas0 #085008_22: -7843774628343697165
+      Gluttonous Husk - atlas0 #085008_23: -3057682304428543658
+      Gluttonous Husk - atlas0 #085008_24: -1869415123813851367
+      Gluttonous Husk - atlas0 #085008_25: -6365914459394381871
+      Gluttonous Husk - atlas0 #085008_26: 6824999889411265691
+      Gluttonous Husk - atlas0 #085008_3: 3063098414467545990
+      Gluttonous Husk - atlas0 #085008_4: -3983097223857742217
+      Gluttonous Husk - atlas0 #085008_5: -6822070666056738995
+      Gluttonous Husk - atlas0 #085008_6: 3326282589324460871
+      Gluttonous Husk - atlas0 #085008_7: 5507081799023405824
+      Gluttonous Husk - atlas0 #085008_8: 4955688562202088562
+      Gluttonous Husk - atlas0 #085008_9: -6234175061394472815
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

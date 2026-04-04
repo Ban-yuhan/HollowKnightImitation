@@ -1,0 +1,1222 @@
+fileFormatVersion: 2
+guid: 7c6532c65bf8dfd48a5a1ed19b5c3ab6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3508231907633915651
+    second: Leaping Husk - atlas0 #058005_0
+  - first:
+      213: 8967434523139653914
+    second: Leaping Husk - atlas0 #058005_1
+  - first:
+      213: 6899224898783504637
+    second: Leaping Husk - atlas0 #058005_2
+  - first:
+      213: 3039782059897027067
+    second: Leaping Husk - atlas0 #058005_3
+  - first:
+      213: -3656124520689311040
+    second: Leaping Husk - atlas0 #058005_4
+  - first:
+      213: -2010529494951346434
+    second: Leaping Husk - atlas0 #058005_5
+  - first:
+      213: -4721309238958151003
+    second: Leaping Husk - atlas0 #058005_6
+  - first:
+      213: 5293433653185634593
+    second: Leaping Husk - atlas0 #058005_7
+  - first:
+      213: 3638896386318510526
+    second: Leaping Husk - atlas0 #058005_8
+  - first:
+      213: 925495823412634572
+    second: Leaping Husk - atlas0 #058005_9
+  - first:
+      213: 8990092076317649208
+    second: Leaping Husk - atlas0 #058005_10
+  - first:
+      213: -5760359466671973875
+    second: Leaping Husk - atlas0 #058005_11
+  - first:
+      213: 7387038867224391082
+    second: Leaping Husk - atlas0 #058005_12
+  - first:
+      213: -2658826701637537793
+    second: Leaping Husk - atlas0 #058005_13
+  - first:
+      213: -8453258552713412399
+    second: Leaping Husk - atlas0 #058005_14
+  - first:
+      213: 2974867873090551771
+    second: Leaping Husk - atlas0 #058005_15
+  - first:
+      213: -8050752687404748524
+    second: Leaping Husk - atlas0 #058005_16
+  - first:
+      213: 3325469295233195374
+    second: Leaping Husk - atlas0 #058005_17
+  - first:
+      213: -8303139781670568430
+    second: Leaping Husk - atlas0 #058005_18
+  - first:
+      213: 1957675445384502833
+    second: Leaping Husk - atlas0 #058005_19
+  - first:
+      213: 3250922092026072154
+    second: Leaping Husk - atlas0 #058005_20
+  - first:
+      213: 6117456376845834371
+    second: Leaping Husk - atlas0 #058005_21
+  - first:
+      213: 1309130129600696316
+    second: Leaping Husk - atlas0 #058005_22
+  - first:
+      213: -8364159247559928596
+    second: Leaping Husk - atlas0 #058005_23
+  - first:
+      213: -3184621039762947826
+    second: Leaping Husk - atlas0 #058005_24
+  - first:
+      213: -3833942706886930875
+    second: Leaping Husk - atlas0 #058005_25
+  - first:
+      213: -6860488103569692192
+    second: Leaping Husk - atlas0 #058005_26
+  - first:
+      213: 499319101661122442
+    second: Leaping Husk - atlas0 #058005_27
+  - first:
+      213: 8633416248631224064
+    second: Leaping Husk - atlas0 #058005_28
+  - first:
+      213: -334682923230453
+    second: Leaping Husk - atlas0 #058005_29
+  - first:
+      213: 5423144940880129646
+    second: Leaping Husk - atlas0 #058005_30
+  - first:
+      213: 1281252683376469131
+    second: Leaping Husk - atlas0 #058005_31
+  - first:
+      213: -1526773967396969549
+    second: Leaping Husk - atlas0 #058005_32
+  - first:
+      213: -4708617696006686100
+    second: Leaping Husk - atlas0 #058005_33
+  - first:
+      213: -5477247900007726326
+    second: Leaping Husk - atlas0 #058005_34
+  - first:
+      213: 4266083347884871309
+    second: Leaping Husk - atlas0 #058005_35
+  - first:
+      213: 4560346310392296542
+    second: Leaping Husk - atlas0 #058005_36
+  - first:
+      213: 3311642891416654025
+    second: Leaping Husk - atlas0 #058005_37
+  - first:
+      213: 2430731706002392971
+    second: Leaping Husk - atlas0 #058005_38
+  - first:
+      213: 2587380609076659614
+    second: Leaping Husk - atlas0 #058005_39
+  - first:
+      213: -470750652479416105
+    second: Leaping Husk - atlas0 #058005_40
+  - first:
+      213: -2708638600656072154
+    second: Leaping Husk - atlas0 #058005_41
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Leaping Husk - atlas0 #058005_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 591
+        width: 142
+        height: 386
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 307e534255ebfa030800000000000000
+      internalID: 3508231907633915651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaping Husk - atlas0 #058005_1
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 774
+        width: 125
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a114052ff2ab27c70800000000000000
+      internalID: 8967434523139653914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaping Husk - atlas0 #058005_2
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 921
+        width: 194
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df86585ed78febf50800000000000000
+      internalID: 6899224898783504637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaping Husk - atlas0 #058005_3
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 730
+        width: 105
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf974c29da97f2a20800000000000000
+      internalID: 3039782059897027067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaping Husk - atlas0 #058005_4
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 604
+        width: 174
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c2e7b19e16d24dc0800000000000000
+      internalID: -3656124520689311040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaping Husk - atlas0 #058005_5
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 581
+        width: 214
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efebafa931a2914e0800000000000000
+      internalID: -2010529494951346434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaping Husk - atlas0 #058005_6
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 673
+        width: 93
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5aa2121034a8a7eb0800000000000000
+      internalID: -4721309238958151003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaping Husk - atlas0 #058005_7
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 581
+        width: 133
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1216a3c9cdd067940800000000000000
+      internalID: 5293433653185634593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaping Husk - atlas0 #058005_8
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 663
+        width: 129
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb9a7f0dbf4ff7230800000000000000
+      internalID: 3638896386318510526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaping Husk - atlas0 #058005_9
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 536
+        width: 145
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc32e934c8508dc00800000000000000
+      internalID: 925495823412634572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaping Husk - atlas0 #058005_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 403
+        width: 103
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 839a7f2ac1933cc70800000000000000
+      internalID: 8990092076317649208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaping Husk - atlas0 #058005_11
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 402
+        width: 117
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0a5572b5971f00b0800000000000000
+      internalID: -5760359466671973875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaping Husk - atlas0 #058005_12
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 402
+        width: 122
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aade9e626b8048660800000000000000
+      internalID: 7387038867224391082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaping Husk - atlas0 #058005_13
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 497
+        width: 196
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fff2291b333f91bd0800000000000000
+      internalID: -2658826701637537793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaping Husk - atlas0 #058005_14
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 351
+        width: 88
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d00cf2322effaa80800000000000000
+      internalID: -8453258552713412399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaping Husk - atlas0 #058005_15
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 457
+        width: 102
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdfb84da19ad84920800000000000000
+      internalID: 2974867873090551771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaping Husk - atlas0 #058005_16
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 529
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 411f7b4e51bf54090800000000000000
+      internalID: -8050752687404748524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaping Husk - atlas0 #058005_17
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 463
+        width: 87
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6dd7d574b0762e20800000000000000
+      internalID: 3325469295233195374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaping Husk - atlas0 #058005_18
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 388
+        width: 124
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21e7c194c5255cc80800000000000000
+      internalID: -8303139781670568430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaping Husk - atlas0 #058005_19
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 485
+        width: 6
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13ed5a3027f0b2b10800000000000000
+      internalID: 1957675445384502833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaping Husk - atlas0 #058005_20
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 399
+        width: 201
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5c0fa72b689d1d20800000000000000
+      internalID: 3250922092026072154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaping Husk - atlas0 #058005_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 398
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38818deb92295e450800000000000000
+      internalID: 6117456376845834371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaping Husk - atlas0 #058005_22
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 192
+        width: 117
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cff4c93bae6fa2210800000000000000
+      internalID: 1309130129600696316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaping Husk - atlas0 #058005_23
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 192
+        width: 128
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce45464ca798ceb80800000000000000
+      internalID: -8364159247559928596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaping Husk - atlas0 #058005_24
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 322
+        width: 214
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e01c1b48904fdc3d0800000000000000
+      internalID: -3184621039762947826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaping Husk - atlas0 #058005_25
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 253
+        width: 95
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54e0ec2db691bcac0800000000000000
+      internalID: -3833942706886930875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaping Husk - atlas0 #058005_26
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 302
+        width: 120
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e96fe01b66aac0a0800000000000000
+      internalID: -6860488103569692192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaping Husk - atlas0 #058005_27
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 168
+        width: 352
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8f0414d310fde600800000000000000
+      internalID: 499319101661122442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaping Husk - atlas0 #058005_28
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 262
+        width: 211
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 007efb9165e00d770800000000000000
+      internalID: 8633416248631224064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaping Husk - atlas0 #058005_29
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 92
+        width: 93
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0b9f3f8b9fcefff0800000000000000
+      internalID: -334682923230453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaping Husk - atlas0 #058005_30
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 190
+        width: 99
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6eed963791e24b40800000000000000
+      internalID: 5423144940880129646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaping Husk - atlas0 #058005_31
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 159
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b84ab24f68ce7c110800000000000000
+      internalID: 1281252683376469131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaping Husk - atlas0 #058005_32
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 125
+        width: 119
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b36df47a2fcfcae0800000000000000
+      internalID: -1526773967396969549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaping Husk - atlas0 #058005_33
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 94
+        width: 63
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6a376e1721a7aeb0800000000000000
+      internalID: -4708617696006686100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaping Husk - atlas0 #058005_34
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 0
+        width: 126
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a03094dfd08ecf3b0800000000000000
+      internalID: -5477247900007726326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaping Husk - atlas0 #058005_35
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 158
+        width: 206
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8e03e4c33c243b30800000000000000
+      internalID: 4266083347884871309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaping Husk - atlas0 #058005_36
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 155
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5432bbbeca994f30800000000000000
+      internalID: 4560346310392296542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaping Husk - atlas0 #058005_37
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 0
+        width: 103
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c056d5f9a155fd20800000000000000
+      internalID: 3311642891416654025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaping Husk - atlas0 #058005_38
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 0
+        width: 212
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b874d88ab91bbb120800000000000000
+      internalID: 2430731706002392971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaping Husk - atlas0 #058005_39
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 0
+        width: 211
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e958fb694f838e320800000000000000
+      internalID: 2587380609076659614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaping Husk - atlas0 #058005_40
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 0
+        width: 210
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d85e2596ce8779f0800000000000000
+      internalID: -470750652479416105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaping Husk - atlas0 #058005_41
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 87
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 622dbfe2b8bf86ad0800000000000000
+      internalID: -2708638600656072154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Leaping Husk - atlas0 #058005_0: 3508231907633915651
+      Leaping Husk - atlas0 #058005_1: 8967434523139653914
+      Leaping Husk - atlas0 #058005_10: 8990092076317649208
+      Leaping Husk - atlas0 #058005_11: -5760359466671973875
+      Leaping Husk - atlas0 #058005_12: 7387038867224391082
+      Leaping Husk - atlas0 #058005_13: -2658826701637537793
+      Leaping Husk - atlas0 #058005_14: -8453258552713412399
+      Leaping Husk - atlas0 #058005_15: 2974867873090551771
+      Leaping Husk - atlas0 #058005_16: -8050752687404748524
+      Leaping Husk - atlas0 #058005_17: 3325469295233195374
+      Leaping Husk - atlas0 #058005_18: -8303139781670568430
+      Leaping Husk - atlas0 #058005_19: 1957675445384502833
+      Leaping Husk - atlas0 #058005_2: 6899224898783504637
+      Leaping Husk - atlas0 #058005_20: 3250922092026072154
+      Leaping Husk - atlas0 #058005_21: 6117456376845834371
+      Leaping Husk - atlas0 #058005_22: 1309130129600696316
+      Leaping Husk - atlas0 #058005_23: -8364159247559928596
+      Leaping Husk - atlas0 #058005_24: -3184621039762947826
+      Leaping Husk - atlas0 #058005_25: -3833942706886930875
+      Leaping Husk - atlas0 #058005_26: -6860488103569692192
+      Leaping Husk - atlas0 #058005_27: 499319101661122442
+      Leaping Husk - atlas0 #058005_28: 8633416248631224064
+      Leaping Husk - atlas0 #058005_29: -334682923230453
+      Leaping Husk - atlas0 #058005_3: 3039782059897027067
+      Leaping Husk - atlas0 #058005_30: 5423144940880129646
+      Leaping Husk - atlas0 #058005_31: 1281252683376469131
+      Leaping Husk - atlas0 #058005_32: -1526773967396969549
+      Leaping Husk - atlas0 #058005_33: -4708617696006686100
+      Leaping Husk - atlas0 #058005_34: -5477247900007726326
+      Leaping Husk - atlas0 #058005_35: 4266083347884871309
+      Leaping Husk - atlas0 #058005_36: 4560346310392296542
+      Leaping Husk - atlas0 #058005_37: 3311642891416654025
+      Leaping Husk - atlas0 #058005_38: 2430731706002392971
+      Leaping Husk - atlas0 #058005_39: 2587380609076659614
+      Leaping Husk - atlas0 #058005_4: -3656124520689311040
+      Leaping Husk - atlas0 #058005_40: -470750652479416105
+      Leaping Husk - atlas0 #058005_41: -2708638600656072154
+      Leaping Husk - atlas0 #058005_5: -2010529494951346434
+      Leaping Husk - atlas0 #058005_6: -4721309238958151003
+      Leaping Husk - atlas0 #058005_7: 5293433653185634593
+      Leaping Husk - atlas0 #058005_8: 3638896386318510526
+      Leaping Husk - atlas0 #058005_9: 925495823412634572
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

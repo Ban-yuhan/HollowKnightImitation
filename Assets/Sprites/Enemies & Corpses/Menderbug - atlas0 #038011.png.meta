@@ -1,0 +1,1196 @@
+fileFormatVersion: 2
+guid: 0c86890f728bd1f438506feab7de531a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3012825730812610570
+    second: Menderbug - atlas0 #038011_0
+  - first:
+      213: 2570613683677421835
+    second: Menderbug - atlas0 #038011_1
+  - first:
+      213: -3937113134532797284
+    second: Menderbug - atlas0 #038011_2
+  - first:
+      213: -9054320114801218765
+    second: Menderbug - atlas0 #038011_3
+  - first:
+      213: 7036384029642830481
+    second: Menderbug - atlas0 #038011_4
+  - first:
+      213: -3482365088264878623
+    second: Menderbug - atlas0 #038011_5
+  - first:
+      213: 1618124023738504357
+    second: Menderbug - atlas0 #038011_6
+  - first:
+      213: 4021769885296925904
+    second: Menderbug - atlas0 #038011_7
+  - first:
+      213: 7480894683567555657
+    second: Menderbug - atlas0 #038011_8
+  - first:
+      213: 2113418710647754295
+    second: Menderbug - atlas0 #038011_9
+  - first:
+      213: 9175115014594594983
+    second: Menderbug - atlas0 #038011_10
+  - first:
+      213: -8842636398428487250
+    second: Menderbug - atlas0 #038011_11
+  - first:
+      213: -7628410151517551109
+    second: Menderbug - atlas0 #038011_12
+  - first:
+      213: -1540237531416121283
+    second: Menderbug - atlas0 #038011_13
+  - first:
+      213: 8699813513488884685
+    second: Menderbug - atlas0 #038011_14
+  - first:
+      213: 6678521434519155320
+    second: Menderbug - atlas0 #038011_15
+  - first:
+      213: 2635441582161308324
+    second: Menderbug - atlas0 #038011_16
+  - first:
+      213: -3723176644560080836
+    second: Menderbug - atlas0 #038011_17
+  - first:
+      213: -6497400145472323256
+    second: Menderbug - atlas0 #038011_18
+  - first:
+      213: -8145853360577835336
+    second: Menderbug - atlas0 #038011_19
+  - first:
+      213: -3737770876539050298
+    second: Menderbug - atlas0 #038011_20
+  - first:
+      213: -6884604612091483610
+    second: Menderbug - atlas0 #038011_21
+  - first:
+      213: 4630779808329354514
+    second: Menderbug - atlas0 #038011_22
+  - first:
+      213: 4630409785795559945
+    second: Menderbug - atlas0 #038011_23
+  - first:
+      213: -7878230796304115875
+    second: Menderbug - atlas0 #038011_24
+  - first:
+      213: 4594874365820966742
+    second: Menderbug - atlas0 #038011_25
+  - first:
+      213: -6149760888888624120
+    second: Menderbug - atlas0 #038011_26
+  - first:
+      213: -4385342296374778483
+    second: Menderbug - atlas0 #038011_27
+  - first:
+      213: 1713726560365456351
+    second: Menderbug - atlas0 #038011_28
+  - first:
+      213: 4250177817931182941
+    second: Menderbug - atlas0 #038011_29
+  - first:
+      213: -777720750184684312
+    second: Menderbug - atlas0 #038011_30
+  - first:
+      213: -3728403047640752942
+    second: Menderbug - atlas0 #038011_31
+  - first:
+      213: 4686757985207765151
+    second: Menderbug - atlas0 #038011_32
+  - first:
+      213: -1688541504600463916
+    second: Menderbug - atlas0 #038011_33
+  - first:
+      213: -364356011115119295
+    second: Menderbug - atlas0 #038011_34
+  - first:
+      213: -1330412984429380948
+    second: Menderbug - atlas0 #038011_35
+  - first:
+      213: 5008246562197479262
+    second: Menderbug - atlas0 #038011_36
+  - first:
+      213: 7119219659817947374
+    second: Menderbug - atlas0 #038011_37
+  - first:
+      213: 6968969906999866638
+    second: Menderbug - atlas0 #038011_38
+  - first:
+      213: 3763953691759843559
+    second: Menderbug - atlas0 #038011_39
+  - first:
+      213: 5201628299420891082
+    second: Menderbug - atlas0 #038011_40
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Menderbug - atlas0 #038011_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 447
+        width: 126
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a080e3f1a05bfc920800000000000000
+      internalID: 3012825730812610570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menderbug - atlas0 #038011_1
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 603
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b01e95e8687aca320800000000000000
+      internalID: 2570613683677421835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menderbug - atlas0 #038011_2
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 570
+        width: 139
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9cd5afb6709c59c0800000000000000
+      internalID: -3937113134532797284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menderbug - atlas0 #038011_3
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 451
+        width: 132
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33b6992d3d7985280800000000000000
+      internalID: -9054320114801218765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menderbug - atlas0 #038011_4
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 442
+        width: 184
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 192b71e9ef146a160800000000000000
+      internalID: 7036384029642830481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menderbug - atlas0 #038011_5
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 530
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e500cf07672cafc0800000000000000
+      internalID: -3482365088264878623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menderbug - atlas0 #038011_6
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 376
+        width: 134
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a49575f93bb47610800000000000000
+      internalID: 1618124023738504357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menderbug - atlas0 #038011_7
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 513
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dc9c75076230d730800000000000000
+      internalID: 4021769885296925904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menderbug - atlas0 #038011_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 291
+        width: 157
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9440728441a71d760800000000000000
+      internalID: 7480894683567555657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menderbug - atlas0 #038011_9
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 285
+        width: 304
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73ec2d5be1f545d10800000000000000
+      internalID: 2113418710647754295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menderbug - atlas0 #038011_10
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 436
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a883427e7e845f70800000000000000
+      internalID: 9175115014594594983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menderbug - atlas0 #038011_11
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 383
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea10bb1cb05a84580800000000000000
+      internalID: -8842636398428487250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menderbug - atlas0 #038011_12
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 301
+        width: 144
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf500dd5261722690800000000000000
+      internalID: -7628410151517551109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menderbug - atlas0 #038011_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 150
+        width: 184
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d30b73e202aff9ae0800000000000000
+      internalID: -1540237531416121283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menderbug - atlas0 #038011_14
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 145
+        width: 204
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc3e5a30c42fbb870800000000000000
+      internalID: 8699813513488884685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menderbug - atlas0 #038011_15
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 144
+        width: 142
+        height: 233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 872b8514cdfdeac50800000000000000
+      internalID: 6678521434519155320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menderbug - atlas0 #038011_16
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 167
+        width: 132
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4aaa403e728f29420800000000000000
+      internalID: 2635441582161308324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menderbug - atlas0 #038011_17
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 238
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3037f8619e945cc0800000000000000
+      internalID: -3723176644560080836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menderbug - atlas0 #038011_18
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 179
+        width: 183
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8410d8d0ef894d5a0800000000000000
+      internalID: -6497400145472323256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menderbug - atlas0 #038011_19
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 212
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8be0652f68d14fe80800000000000000
+      internalID: -8145853360577835336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menderbug - atlas0 #038011_20
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 183
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c6e61cf035c02cc0800000000000000
+      internalID: -3737770876539050298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menderbug - atlas0 #038011_21
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 134
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62a654dd498f470a0800000000000000
+      internalID: -6884604612091483610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menderbug - atlas0 #038011_22
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 140
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21dc58463b5d34040800000000000000
+      internalID: 4630779808329354514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menderbug - atlas0 #038011_23
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 144
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90246deca25824040800000000000000
+      internalID: 4630409785795559945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menderbug - atlas0 #038011_24
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 123
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5710c7d4d6eaa290800000000000000
+      internalID: -7878230796304115875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menderbug - atlas0 #038011_25
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 129
+        width: 31
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6579e4a14e544cf30800000000000000
+      internalID: 4594874365820966742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menderbug - atlas0 #038011_26
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 130
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80cf33ced09a7aaa0800000000000000
+      internalID: -6149760888888624120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menderbug - atlas0 #038011_27
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 0
+        width: 189
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d85e51e7a622423c0800000000000000
+      internalID: -4385342296374778483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menderbug - atlas0 #038011_28
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 0
+        width: 123
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdb2cb81a3168c710800000000000000
+      internalID: 1713726560365456351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menderbug - atlas0 #038011_29
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 136
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d53780ef43aabfa30800000000000000
+      internalID: 4250177817931182941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menderbug - atlas0 #038011_30
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 131
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e4aac6291bf435f0800000000000000
+      internalID: -777720750184684312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menderbug - atlas0 #038011_31
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 123
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dc93ed9e2d024cc0800000000000000
+      internalID: -3728403047640752942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menderbug - atlas0 #038011_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 226
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f98c8885e85ba0140800000000000000
+      internalID: 4686757985207765151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menderbug - atlas0 #038011_33
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 129
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d529c5a2781198e0800000000000000
+      internalID: -1688541504600463916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menderbug - atlas0 #038011_34
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 117
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14d74b9632c81faf0800000000000000
+      internalID: -364356011115119295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menderbug - atlas0 #038011_35
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 125
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caaf482807c698de0800000000000000
+      internalID: -1330412984429380948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menderbug - atlas0 #038011_36
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 118
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5f1a57a6bdd08540800000000000000
+      internalID: 5008246562197479262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menderbug - atlas0 #038011_37
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 0
+        width: 224
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee01d65bf8c8cc260800000000000000
+      internalID: 7119219659817947374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menderbug - atlas0 #038011_38
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 118
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e053d1d0531c6b060800000000000000
+      internalID: 6968969906999866638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menderbug - atlas0 #038011_39
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 92
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e89d5cb0ff3c3430800000000000000
+      internalID: 3763953691759843559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menderbug - atlas0 #038011_40
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 0
+        width: 228
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac7f9900165ef2840800000000000000
+      internalID: 5201628299420891082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Menderbug - atlas0 #038011_0: 3012825730812610570
+      Menderbug - atlas0 #038011_1: 2570613683677421835
+      Menderbug - atlas0 #038011_10: 9175115014594594983
+      Menderbug - atlas0 #038011_11: -8842636398428487250
+      Menderbug - atlas0 #038011_12: -7628410151517551109
+      Menderbug - atlas0 #038011_13: -1540237531416121283
+      Menderbug - atlas0 #038011_14: 8699813513488884685
+      Menderbug - atlas0 #038011_15: 6678521434519155320
+      Menderbug - atlas0 #038011_16: 2635441582161308324
+      Menderbug - atlas0 #038011_17: -3723176644560080836
+      Menderbug - atlas0 #038011_18: -6497400145472323256
+      Menderbug - atlas0 #038011_19: -8145853360577835336
+      Menderbug - atlas0 #038011_2: -3937113134532797284
+      Menderbug - atlas0 #038011_20: -3737770876539050298
+      Menderbug - atlas0 #038011_21: -6884604612091483610
+      Menderbug - atlas0 #038011_22: 4630779808329354514
+      Menderbug - atlas0 #038011_23: 4630409785795559945
+      Menderbug - atlas0 #038011_24: -7878230796304115875
+      Menderbug - atlas0 #038011_25: 4594874365820966742
+      Menderbug - atlas0 #038011_26: -6149760888888624120
+      Menderbug - atlas0 #038011_27: -4385342296374778483
+      Menderbug - atlas0 #038011_28: 1713726560365456351
+      Menderbug - atlas0 #038011_29: 4250177817931182941
+      Menderbug - atlas0 #038011_3: -9054320114801218765
+      Menderbug - atlas0 #038011_30: -777720750184684312
+      Menderbug - atlas0 #038011_31: -3728403047640752942
+      Menderbug - atlas0 #038011_32: 4686757985207765151
+      Menderbug - atlas0 #038011_33: -1688541504600463916
+      Menderbug - atlas0 #038011_34: -364356011115119295
+      Menderbug - atlas0 #038011_35: -1330412984429380948
+      Menderbug - atlas0 #038011_36: 5008246562197479262
+      Menderbug - atlas0 #038011_37: 7119219659817947374
+      Menderbug - atlas0 #038011_38: 6968969906999866638
+      Menderbug - atlas0 #038011_39: 3763953691759843559
+      Menderbug - atlas0 #038011_4: 7036384029642830481
+      Menderbug - atlas0 #038011_40: 5201628299420891082
+      Menderbug - atlas0 #038011_5: -3482365088264878623
+      Menderbug - atlas0 #038011_6: 1618124023738504357
+      Menderbug - atlas0 #038011_7: 4021769885296925904
+      Menderbug - atlas0 #038011_8: 7480894683567555657
+      Menderbug - atlas0 #038011_9: 2113418710647754295
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

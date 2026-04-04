@@ -1,0 +1,598 @@
+fileFormatVersion: 2
+guid: fde24f2e9f5ed7343926e49b180b1bdb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6954271721399133514
+    second: Glimback - atlas0 #24909_0
+  - first:
+      213: -5058457881532996522
+    second: Glimback - atlas0 #24909_1
+  - first:
+      213: -4767166927504480557
+    second: Glimback - atlas0 #24909_2
+  - first:
+      213: -4736176047681645901
+    second: Glimback - atlas0 #24909_3
+  - first:
+      213: -5189680856672682386
+    second: Glimback - atlas0 #24909_4
+  - first:
+      213: 7134198496511375835
+    second: Glimback - atlas0 #24909_5
+  - first:
+      213: -4317595743243689620
+    second: Glimback - atlas0 #24909_6
+  - first:
+      213: 5439526443889302024
+    second: Glimback - atlas0 #24909_7
+  - first:
+      213: -170339755097108840
+    second: Glimback - atlas0 #24909_8
+  - first:
+      213: -4776859810371931169
+    second: Glimback - atlas0 #24909_9
+  - first:
+      213: 4288383972631929550
+    second: Glimback - atlas0 #24909_10
+  - first:
+      213: 4450496158089844729
+    second: Glimback - atlas0 #24909_11
+  - first:
+      213: 409402286205893646
+    second: Glimback - atlas0 #24909_12
+  - first:
+      213: 8275662569525663797
+    second: Glimback - atlas0 #24909_13
+  - first:
+      213: -4272514084392146710
+    second: Glimback - atlas0 #24909_14
+  - first:
+      213: 8197679501035548902
+    second: Glimback - atlas0 #24909_15
+  - first:
+      213: 2286517190441636010
+    second: Glimback - atlas0 #24909_16
+  - first:
+      213: 5852555063811838522
+    second: Glimback - atlas0 #24909_17
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Glimback - atlas0 #24909_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 784
+        width: 261
+        height: 457
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a452a890949828060800000000000000
+      internalID: 6954271721399133514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glimback - atlas0 #24909_1
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 1025
+        width: 225
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65463fb8b5fbcc9b0800000000000000
+      internalID: -5058457881532996522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glimback - atlas0 #24909_2
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 778
+        width: 261
+        height: 249
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d6ea1ddfee97ddb0800000000000000
+      internalID: -4767166927504480557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glimback - atlas0 #24909_3
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 990
+        width: 186
+        height: 231
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b2d83c5af8b54eb0800000000000000
+      internalID: -4736176047681645901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glimback - atlas0 #24909_4
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 915
+        width: 225
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6e3168c1cc8af7b0800000000000000
+      internalID: -5189680856672682386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glimback - atlas0 #24909_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 530
+        width: 268
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd9bfa5ebb3c10360800000000000000
+      internalID: 7134198496511375835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glimback - atlas0 #24909_6
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 784
+        width: 220
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c61a8301c81d414c0800000000000000
+      internalID: -4317595743243689620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glimback - atlas0 #24909_7
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 523
+        width: 270
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80a9d5a1b741d7b40800000000000000
+      internalID: 5439526443889302024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glimback - atlas0 #24909_8
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 680
+        width: 203
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89e4f4e25e4d2adf0800000000000000
+      internalID: -170339755097108840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glimback - atlas0 #24909_9
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 533
+        width: 264
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd3f0f4bf4f25bdb0800000000000000
+      internalID: -4776859810371931169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glimback - atlas0 #24909_10
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 530
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec264359086638b30800000000000000
+      internalID: 4288383972631929550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glimback - atlas0 #24909_11
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 224
+        width: 192
+        height: 453
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f79f211da653cd30800000000000000
+      internalID: 4450496158089844729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glimback - atlas0 #24909_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 275
+        height: 532
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0cf88fc53d7ea500800000000000000
+      internalID: 409402286205893646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glimback - atlas0 #24909_13
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 0
+        width: 280
+        height: 532
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 538d299b24f09d270800000000000000
+      internalID: 8275662569525663797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glimback - atlas0 #24909_14
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 260
+        width: 279
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae8e3f5b31bf4b4c0800000000000000
+      internalID: -4272514084392146710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glimback - atlas0 #24909_15
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 0
+        width: 284
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e0b9b1b21204c170800000000000000
+      internalID: 8197679501035548902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glimback - atlas0 #24909_16
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 0
+        width: 182
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa0191d25475bbf10800000000000000
+      internalID: 2286517190441636010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Glimback - atlas0 #24909_17
+      rect:
+        serializedVersion: 2
+        x: 1012
+        y: 94
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a321be682d3783150800000000000000
+      internalID: 5852555063811838522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Glimback - atlas0 #24909_0: 6954271721399133514
+      Glimback - atlas0 #24909_1: -5058457881532996522
+      Glimback - atlas0 #24909_10: 4288383972631929550
+      Glimback - atlas0 #24909_11: 4450496158089844729
+      Glimback - atlas0 #24909_12: 409402286205893646
+      Glimback - atlas0 #24909_13: 8275662569525663797
+      Glimback - atlas0 #24909_14: -4272514084392146710
+      Glimback - atlas0 #24909_15: 8197679501035548902
+      Glimback - atlas0 #24909_16: 2286517190441636010
+      Glimback - atlas0 #24909_17: 5852555063811838522
+      Glimback - atlas0 #24909_2: -4767166927504480557
+      Glimback - atlas0 #24909_3: -4736176047681645901
+      Glimback - atlas0 #24909_4: -5189680856672682386
+      Glimback - atlas0 #24909_5: 7134198496511375835
+      Glimback - atlas0 #24909_6: -4317595743243689620
+      Glimback - atlas0 #24909_7: 5439526443889302024
+      Glimback - atlas0 #24909_8: -170339755097108840
+      Glimback - atlas0 #24909_9: -4776859810371931169
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

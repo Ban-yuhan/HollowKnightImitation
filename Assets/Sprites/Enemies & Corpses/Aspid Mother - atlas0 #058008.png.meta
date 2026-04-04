@@ -1,0 +1,1898 @@
+fileFormatVersion: 2
+guid: 45d003438c14d8344b51617ec213c61d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8962380565432811239
+    second: Aspid Mother - atlas0 #058008_0
+  - first:
+      213: 689885498001747066
+    second: Aspid Mother - atlas0 #058008_1
+  - first:
+      213: -1479962685230839586
+    second: Aspid Mother - atlas0 #058008_2
+  - first:
+      213: 1566279391528497602
+    second: Aspid Mother - atlas0 #058008_3
+  - first:
+      213: -1445114034315577567
+    second: Aspid Mother - atlas0 #058008_4
+  - first:
+      213: 1582224636001579831
+    second: Aspid Mother - atlas0 #058008_5
+  - first:
+      213: -5525374029930161407
+    second: Aspid Mother - atlas0 #058008_6
+  - first:
+      213: -4522456004389023764
+    second: Aspid Mother - atlas0 #058008_7
+  - first:
+      213: 6848994733835859530
+    second: Aspid Mother - atlas0 #058008_8
+  - first:
+      213: 3263358324466239298
+    second: Aspid Mother - atlas0 #058008_9
+  - first:
+      213: 7153545345828714569
+    second: Aspid Mother - atlas0 #058008_10
+  - first:
+      213: -3967842142371702277
+    second: Aspid Mother - atlas0 #058008_11
+  - first:
+      213: -1419615844644052966
+    second: Aspid Mother - atlas0 #058008_12
+  - first:
+      213: -1102005414119553071
+    second: Aspid Mother - atlas0 #058008_13
+  - first:
+      213: -4578477290290855526
+    second: Aspid Mother - atlas0 #058008_14
+  - first:
+      213: 2017383576872854870
+    second: Aspid Mother - atlas0 #058008_15
+  - first:
+      213: -1146578064004498189
+    second: Aspid Mother - atlas0 #058008_16
+  - first:
+      213: 7890891262277467637
+    second: Aspid Mother - atlas0 #058008_17
+  - first:
+      213: -2902528132134621507
+    second: Aspid Mother - atlas0 #058008_18
+  - first:
+      213: 410243463218676173
+    second: Aspid Mother - atlas0 #058008_19
+  - first:
+      213: 6346940847311726864
+    second: Aspid Mother - atlas0 #058008_20
+  - first:
+      213: -7568190099499533303
+    second: Aspid Mother - atlas0 #058008_21
+  - first:
+      213: -1925751388216733605
+    second: Aspid Mother - atlas0 #058008_22
+  - first:
+      213: 1018993283061898729
+    second: Aspid Mother - atlas0 #058008_23
+  - first:
+      213: 3693321547864428607
+    second: Aspid Mother - atlas0 #058008_24
+  - first:
+      213: 5560121863400680409
+    second: Aspid Mother - atlas0 #058008_25
+  - first:
+      213: -3906023447398126976
+    second: Aspid Mother - atlas0 #058008_26
+  - first:
+      213: 1815634407524974875
+    second: Aspid Mother - atlas0 #058008_27
+  - first:
+      213: 5504807902103021538
+    second: Aspid Mother - atlas0 #058008_28
+  - first:
+      213: 7648264068935950465
+    second: Aspid Mother - atlas0 #058008_29
+  - first:
+      213: 981643878806435649
+    second: Aspid Mother - atlas0 #058008_30
+  - first:
+      213: -2236534031290050704
+    second: Aspid Mother - atlas0 #058008_31
+  - first:
+      213: 812603835214448061
+    second: Aspid Mother - atlas0 #058008_32
+  - first:
+      213: -5836449142158220908
+    second: Aspid Mother - atlas0 #058008_33
+  - first:
+      213: 3185092759497566007
+    second: Aspid Mother - atlas0 #058008_34
+  - first:
+      213: -5552395081408681745
+    second: Aspid Mother - atlas0 #058008_35
+  - first:
+      213: 1099057656867546068
+    second: Aspid Mother - atlas0 #058008_36
+  - first:
+      213: 4088494866969343693
+    second: Aspid Mother - atlas0 #058008_37
+  - first:
+      213: -897737193302679079
+    second: Aspid Mother - atlas0 #058008_38
+  - first:
+      213: 6269060373094856250
+    second: Aspid Mother - atlas0 #058008_39
+  - first:
+      213: 3925504301959404392
+    second: Aspid Mother - atlas0 #058008_40
+  - first:
+      213: -5281695304771528571
+    second: Aspid Mother - atlas0 #058008_41
+  - first:
+      213: -8169761073728406505
+    second: Aspid Mother - atlas0 #058008_42
+  - first:
+      213: 4316522720759370906
+    second: Aspid Mother - atlas0 #058008_43
+  - first:
+      213: 3205504755765064288
+    second: Aspid Mother - atlas0 #058008_44
+  - first:
+      213: 5372446242567389530
+    second: Aspid Mother - atlas0 #058008_45
+  - first:
+      213: 6388830798386039541
+    second: Aspid Mother - atlas0 #058008_46
+  - first:
+      213: -3422859928954527093
+    second: Aspid Mother - atlas0 #058008_47
+  - first:
+      213: 2254843114154642722
+    second: Aspid Mother - atlas0 #058008_48
+  - first:
+      213: 2269139186492308340
+    second: Aspid Mother - atlas0 #058008_49
+  - first:
+      213: -8319170926677793787
+    second: Aspid Mother - atlas0 #058008_50
+  - first:
+      213: -652139147607793689
+    second: Aspid Mother - atlas0 #058008_51
+  - first:
+      213: 8494854335730856726
+    second: Aspid Mother - atlas0 #058008_52
+  - first:
+      213: -8118003958048200006
+    second: Aspid Mother - atlas0 #058008_53
+  - first:
+      213: -3586476595551541442
+    second: Aspid Mother - atlas0 #058008_54
+  - first:
+      213: 4041090380957226323
+    second: Aspid Mother - atlas0 #058008_55
+  - first:
+      213: -433209596504376707
+    second: Aspid Mother - atlas0 #058008_56
+  - first:
+      213: -8077450510527166017
+    second: Aspid Mother - atlas0 #058008_57
+  - first:
+      213: -1578715095028268937
+    second: Aspid Mother - atlas0 #058008_58
+  - first:
+      213: -381090810790993583
+    second: Aspid Mother - atlas0 #058008_59
+  - first:
+      213: 8679924245153000049
+    second: Aspid Mother - atlas0 #058008_60
+  - first:
+      213: 8938033364207270292
+    second: Aspid Mother - atlas0 #058008_61
+  - first:
+      213: 6374977538459201655
+    second: Aspid Mother - atlas0 #058008_62
+  - first:
+      213: -4109097624255562866
+    second: Aspid Mother - atlas0 #058008_63
+  - first:
+      213: -1605808528651633534
+    second: Aspid Mother - atlas0 #058008_64
+  - first:
+      213: 1373450801076881137
+    second: Aspid Mother - atlas0 #058008_65
+  - first:
+      213: 2786399417700556956
+    second: Aspid Mother - atlas0 #058008_66
+  - first:
+      213: -6598854807901590104
+    second: Aspid Mother - atlas0 #058008_67
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Aspid Mother - atlas0 #058008_0
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 876
+        width: 145
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91143874c5a3f9380800000000000000
+      internalID: -8962380565432811239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aspid Mother - atlas0 #058008_1
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 867
+        width: 164
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7c661c8437f29900800000000000000
+      internalID: 689885498001747066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aspid Mother - atlas0 #058008_2
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 1014
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed88bf967cd167be0800000000000000
+      internalID: -1479962685230839586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aspid Mother - atlas0 #058008_3
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 879
+        width: 168
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c1321fdeca8cb510800000000000000
+      internalID: 1566279391528497602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aspid Mother - atlas0 #058008_4
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 873
+        width: 165
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12730bc317ce1fbe0800000000000000
+      internalID: -1445114034315577567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aspid Mother - atlas0 #058008_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 763
+        width: 144
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 733feb76ce035f510800000000000000
+      internalID: 1582224636001579831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aspid Mother - atlas0 #058008_6
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 768
+        width: 114
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10b18de289de153b0800000000000000
+      internalID: -5525374029930161407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aspid Mother - atlas0 #058008_7
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 867
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cef4f0a99320d31c0800000000000000
+      internalID: -4522456004389023764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aspid Mother - atlas0 #058008_8
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 861
+        width: 182
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a46bec24c648c0f50800000000000000
+      internalID: 6848994733835859530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aspid Mother - atlas0 #058008_9
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 700
+        width: 136
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 247cf982b17c94d20800000000000000
+      internalID: 3263358324466239298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aspid Mother - atlas0 #058008_10
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 759
+        width: 122
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 948f4c6479f764360800000000000000
+      internalID: 7153545345828714569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aspid Mother - atlas0 #058008_11
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 822
+        width: 57
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf91c1318946fe8c0800000000000000
+      internalID: -3967842142371702277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aspid Mother - atlas0 #058008_12
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 642
+        width: 191
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a10a97629e28c4ce0800000000000000
+      internalID: -1419615844644052966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aspid Mother - atlas0 #058008_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 576
+        width: 162
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d7c8de1ae3e4b0f0800000000000000
+      internalID: -1102005414119553071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aspid Mother - atlas0 #058008_14
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 697
+        width: 72
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a91450c892bf570c0800000000000000
+      internalID: -4578477290290855526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aspid Mother - atlas0 #058008_15
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 694
+        width: 90
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 655a633bcaf2ffb10800000000000000
+      internalID: 2017383576872854870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aspid Mother - atlas0 #058008_16
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 694
+        width: 7
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fcb1cb53598610f0800000000000000
+      internalID: -1146578064004498189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aspid Mother - atlas0 #058008_17
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 710
+        width: 53
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fd38499bc3128d60800000000000000
+      internalID: 7890891262277467637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aspid Mother - atlas0 #058008_18
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 514
+        width: 131
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbea985ca0628b7d0800000000000000
+      internalID: -2902528132134621507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aspid Mother - atlas0 #058008_19
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 647
+        width: 55
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc14398914a71b500800000000000000
+      internalID: 410243463218676173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aspid Mother - atlas0 #058008_20
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 541
+        width: 101
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 019ae66b21dd41850800000000000000
+      internalID: 6346940847311726864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aspid Mother - atlas0 #058008_21
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 623
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90cb3b6d33368f690800000000000000
+      internalID: -7568190099499533303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aspid Mother - atlas0 #058008_22
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 618
+        width: 29
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5050a3c05b5645e0800000000000000
+      internalID: -1925751388216733605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aspid Mother - atlas0 #058008_23
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 581
+        width: 50
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9edd969fdf0342e00800000000000000
+      internalID: 1018993283061898729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aspid Mother - atlas0 #058008_24
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 608
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3051c53160514330800000000000000
+      internalID: 3693321547864428607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aspid Mother - atlas0 #058008_25
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 587
+        width: 29
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9db61ef3065892d40800000000000000
+      internalID: 5560121863400680409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aspid Mother - atlas0 #058008_26
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 529
+        width: 63
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08aec7d9e540bc9c0800000000000000
+      internalID: -3906023447398126976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aspid Mother - atlas0 #058008_27
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 491
+        width: 154
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b11c08ebfdd623910800000000000000
+      internalID: 1815634407524974875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aspid Mother - atlas0 #058008_28
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 557
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e72d990f91056c40800000000000000
+      internalID: 5504807902103021538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aspid Mother - atlas0 #058008_29
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 559
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 180af4106a7142a60800000000000000
+      internalID: 7648264068935950465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aspid Mother - atlas0 #058008_30
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 573
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 147b13428ef7f9d00800000000000000
+      internalID: 981643878806435649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aspid Mother - atlas0 #058008_31
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 514
+        width: 47
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07752e0f52c36f0e0800000000000000
+      internalID: -2236534031290050704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aspid Mother - atlas0 #058008_32
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 548
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db5c31df1e2f64b00800000000000000
+      internalID: 812603835214448061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aspid Mother - atlas0 #058008_33
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 544
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 491a6049d64c00fa0800000000000000
+      internalID: -5836449142158220908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aspid Mother - atlas0 #058008_34
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 556
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 737658a4df8b33c20800000000000000
+      internalID: 3185092759497566007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aspid Mother - atlas0 #058008_35
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 541
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe86200671ee1f2b0800000000000000
+      internalID: -5552395081408681745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aspid Mother - atlas0 #058008_36
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 478
+        width: 46
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d36349ad13a04f00800000000000000
+      internalID: 1099057656867546068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aspid Mother - atlas0 #058008_37
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 463
+        width: 54
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc637b37b604db830800000000000000
+      internalID: 4088494866969343693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aspid Mother - atlas0 #058008_38
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 279
+        width: 249
+        height: 237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d1a98377c89a83f0800000000000000
+      internalID: -897737193302679079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aspid Mother - atlas0 #058008_39
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 300
+        width: 186
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a36fbc5c13d200750800000000000000
+      internalID: 6269060373094856250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aspid Mother - atlas0 #058008_40
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 300
+        width: 159
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86bde8a4d513a7630800000000000000
+      internalID: 3925504301959404392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aspid Mother - atlas0 #058008_41
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 467
+        width: 126
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5889e3b9a16a3b6b0800000000000000
+      internalID: -5281695304771528571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aspid Mother - atlas0 #058008_42
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 416
+        width: 50
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71cba94b69d2f9e80800000000000000
+      internalID: -8169761073728406505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aspid Mother - atlas0 #058008_43
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 282
+        width: 149
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a94d3cb6b8e57eb30800000000000000
+      internalID: 4316522720759370906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aspid Mother - atlas0 #058008_44
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 281
+        width: 50
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 062b335879d3c7c20800000000000000
+      internalID: 3205504755765064288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aspid Mother - atlas0 #058008_45
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 330
+        width: 64
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a518c17a463ce8a40800000000000000
+      internalID: 5372446242567389530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aspid Mother - atlas0 #058008_46
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 166
+        width: 167
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fa00ebf2cfa9a850800000000000000
+      internalID: 6388830798386039541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aspid Mother - atlas0 #058008_47
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 281
+        width: 48
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b822fba970f8f70d0800000000000000
+      internalID: -3422859928954527093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aspid Mother - atlas0 #058008_48
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 157
+        width: 190
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22d4c6b9ddfca4f10800000000000000
+      internalID: 2254843114154642722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aspid Mother - atlas0 #058008_49
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 238
+        width: 44
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47bfac4511a9d7f10800000000000000
+      internalID: 2269139186492308340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aspid Mother - atlas0 #058008_50
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 135
+        width: 133
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 504ec997e1e5c8c80800000000000000
+      internalID: -8319170926677793787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aspid Mother - atlas0 #058008_51
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 124
+        width: 165
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ef16b286e223f6f0800000000000000
+      internalID: -652139147607793689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aspid Mother - atlas0 #058008_52
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 157
+        width: 134
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 613bcebb209c3e570800000000000000
+      internalID: 8494854335730856726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aspid Mother - atlas0 #058008_53
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 160
+        width: 31
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aba6253496e075f80800000000000000
+      internalID: -8118003958048200006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aspid Mother - atlas0 #058008_54
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 226
+        width: 34
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e37e5eec9864a3ec0800000000000000
+      internalID: -3586476595551541442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aspid Mother - atlas0 #058008_55
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 165
+        width: 69
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35514367a46d41830800000000000000
+      internalID: 4041090380957226323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aspid Mother - atlas0 #058008_56
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 97
+        width: 80
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7af01fca2eecf9f0800000000000000
+      internalID: -433209596504376707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aspid Mother - atlas0 #058008_57
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 152
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb90b3d8e8127ef80800000000000000
+      internalID: -8077450510527166017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aspid Mother - atlas0 #058008_58
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 97
+        width: 56
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7700b474cf6471ae0800000000000000
+      internalID: -1578715095028268937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aspid Mother - atlas0 #058008_59
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 33
+        width: 64
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15123ab3de716baf0800000000000000
+      internalID: -381090810790993583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aspid Mother - atlas0 #058008_60
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 0
+        width: 203
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17a25addc19457870800000000000000
+      internalID: 8679924245153000049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aspid Mother - atlas0 #058008_61
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 18
+        width: 150
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 499f9203df54a0c70800000000000000
+      internalID: 8938033364207270292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aspid Mother - atlas0 #058008_62
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 0
+        width: 163
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77074fe8b48787850800000000000000
+      internalID: 6374977538459201655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aspid Mother - atlas0 #058008_63
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 0
+        width: 39
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8b78de4b7d89f6c0800000000000000
+      internalID: -4109097624255562866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aspid Mother - atlas0 #058008_64
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 32
+        width: 63
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28c3d60b6a507b9e0800000000000000
+      internalID: -1605808528651633534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aspid Mother - atlas0 #058008_65
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 76
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f6c9aa0a3a7f0310800000000000000
+      internalID: 1373450801076881137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aspid Mother - atlas0 #058008_66
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 31
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c90a566e1874ba620800000000000000
+      internalID: 2786399417700556956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aspid Mother - atlas0 #058008_67
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 0
+        width: 21
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ada5a2b3882c64a0800000000000000
+      internalID: -6598854807901590104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Aspid Mother - atlas0 #058008_0: -8962380565432811239
+      Aspid Mother - atlas0 #058008_1: 689885498001747066
+      Aspid Mother - atlas0 #058008_10: 7153545345828714569
+      Aspid Mother - atlas0 #058008_11: -3967842142371702277
+      Aspid Mother - atlas0 #058008_12: -1419615844644052966
+      Aspid Mother - atlas0 #058008_13: -1102005414119553071
+      Aspid Mother - atlas0 #058008_14: -4578477290290855526
+      Aspid Mother - atlas0 #058008_15: 2017383576872854870
+      Aspid Mother - atlas0 #058008_16: -1146578064004498189
+      Aspid Mother - atlas0 #058008_17: 7890891262277467637
+      Aspid Mother - atlas0 #058008_18: -2902528132134621507
+      Aspid Mother - atlas0 #058008_19: 410243463218676173
+      Aspid Mother - atlas0 #058008_2: -1479962685230839586
+      Aspid Mother - atlas0 #058008_20: 6346940847311726864
+      Aspid Mother - atlas0 #058008_21: -7568190099499533303
+      Aspid Mother - atlas0 #058008_22: -1925751388216733605
+      Aspid Mother - atlas0 #058008_23: 1018993283061898729
+      Aspid Mother - atlas0 #058008_24: 3693321547864428607
+      Aspid Mother - atlas0 #058008_25: 5560121863400680409
+      Aspid Mother - atlas0 #058008_26: -3906023447398126976
+      Aspid Mother - atlas0 #058008_27: 1815634407524974875
+      Aspid Mother - atlas0 #058008_28: 5504807902103021538
+      Aspid Mother - atlas0 #058008_29: 7648264068935950465
+      Aspid Mother - atlas0 #058008_3: 1566279391528497602
+      Aspid Mother - atlas0 #058008_30: 981643878806435649
+      Aspid Mother - atlas0 #058008_31: -2236534031290050704
+      Aspid Mother - atlas0 #058008_32: 812603835214448061
+      Aspid Mother - atlas0 #058008_33: -5836449142158220908
+      Aspid Mother - atlas0 #058008_34: 3185092759497566007
+      Aspid Mother - atlas0 #058008_35: -5552395081408681745
+      Aspid Mother - atlas0 #058008_36: 1099057656867546068
+      Aspid Mother - atlas0 #058008_37: 4088494866969343693
+      Aspid Mother - atlas0 #058008_38: -897737193302679079
+      Aspid Mother - atlas0 #058008_39: 6269060373094856250
+      Aspid Mother - atlas0 #058008_4: -1445114034315577567
+      Aspid Mother - atlas0 #058008_40: 3925504301959404392
+      Aspid Mother - atlas0 #058008_41: -5281695304771528571
+      Aspid Mother - atlas0 #058008_42: -8169761073728406505
+      Aspid Mother - atlas0 #058008_43: 4316522720759370906
+      Aspid Mother - atlas0 #058008_44: 3205504755765064288
+      Aspid Mother - atlas0 #058008_45: 5372446242567389530
+      Aspid Mother - atlas0 #058008_46: 6388830798386039541
+      Aspid Mother - atlas0 #058008_47: -3422859928954527093
+      Aspid Mother - atlas0 #058008_48: 2254843114154642722
+      Aspid Mother - atlas0 #058008_49: 2269139186492308340
+      Aspid Mother - atlas0 #058008_5: 1582224636001579831
+      Aspid Mother - atlas0 #058008_50: -8319170926677793787
+      Aspid Mother - atlas0 #058008_51: -652139147607793689
+      Aspid Mother - atlas0 #058008_52: 8494854335730856726
+      Aspid Mother - atlas0 #058008_53: -8118003958048200006
+      Aspid Mother - atlas0 #058008_54: -3586476595551541442
+      Aspid Mother - atlas0 #058008_55: 4041090380957226323
+      Aspid Mother - atlas0 #058008_56: -433209596504376707
+      Aspid Mother - atlas0 #058008_57: -8077450510527166017
+      Aspid Mother - atlas0 #058008_58: -1578715095028268937
+      Aspid Mother - atlas0 #058008_59: -381090810790993583
+      Aspid Mother - atlas0 #058008_6: -5525374029930161407
+      Aspid Mother - atlas0 #058008_60: 8679924245153000049
+      Aspid Mother - atlas0 #058008_61: 8938033364207270292
+      Aspid Mother - atlas0 #058008_62: 6374977538459201655
+      Aspid Mother - atlas0 #058008_63: -4109097624255562866
+      Aspid Mother - atlas0 #058008_64: -1605808528651633534
+      Aspid Mother - atlas0 #058008_65: 1373450801076881137
+      Aspid Mother - atlas0 #058008_66: 2786399417700556956
+      Aspid Mother - atlas0 #058008_67: -6598854807901590104
+      Aspid Mother - atlas0 #058008_7: -4522456004389023764
+      Aspid Mother - atlas0 #058008_8: 6848994733835859530
+      Aspid Mother - atlas0 #058008_9: 3263358324466239298
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

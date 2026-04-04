@@ -1,0 +1,1196 @@
+fileFormatVersion: 2
+guid: 9c7ae677d56a4004288f5e4b8b176761
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6451084931668895566
+    second: Grub Mimic - atlas0 #0340012_0
+  - first:
+      213: -8856957955167413908
+    second: Grub Mimic - atlas0 #0340012_1
+  - first:
+      213: 7815744110060397233
+    second: Grub Mimic - atlas0 #0340012_2
+  - first:
+      213: -7032726296881204468
+    second: Grub Mimic - atlas0 #0340012_3
+  - first:
+      213: 3708036694404351847
+    second: Grub Mimic - atlas0 #0340012_4
+  - first:
+      213: 2731152165773196652
+    second: Grub Mimic - atlas0 #0340012_5
+  - first:
+      213: 3793201013665855838
+    second: Grub Mimic - atlas0 #0340012_6
+  - first:
+      213: -6953479186024151322
+    second: Grub Mimic - atlas0 #0340012_7
+  - first:
+      213: 2887103548746243329
+    second: Grub Mimic - atlas0 #0340012_8
+  - first:
+      213: -162299184515161663
+    second: Grub Mimic - atlas0 #0340012_9
+  - first:
+      213: 7158591244888311308
+    second: Grub Mimic - atlas0 #0340012_10
+  - first:
+      213: 3983983909849677195
+    second: Grub Mimic - atlas0 #0340012_11
+  - first:
+      213: -8092247343562142863
+    second: Grub Mimic - atlas0 #0340012_12
+  - first:
+      213: 4961034778713736038
+    second: Grub Mimic - atlas0 #0340012_13
+  - first:
+      213: 2835910109836360640
+    second: Grub Mimic - atlas0 #0340012_14
+  - first:
+      213: 9220546356328460802
+    second: Grub Mimic - atlas0 #0340012_15
+  - first:
+      213: -2043016871881918992
+    second: Grub Mimic - atlas0 #0340012_16
+  - first:
+      213: -5940281248797841893
+    second: Grub Mimic - atlas0 #0340012_17
+  - first:
+      213: -2869211474511576631
+    second: Grub Mimic - atlas0 #0340012_18
+  - first:
+      213: 2916602217604818918
+    second: Grub Mimic - atlas0 #0340012_19
+  - first:
+      213: -4164508315898738975
+    second: Grub Mimic - atlas0 #0340012_20
+  - first:
+      213: 7060020477571857893
+    second: Grub Mimic - atlas0 #0340012_21
+  - first:
+      213: 4382612712131143681
+    second: Grub Mimic - atlas0 #0340012_22
+  - first:
+      213: 2208737782944760268
+    second: Grub Mimic - atlas0 #0340012_23
+  - first:
+      213: -6489321374548749740
+    second: Grub Mimic - atlas0 #0340012_24
+  - first:
+      213: -5814117197453640042
+    second: Grub Mimic - atlas0 #0340012_25
+  - first:
+      213: 1647620013866481729
+    second: Grub Mimic - atlas0 #0340012_26
+  - first:
+      213: -8111237551304298378
+    second: Grub Mimic - atlas0 #0340012_27
+  - first:
+      213: -3613373239770498299
+    second: Grub Mimic - atlas0 #0340012_28
+  - first:
+      213: 606637709417260352
+    second: Grub Mimic - atlas0 #0340012_29
+  - first:
+      213: -299616024376028543
+    second: Grub Mimic - atlas0 #0340012_30
+  - first:
+      213: 7462098982404050447
+    second: Grub Mimic - atlas0 #0340012_31
+  - first:
+      213: 3991149708871252809
+    second: Grub Mimic - atlas0 #0340012_32
+  - first:
+      213: -343719242561786479
+    second: Grub Mimic - atlas0 #0340012_33
+  - first:
+      213: 9148854372700534194
+    second: Grub Mimic - atlas0 #0340012_34
+  - first:
+      213: -8785105820356614027
+    second: Grub Mimic - atlas0 #0340012_35
+  - first:
+      213: 1124878177870066915
+    second: Grub Mimic - atlas0 #0340012_36
+  - first:
+      213: -6487329361952787538
+    second: Grub Mimic - atlas0 #0340012_37
+  - first:
+      213: 4398314257570238233
+    second: Grub Mimic - atlas0 #0340012_38
+  - first:
+      213: -7513622495391587718
+    second: Grub Mimic - atlas0 #0340012_39
+  - first:
+      213: 1419833862845211686
+    second: Grub Mimic - atlas0 #0340012_40
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Grub Mimic - atlas0 #0340012_0
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 1554
+        width: 128
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b810081f642976a0800000000000000
+      internalID: -6451084931668895566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grub Mimic - atlas0 #0340012_1
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 1754
+        width: 74
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c691dab7aa3c51580800000000000000
+      internalID: -8856957955167413908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grub Mimic - atlas0 #0340012_2
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 1659
+        width: 130
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b26087cbd9177c60800000000000000
+      internalID: 7815744110060397233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grub Mimic - atlas0 #0340012_3
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 1471
+        width: 144
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c03f8d7a1bcb66e90800000000000000
+      internalID: -7032726296881204468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grub Mimic - atlas0 #0340012_4
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 1320
+        width: 121
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 767c5104ab7957330800000000000000
+      internalID: 3708036694404351847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grub Mimic - atlas0 #0340012_5
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 1485
+        width: 74
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6d337cac6007e520800000000000000
+      internalID: 2731152165773196652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grub Mimic - atlas0 #0340012_6
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 1360
+        width: 117
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e597435893824a430800000000000000
+      internalID: 3793201013665855838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grub Mimic - atlas0 #0340012_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 901
+        width: 96
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e645fb7587408f90800000000000000
+      internalID: -6953479186024151322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grub Mimic - atlas0 #0340012_8
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 1272
+        width: 326
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10d1acc816d011820800000000000000
+      internalID: 2887103548746243329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grub Mimic - atlas0 #0340012_9
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 1064
+        width: 150
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c163a760c56fbdf0800000000000000
+      internalID: -162299184515161663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grub Mimic - atlas0 #0340012_10
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 1047
+        width: 252
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c060ac33fcc685360800000000000000
+      internalID: 7158591244888311308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grub Mimic - atlas0 #0340012_11
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 1184
+        width: 116
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8d36790244f94730800000000000000
+      internalID: 3983983909849677195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grub Mimic - atlas0 #0340012_12
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 1231
+        width: 130
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17b41646aef82bf80800000000000000
+      internalID: -8092247343562142863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grub Mimic - atlas0 #0340012_13
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 1012
+        width: 128
+        height: 310
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6634797b8d229d440800000000000000
+      internalID: 4961034778713736038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grub Mimic - atlas0 #0340012_14
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 1186
+        width: 74
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cb3cb7383d2b5720800000000000000
+      internalID: 2835910109836360640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grub Mimic - atlas0 #0340012_15
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 1005
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 202fafbfe06f5ff70800000000000000
+      internalID: 9220546356328460802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grub Mimic - atlas0 #0340012_16
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 911
+        width: 120
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f53959bafeb5a3e0800000000000000
+      internalID: -2043016871881918992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grub Mimic - atlas0 #0340012_17
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 729
+        width: 292
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b16ad7b5da1ef8da0800000000000000
+      internalID: -5940281248797841893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grub Mimic - atlas0 #0340012_18
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 691
+        width: 254
+        height: 358
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c1434c9d538e28d0800000000000000
+      internalID: -2869211474511576631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grub Mimic - atlas0 #0340012_19
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 923
+        width: 128
+        height: 310
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e7a37b934ad97820800000000000000
+      internalID: 2916602217604818918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grub Mimic - atlas0 #0340012_20
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 794
+        width: 192
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e602be40c1b436c0800000000000000
+      internalID: -4164508315898738975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grub Mimic - atlas0 #0340012_21
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 1012
+        width: 74
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ed77a0083b3af160800000000000000
+      internalID: 7060020477571857893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grub Mimic - atlas0 #0340012_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 563
+        width: 118
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10820b6aa0b22dc30800000000000000
+      internalID: 4382612712131143681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grub Mimic - atlas0 #0340012_23
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 722
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc1086aaf4307ae10800000000000000
+      internalID: 2208737782944760268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grub Mimic - atlas0 #0340012_24
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 641
+        width: 208
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4521cac779c41f5a0800000000000000
+      internalID: -6489321374548749740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grub Mimic - atlas0 #0340012_25
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 336
+        width: 180
+        height: 589
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69e3943a63b105fa0800000000000000
+      internalID: -5814117197453640042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grub Mimic - atlas0 #0340012_26
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 533
+        width: 168
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 148f5535ca58dd610800000000000000
+      internalID: 1647620013866481729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grub Mimic - atlas0 #0340012_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 225
+        width: 145
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 670b2b91c681f6f80800000000000000
+      internalID: -8111237551304298378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grub Mimic - atlas0 #0340012_28
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 425
+        width: 316
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50bb392de28baddc0800000000000000
+      internalID: -3613373239770498299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grub Mimic - atlas0 #0340012_29
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 220
+        width: 237
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0452c2958c53b6800800000000000000
+      internalID: 606637709417260352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grub Mimic - atlas0 #0340012_30
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 224
+        width: 218
+        height: 469
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1825d0230dc87dbf0800000000000000
+      internalID: -299616024376028543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grub Mimic - atlas0 #0340012_31
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 0
+        width: 155
+        height: 535
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0e4ff41d73be8760800000000000000
+      internalID: 7462098982404050447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grub Mimic - atlas0 #0340012_32
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 230
+        width: 98
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94bbca2a389636730800000000000000
+      internalID: 3991149708871252809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grub Mimic - atlas0 #0340012_33
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 393
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19d63a48b2dda3bf0800000000000000
+      internalID: -343719242561786479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grub Mimic - atlas0 #0340012_34
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 224
+        width: 72
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b5389a449247fe70800000000000000
+      internalID: 9148854372700534194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grub Mimic - atlas0 #0340012_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 244
+        height: 231
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5786d674dc8051680800000000000000
+      internalID: -8785105820356614027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grub Mimic - atlas0 #0340012_36
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 228
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e4b88f2ebe5c9f00800000000000000
+      internalID: 1124878177870066915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grub Mimic - atlas0 #0340012_37
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 220
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea3b7df015068f5a0800000000000000
+      internalID: -6487329361952787538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grub Mimic - atlas0 #0340012_38
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 0
+        width: 142
+        height: 339
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91f82059383f90d30800000000000000
+      internalID: 4398314257570238233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grub Mimic - atlas0 #0340012_39
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 0
+        width: 248
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a72ecc936204ab790800000000000000
+      internalID: -7513622495391587718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grub Mimic - atlas0 #0340012_40
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 0
+        width: 242
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 624a5fa206344b310800000000000000
+      internalID: 1419833862845211686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Grub Mimic - atlas0 #0340012_0: -6451084931668895566
+      Grub Mimic - atlas0 #0340012_1: -8856957955167413908
+      Grub Mimic - atlas0 #0340012_10: 7158591244888311308
+      Grub Mimic - atlas0 #0340012_11: 3983983909849677195
+      Grub Mimic - atlas0 #0340012_12: -8092247343562142863
+      Grub Mimic - atlas0 #0340012_13: 4961034778713736038
+      Grub Mimic - atlas0 #0340012_14: 2835910109836360640
+      Grub Mimic - atlas0 #0340012_15: 9220546356328460802
+      Grub Mimic - atlas0 #0340012_16: -2043016871881918992
+      Grub Mimic - atlas0 #0340012_17: -5940281248797841893
+      Grub Mimic - atlas0 #0340012_18: -2869211474511576631
+      Grub Mimic - atlas0 #0340012_19: 2916602217604818918
+      Grub Mimic - atlas0 #0340012_2: 7815744110060397233
+      Grub Mimic - atlas0 #0340012_20: -4164508315898738975
+      Grub Mimic - atlas0 #0340012_21: 7060020477571857893
+      Grub Mimic - atlas0 #0340012_22: 4382612712131143681
+      Grub Mimic - atlas0 #0340012_23: 2208737782944760268
+      Grub Mimic - atlas0 #0340012_24: -6489321374548749740
+      Grub Mimic - atlas0 #0340012_25: -5814117197453640042
+      Grub Mimic - atlas0 #0340012_26: 1647620013866481729
+      Grub Mimic - atlas0 #0340012_27: -8111237551304298378
+      Grub Mimic - atlas0 #0340012_28: -3613373239770498299
+      Grub Mimic - atlas0 #0340012_29: 606637709417260352
+      Grub Mimic - atlas0 #0340012_3: -7032726296881204468
+      Grub Mimic - atlas0 #0340012_30: -299616024376028543
+      Grub Mimic - atlas0 #0340012_31: 7462098982404050447
+      Grub Mimic - atlas0 #0340012_32: 3991149708871252809
+      Grub Mimic - atlas0 #0340012_33: -343719242561786479
+      Grub Mimic - atlas0 #0340012_34: 9148854372700534194
+      Grub Mimic - atlas0 #0340012_35: -8785105820356614027
+      Grub Mimic - atlas0 #0340012_36: 1124878177870066915
+      Grub Mimic - atlas0 #0340012_37: -6487329361952787538
+      Grub Mimic - atlas0 #0340012_38: 4398314257570238233
+      Grub Mimic - atlas0 #0340012_39: -7513622495391587718
+      Grub Mimic - atlas0 #0340012_4: 3708036694404351847
+      Grub Mimic - atlas0 #0340012_40: 1419833862845211686
+      Grub Mimic - atlas0 #0340012_5: 2731152165773196652
+      Grub Mimic - atlas0 #0340012_6: 3793201013665855838
+      Grub Mimic - atlas0 #0340012_7: -6953479186024151322
+      Grub Mimic - atlas0 #0340012_8: 2887103548746243329
+      Grub Mimic - atlas0 #0340012_9: -162299184515161663
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

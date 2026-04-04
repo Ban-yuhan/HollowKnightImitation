@@ -1,0 +1,1222 @@
+fileFormatVersion: 2
+guid: 1f37e1ffa5c7cc44eb8f2042888e43b9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -182405929867044745
+    second: Winged Sentry - atlas0 #58507_0
+  - first:
+      213: -3447546958231296048
+    second: Winged Sentry - atlas0 #58507_1
+  - first:
+      213: 8362154906523038485
+    second: Winged Sentry - atlas0 #58507_2
+  - first:
+      213: -6366705118843123237
+    second: Winged Sentry - atlas0 #58507_3
+  - first:
+      213: -8799211486124011787
+    second: Winged Sentry - atlas0 #58507_4
+  - first:
+      213: -7473182169125049143
+    second: Winged Sentry - atlas0 #58507_5
+  - first:
+      213: -1284870259588691838
+    second: Winged Sentry - atlas0 #58507_6
+  - first:
+      213: 5127717111597228717
+    second: Winged Sentry - atlas0 #58507_7
+  - first:
+      213: -1160740569330060214
+    second: Winged Sentry - atlas0 #58507_8
+  - first:
+      213: -9132478378990061545
+    second: Winged Sentry - atlas0 #58507_9
+  - first:
+      213: -3467172680399862413
+    second: Winged Sentry - atlas0 #58507_10
+  - first:
+      213: -2319990576282889790
+    second: Winged Sentry - atlas0 #58507_11
+  - first:
+      213: 7407120711220081647
+    second: Winged Sentry - atlas0 #58507_12
+  - first:
+      213: -1865437607838955993
+    second: Winged Sentry - atlas0 #58507_13
+  - first:
+      213: 1868024915718723167
+    second: Winged Sentry - atlas0 #58507_14
+  - first:
+      213: -1447335217931032185
+    second: Winged Sentry - atlas0 #58507_15
+  - first:
+      213: 4233489988532611547
+    second: Winged Sentry - atlas0 #58507_16
+  - first:
+      213: -2438705710661312167
+    second: Winged Sentry - atlas0 #58507_17
+  - first:
+      213: -803782396841631855
+    second: Winged Sentry - atlas0 #58507_18
+  - first:
+      213: -3089955058895711015
+    second: Winged Sentry - atlas0 #58507_19
+  - first:
+      213: 1614012861520618616
+    second: Winged Sentry - atlas0 #58507_20
+  - first:
+      213: -1522992357882680106
+    second: Winged Sentry - atlas0 #58507_21
+  - first:
+      213: 7055960295753872107
+    second: Winged Sentry - atlas0 #58507_22
+  - first:
+      213: 6622877905782541865
+    second: Winged Sentry - atlas0 #58507_23
+  - first:
+      213: -7306960903979440245
+    second: Winged Sentry - atlas0 #58507_24
+  - first:
+      213: 4465559794677926469
+    second: Winged Sentry - atlas0 #58507_25
+  - first:
+      213: 171803268241545689
+    second: Winged Sentry - atlas0 #58507_26
+  - first:
+      213: 1517323797985878664
+    second: Winged Sentry - atlas0 #58507_27
+  - first:
+      213: 8566009128383394639
+    second: Winged Sentry - atlas0 #58507_28
+  - first:
+      213: 3993969362205646743
+    second: Winged Sentry - atlas0 #58507_29
+  - first:
+      213: 9016644902296162940
+    second: Winged Sentry - atlas0 #58507_30
+  - first:
+      213: -5271935162374063006
+    second: Winged Sentry - atlas0 #58507_31
+  - first:
+      213: -6195174143981809463
+    second: Winged Sentry - atlas0 #58507_32
+  - first:
+      213: -7838395232219806182
+    second: Winged Sentry - atlas0 #58507_33
+  - first:
+      213: -927182787082916686
+    second: Winged Sentry - atlas0 #58507_34
+  - first:
+      213: 4798647954490767755
+    second: Winged Sentry - atlas0 #58507_35
+  - first:
+      213: 7910970922411914588
+    second: Winged Sentry - atlas0 #58507_36
+  - first:
+      213: -1109532650184562063
+    second: Winged Sentry - atlas0 #58507_37
+  - first:
+      213: 8272568626368617106
+    second: Winged Sentry - atlas0 #58507_38
+  - first:
+      213: -6145439599397375359
+    second: Winged Sentry - atlas0 #58507_39
+  - first:
+      213: -3148060980406028766
+    second: Winged Sentry - atlas0 #58507_40
+  - first:
+      213: 5029745237706708770
+    second: Winged Sentry - atlas0 #58507_41
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Winged Sentry - atlas0 #58507_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1695
+        width: 161
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7789951f5c6f77df0800000000000000
+      internalID: -182405929867044745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Winged Sentry - atlas0 #58507_1
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 1688
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d72520be4ad720d0800000000000000
+      internalID: -3447546958231296048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Winged Sentry - atlas0 #58507_2
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 1611
+        width: 163
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 513781835975c0470800000000000000
+      internalID: 8362154906523038485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Winged Sentry - atlas0 #58507_3
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 1543
+        width: 115
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd9c1b93d6be4a7a0800000000000000
+      internalID: -6366705118843123237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Winged Sentry - atlas0 #58507_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1502
+        width: 180
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fe8a0a06cbe2e580800000000000000
+      internalID: -8799211486124011787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Winged Sentry - atlas0 #58507_5
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 1423
+        width: 191
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cca48b696ce94890800000000000000
+      internalID: -7473182169125049143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Winged Sentry - atlas0 #58507_6
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 1604
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28880c27e493b2ee0800000000000000
+      internalID: -1284870259588691838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Winged Sentry - atlas0 #58507_7
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 1293
+        width: 125
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da2e1719b8f492740800000000000000
+      internalID: 5127717111597228717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Winged Sentry - atlas0 #58507_8
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 1413
+        width: 172
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4472b02a9834efe0800000000000000
+      internalID: -1160740569330060214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Winged Sentry - atlas0 #58507_9
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 1505
+        width: 177
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 718bc5ddc4be24180800000000000000
+      internalID: -9132478378990061545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Winged Sentry - atlas0 #58507_10
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 1500
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 375c3d921d022efc0800000000000000
+      internalID: -3467172680399862413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Winged Sentry - atlas0 #58507_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1288
+        width: 182
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c1976adcdcbdcfd0800000000000000
+      internalID: -2319990576282889790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Winged Sentry - atlas0 #58507_12
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 1227
+        width: 204
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe336b0da016bc660800000000000000
+      internalID: 7407120711220081647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Winged Sentry - atlas0 #58507_13
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 1385
+        width: 49
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 726ca121162ac16e0800000000000000
+      internalID: -1865437607838955993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Winged Sentry - atlas0 #58507_14
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 1235
+        width: 214
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f565efc73ce8ce910800000000000000
+      internalID: 1868024915718723167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Winged Sentry - atlas0 #58507_15
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 1315
+        width: 191
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 789ee40a9480aebe0800000000000000
+      internalID: -1447335217931032185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Winged Sentry - atlas0 #58507_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1067
+        width: 185
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd9a8aee6b060ca30800000000000000
+      internalID: 4233489988532611547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Winged Sentry - atlas0 #58507_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 852
+        width: 210
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 951e054b31af72ed0800000000000000
+      internalID: -2438705710661312167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Winged Sentry - atlas0 #58507_18
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 996
+        width: 181
+        height: 233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19fda8f2b2468d4f0800000000000000
+      internalID: -803782396841631855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Winged Sentry - atlas0 #58507_19
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 1040
+        width: 159
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d49996ce364e15d0800000000000000
+      internalID: -3089955058895711015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Winged Sentry - atlas0 #58507_20
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 1004
+        width: 177
+        height: 233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87429d96520266610800000000000000
+      internalID: 1614012861520618616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Winged Sentry - atlas0 #58507_21
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 1065
+        width: 163
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dca4c8058e3ddae0800000000000000
+      internalID: -1522992357882680106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Winged Sentry - atlas0 #58507_22
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 818
+        width: 179
+        height: 249
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be27ba1418ecbe160800000000000000
+      internalID: 7055960295753872107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Winged Sentry - atlas0 #58507_23
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 747
+        width: 173
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92e83f4ad5039eb50800000000000000
+      internalID: 6622877905782541865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Winged Sentry - atlas0 #58507_24
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 840
+        width: 210
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8763a295c5789a90800000000000000
+      internalID: -7306960903979440245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Winged Sentry - atlas0 #58507_25
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 629
+        width: 218
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54a4b0549fad8fd30800000000000000
+      internalID: 4465559794677926469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Winged Sentry - atlas0 #58507_26
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 757
+        width: 185
+        height: 249
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d9d9c6892e526200800000000000000
+      internalID: 171803268241545689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Winged Sentry - atlas0 #58507_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 612
+        width: 239
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 882e13484fd9e0510800000000000000
+      internalID: 1517323797985878664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Winged Sentry - atlas0 #58507_28
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 827
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f43bb08eae390e670800000000000000
+      internalID: 8566009128383394639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Winged Sentry - atlas0 #58507_29
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 398
+        width: 231
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79f9f0659fd6d6730800000000000000
+      internalID: 3993969362205646743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Winged Sentry - atlas0 #58507_30
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 456
+        width: 174
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c72133334ce812d70800000000000000
+      internalID: 9016644902296162940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Winged Sentry - atlas0 #58507_31
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 417
+        width: 231
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26c7dc7d6e256d6b0800000000000000
+      internalID: -5271935162374063006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Winged Sentry - atlas0 #58507_32
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 488
+        width: 190
+        height: 271
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c0974280f1560aa0800000000000000
+      internalID: -6195174143981809463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Winged Sentry - atlas0 #58507_33
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 562
+        width: 160
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a164c6ed01d683390800000000000000
+      internalID: -7838395232219806182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Winged Sentry - atlas0 #58507_34
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 279
+        width: 106
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bce016ea2cf123f0800000000000000
+      internalID: -927182787082916686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Winged Sentry - atlas0 #58507_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 200
+        width: 270
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b89b399e3e8389240800000000000000
+      internalID: 4798647954490767755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Winged Sentry - atlas0 #58507_36
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 200
+        width: 167
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c557ecac32a69cd60800000000000000
+      internalID: 7910970922411914588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Winged Sentry - atlas0 #58507_37
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 202
+        width: 232
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17a2d07eee52a90f0800000000000000
+      internalID: -1109532650184562063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Winged Sentry - atlas0 #58507_38
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 279
+        width: 224
+        height: 211
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29a1eb2f5511ec270800000000000000
+      internalID: 8272568626368617106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Winged Sentry - atlas0 #58507_39
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 0
+        width: 193
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 182fc498e3307baa0800000000000000
+      internalID: -6145439599397375359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Winged Sentry - atlas0 #58507_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 431
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22671aba737df44d0800000000000000
+      internalID: -3148060980406028766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Winged Sentry - atlas0 #58507_41
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 0
+        width: 320
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 227983c15ae3dc540800000000000000
+      internalID: 5029745237706708770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Winged Sentry - atlas0 #58507_0: -182405929867044745
+      Winged Sentry - atlas0 #58507_1: -3447546958231296048
+      Winged Sentry - atlas0 #58507_10: -3467172680399862413
+      Winged Sentry - atlas0 #58507_11: -2319990576282889790
+      Winged Sentry - atlas0 #58507_12: 7407120711220081647
+      Winged Sentry - atlas0 #58507_13: -1865437607838955993
+      Winged Sentry - atlas0 #58507_14: 1868024915718723167
+      Winged Sentry - atlas0 #58507_15: -1447335217931032185
+      Winged Sentry - atlas0 #58507_16: 4233489988532611547
+      Winged Sentry - atlas0 #58507_17: -2438705710661312167
+      Winged Sentry - atlas0 #58507_18: -803782396841631855
+      Winged Sentry - atlas0 #58507_19: -3089955058895711015
+      Winged Sentry - atlas0 #58507_2: 8362154906523038485
+      Winged Sentry - atlas0 #58507_20: 1614012861520618616
+      Winged Sentry - atlas0 #58507_21: -1522992357882680106
+      Winged Sentry - atlas0 #58507_22: 7055960295753872107
+      Winged Sentry - atlas0 #58507_23: 6622877905782541865
+      Winged Sentry - atlas0 #58507_24: -7306960903979440245
+      Winged Sentry - atlas0 #58507_25: 4465559794677926469
+      Winged Sentry - atlas0 #58507_26: 171803268241545689
+      Winged Sentry - atlas0 #58507_27: 1517323797985878664
+      Winged Sentry - atlas0 #58507_28: 8566009128383394639
+      Winged Sentry - atlas0 #58507_29: 3993969362205646743
+      Winged Sentry - atlas0 #58507_3: -6366705118843123237
+      Winged Sentry - atlas0 #58507_30: 9016644902296162940
+      Winged Sentry - atlas0 #58507_31: -5271935162374063006
+      Winged Sentry - atlas0 #58507_32: -6195174143981809463
+      Winged Sentry - atlas0 #58507_33: -7838395232219806182
+      Winged Sentry - atlas0 #58507_34: -927182787082916686
+      Winged Sentry - atlas0 #58507_35: 4798647954490767755
+      Winged Sentry - atlas0 #58507_36: 7910970922411914588
+      Winged Sentry - atlas0 #58507_37: -1109532650184562063
+      Winged Sentry - atlas0 #58507_38: 8272568626368617106
+      Winged Sentry - atlas0 #58507_39: -6145439599397375359
+      Winged Sentry - atlas0 #58507_4: -8799211486124011787
+      Winged Sentry - atlas0 #58507_40: -3148060980406028766
+      Winged Sentry - atlas0 #58507_41: 5029745237706708770
+      Winged Sentry - atlas0 #58507_5: -7473182169125049143
+      Winged Sentry - atlas0 #58507_6: -1284870259588691838
+      Winged Sentry - atlas0 #58507_7: 5127717111597228717
+      Winged Sentry - atlas0 #58507_8: -1160740569330060214
+      Winged Sentry - atlas0 #58507_9: -9132478378990061545
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

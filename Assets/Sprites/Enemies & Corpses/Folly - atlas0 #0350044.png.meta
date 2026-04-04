@@ -1,0 +1,1404 @@
+fileFormatVersion: 2
+guid: 9213ec1dc1cfbf6409210c6b616c8f35
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8945169954993209233
+    second: Folly - atlas0 #0350044_0
+  - first:
+      213: -1909080620006419779
+    second: Folly - atlas0 #0350044_1
+  - first:
+      213: -8039722074410765056
+    second: Folly - atlas0 #0350044_2
+  - first:
+      213: 6879645768591705668
+    second: Folly - atlas0 #0350044_3
+  - first:
+      213: -7418199767032645222
+    second: Folly - atlas0 #0350044_4
+  - first:
+      213: 6045541551135976816
+    second: Folly - atlas0 #0350044_5
+  - first:
+      213: -5919622223973003381
+    second: Folly - atlas0 #0350044_6
+  - first:
+      213: 1126204801685536573
+    second: Folly - atlas0 #0350044_7
+  - first:
+      213: -561048668169798657
+    second: Folly - atlas0 #0350044_8
+  - first:
+      213: -7765946967197402911
+    second: Folly - atlas0 #0350044_9
+  - first:
+      213: -8958886741795668618
+    second: Folly - atlas0 #0350044_10
+  - first:
+      213: -3857163730568246171
+    second: Folly - atlas0 #0350044_11
+  - first:
+      213: -9017643548252186256
+    second: Folly - atlas0 #0350044_12
+  - first:
+      213: 5330337902401244364
+    second: Folly - atlas0 #0350044_13
+  - first:
+      213: 3063864772539069869
+    second: Folly - atlas0 #0350044_14
+  - first:
+      213: 1483119444528713450
+    second: Folly - atlas0 #0350044_15
+  - first:
+      213: -6491103088018424898
+    second: Folly - atlas0 #0350044_16
+  - first:
+      213: 8039642044950618559
+    second: Folly - atlas0 #0350044_17
+  - first:
+      213: -6077602355205637326
+    second: Folly - atlas0 #0350044_18
+  - first:
+      213: 8188375493865155753
+    second: Folly - atlas0 #0350044_19
+  - first:
+      213: -3592704836824811794
+    second: Folly - atlas0 #0350044_20
+  - first:
+      213: -3840884335811169557
+    second: Folly - atlas0 #0350044_21
+  - first:
+      213: 1443723989829409799
+    second: Folly - atlas0 #0350044_22
+  - first:
+      213: 2150866499510522579
+    second: Folly - atlas0 #0350044_23
+  - first:
+      213: -6024980281412854462
+    second: Folly - atlas0 #0350044_24
+  - first:
+      213: 2484673273296646938
+    second: Folly - atlas0 #0350044_25
+  - first:
+      213: -7269685973677807913
+    second: Folly - atlas0 #0350044_26
+  - first:
+      213: -6896116130671057521
+    second: Folly - atlas0 #0350044_27
+  - first:
+      213: -6193836718111147687
+    second: Folly - atlas0 #0350044_28
+  - first:
+      213: -6863376224416334035
+    second: Folly - atlas0 #0350044_29
+  - first:
+      213: 2770356633614328956
+    second: Folly - atlas0 #0350044_30
+  - first:
+      213: -2290222777751638169
+    second: Folly - atlas0 #0350044_31
+  - first:
+      213: 8849394702689156013
+    second: Folly - atlas0 #0350044_32
+  - first:
+      213: 4371161323636526443
+    second: Folly - atlas0 #0350044_33
+  - first:
+      213: 8718987325280846335
+    second: Folly - atlas0 #0350044_34
+  - first:
+      213: -480743401552429077
+    second: Folly - atlas0 #0350044_35
+  - first:
+      213: -757013857900781521
+    second: Folly - atlas0 #0350044_36
+  - first:
+      213: -4273274413722899930
+    second: Folly - atlas0 #0350044_37
+  - first:
+      213: 7061991162077253093
+    second: Folly - atlas0 #0350044_38
+  - first:
+      213: -941044147364631504
+    second: Folly - atlas0 #0350044_39
+  - first:
+      213: 5504821238170521605
+    second: Folly - atlas0 #0350044_40
+  - first:
+      213: -7130820523440792834
+    second: Folly - atlas0 #0350044_41
+  - first:
+      213: -1019355966396174631
+    second: Folly - atlas0 #0350044_42
+  - first:
+      213: -6484583297084519890
+    second: Folly - atlas0 #0350044_43
+  - first:
+      213: 2912838357257583733
+    second: Folly - atlas0 #0350044_44
+  - first:
+      213: -8127030506946015503
+    second: Folly - atlas0 #0350044_45
+  - first:
+      213: 404293259557968910
+    second: Folly - atlas0 #0350044_46
+  - first:
+      213: -6024930417599150901
+    second: Folly - atlas0 #0350044_47
+  - first:
+      213: 5984412813524941437
+    second: Folly - atlas0 #0350044_48
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Folly - atlas0 #0350044_0
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 993
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19ffdd63ea0a32c70800000000000000
+      internalID: 8945169954993209233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Folly - atlas0 #0350044_1
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 972
+        width: 33
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db25fe47a459185e0800000000000000
+      internalID: -1909080620006419779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Folly - atlas0 #0350044_2
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 690
+        width: 236
+        height: 332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00531ed9e5b2d6090800000000000000
+      internalID: -8039722074410765056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Folly - atlas0 #0350044_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 756
+        width: 206
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4468d696069697f50800000000000000
+      internalID: 6879645768591705668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Folly - atlas0 #0350044_4
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 945
+        width: 66
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a99322d7d924d0990800000000000000
+      internalID: -7418199767032645222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Folly - atlas0 #0350044_5
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 756
+        width: 179
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07de256920416e350800000000000000
+      internalID: 6045541551135976816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Folly - atlas0 #0350044_6
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 945
+        width: 29
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8fc49763f649dda0800000000000000
+      internalID: -5919622223973003381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Folly - atlas0 #0350044_7
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 701
+        width: 31
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3f3eccdc4511af00800000000000000
+      internalID: 1126204801685536573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Folly - atlas0 #0350044_8
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 701
+        width: 51
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffb78087531c638f0800000000000000
+      internalID: -561048668169798657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Folly - atlas0 #0350044_9
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 704
+        width: 30
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e83dab0160d93490800000000000000
+      internalID: -7765946967197402911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Folly - atlas0 #0350044_10
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 674
+        width: 62
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67dff4c79f3aba380800000000000000
+      internalID: -8958886741795668618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Folly - atlas0 #0350044_11
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 538
+        width: 185
+        height: 343
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56c85fee50a987ac0800000000000000
+      internalID: -3857163730568246171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Folly - atlas0 #0350044_12
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 655
+        width: 31
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 079d55b68f4ead280800000000000000
+      internalID: -9017643548252186256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Folly - atlas0 #0350044_13
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 644
+        width: 37
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccc4d65b41a29f940800000000000000
+      internalID: 5330337902401244364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Folly - atlas0 #0350044_14
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 506
+        width: 183
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da5360f07c8058a20800000000000000
+      internalID: 3063864772539069869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Folly - atlas0 #0350044_15
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 515
+        width: 169
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aeecb92e649159410800000000000000
+      internalID: 1483119444528713450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Folly - atlas0 #0350044_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 628
+        width: 42
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebb783ef128fae5a0800000000000000
+      internalID: -6491103088018424898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Folly - atlas0 #0350044_17
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 599
+        width: 44
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb1a39218db829f60800000000000000
+      internalID: 8039642044950618559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Folly - atlas0 #0350044_18
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 566
+        width: 47
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23bf3e3cbd408aba0800000000000000
+      internalID: -6077602355205637326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Folly - atlas0 #0350044_19
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 512
+        width: 32
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9aca857b024f2a170800000000000000
+      internalID: 8188375493865155753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Folly - atlas0 #0350044_20
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 536
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee6ba326cf5242ec0800000000000000
+      internalID: -3592704836824811794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Folly - atlas0 #0350044_21
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 506
+        width: 36
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be2fc94eb0072bac0800000000000000
+      internalID: -3840884335811169557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Folly - atlas0 #0350044_22
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 405
+        width: 70
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70cdd7fc153290410800000000000000
+      internalID: 1443723989829409799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Folly - atlas0 #0350044_23
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 181
+        width: 348
+        height: 359
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d2dc9e7fa969dd10800000000000000
+      internalID: 2150866499510522579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Folly - atlas0 #0350044_24
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 333
+        width: 370
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24d57a31b58f26ca0800000000000000
+      internalID: -6024980281412854462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Folly - atlas0 #0350044_25
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 360
+        width: 161
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a13f0cd7d255b7220800000000000000
+      internalID: 2484673273296646938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Folly - atlas0 #0350044_26
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 435
+        width: 54
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d66b469f13ec1b90800000000000000
+      internalID: -7269685973677807913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Folly - atlas0 #0350044_27
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 448
+        width: 21
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f85a2859ae21c40a0800000000000000
+      internalID: -6896116130671057521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Folly - atlas0 #0350044_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 359
+        width: 66
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 959b63c32521b0aa0800000000000000
+      internalID: -6193836718111147687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Folly - atlas0 #0350044_29
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 382
+        width: 74
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2f7dc700b360c0a0800000000000000
+      internalID: -6863376224416334035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Folly - atlas0 #0350044_30
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 313
+        width: 68
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c74aab72ea8427620800000000000000
+      internalID: 2770356633614328956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Folly - atlas0 #0350044_31
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 280
+        width: 39
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76fea9b848e7730e0800000000000000
+      internalID: -2290222777751638169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Folly - atlas0 #0350044_32
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 255
+        width: 43
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dabb203989d5fca70800000000000000
+      internalID: 8849394702689156013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Folly - atlas0 #0350044_33
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 301
+        width: 37
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6d084f701c79ac30800000000000000
+      internalID: 4371161323636526443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Folly - atlas0 #0350044_34
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 314
+        width: 83
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff18f74f6c0100970800000000000000
+      internalID: 8718987325280846335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Folly - atlas0 #0350044_35
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 289
+        width: 40
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: befba526c6e0459f0800000000000000
+      internalID: -480743401552429077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Folly - atlas0 #0350044_36
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 180
+        width: 190
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f20a6c538eb8e75f0800000000000000
+      internalID: -757013857900781521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Folly - atlas0 #0350044_37
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 214
+        width: 37
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62ae74ebf8742b4c0800000000000000
+      internalID: -4273274413722899930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Folly - atlas0 #0350044_38
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 175
+        width: 39
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ed009ebb8b310260800000000000000
+      internalID: 7061991162077253093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Folly - atlas0 #0350044_39
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 0
+        width: 170
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03cee56755db0f2f0800000000000000
+      internalID: -941044147364631504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Folly - atlas0 #0350044_40
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 0
+        width: 163
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5001e2510cd056c40800000000000000
+      internalID: 5504821238170521605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Folly - atlas0 #0350044_41
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 118
+        width: 32
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efa1f3fb38c3a0d90800000000000000
+      internalID: -7130820523440792834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Folly - atlas0 #0350044_42
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 0
+        width: 172
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dee74b36258ad1f0800000000000000
+      internalID: -1019355966396174631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Folly - atlas0 #0350044_43
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 0
+        width: 165
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2a88dc19d12206a0800000000000000
+      internalID: -6484583297084519890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Folly - atlas0 #0350044_44
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 50
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57c78749d0b7c6820800000000000000
+      internalID: 2912838357257583733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Folly - atlas0 #0350044_45
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 82
+        width: 52
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fe48b210dcf63f80800000000000000
+      internalID: -8127030506946015503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Folly - atlas0 #0350044_46
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 20
+        width: 40
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0c9909d3965c9500800000000000000
+      internalID: 404293259557968910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Folly - atlas0 #0350044_47
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 52
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc48e86e4b5236ca0800000000000000
+      internalID: -6024930417599150901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Folly - atlas0 #0350044_48
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 0
+        width: 20
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7a33734fb7ec0350800000000000000
+      internalID: 5984412813524941437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Folly - atlas0 #0350044_0: 8945169954993209233
+      Folly - atlas0 #0350044_1: -1909080620006419779
+      Folly - atlas0 #0350044_10: -8958886741795668618
+      Folly - atlas0 #0350044_11: -3857163730568246171
+      Folly - atlas0 #0350044_12: -9017643548252186256
+      Folly - atlas0 #0350044_13: 5330337902401244364
+      Folly - atlas0 #0350044_14: 3063864772539069869
+      Folly - atlas0 #0350044_15: 1483119444528713450
+      Folly - atlas0 #0350044_16: -6491103088018424898
+      Folly - atlas0 #0350044_17: 8039642044950618559
+      Folly - atlas0 #0350044_18: -6077602355205637326
+      Folly - atlas0 #0350044_19: 8188375493865155753
+      Folly - atlas0 #0350044_2: -8039722074410765056
+      Folly - atlas0 #0350044_20: -3592704836824811794
+      Folly - atlas0 #0350044_21: -3840884335811169557
+      Folly - atlas0 #0350044_22: 1443723989829409799
+      Folly - atlas0 #0350044_23: 2150866499510522579
+      Folly - atlas0 #0350044_24: -6024980281412854462
+      Folly - atlas0 #0350044_25: 2484673273296646938
+      Folly - atlas0 #0350044_26: -7269685973677807913
+      Folly - atlas0 #0350044_27: -6896116130671057521
+      Folly - atlas0 #0350044_28: -6193836718111147687
+      Folly - atlas0 #0350044_29: -6863376224416334035
+      Folly - atlas0 #0350044_3: 6879645768591705668
+      Folly - atlas0 #0350044_30: 2770356633614328956
+      Folly - atlas0 #0350044_31: -2290222777751638169
+      Folly - atlas0 #0350044_32: 8849394702689156013
+      Folly - atlas0 #0350044_33: 4371161323636526443
+      Folly - atlas0 #0350044_34: 8718987325280846335
+      Folly - atlas0 #0350044_35: -480743401552429077
+      Folly - atlas0 #0350044_36: -757013857900781521
+      Folly - atlas0 #0350044_37: -4273274413722899930
+      Folly - atlas0 #0350044_38: 7061991162077253093
+      Folly - atlas0 #0350044_39: -941044147364631504
+      Folly - atlas0 #0350044_4: -7418199767032645222
+      Folly - atlas0 #0350044_40: 5504821238170521605
+      Folly - atlas0 #0350044_41: -7130820523440792834
+      Folly - atlas0 #0350044_42: -1019355966396174631
+      Folly - atlas0 #0350044_43: -6484583297084519890
+      Folly - atlas0 #0350044_44: 2912838357257583733
+      Folly - atlas0 #0350044_45: -8127030506946015503
+      Folly - atlas0 #0350044_46: 404293259557968910
+      Folly - atlas0 #0350044_47: -6024930417599150901
+      Folly - atlas0 #0350044_48: 5984412813524941437
+      Folly - atlas0 #0350044_5: 6045541551135976816
+      Folly - atlas0 #0350044_6: -5919622223973003381
+      Folly - atlas0 #0350044_7: 1126204801685536573
+      Folly - atlas0 #0350044_8: -561048668169798657
+      Folly - atlas0 #0350044_9: -7765946967197402911
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

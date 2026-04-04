@@ -1,0 +1,988 @@
+fileFormatVersion: 2
+guid: 68a6812a189a8b2449141ca14f01c914
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3779491330593448934
+    second: Mantis Petra - atlas0 #0350020_0
+  - first:
+      213: -8358772603589514521
+    second: Mantis Petra - atlas0 #0350020_1
+  - first:
+      213: -3006829975693085029
+    second: Mantis Petra - atlas0 #0350020_2
+  - first:
+      213: 5402457774337220623
+    second: Mantis Petra - atlas0 #0350020_3
+  - first:
+      213: 6250047273798492287
+    second: Mantis Petra - atlas0 #0350020_4
+  - first:
+      213: 2166304016161969621
+    second: Mantis Petra - atlas0 #0350020_5
+  - first:
+      213: -859315707457106374
+    second: Mantis Petra - atlas0 #0350020_6
+  - first:
+      213: 5840585046079665775
+    second: Mantis Petra - atlas0 #0350020_7
+  - first:
+      213: -5401472590606492324
+    second: Mantis Petra - atlas0 #0350020_8
+  - first:
+      213: 2639601190630552488
+    second: Mantis Petra - atlas0 #0350020_9
+  - first:
+      213: 2444341076412649984
+    second: Mantis Petra - atlas0 #0350020_10
+  - first:
+      213: -7920282603136194590
+    second: Mantis Petra - atlas0 #0350020_11
+  - first:
+      213: -4602953789287561400
+    second: Mantis Petra - atlas0 #0350020_12
+  - first:
+      213: 5168174247376409932
+    second: Mantis Petra - atlas0 #0350020_13
+  - first:
+      213: -373042574622923086
+    second: Mantis Petra - atlas0 #0350020_14
+  - first:
+      213: 1350481168132536409
+    second: Mantis Petra - atlas0 #0350020_15
+  - first:
+      213: 580137188171129851
+    second: Mantis Petra - atlas0 #0350020_16
+  - first:
+      213: 8821603818977566119
+    second: Mantis Petra - atlas0 #0350020_17
+  - first:
+      213: 4082631859125445049
+    second: Mantis Petra - atlas0 #0350020_18
+  - first:
+      213: -8386737743497446651
+    second: Mantis Petra - atlas0 #0350020_19
+  - first:
+      213: 3797958223060177445
+    second: Mantis Petra - atlas0 #0350020_20
+  - first:
+      213: -8452296034625168723
+    second: Mantis Petra - atlas0 #0350020_21
+  - first:
+      213: 5418211998402437604
+    second: Mantis Petra - atlas0 #0350020_22
+  - first:
+      213: 4146273856167281639
+    second: Mantis Petra - atlas0 #0350020_23
+  - first:
+      213: -1083036103968994971
+    second: Mantis Petra - atlas0 #0350020_24
+  - first:
+      213: 6564007263113329615
+    second: Mantis Petra - atlas0 #0350020_25
+  - first:
+      213: 2041940680271839424
+    second: Mantis Petra - atlas0 #0350020_26
+  - first:
+      213: 3248328149239015365
+    second: Mantis Petra - atlas0 #0350020_27
+  - first:
+      213: -5647185608575639309
+    second: Mantis Petra - atlas0 #0350020_28
+  - first:
+      213: -381022752101226428
+    second: Mantis Petra - atlas0 #0350020_29
+  - first:
+      213: 628309253782414274
+    second: Mantis Petra - atlas0 #0350020_30
+  - first:
+      213: 8698088617782786419
+    second: Mantis Petra - atlas0 #0350020_31
+  - first:
+      213: 5971634754195548522
+    second: Mantis Petra - atlas0 #0350020_32
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Mantis Petra - atlas0 #0350020_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1030
+        width: 147
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1c1f40d8ac8c8bc0800000000000000
+      internalID: -3779491330593448934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis Petra - atlas0 #0350020_1
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1124
+        width: 192
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7eaa7cc8a9caffb80800000000000000
+      internalID: -8358772603589514521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis Petra - atlas0 #0350020_2
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 929
+        width: 245
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9631d661189546d0800000000000000
+      internalID: -3006829975693085029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis Petra - atlas0 #0350020_3
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 1072
+        width: 222
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f00ea69e8b269fa40800000000000000
+      internalID: 5402457774337220623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis Petra - atlas0 #0350020_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 804
+        width: 182
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f706820a1e0acb650800000000000000
+      internalID: 6250047273798492287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis Petra - atlas0 #0350020_5
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 700
+        width: 241
+        height: 231
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d516de6602401e10800000000000000
+      internalID: 2166304016161969621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis Petra - atlas0 #0350020_6
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 759
+        width: 98
+        height: 287
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3e0b1bbae81314f0800000000000000
+      internalID: -859315707457106374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis Petra - atlas0 #0350020_7
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 916
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f667908972ded0150800000000000000
+      internalID: 5840585046079665775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis Petra - atlas0 #0350020_8
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 910
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5d14ec0c4d1a05b0800000000000000
+      internalID: -5401472590606492324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis Petra - atlas0 #0350020_9
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 857
+        width: 219
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a37b343c4fb1a420800000000000000
+      internalID: 2639601190630552488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis Petra - atlas0 #0350020_10
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 862
+        width: 218
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 002d871224b0ce120800000000000000
+      internalID: 2444341076412649984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis Petra - atlas0 #0350020_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 566
+        width: 188
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e76c579fe0851290800000000000000
+      internalID: -7920282603136194590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis Petra - atlas0 #0350020_12
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 663
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8470af78ae50f10c0800000000000000
+      internalID: -4602953789287561400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis Petra - atlas0 #0350020_13
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 479
+        width: 254
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c455138881b09b740800000000000000
+      internalID: 5168174247376409932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis Petra - atlas0 #0350020_14
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 479
+        width: 94
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b6e08d31cfa2daf0800000000000000
+      internalID: -373042574622923086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis Petra - atlas0 #0350020_15
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 636
+        width: 229
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 958f46e977fddb210800000000000000
+      internalID: 1350481168132536409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis Petra - atlas0 #0350020_16
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 577
+        width: 200
+        height: 287
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf32fede2bf0d0800800000000000000
+      internalID: 580137188171129851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis Petra - atlas0 #0350020_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 249
+        width: 195
+        height: 319
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ad136b3fe1ac6a70800000000000000
+      internalID: 8821603818977566119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis Petra - atlas0 #0350020_18
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 248
+        width: 279
+        height: 233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b16ddf8b0c68a830800000000000000
+      internalID: 4082631859125445049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis Petra - atlas0 #0350020_19
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 398
+        width: 256
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50b397605725c9b80800000000000000
+      internalID: -8386737743497446651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis Petra - atlas0 #0350020_20
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 293
+        width: 118
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5229645a1ee05b430800000000000000
+      internalID: 3797958223060177445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis Petra - atlas0 #0350020_21
+      rect:
+        serializedVersion: 2
+        x: 971
+        y: 426
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: daa59b7e98963ba80800000000000000
+      internalID: -8452296034625168723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis Petra - atlas0 #0350020_22
+      rect:
+        serializedVersion: 2
+        x: 971
+        y: 419
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e1698a0b1b513b40800000000000000
+      internalID: 5418211998402437604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis Petra - atlas0 #0350020_23
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 191
+        width: 265
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e30752ba168a8930800000000000000
+      internalID: 4146273856167281639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis Petra - atlas0 #0350020_24
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 19
+        width: 89
+        height: 273
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5694100d66848f0f0800000000000000
+      internalID: -1083036103968994971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis Petra - atlas0 #0350020_25
+      rect:
+        serializedVersion: 2
+        x: 957
+        y: 292
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcb34f404d9081b50800000000000000
+      internalID: 6564007263113329615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis Petra - atlas0 #0350020_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 156
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c0c504ea3e665c10800000000000000
+      internalID: 2041940680271839424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis Petra - atlas0 #0350020_27
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 0
+        width: 282
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c72b49cd31641d20800000000000000
+      internalID: 3248328149239015365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis Petra - atlas0 #0350020_28
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 0
+        width: 285
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f0a62ceb9a21a1b0800000000000000
+      internalID: -5647185608575639309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis Petra - atlas0 #0350020_29
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 0
+        width: 298
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4482aa163d556baf0800000000000000
+      internalID: -381022752101226428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis Petra - atlas0 #0350020_30
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 0
+        width: 56
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c3aac8ffe338b800800000000000000
+      internalID: 628309253782414274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis Petra - atlas0 #0350020_31
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 80
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 379bfcf6381d5b870800000000000000
+      internalID: 8698088617782786419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis Petra - atlas0 #0350020_32
+      rect:
+        serializedVersion: 2
+        x: 1012
+        y: 0
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a69e33c7b228fd250800000000000000
+      internalID: 5971634754195548522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Mantis Petra - atlas0 #0350020_0: -3779491330593448934
+      Mantis Petra - atlas0 #0350020_1: -8358772603589514521
+      Mantis Petra - atlas0 #0350020_10: 2444341076412649984
+      Mantis Petra - atlas0 #0350020_11: -7920282603136194590
+      Mantis Petra - atlas0 #0350020_12: -4602953789287561400
+      Mantis Petra - atlas0 #0350020_13: 5168174247376409932
+      Mantis Petra - atlas0 #0350020_14: -373042574622923086
+      Mantis Petra - atlas0 #0350020_15: 1350481168132536409
+      Mantis Petra - atlas0 #0350020_16: 580137188171129851
+      Mantis Petra - atlas0 #0350020_17: 8821603818977566119
+      Mantis Petra - atlas0 #0350020_18: 4082631859125445049
+      Mantis Petra - atlas0 #0350020_19: -8386737743497446651
+      Mantis Petra - atlas0 #0350020_2: -3006829975693085029
+      Mantis Petra - atlas0 #0350020_20: 3797958223060177445
+      Mantis Petra - atlas0 #0350020_21: -8452296034625168723
+      Mantis Petra - atlas0 #0350020_22: 5418211998402437604
+      Mantis Petra - atlas0 #0350020_23: 4146273856167281639
+      Mantis Petra - atlas0 #0350020_24: -1083036103968994971
+      Mantis Petra - atlas0 #0350020_25: 6564007263113329615
+      Mantis Petra - atlas0 #0350020_26: 2041940680271839424
+      Mantis Petra - atlas0 #0350020_27: 3248328149239015365
+      Mantis Petra - atlas0 #0350020_28: -5647185608575639309
+      Mantis Petra - atlas0 #0350020_29: -381022752101226428
+      Mantis Petra - atlas0 #0350020_3: 5402457774337220623
+      Mantis Petra - atlas0 #0350020_30: 628309253782414274
+      Mantis Petra - atlas0 #0350020_31: 8698088617782786419
+      Mantis Petra - atlas0 #0350020_32: 5971634754195548522
+      Mantis Petra - atlas0 #0350020_4: 6250047273798492287
+      Mantis Petra - atlas0 #0350020_5: 2166304016161969621
+      Mantis Petra - atlas0 #0350020_6: -859315707457106374
+      Mantis Petra - atlas0 #0350020_7: 5840585046079665775
+      Mantis Petra - atlas0 #0350020_8: -5401472590606492324
+      Mantis Petra - atlas0 #0350020_9: 2639601190630552488
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

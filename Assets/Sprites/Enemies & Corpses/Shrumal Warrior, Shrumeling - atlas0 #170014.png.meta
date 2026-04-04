@@ -1,0 +1,6032 @@
+fileFormatVersion: 2
+guid: 62a5516d882638a45973eac2716ea0ea
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1374064402697951732
+    second: Shrumal Warrior, Shrumeling - atlas0 #170014_0
+  - first:
+      213: 4334565074441911624
+    second: Shrumal Warrior, Shrumeling - atlas0 #170014_1
+  - first:
+      213: -5136136521185002839
+    second: Shrumal Warrior, Shrumeling - atlas0 #170014_2
+  - first:
+      213: -2119802888164938237
+    second: Shrumal Warrior, Shrumeling - atlas0 #170014_3
+  - first:
+      213: 9073170235892125207
+    second: Shrumal Warrior, Shrumeling - atlas0 #170014_4
+  - first:
+      213: -2894647368490942303
+    second: Shrumal Warrior, Shrumeling - atlas0 #170014_5
+  - first:
+      213: -5052473771254246291
+    second: Shrumal Warrior, Shrumeling - atlas0 #170014_6
+  - first:
+      213: 5677917724862260908
+    second: Shrumal Warrior, Shrumeling - atlas0 #170014_7
+  - first:
+      213: 4512684554394852770
+    second: Shrumal Warrior, Shrumeling - atlas0 #170014_8
+  - first:
+      213: -2493098217364599346
+    second: Shrumal Warrior, Shrumeling - atlas0 #170014_9
+  - first:
+      213: -4483788979010919325
+    second: Shrumal Warrior, Shrumeling - atlas0 #170014_10
+  - first:
+      213: 3851919252551167300
+    second: Shrumal Warrior, Shrumeling - atlas0 #170014_11
+  - first:
+      213: 3007096204767642334
+    second: Shrumal Warrior, Shrumeling - atlas0 #170014_12
+  - first:
+      213: -7984101574917565708
+    second: Shrumal Warrior, Shrumeling - atlas0 #170014_13
+  - first:
+      213: -6694440803715729428
+    second: Shrumal Warrior, Shrumeling - atlas0 #170014_14
+  - first:
+      213: -4695275880869798987
+    second: Shrumal Warrior, Shrumeling - atlas0 #170014_15
+  - first:
+      213: 1968129906878894806
+    second: Shrumal Warrior, Shrumeling - atlas0 #170014_16
+  - first:
+      213: 3023894330318157029
+    second: Shrumal Warrior, Shrumeling - atlas0 #170014_17
+  - first:
+      213: -7018211440270742170
+    second: Shrumal Warrior, Shrumeling - atlas0 #170014_18
+  - first:
+      213: 8794798593416981628
+    second: Shrumal Warrior, Shrumeling - atlas0 #170014_19
+  - first:
+      213: -5446107048441620553
+    second: Shrumal Warrior, Shrumeling - atlas0 #170014_20
+  - first:
+      213: -5518809892494915127
+    second: Shrumal Warrior, Shrumeling - atlas0 #170014_21
+  - first:
+      213: 3687141511803921700
+    second: Shrumal Warrior, Shrumeling - atlas0 #170014_22
+  - first:
+      213: 4573733019229372281
+    second: Shrumal Warrior, Shrumeling - atlas0 #170014_23
+  - first:
+      213: -901087870924777132
+    second: Shrumal Warrior, Shrumeling - atlas0 #170014_24
+  - first:
+      213: -8338956246503871236
+    second: Shrumal Warrior, Shrumeling - atlas0 #170014_25
+  - first:
+      213: -7837164648415159786
+    second: Shrumal Warrior, Shrumeling - atlas0 #170014_26
+  - first:
+      213: -5500569521086163352
+    second: Shrumal Warrior, Shrumeling - atlas0 #170014_27
+  - first:
+      213: 1790308110495293566
+    second: Shrumal Warrior, Shrumeling - atlas0 #170014_28
+  - first:
+      213: 6097769105511141640
+    second: Shrumal Warrior, Shrumeling - atlas0 #170014_29
+  - first:
+      213: -6100506531014481210
+    second: Shrumal Warrior, Shrumeling - atlas0 #170014_30
+  - first:
+      213: -527926128311923103
+    second: Shrumal Warrior, Shrumeling - atlas0 #170014_31
+  - first:
+      213: 1023527750985922001
+    second: Shrumal Warrior, Shrumeling - atlas0 #170014_32
+  - first:
+      213: -3404649109562531987
+    second: Shrumal Warrior, Shrumeling - atlas0 #170014_33
+  - first:
+      213: -2509557442362106050
+    second: Shrumal Warrior, Shrumeling - atlas0 #170014_34
+  - first:
+      213: 1112476346394623713
+    second: Shrumal Warrior, Shrumeling - atlas0 #170014_35
+  - first:
+      213: 3041736155933279657
+    second: Shrumal Warrior, Shrumeling - atlas0 #170014_36
+  - first:
+      213: -3131410540647138127
+    second: Shrumal Warrior, Shrumeling - atlas0 #170014_37
+  - first:
+      213: 5922423065634738555
+    second: Shrumal Warrior, Shrumeling - atlas0 #170014_38
+  - first:
+      213: -6424177516917054033
+    second: Shrumal Warrior, Shrumeling - atlas0 #170014_39
+  - first:
+      213: 7737164283405760279
+    second: Shrumal Warrior, Shrumeling - atlas0 #170014_40
+  - first:
+      213: -6315761618328144663
+    second: Shrumal Warrior, Shrumeling - atlas0 #170014_41
+  - first:
+      213: -7838811981499019990
+    second: Shrumal Warrior, Shrumeling - atlas0 #170014_42
+  - first:
+      213: 2175613858487887504
+    second: Shrumal Warrior, Shrumeling - atlas0 #170014_43
+  - first:
+      213: 7840035584691977860
+    second: Shrumal Warrior, Shrumeling - atlas0 #170014_44
+  - first:
+      213: 208403727954190710
+    second: Shrumal Warrior, Shrumeling - atlas0 #170014_45
+  - first:
+      213: 3053331060175626490
+    second: Shrumal Warrior, Shrumeling - atlas0 #170014_46
+  - first:
+      213: -5829648984988492803
+    second: Shrumal Warrior, Shrumeling - atlas0 #170014_47
+  - first:
+      213: 7885625514680082663
+    second: Shrumal Warrior, Shrumeling - atlas0 #170014_48
+  - first:
+      213: -7051027006518357267
+    second: Shrumal Warrior, Shrumeling - atlas0 #170014_49
+  - first:
+      213: 3775542990854340546
+    second: Shrumal Warrior, Shrumeling - atlas0 #170014_50
+  - first:
+      213: -4923903506241769841
+    second: Shrumal Warrior, Shrumeling - atlas0 #170014_51
+  - first:
+      213: 2870450485309169737
+    second: Shrumal Warrior, Shrumeling - atlas0 #170014_52
+  - first:
+      213: 2818037692204418503
+    second: Shrumal Warrior, Shrumeling - atlas0 #170014_53
+  - first:
+      213: -4968143813875032030
+    second: Shrumal Warrior, Shrumeling - atlas0 #170014_54
+  - first:
+      213: -5464344555618478250
+    second: Shrumal Warrior, Shrumeling - atlas0 #170014_55
+  - first:
+      213: 7907777462972993570
+    second: Shrumal Warrior, Shrumeling - atlas0 #170014_56
+  - first:
+      213: 2698952456213740746
+    second: Shrumal Warrior, Shrumeling - atlas0 #170014_57
+  - first:
+      213: -4023550666627647090
+    second: Shrumal Warrior, Shrumeling - atlas0 #170014_58
+  - first:
+      213: 8225645111176542658
+    second: Shrumal Warrior, Shrumeling - atlas0 #170014_59
+  - first:
+      213: -8129309513340348417
+    second: Shrumal Warrior, Shrumeling - atlas0 #170014_60
+  - first:
+      213: -1580914058946378763
+    second: Shrumal Warrior, Shrumeling - atlas0 #170014_61
+  - first:
+      213: -8822964088032497149
+    second: Shrumal Warrior, Shrumeling - atlas0 #170014_62
+  - first:
+      213: 8852698505425451929
+    second: Shrumal Warrior, Shrumeling - atlas0 #170014_63
+  - first:
+      213: 3109484693092339280
+    second: Shrumal Warrior, Shrumeling - atlas0 #170014_64
+  - first:
+      213: -1215236319905616835
+    second: Shrumal Warrior, Shrumeling - atlas0 #170014_65
+  - first:
+      213: 9080721631419016210
+    second: Shrumal Warrior, Shrumeling - atlas0 #170014_66
+  - first:
+      213: -3297413243254313750
+    second: Shrumal Warrior, Shrumeling - atlas0 #170014_67
+  - first:
+      213: 5337073925378404854
+    second: Shrumal Warrior, Shrumeling - atlas0 #170014_68
+  - first:
+      213: -295480988271144048
+    second: Shrumal Warrior, Shrumeling - atlas0 #170014_69
+  - first:
+      213: 518265742646188160
+    second: Shrumal Warrior, Shrumeling - atlas0 #170014_70
+  - first:
+      213: 5081039681736509609
+    second: Shrumal Warrior, Shrumeling - atlas0 #170014_71
+  - first:
+      213: 30226311460187359
+    second: Shrumal Warrior, Shrumeling - atlas0 #170014_72
+  - first:
+      213: 4944008776619230549
+    second: Shrumal Warrior, Shrumeling - atlas0 #170014_73
+  - first:
+      213: -2023518207444707689
+    second: Shrumal Warrior, Shrumeling - atlas0 #170014_74
+  - first:
+      213: 4935299247291391173
+    second: Shrumal Warrior, Shrumeling - atlas0 #170014_75
+  - first:
+      213: 8996078681635433941
+    second: Shrumal Warrior, Shrumeling - atlas0 #170014_76
+  - first:
+      213: 4060215206418116435
+    second: Shrumal Warrior, Shrumeling - atlas0 #170014_77
+  - first:
+      213: -8278804976141433385
+    second: Shrumal Warrior, Shrumeling - atlas0 #170014_78
+  - first:
+      213: 3505140388252201623
+    second: Shrumal Warrior, Shrumeling - atlas0 #170014_79
+  - first:
+      213: -7601020503878464930
+    second: Shrumal Warrior, Shrumeling - atlas0 #170014_80
+  - first:
+      213: -8133321649332605126
+    second: Shrumal Warrior, Shrumeling - atlas0 #170014_81
+  - first:
+      213: 7600617696512338151
+    second: Shrumal Warrior, Shrumeling - atlas0 #170014_82
+  - first:
+      213: -853153743933519827
+    second: Shrumal Warrior, Shrumeling - atlas0 #170014_83
+  - first:
+      213: -7852882303799479369
+    second: Shrumal Warrior, Shrumeling - atlas0 #170014_84
+  - first:
+      213: 3096815852936393674
+    second: Shrumal Warrior, Shrumeling - atlas0 #170014_85
+  - first:
+      213: -6916491072645912160
+    second: Shrumal Warrior, Shrumeling - atlas0 #170014_86
+  - first:
+      213: 8005619345608015874
+    second: Shrumal Warrior, Shrumeling - atlas0 #170014_87
+  - first:
+      213: -5150719838175338572
+    second: Shrumal Warrior, Shrumeling - atlas0 #170014_88
+  - first:
+      213: -5097762735655691227
+    second: Shrumal Warrior, Shrumeling - atlas0 #170014_89
+  - first:
+      213: -5062607547633401963
+    second: Shrumal Warrior, Shrumeling - atlas0 #170014_90
+  - first:
+      213: 8995446242358731653
+    second: Shrumal Warrior, Shrumeling - atlas0 #170014_91
+  - first:
+      213: -7776553938489666793
+    second: Shrumal Warrior, Shrumeling - atlas0 #170014_92
+  - first:
+      213: -7241162681080732236
+    second: Shrumal Warrior, Shrumeling - atlas0 #170014_93
+  - first:
+      213: 3037933820870026406
+    second: Shrumal Warrior, Shrumeling - atlas0 #170014_94
+  - first:
+      213: 5496292577483248616
+    second: Shrumal Warrior, Shrumeling - atlas0 #170014_95
+  - first:
+      213: 6400111844684765053
+    second: Shrumal Warrior, Shrumeling - atlas0 #170014_96
+  - first:
+      213: 3595746424785436055
+    second: Shrumal Warrior, Shrumeling - atlas0 #170014_97
+  - first:
+      213: -8281779508837859007
+    second: Shrumal Warrior, Shrumeling - atlas0 #170014_98
+  - first:
+      213: -5551355597514475009
+    second: Shrumal Warrior, Shrumeling - atlas0 #170014_99
+  - first:
+      213: -7709718673936499262
+    second: Shrumal Warrior, Shrumeling - atlas0 #170014_100
+  - first:
+      213: -4841693554249421870
+    second: Shrumal Warrior, Shrumeling - atlas0 #170014_101
+  - first:
+      213: -3140517600186103767
+    second: Shrumal Warrior, Shrumeling - atlas0 #170014_102
+  - first:
+      213: 4988629802501439531
+    second: Shrumal Warrior, Shrumeling - atlas0 #170014_103
+  - first:
+      213: -5609114017298754078
+    second: Shrumal Warrior, Shrumeling - atlas0 #170014_104
+  - first:
+      213: 7329807525294286916
+    second: Shrumal Warrior, Shrumeling - atlas0 #170014_105
+  - first:
+      213: -8719766899458295219
+    second: Shrumal Warrior, Shrumeling - atlas0 #170014_106
+  - first:
+      213: -959348838991438284
+    second: Shrumal Warrior, Shrumeling - atlas0 #170014_107
+  - first:
+      213: 6698431691743035679
+    second: Shrumal Warrior, Shrumeling - atlas0 #170014_108
+  - first:
+      213: 6205201313419966316
+    second: Shrumal Warrior, Shrumeling - atlas0 #170014_109
+  - first:
+      213: -239860384567064862
+    second: Shrumal Warrior, Shrumeling - atlas0 #170014_110
+  - first:
+      213: 8602248030210797795
+    second: Shrumal Warrior, Shrumeling - atlas0 #170014_111
+  - first:
+      213: -2422966575191732487
+    second: Shrumal Warrior, Shrumeling - atlas0 #170014_112
+  - first:
+      213: 6430683315641905290
+    second: Shrumal Warrior, Shrumeling - atlas0 #170014_113
+  - first:
+      213: 9091450325290444126
+    second: Shrumal Warrior, Shrumeling - atlas0 #170014_114
+  - first:
+      213: -5670049603525855455
+    second: Shrumal Warrior, Shrumeling - atlas0 #170014_115
+  - first:
+      213: -6229126227488151991
+    second: Shrumal Warrior, Shrumeling - atlas0 #170014_116
+  - first:
+      213: 6332162378902882003
+    second: Shrumal Warrior, Shrumeling - atlas0 #170014_117
+  - first:
+      213: -4380833789523083107
+    second: Shrumal Warrior, Shrumeling - atlas0 #170014_118
+  - first:
+      213: -1978822777929915101
+    second: Shrumal Warrior, Shrumeling - atlas0 #170014_119
+  - first:
+      213: -3987415295760385924
+    second: Shrumal Warrior, Shrumeling - atlas0 #170014_120
+  - first:
+      213: 3657668308355489756
+    second: Shrumal Warrior, Shrumeling - atlas0 #170014_121
+  - first:
+      213: 7275280320476339968
+    second: Shrumal Warrior, Shrumeling - atlas0 #170014_122
+  - first:
+      213: -1489727282778587488
+    second: Shrumal Warrior, Shrumeling - atlas0 #170014_123
+  - first:
+      213: -1489071835161215755
+    second: Shrumal Warrior, Shrumeling - atlas0 #170014_124
+  - first:
+      213: -811753348727531902
+    second: Shrumal Warrior, Shrumeling - atlas0 #170014_125
+  - first:
+      213: -3936615147162285142
+    second: Shrumal Warrior, Shrumeling - atlas0 #170014_126
+  - first:
+      213: 4794402423074079546
+    second: Shrumal Warrior, Shrumeling - atlas0 #170014_127
+  - first:
+      213: 51777994403319343
+    second: Shrumal Warrior, Shrumeling - atlas0 #170014_128
+  - first:
+      213: -1035093763242694553
+    second: Shrumal Warrior, Shrumeling - atlas0 #170014_129
+  - first:
+      213: 1915374883189303149
+    second: Shrumal Warrior, Shrumeling - atlas0 #170014_130
+  - first:
+      213: -3323981047823424980
+    second: Shrumal Warrior, Shrumeling - atlas0 #170014_131
+  - first:
+      213: -3691439401097486407
+    second: Shrumal Warrior, Shrumeling - atlas0 #170014_132
+  - first:
+      213: -5798285020192945186
+    second: Shrumal Warrior, Shrumeling - atlas0 #170014_133
+  - first:
+      213: 7142701420141845838
+    second: Shrumal Warrior, Shrumeling - atlas0 #170014_134
+  - first:
+      213: 524189737634088403
+    second: Shrumal Warrior, Shrumeling - atlas0 #170014_135
+  - first:
+      213: -2436612052145185631
+    second: Shrumal Warrior, Shrumeling - atlas0 #170014_136
+  - first:
+      213: 6890075316458993008
+    second: Shrumal Warrior, Shrumeling - atlas0 #170014_137
+  - first:
+      213: 4107277133658266942
+    second: Shrumal Warrior, Shrumeling - atlas0 #170014_138
+  - first:
+      213: -3299831673015251807
+    second: Shrumal Warrior, Shrumeling - atlas0 #170014_139
+  - first:
+      213: 3075700754969456995
+    second: Shrumal Warrior, Shrumeling - atlas0 #170014_140
+  - first:
+      213: 6143125617763447243
+    second: Shrumal Warrior, Shrumeling - atlas0 #170014_141
+  - first:
+      213: -3038119227965210214
+    second: Shrumal Warrior, Shrumeling - atlas0 #170014_142
+  - first:
+      213: -5159169866477806798
+    second: Shrumal Warrior, Shrumeling - atlas0 #170014_143
+  - first:
+      213: -6762281723460570982
+    second: Shrumal Warrior, Shrumeling - atlas0 #170014_144
+  - first:
+      213: -7759247380767938511
+    second: Shrumal Warrior, Shrumeling - atlas0 #170014_145
+  - first:
+      213: -4219891711871228702
+    second: Shrumal Warrior, Shrumeling - atlas0 #170014_146
+  - first:
+      213: -3265847842458279957
+    second: Shrumal Warrior, Shrumeling - atlas0 #170014_147
+  - first:
+      213: 6660495957263657476
+    second: Shrumal Warrior, Shrumeling - atlas0 #170014_148
+  - first:
+      213: -5878607456006235921
+    second: Shrumal Warrior, Shrumeling - atlas0 #170014_149
+  - first:
+      213: -4868282487178415371
+    second: Shrumal Warrior, Shrumeling - atlas0 #170014_150
+  - first:
+      213: 6663827426738934908
+    second: Shrumal Warrior, Shrumeling - atlas0 #170014_151
+  - first:
+      213: -4645439712130593156
+    second: Shrumal Warrior, Shrumeling - atlas0 #170014_152
+  - first:
+      213: 4820121979567063432
+    second: Shrumal Warrior, Shrumeling - atlas0 #170014_153
+  - first:
+      213: 5867865828215166808
+    second: Shrumal Warrior, Shrumeling - atlas0 #170014_154
+  - first:
+      213: -2824562025676667392
+    second: Shrumal Warrior, Shrumeling - atlas0 #170014_155
+  - first:
+      213: 147453702439447770
+    second: Shrumal Warrior, Shrumeling - atlas0 #170014_156
+  - first:
+      213: 6212493948353781612
+    second: Shrumal Warrior, Shrumeling - atlas0 #170014_157
+  - first:
+      213: -583767870811207842
+    second: Shrumal Warrior, Shrumeling - atlas0 #170014_158
+  - first:
+      213: -5744053197315846080
+    second: Shrumal Warrior, Shrumeling - atlas0 #170014_159
+  - first:
+      213: -8090397720079537576
+    second: Shrumal Warrior, Shrumeling - atlas0 #170014_160
+  - first:
+      213: -8168199097104119236
+    second: Shrumal Warrior, Shrumeling - atlas0 #170014_161
+  - first:
+      213: 3388185367060760558
+    second: Shrumal Warrior, Shrumeling - atlas0 #170014_162
+  - first:
+      213: -4405681647977046962
+    second: Shrumal Warrior, Shrumeling - atlas0 #170014_163
+  - first:
+      213: 6752839577690627195
+    second: Shrumal Warrior, Shrumeling - atlas0 #170014_164
+  - first:
+      213: 6715010278059958386
+    second: Shrumal Warrior, Shrumeling - atlas0 #170014_165
+  - first:
+      213: -5566091557232595756
+    second: Shrumal Warrior, Shrumeling - atlas0 #170014_166
+  - first:
+      213: -2406748557482911313
+    second: Shrumal Warrior, Shrumeling - atlas0 #170014_167
+  - first:
+      213: -1095332947286697207
+    second: Shrumal Warrior, Shrumeling - atlas0 #170014_168
+  - first:
+      213: 2251229261193727671
+    second: Shrumal Warrior, Shrumeling - atlas0 #170014_169
+  - first:
+      213: 2372026461029144932
+    second: Shrumal Warrior, Shrumeling - atlas0 #170014_170
+  - first:
+      213: -337948736343808580
+    second: Shrumal Warrior, Shrumeling - atlas0 #170014_171
+  - first:
+      213: 6634918699966476967
+    second: Shrumal Warrior, Shrumeling - atlas0 #170014_172
+  - first:
+      213: 1533976078904653687
+    second: Shrumal Warrior, Shrumeling - atlas0 #170014_173
+  - first:
+      213: 1888544943994811524
+    second: Shrumal Warrior, Shrumeling - atlas0 #170014_174
+  - first:
+      213: 4379487619049985120
+    second: Shrumal Warrior, Shrumeling - atlas0 #170014_175
+  - first:
+      213: 8662583931498059932
+    second: Shrumal Warrior, Shrumeling - atlas0 #170014_176
+  - first:
+      213: -7128431010595032693
+    second: Shrumal Warrior, Shrumeling - atlas0 #170014_177
+  - first:
+      213: -2836636243146087591
+    second: Shrumal Warrior, Shrumeling - atlas0 #170014_178
+  - first:
+      213: 977164241572900475
+    second: Shrumal Warrior, Shrumeling - atlas0 #170014_179
+  - first:
+      213: -4264190662565452060
+    second: Shrumal Warrior, Shrumeling - atlas0 #170014_180
+  - first:
+      213: 7610020652954134771
+    second: Shrumal Warrior, Shrumeling - atlas0 #170014_181
+  - first:
+      213: 5241335027927579130
+    second: Shrumal Warrior, Shrumeling - atlas0 #170014_182
+  - first:
+      213: -3968331783197057121
+    second: Shrumal Warrior, Shrumeling - atlas0 #170014_183
+  - first:
+      213: 7190928613023658064
+    second: Shrumal Warrior, Shrumeling - atlas0 #170014_184
+  - first:
+      213: -7927755214794782323
+    second: Shrumal Warrior, Shrumeling - atlas0 #170014_185
+  - first:
+      213: -7990638984867881360
+    second: Shrumal Warrior, Shrumeling - atlas0 #170014_186
+  - first:
+      213: 2927829167596761431
+    second: Shrumal Warrior, Shrumeling - atlas0 #170014_187
+  - first:
+      213: -1937042974392827442
+    second: Shrumal Warrior, Shrumeling - atlas0 #170014_188
+  - first:
+      213: 6464821819866618039
+    second: Shrumal Warrior, Shrumeling - atlas0 #170014_189
+  - first:
+      213: -452939995786949751
+    second: Shrumal Warrior, Shrumeling - atlas0 #170014_190
+  - first:
+      213: 4712138933710751864
+    second: Shrumal Warrior, Shrumeling - atlas0 #170014_191
+  - first:
+      213: 313571219355433274
+    second: Shrumal Warrior, Shrumeling - atlas0 #170014_192
+  - first:
+      213: 5897981805741474944
+    second: Shrumal Warrior, Shrumeling - atlas0 #170014_193
+  - first:
+      213: 8777820874364973418
+    second: Shrumal Warrior, Shrumeling - atlas0 #170014_194
+  - first:
+      213: 4561273056208991246
+    second: Shrumal Warrior, Shrumeling - atlas0 #170014_195
+  - first:
+      213: 4954489461500885306
+    second: Shrumal Warrior, Shrumeling - atlas0 #170014_196
+  - first:
+      213: -5954981067385601080
+    second: Shrumal Warrior, Shrumeling - atlas0 #170014_197
+  - first:
+      213: 4968628859020558247
+    second: Shrumal Warrior, Shrumeling - atlas0 #170014_198
+  - first:
+      213: -9028148350780469098
+    second: Shrumal Warrior, Shrumeling - atlas0 #170014_199
+  - first:
+      213: 3869862604712525984
+    second: Shrumal Warrior, Shrumeling - atlas0 #170014_200
+  - first:
+      213: -4013078590940110467
+    second: Shrumal Warrior, Shrumeling - atlas0 #170014_201
+  - first:
+      213: -8608209558839208121
+    second: Shrumal Warrior, Shrumeling - atlas0 #170014_202
+  - first:
+      213: 3622960909168507105
+    second: Shrumal Warrior, Shrumeling - atlas0 #170014_203
+  - first:
+      213: -7667481135376820725
+    second: Shrumal Warrior, Shrumeling - atlas0 #170014_204
+  - first:
+      213: 5396330259614953575
+    second: Shrumal Warrior, Shrumeling - atlas0 #170014_205
+  - first:
+      213: -2322778761399152564
+    second: Shrumal Warrior, Shrumeling - atlas0 #170014_206
+  - first:
+      213: 7241394579418620176
+    second: Shrumal Warrior, Shrumeling - atlas0 #170014_207
+  - first:
+      213: -8052020072423447119
+    second: Shrumal Warrior, Shrumeling - atlas0 #170014_208
+  - first:
+      213: 5623483714946382092
+    second: Shrumal Warrior, Shrumeling - atlas0 #170014_209
+  - first:
+      213: 4353224942365425229
+    second: Shrumal Warrior, Shrumeling - atlas0 #170014_210
+  - first:
+      213: -1302160666956195666
+    second: Shrumal Warrior, Shrumeling - atlas0 #170014_211
+  - first:
+      213: 1888304207318270349
+    second: Shrumal Warrior, Shrumeling - atlas0 #170014_212
+  - first:
+      213: -5455776535201454074
+    second: Shrumal Warrior, Shrumeling - atlas0 #170014_213
+  - first:
+      213: 3967495422478907517
+    second: Shrumal Warrior, Shrumeling - atlas0 #170014_214
+  - first:
+      213: 403016663032662733
+    second: Shrumal Warrior, Shrumeling - atlas0 #170014_215
+  - first:
+      213: -548022201573832490
+    second: Shrumal Warrior, Shrumeling - atlas0 #170014_216
+  - first:
+      213: -5382606732300870724
+    second: Shrumal Warrior, Shrumeling - atlas0 #170014_217
+  - first:
+      213: -8111954275303596838
+    second: Shrumal Warrior, Shrumeling - atlas0 #170014_218
+  - first:
+      213: 607445429141607439
+    second: Shrumal Warrior, Shrumeling - atlas0 #170014_219
+  - first:
+      213: 5151808888223323869
+    second: Shrumal Warrior, Shrumeling - atlas0 #170014_220
+  - first:
+      213: -8385509724952216354
+    second: Shrumal Warrior, Shrumeling - atlas0 #170014_221
+  - first:
+      213: -7336948259498297400
+    second: Shrumal Warrior, Shrumeling - atlas0 #170014_222
+  - first:
+      213: 8187481188538707829
+    second: Shrumal Warrior, Shrumeling - atlas0 #170014_223
+  - first:
+      213: 3181527914837686762
+    second: Shrumal Warrior, Shrumeling - atlas0 #170014_224
+  - first:
+      213: 6519989169399087019
+    second: Shrumal Warrior, Shrumeling - atlas0 #170014_225
+  - first:
+      213: -5204994953297637223
+    second: Shrumal Warrior, Shrumeling - atlas0 #170014_226
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Shrumal Warrior, Shrumeling - atlas0 #170014_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1951
+        width: 106
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f9125d4b48a11310800000000000000
+      internalID: 1374064402697951732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shrumal Warrior, Shrumeling - atlas0 #170014_1
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 1947
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84dbced38f7772c30800000000000000
+      internalID: 4334565074441911624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shrumal Warrior, Shrumeling - atlas0 #170014_2
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 1951
+        width: 105
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9aa7bd0eb07c8b8b0800000000000000
+      internalID: -5136136521185002839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shrumal Warrior, Shrumeling - atlas0 #170014_3
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 1947
+        width: 110
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30ee4112182f492e0800000000000000
+      internalID: -2119802888164938237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shrumal Warrior, Shrumeling - atlas0 #170014_4
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 1952
+        width: 108
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71e4ff002406aed70800000000000000
+      internalID: 9073170235892125207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shrumal Warrior, Shrumeling - atlas0 #170014_5
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 1947
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a0041b0e8524d7d0800000000000000
+      internalID: -2894647368490942303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shrumal Warrior, Shrumeling - atlas0 #170014_6
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 1895
+        width: 90
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d64996bcfd102e9b0800000000000000
+      internalID: -5052473771254246291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shrumal Warrior, Shrumeling - atlas0 #170014_7
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 1845
+        width: 77
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca62f4e76140cce40800000000000000
+      internalID: 5677917724862260908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shrumal Warrior, Shrumeling - atlas0 #170014_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1433
+        width: 199
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2add81861b640ae30800000000000000
+      internalID: 4512684554394852770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shrumal Warrior, Shrumeling - atlas0 #170014_9
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 1437
+        width: 218
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecdc2db516cb66dd0800000000000000
+      internalID: -2493098217364599346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shrumal Warrior, Shrumeling - atlas0 #170014_10
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 1790
+        width: 105
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3642e320ea166c1c0800000000000000
+      internalID: -4483788979010919325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shrumal Warrior, Shrumeling - atlas0 #170014_11
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 1751
+        width: 92
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44deccfd624c47530800000000000000
+      internalID: 3851919252551167300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shrumal Warrior, Shrumeling - atlas0 #170014_12
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 1728
+        width: 146
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed2c992e01a5bb920800000000000000
+      internalID: 3007096204767642334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shrumal Warrior, Shrumeling - atlas0 #170014_13
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 1824
+        width: 69
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f2d6605be5c23190800000000000000
+      internalID: -7984101574917565708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shrumal Warrior, Shrumeling - atlas0 #170014_14
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 863
+        width: 470
+        height: 791
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce7b4a4ce819813a0800000000000000
+      internalID: -6694440803715729428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shrumal Warrior, Shrumeling - atlas0 #170014_15
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 1652
+        width: 90
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bbdb46867707deb0800000000000000
+      internalID: -4695275880869798987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shrumal Warrior, Shrumeling - atlas0 #170014_16
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 1538
+        width: 244
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d2d65309b3305b10800000000000000
+      internalID: 1968129906878894806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shrumal Warrior, Shrumeling - atlas0 #170014_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1238
+        width: 207
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e47ee44fd707f920800000000000000
+      internalID: 3023894330318157029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shrumal Warrior, Shrumeling - atlas0 #170014_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1045
+        width: 215
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66d641011ed4a9e90800000000000000
+      internalID: -7018211440270742170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shrumal Warrior, Shrumeling - atlas0 #170014_19
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 1198
+        width: 412
+        height: 342
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7c69bf49b66d0a70800000000000000
+      internalID: 8794798593416981628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shrumal Warrior, Shrumeling - atlas0 #170014_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 823
+        width: 218
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b7d2e08e7a8b64b0800000000000000
+      internalID: -5446107048441620553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shrumal Warrior, Shrumeling - atlas0 #170014_21
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 811
+        width: 217
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c9cde684af3963b0800000000000000
+      internalID: -5518809892494915127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shrumal Warrior, Shrumeling - atlas0 #170014_22
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 1015
+        width: 225
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4256baf6bab5b2330800000000000000
+      internalID: 3687141511803921700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shrumal Warrior, Shrumeling - atlas0 #170014_23
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 825
+        width: 208
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97f34a4c2f9297f30800000000000000
+      internalID: 4573733019229372281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shrumal Warrior, Shrumeling - atlas0 #170014_24
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 803
+        width: 121
+        height: 409
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4599d160b51be73f0800000000000000
+      internalID: -901087870924777132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shrumal Warrior, Shrumeling - atlas0 #170014_25
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 879
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfcac99b973164c80800000000000000
+      internalID: -8338956246503871236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shrumal Warrior, Shrumeling - atlas0 #170014_26
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 880
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61a17fc764ccc3390800000000000000
+      internalID: -7837164648415159786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shrumal Warrior, Shrumeling - atlas0 #170014_27
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 866
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8669151f92d0aa3b0800000000000000
+      internalID: -5500569521086163352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shrumal Warrior, Shrumeling - atlas0 #170014_28
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 670
+        width: 201
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e70a294bdb378d810800000000000000
+      internalID: 1790308110495293566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shrumal Warrior, Shrumeling - atlas0 #170014_29
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 852
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 801d750b1b0af9450800000000000000
+      internalID: 6097769105511141640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shrumal Warrior, Shrumeling - atlas0 #170014_30
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 853
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ca6ee4c1a5a65ba0800000000000000
+      internalID: -6100506531014481210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shrumal Warrior, Shrumeling - atlas0 #170014_31
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 852
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16e025ebbfd6ca8f0800000000000000
+      internalID: -527926128311923103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shrumal Warrior, Shrumeling - atlas0 #170014_32
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 847
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d5354f011d443e00800000000000000
+      internalID: 1023527750985922001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shrumal Warrior, Shrumeling - atlas0 #170014_33
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 843
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6fdca76ca140c0d0800000000000000
+      internalID: -3404649109562531987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shrumal Warrior, Shrumeling - atlas0 #170014_34
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 821
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3f91986dc24c2dd0800000000000000
+      internalID: -2509557442362106050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shrumal Warrior, Shrumeling - atlas0 #170014_35
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 823
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ee30e7c75f407f00800000000000000
+      internalID: 1112476346394623713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shrumal Warrior, Shrumeling - atlas0 #170014_36
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 822
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a58dd20bea663a20800000000000000
+      internalID: 3041736155933279657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shrumal Warrior, Shrumeling - atlas0 #170014_37
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 829
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bc30d644befa84d0800000000000000
+      internalID: -3131410540647138127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shrumal Warrior, Shrumeling - atlas0 #170014_38
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 832
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b711dbc566ca03250800000000000000
+      internalID: 5922423065634738555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shrumal Warrior, Shrumeling - atlas0 #170014_39
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 826
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa5ab1ac59cb8d6a0800000000000000
+      internalID: -6424177516917054033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shrumal Warrior, Shrumeling - atlas0 #170014_40
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 823
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7177d392cedef5b60800000000000000
+      internalID: 7737164283405760279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shrumal Warrior, Shrumeling - atlas0 #170014_41
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 810
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e4318d3548e958a0800000000000000
+      internalID: -6315761618328144663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shrumal Warrior, Shrumeling - atlas0 #170014_42
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 821
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2dccadd802f63390800000000000000
+      internalID: -7838811981499019990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shrumal Warrior, Shrumeling - atlas0 #170014_43
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 788
+        width: 25
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09666930745513e10800000000000000
+      internalID: 2175613858487887504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shrumal Warrior, Shrumeling - atlas0 #170014_44
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 810
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48ebcf373d66dcc60800000000000000
+      internalID: 7840035584691977860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shrumal Warrior, Shrumeling - atlas0 #170014_45
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 784
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 671a39e161664e200800000000000000
+      internalID: 208403727954190710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shrumal Warrior, Shrumeling - atlas0 #170014_46
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 795
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af06f670c6c9f5a20800000000000000
+      internalID: 3053331060175626490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shrumal Warrior, Shrumeling - atlas0 #170014_47
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 807
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfb5b8c822de81fa0800000000000000
+      internalID: -5829648984988492803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shrumal Warrior, Shrumeling - atlas0 #170014_48
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 811
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e0634230ae5f6d60800000000000000
+      internalID: 7885625514680082663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shrumal Warrior, Shrumeling - atlas0 #170014_49
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 818
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de299c6ab48b52e90800000000000000
+      internalID: -7051027006518357267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shrumal Warrior, Shrumeling - atlas0 #170014_50
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 803
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cfb614b85c656430800000000000000
+      internalID: 3775542990854340546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shrumal Warrior, Shrumeling - atlas0 #170014_51
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 805
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8ea82a59d7caabb0800000000000000
+      internalID: -4923903506241769841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shrumal Warrior, Shrumeling - atlas0 #170014_52
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 815
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94063321283e5d720800000000000000
+      internalID: 2870450485309169737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shrumal Warrior, Shrumeling - atlas0 #170014_53
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 810
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c58187b95eab1720800000000000000
+      internalID: 2818037692204418503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shrumal Warrior, Shrumeling - atlas0 #170014_54
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 803
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 220acec068b9d0bb0800000000000000
+      internalID: -4968143813875032030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shrumal Warrior, Shrumeling - atlas0 #170014_55
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 810
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6575508f39fba24b0800000000000000
+      internalID: -5464344555618478250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shrumal Warrior, Shrumeling - atlas0 #170014_56
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 601
+        width: 217
+        height: 211
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 220585394b11ebd60800000000000000
+      internalID: 7907777462972993570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shrumal Warrior, Shrumeling - atlas0 #170014_57
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 809
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: accb94295fa947520800000000000000
+      internalID: 2698952456213740746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shrumal Warrior, Shrumeling - atlas0 #170014_58
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 817
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e897fd38cf97928c0800000000000000
+      internalID: -4023550666627647090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shrumal Warrior, Shrumeling - atlas0 #170014_59
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 803
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c93b14b5ac572270800000000000000
+      internalID: 8225645111176542658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shrumal Warrior, Shrumeling - atlas0 #170014_60
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 811
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff7152c8114ee2f80800000000000000
+      internalID: -8129309513340348417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shrumal Warrior, Shrumeling - atlas0 #170014_61
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 806
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f384181a077f0ae0800000000000000
+      internalID: -1580914058946378763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shrumal Warrior, Shrumeling - atlas0 #170014_62
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 816
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3027bc278e88e8580800000000000000
+      internalID: -8822964088032497149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shrumal Warrior, Shrumeling - atlas0 #170014_63
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 813
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99bf387136a1bda70800000000000000
+      internalID: 8852698505425451929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shrumal Warrior, Shrumeling - atlas0 #170014_64
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 806
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05e88468adb172b20800000000000000
+      internalID: 3109484693092339280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shrumal Warrior, Shrumeling - atlas0 #170014_65
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 810
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3c6fd1710d922fe0800000000000000
+      internalID: -1215236319905616835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shrumal Warrior, Shrumeling - atlas0 #170014_66
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 808
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 214afe84634350e70800000000000000
+      internalID: 9080721631419016210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shrumal Warrior, Shrumeling - atlas0 #170014_67
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 610
+        width: 221
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aec682e202c3d32d0800000000000000
+      internalID: -3297413243254313750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shrumal Warrior, Shrumeling - atlas0 #170014_68
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 629
+        width: 196
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f1fd264578111a40800000000000000
+      internalID: 5337073925378404854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shrumal Warrior, Shrumeling - atlas0 #170014_69
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 797
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09397305b9d36ebf0800000000000000
+      internalID: -295480988271144048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shrumal Warrior, Shrumeling - atlas0 #170014_70
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 799
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0881ea172ff313700800000000000000
+      internalID: 518265742646188160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shrumal Warrior, Shrumeling - atlas0 #170014_71
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 796
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a881978baa738640800000000000000
+      internalID: 5081039681736509609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shrumal Warrior, Shrumeling - atlas0 #170014_72
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 610
+        width: 120
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdc647d8ba26b6000800000000000000
+      internalID: 30226311460187359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shrumal Warrior, Shrumeling - atlas0 #170014_73
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 783
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5558dc0b9c5ac9440800000000000000
+      internalID: 4944008776619230549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shrumal Warrior, Shrumeling - atlas0 #170014_74
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 782
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79619b059e40be3e0800000000000000
+      internalID: -2023518207444707689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shrumal Warrior, Shrumeling - atlas0 #170014_75
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 779
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cc5e0f5484bd7440800000000000000
+      internalID: 4935299247291391173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shrumal Warrior, Shrumeling - atlas0 #170014_76
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 774
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dd285ec5ed78dc70800000000000000
+      internalID: 8996078681635433941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shrumal Warrior, Shrumeling - atlas0 #170014_77
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 773
+        width: 9
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35fe032e738c85830800000000000000
+      internalID: 4060215206418116435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shrumal Warrior, Shrumeling - atlas0 #170014_78
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 728
+        width: 20
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d58a58bcb6cb1d80800000000000000
+      internalID: -8278804976141433385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shrumal Warrior, Shrumeling - atlas0 #170014_79
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 763
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 792b5a1bc92c4a030800000000000000
+      internalID: 3505140388252201623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shrumal Warrior, Shrumeling - atlas0 #170014_80
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 751
+        width: 11
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5a0dd7af10c38690800000000000000
+      internalID: -7601020503878464930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shrumal Warrior, Shrumeling - atlas0 #170014_81
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 770
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3f29875d03a02f80800000000000000
+      internalID: -8133321649332605126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shrumal Warrior, Shrumeling - atlas0 #170014_82
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 749
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e86a227681da7960800000000000000
+      internalID: 7600617696512338151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shrumal Warrior, Shrumeling - atlas0 #170014_83
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 738
+        width: 12
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d284c0aa03df824f0800000000000000
+      internalID: -853153743933519827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shrumal Warrior, Shrumeling - atlas0 #170014_84
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 762
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b3b41ba625f40390800000000000000
+      internalID: -7852882303799479369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shrumal Warrior, Shrumeling - atlas0 #170014_85
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 742
+        width: 6
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac372115c991afa20800000000000000
+      internalID: 3096815852936393674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shrumal Warrior, Shrumeling - atlas0 #170014_86
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 751
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a9a7cab300b300a0800000000000000
+      internalID: -6916491072645912160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shrumal Warrior, Shrumeling - atlas0 #170014_87
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 728
+        width: 11
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20006f5116ca91f60800000000000000
+      internalID: 8005619345608015874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shrumal Warrior, Shrumeling - atlas0 #170014_88
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 750
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bf500cc897f488b0800000000000000
+      internalID: -5150719838175338572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shrumal Warrior, Shrumeling - atlas0 #170014_89
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 699
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52cd4001dcb1149b0800000000000000
+      internalID: -5097762735655691227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shrumal Warrior, Shrumeling - atlas0 #170014_90
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 702
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59f791e12410eb9b0800000000000000
+      internalID: -5062607547633401963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shrumal Warrior, Shrumeling - atlas0 #170014_91
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 705
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5832aef82be36dc70800000000000000
+      internalID: 8995446242358731653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shrumal Warrior, Shrumeling - atlas0 #170014_92
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 705
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71398a71561241490800000000000000
+      internalID: -7776553938489666793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shrumal Warrior, Shrumeling - atlas0 #170014_93
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 709
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b52e5928e8328b90800000000000000
+      internalID: -7241162681080732236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shrumal Warrior, Shrumeling - atlas0 #170014_94
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 697
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a46a14e6b8e82a20800000000000000
+      internalID: 3037933820870026406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shrumal Warrior, Shrumeling - atlas0 #170014_95
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 692
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e351868af0c64c40800000000000000
+      internalID: 5496292577483248616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shrumal Warrior, Shrumeling - atlas0 #170014_96
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 695
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d77943140d3c1d850800000000000000
+      internalID: 6400111844684765053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shrumal Warrior, Shrumeling - atlas0 #170014_97
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 691
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79d77bf7258a6e130800000000000000
+      internalID: 3595746424785436055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shrumal Warrior, Shrumeling - atlas0 #170014_98
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 673
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1414c9b5a65311d80800000000000000
+      internalID: -8281779508837859007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shrumal Warrior, Shrumeling - atlas0 #170014_99
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 678
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff9f5441f7f95f2b0800000000000000
+      internalID: -5551355597514475009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shrumal Warrior, Shrumeling - atlas0 #170014_100
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 679
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cdb1d1c6b3910590800000000000000
+      internalID: -7709718673936499262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shrumal Warrior, Shrumeling - atlas0 #170014_101
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 682
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2db2aa36d59deccb0800000000000000
+      internalID: -4841693554249421870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shrumal Warrior, Shrumeling - atlas0 #170014_102
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 683
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9288b0eb1e3aa64d0800000000000000
+      internalID: -3140517600186103767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shrumal Warrior, Shrumeling - atlas0 #170014_103
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 687
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b20860edf5c2b3540800000000000000
+      internalID: 4988629802501439531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shrumal Warrior, Shrumeling - atlas0 #170014_104
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 666
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e55e36058c6822b0800000000000000
+      internalID: -5609114017298754078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shrumal Warrior, Shrumeling - atlas0 #170014_105
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 667
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 448a629fb15b8b560800000000000000
+      internalID: 7329807525294286916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shrumal Warrior, Shrumeling - atlas0 #170014_106
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 675
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4a3499443a2df680800000000000000
+      internalID: -8719766899458295219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shrumal Warrior, Shrumeling - atlas0 #170014_107
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 679
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43e5b345055bfa2f0800000000000000
+      internalID: -959348838991438284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shrumal Warrior, Shrumeling - atlas0 #170014_108
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 670
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f110092422c95fc50800000000000000
+      internalID: 6698431691743035679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shrumal Warrior, Shrumeling - atlas0 #170014_109
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 661
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c673f2ec7bd4d1650800000000000000
+      internalID: 6205201313419966316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shrumal Warrior, Shrumeling - atlas0 #170014_110
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 665
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e601364048dbacf0800000000000000
+      internalID: -239860384567064862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shrumal Warrior, Shrumeling - atlas0 #170014_111
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 660
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e0b48eb103516770800000000000000
+      internalID: 8602248030210797795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shrumal Warrior, Shrumeling - atlas0 #170014_112
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 664
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fe4d0fbcb4ef5ed0800000000000000
+      internalID: -2422966575191732487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shrumal Warrior, Shrumeling - atlas0 #170014_113
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 665
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a80fdd387606e3950800000000000000
+      internalID: 6430683315641905290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shrumal Warrior, Shrumeling - atlas0 #170014_114
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 668
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e55eb0cf6e15b2e70800000000000000
+      internalID: 9091450325290444126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shrumal Warrior, Shrumeling - atlas0 #170014_115
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 670
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1273ff24defef41b0800000000000000
+      internalID: -5670049603525855455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shrumal Warrior, Shrumeling - atlas0 #170014_116
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 658
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 946ef7d03b2bd89a0800000000000000
+      internalID: -6229126227488151991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shrumal Warrior, Shrumeling - atlas0 #170014_117
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 649
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d64996622c50e750800000000000000
+      internalID: 6332162378902882003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shrumal Warrior, Shrumeling - atlas0 #170014_118
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 656
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d90c27b01e62433c0800000000000000
+      internalID: -4380833789523083107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shrumal Warrior, Shrumeling - atlas0 #170014_119
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 650
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3252900fa2fc984e0800000000000000
+      internalID: -1978822777929915101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shrumal Warrior, Shrumeling - atlas0 #170014_120
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 629
+        width: 66
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c783e3c2aead9a8c0800000000000000
+      internalID: -3987415295760385924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shrumal Warrior, Shrumeling - atlas0 #170014_121
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 641
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdf9bb182f5a2c230800000000000000
+      internalID: 3657668308355489756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shrumal Warrior, Shrumeling - atlas0 #170014_122
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 634
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00fd167c7ecf6f460800000000000000
+      internalID: 7275280320476339968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shrumal Warrior, Shrumeling - atlas0 #170014_123
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 630
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ae36c1edec635be0800000000000000
+      internalID: -1489727282778587488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shrumal Warrior, Shrumeling - atlas0 #170014_124
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 637
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fc3d2c2e01c55be0800000000000000
+      internalID: -1489071835161215755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shrumal Warrior, Shrumeling - atlas0 #170014_125
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 610
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2869cd351a21cb4f0800000000000000
+      internalID: -811753348727531902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shrumal Warrior, Shrumeling - atlas0 #170014_126
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 617
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aab48f771655e59c0800000000000000
+      internalID: -3936615147162285142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shrumal Warrior, Shrumeling - atlas0 #170014_127
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 628
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a334a991a93298240800000000000000
+      internalID: 4794402423074079546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shrumal Warrior, Shrumeling - atlas0 #170014_128
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 618
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2e8793cfc3f7b000800000000000000
+      internalID: 51777994403319343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shrumal Warrior, Shrumeling - atlas0 #170014_129
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 608
+        width: 32
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76862bcd4bb92a1f0800000000000000
+      internalID: -1035093763242694553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shrumal Warrior, Shrumeling - atlas0 #170014_130
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 626
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d672434ee47c49a10800000000000000
+      internalID: 1915374883189303149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shrumal Warrior, Shrumeling - atlas0 #170014_131
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 619
+        width: 21
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c22aa5429d8ded1d0800000000000000
+      internalID: -3323981047823424980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shrumal Warrior, Shrumeling - atlas0 #170014_132
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 628
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bf14bb3c6f55ccc0800000000000000
+      internalID: -3691439401097486407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shrumal Warrior, Shrumeling - atlas0 #170014_133
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 619
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edb4ee8ae7a588fa0800000000000000
+      internalID: -5798285020192945186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shrumal Warrior, Shrumeling - atlas0 #170014_134
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 621
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4d9b341919ff1360800000000000000
+      internalID: 7142701420141845838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shrumal Warrior, Shrumeling - atlas0 #170014_135
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 626
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d5c5920acb464700800000000000000
+      internalID: 524189737634088403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shrumal Warrior, Shrumeling - atlas0 #170014_136
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 605
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ac53709f3a6f2ed0800000000000000
+      internalID: -2436612052145185631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shrumal Warrior, Shrumeling - atlas0 #170014_137
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 617
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 075b931cef67e9f50800000000000000
+      internalID: 6890075316458993008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shrumal Warrior, Shrumeling - atlas0 #170014_138
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 610
+        width: 23
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3d19c1bacafff830800000000000000
+      internalID: 4107277133658266942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shrumal Warrior, Shrumeling - atlas0 #170014_139
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 612
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1acc75f9394a432d0800000000000000
+      internalID: -3299831673015251807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shrumal Warrior, Shrumeling - atlas0 #170014_140
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 600
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 361fa577a851faa20800000000000000
+      internalID: 3075700754969456995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shrumal Warrior, Shrumeling - atlas0 #170014_141
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 604
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc17461a334c04550800000000000000
+      internalID: 6143125617763447243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shrumal Warrior, Shrumeling - atlas0 #170014_142
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 616
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9189d7a8ae66d5d0800000000000000
+      internalID: -3038119227965210214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shrumal Warrior, Shrumeling - atlas0 #170014_143
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 607
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23bd0b44752f668b0800000000000000
+      internalID: -5159169866477806798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shrumal Warrior, Shrumeling - atlas0 #170014_144
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 617
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a903402c99c8722a0800000000000000
+      internalID: -6762281723460570982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shrumal Warrior, Shrumeling - atlas0 #170014_145
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 619
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13862f01e9d915490800000000000000
+      internalID: -7759247380767938511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shrumal Warrior, Shrumeling - atlas0 #170014_146
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 620
+        width: 16
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e4ec4398deef65c0800000000000000
+      internalID: -4219891711871228702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shrumal Warrior, Shrumeling - atlas0 #170014_147
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 611
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bef5cc3c0b06da2d0800000000000000
+      internalID: -3265847842458279957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shrumal Warrior, Shrumeling - atlas0 #170014_148
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 612
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40a20a8c8c5de6c50800000000000000
+      internalID: 6660495957263657476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shrumal Warrior, Shrumeling - atlas0 #170014_149
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 606
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe819ca3aadfa6ea0800000000000000
+      internalID: -5878607456006235921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shrumal Warrior, Shrumeling - atlas0 #170014_150
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 614
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f2b9750fd2607cb0800000000000000
+      internalID: -4868282487178415371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shrumal Warrior, Shrumeling - atlas0 #170014_151
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 599
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c749747fcbbaa7c50800000000000000
+      internalID: 6663827426738934908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shrumal Warrior, Shrumeling - atlas0 #170014_152
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 602
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7e86f4c135188fb0800000000000000
+      internalID: -4645439712130593156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shrumal Warrior, Shrumeling - atlas0 #170014_153
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 612
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 881c52ef66384e240800000000000000
+      internalID: 4820121979567063432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shrumal Warrior, Shrumeling - atlas0 #170014_154
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 609
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8571b68a1e8de6150800000000000000
+      internalID: 5867865828215166808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shrumal Warrior, Shrumeling - atlas0 #170014_155
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 606
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0060c758dc32dc8d0800000000000000
+      internalID: -2824562025676667392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shrumal Warrior, Shrumeling - atlas0 #170014_156
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 594
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adc28b27c5cdb0200800000000000000
+      internalID: 147453702439447770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shrumal Warrior, Shrumeling - atlas0 #170014_157
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 608
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6f14e0b456373650800000000000000
+      internalID: 6212493948353781612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shrumal Warrior, Shrumeling - atlas0 #170014_158
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 602
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e570305e63a06e7f0800000000000000
+      internalID: -583767870811207842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shrumal Warrior, Shrumeling - atlas0 #170014_159
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 417
+        width: 247
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 040da03ec060940b0800000000000000
+      internalID: -5744053197315846080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shrumal Warrior, Shrumeling - atlas0 #170014_160
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 220
+        width: 225
+        height: 386
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85a670b632229bf80800000000000000
+      internalID: -8090397720079537576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shrumal Warrior, Shrumeling - atlas0 #170014_161
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 593
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3a417ab23ab4ae80800000000000000
+      internalID: -8168199097104119236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shrumal Warrior, Shrumeling - atlas0 #170014_162
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 593
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee745d4d3a0450f20800000000000000
+      internalID: 3388185367060760558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shrumal Warrior, Shrumeling - atlas0 #170014_163
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 590
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4cdeda22efdbd2c0800000000000000
+      internalID: -4405681647977046962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shrumal Warrior, Shrumeling - atlas0 #170014_164
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 593
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7cd27d51d7e6bd50800000000000000
+      internalID: 6752839577690627195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shrumal Warrior, Shrumeling - atlas0 #170014_165
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 598
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2706cde2542803d50800000000000000
+      internalID: 6715010278059958386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shrumal Warrior, Shrumeling - atlas0 #170014_166
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 602
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dca9d7183541c2b0800000000000000
+      internalID: -5566091557232595756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shrumal Warrior, Shrumeling - atlas0 #170014_167
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 592
+        width: 25
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa91c8f30f2899ed0800000000000000
+      internalID: -2406748557482911313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shrumal Warrior, Shrumeling - atlas0 #170014_168
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 591
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90bd13edc789cc0f0800000000000000
+      internalID: -1095332947286697207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shrumal Warrior, Shrumeling - atlas0 #170014_169
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 595
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7beca65e519fd3f10800000000000000
+      internalID: 2251229261193727671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shrumal Warrior, Shrumeling - atlas0 #170014_170
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 583
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 469187faf712be020800000000000000
+      internalID: 2372026461029144932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shrumal Warrior, Shrumeling - atlas0 #170014_171
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 210
+        width: 231
+        height: 397
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb56fe13a6d5f4bf0800000000000000
+      internalID: -337948736343808580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shrumal Warrior, Shrumeling - atlas0 #170014_172
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 603
+        width: 19
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a239118767f31c50800000000000000
+      internalID: 6634918699966476967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shrumal Warrior, Shrumeling - atlas0 #170014_173
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 590
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 777fe0dcd17c94510800000000000000
+      internalID: 1533976078904653687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shrumal Warrior, Shrumeling - atlas0 #170014_174
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 593
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 484bb21ee95753a10800000000000000
+      internalID: 1888544943994811524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shrumal Warrior, Shrumeling - atlas0 #170014_175
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 565
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06412b739c017cc30800000000000000
+      internalID: 4379487619049985120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shrumal Warrior, Shrumeling - atlas0 #170014_176
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 557
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c98d2f9703ea73870800000000000000
+      internalID: 8662583931498059932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shrumal Warrior, Shrumeling - atlas0 #170014_177
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 580
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b81ba9f83c9b21d90800000000000000
+      internalID: -7128431010595032693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shrumal Warrior, Shrumeling - atlas0 #170014_178
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 429
+        width: 191
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9536742bd5e32a8d0800000000000000
+      internalID: -2836636243146087591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shrumal Warrior, Shrumeling - atlas0 #170014_179
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 541
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7eaa2253b59f8d00800000000000000
+      internalID: 977164241572900475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shrumal Warrior, Shrumeling - atlas0 #170014_180
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 566
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e6af3f5f2d82d4c0800000000000000
+      internalID: -4264190662565452060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shrumal Warrior, Shrumeling - atlas0 #170014_181
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 563
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f8a7b8d6793c9960800000000000000
+      internalID: 7610020652954134771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shrumal Warrior, Shrumeling - atlas0 #170014_182
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 554
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af97f682076fcb840800000000000000
+      internalID: 5241335027927579130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shrumal Warrior, Shrumeling - atlas0 #170014_183
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 539
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9f95afa447ade8c0800000000000000
+      internalID: -3968331783197057121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shrumal Warrior, Shrumeling - atlas0 #170014_184
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 502
+        width: 10
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 050b770797f4bc360800000000000000
+      internalID: 7190928613023658064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shrumal Warrior, Shrumeling - atlas0 #170014_185
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 514
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8908eb92a4faf190800000000000000
+      internalID: -7927755214794782323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shrumal Warrior, Shrumeling - atlas0 #170014_186
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 522
+        width: 17
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07edf82fd2c8b1190800000000000000
+      internalID: -7990638984867881360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shrumal Warrior, Shrumeling - atlas0 #170014_187
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 504
+        width: 8
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 751f1a99d1db1a820800000000000000
+      internalID: 2927829167596761431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shrumal Warrior, Shrumeling - atlas0 #170014_188
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 499
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec146ac7dad3e15e0800000000000000
+      internalID: -1937042974392827442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shrumal Warrior, Shrumeling - atlas0 #170014_189
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 477
+        width: 10
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b8185d6139a7b950800000000000000
+      internalID: 6464821819866618039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shrumal Warrior, Shrumeling - atlas0 #170014_190
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 486
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98b4d8e3975d6b9f0800000000000000
+      internalID: -452939995786949751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shrumal Warrior, Shrumeling - atlas0 #170014_191
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 461
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8780e1ce461e46140800000000000000
+      internalID: 4712138933710751864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shrumal Warrior, Shrumeling - atlas0 #170014_192
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 439
+        width: 28
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a397775dc570a5400800000000000000
+      internalID: 313571219355433274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shrumal Warrior, Shrumeling - atlas0 #170014_193
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 471
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08400f61437d9d150800000000000000
+      internalID: 5897981805741474944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shrumal Warrior, Shrumeling - atlas0 #170014_194
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 480
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a61788e049511d970800000000000000
+      internalID: 8777820874364973418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shrumal Warrior, Shrumeling - atlas0 #170014_195
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 470
+        width: 11
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e04b5ee8da5ec4f30800000000000000
+      internalID: 4561273056208991246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shrumal Warrior, Shrumeling - atlas0 #170014_196
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 478
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a393d2c4ae1e1c440800000000000000
+      internalID: 4954489461500885306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shrumal Warrior, Shrumeling - atlas0 #170014_197
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 480
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c30e422548ab5da0800000000000000
+      internalID: -5954981067385601080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shrumal Warrior, Shrumeling - atlas0 #170014_198
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 439
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7afbca25f9d14f440800000000000000
+      internalID: 4968628859020558247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shrumal Warrior, Shrumeling - atlas0 #170014_199
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 455
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 690933c78e295b280800000000000000
+      internalID: -9028148350780469098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shrumal Warrior, Shrumeling - atlas0 #170014_200
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 447
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a0457b198384b530800000000000000
+      internalID: 3869862604712525984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shrumal Warrior, Shrumeling - atlas0 #170014_201
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 425
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d712a43a84eae48c0800000000000000
+      internalID: -4013078590940110467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shrumal Warrior, Shrumeling - atlas0 #170014_202
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 452
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7475445b30f798880800000000000000
+      internalID: -8608209558839208121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shrumal Warrior, Shrumeling - atlas0 #170014_203
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 446
+        width: 13
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e87d1a60c7574230800000000000000
+      internalID: 3622960909168507105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shrumal Warrior, Shrumeling - atlas0 #170014_204
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 436
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b061bdb0882a79590800000000000000
+      internalID: -7667481135376820725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shrumal Warrior, Shrumeling - atlas0 #170014_205
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 426
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7607a07b7cd93ea40800000000000000
+      internalID: 5396330259614953575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shrumal Warrior, Shrumeling - atlas0 #170014_206
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 422
+        width: 23
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c405bfae505d3cfd0800000000000000
+      internalID: -2322778761399152564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shrumal Warrior, Shrumeling - atlas0 #170014_207
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 425
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 011afa0e00a9e7460800000000000000
+      internalID: 7241394579418620176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shrumal Warrior, Shrumeling - atlas0 #170014_208
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 422
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b5a2e2d76a714090800000000000000
+      internalID: -8052020072423447119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shrumal Warrior, Shrumeling - atlas0 #170014_209
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 0
+        width: 219
+        height: 431
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c09b29de4a0aa0e40800000000000000
+      internalID: 5623483714946382092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shrumal Warrior, Shrumeling - atlas0 #170014_210
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 425
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4ebf0d4503c96c30800000000000000
+      internalID: 4353224942365425229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shrumal Warrior, Shrumeling - atlas0 #170014_211
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 428
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea81795c5cbcdede0800000000000000
+      internalID: -1302160666956195666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shrumal Warrior, Shrumeling - atlas0 #170014_212
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 425
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d81c4110caa943a10800000000000000
+      internalID: 1888304207318270349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shrumal Warrior, Shrumeling - atlas0 #170014_213
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 376
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 608e76da5203944b0800000000000000
+      internalID: -5455776535201454074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shrumal Warrior, Shrumeling - atlas0 #170014_214
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 366
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d78f7d8e0106f0730800000000000000
+      internalID: 3967495422478907517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shrumal Warrior, Shrumeling - atlas0 #170014_215
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 208
+        width: 215
+        height: 211
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dca00ae058dc79500800000000000000
+      internalID: 403016663032662733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shrumal Warrior, Shrumeling - atlas0 #170014_216
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 296
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d80a2216b80568f0800000000000000
+      internalID: -548022201573832490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shrumal Warrior, Shrumeling - atlas0 #170014_217
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 219
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbb949bf1b32d45b0800000000000000
+      internalID: -5382606732300870724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shrumal Warrior, Shrumeling - atlas0 #170014_218
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 126
+        width: 14
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adc515ac09c8c6f80800000000000000
+      internalID: -8111954275303596838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shrumal Warrior, Shrumeling - atlas0 #170014_219
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 0
+        width: 219
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f049b6046641e6800800000000000000
+      internalID: 607445429141607439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shrumal Warrior, Shrumeling - atlas0 #170014_220
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 0
+        width: 215
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd6504d63e6ee7740800000000000000
+      internalID: 5151808888223323869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shrumal Warrior, Shrumeling - atlas0 #170014_221
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 105
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edcb3af555fa0ab80800000000000000
+      internalID: -8385509724952216354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shrumal Warrior, Shrumeling - atlas0 #170014_222
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 102
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c7fe294e6ced2a90800000000000000
+      internalID: -7336948259498297400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shrumal Warrior, Shrumeling - atlas0 #170014_223
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 102
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57fea0803c6cf9170800000000000000
+      internalID: 8187481188538707829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shrumal Warrior, Shrumeling - atlas0 #170014_224
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 87
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae9b3e638ce072c20800000000000000
+      internalID: 3181527914837686762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shrumal Warrior, Shrumeling - atlas0 #170014_225
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 90
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: baf3d6dea97ab7a50800000000000000
+      internalID: 6519989169399087019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shrumal Warrior, Shrumeling - atlas0 #170014_226
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 90
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9905efecaa424c7b0800000000000000
+      internalID: -5204994953297637223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Shrumal Warrior, Shrumeling - atlas0 #170014_0: 1374064402697951732
+      Shrumal Warrior, Shrumeling - atlas0 #170014_1: 4334565074441911624
+      Shrumal Warrior, Shrumeling - atlas0 #170014_10: -4483788979010919325
+      Shrumal Warrior, Shrumeling - atlas0 #170014_100: -7709718673936499262
+      Shrumal Warrior, Shrumeling - atlas0 #170014_101: -4841693554249421870
+      Shrumal Warrior, Shrumeling - atlas0 #170014_102: -3140517600186103767
+      Shrumal Warrior, Shrumeling - atlas0 #170014_103: 4988629802501439531
+      Shrumal Warrior, Shrumeling - atlas0 #170014_104: -5609114017298754078
+      Shrumal Warrior, Shrumeling - atlas0 #170014_105: 7329807525294286916
+      Shrumal Warrior, Shrumeling - atlas0 #170014_106: -8719766899458295219
+      Shrumal Warrior, Shrumeling - atlas0 #170014_107: -959348838991438284
+      Shrumal Warrior, Shrumeling - atlas0 #170014_108: 6698431691743035679
+      Shrumal Warrior, Shrumeling - atlas0 #170014_109: 6205201313419966316
+      Shrumal Warrior, Shrumeling - atlas0 #170014_11: 3851919252551167300
+      Shrumal Warrior, Shrumeling - atlas0 #170014_110: -239860384567064862
+      Shrumal Warrior, Shrumeling - atlas0 #170014_111: 8602248030210797795
+      Shrumal Warrior, Shrumeling - atlas0 #170014_112: -2422966575191732487
+      Shrumal Warrior, Shrumeling - atlas0 #170014_113: 6430683315641905290
+      Shrumal Warrior, Shrumeling - atlas0 #170014_114: 9091450325290444126
+      Shrumal Warrior, Shrumeling - atlas0 #170014_115: -5670049603525855455
+      Shrumal Warrior, Shrumeling - atlas0 #170014_116: -6229126227488151991
+      Shrumal Warrior, Shrumeling - atlas0 #170014_117: 6332162378902882003
+      Shrumal Warrior, Shrumeling - atlas0 #170014_118: -4380833789523083107
+      Shrumal Warrior, Shrumeling - atlas0 #170014_119: -1978822777929915101
+      Shrumal Warrior, Shrumeling - atlas0 #170014_12: 3007096204767642334
+      Shrumal Warrior, Shrumeling - atlas0 #170014_120: -3987415295760385924
+      Shrumal Warrior, Shrumeling - atlas0 #170014_121: 3657668308355489756
+      Shrumal Warrior, Shrumeling - atlas0 #170014_122: 7275280320476339968
+      Shrumal Warrior, Shrumeling - atlas0 #170014_123: -1489727282778587488
+      Shrumal Warrior, Shrumeling - atlas0 #170014_124: -1489071835161215755
+      Shrumal Warrior, Shrumeling - atlas0 #170014_125: -811753348727531902
+      Shrumal Warrior, Shrumeling - atlas0 #170014_126: -3936615147162285142
+      Shrumal Warrior, Shrumeling - atlas0 #170014_127: 4794402423074079546
+      Shrumal Warrior, Shrumeling - atlas0 #170014_128: 51777994403319343
+      Shrumal Warrior, Shrumeling - atlas0 #170014_129: -1035093763242694553
+      Shrumal Warrior, Shrumeling - atlas0 #170014_13: -7984101574917565708
+      Shrumal Warrior, Shrumeling - atlas0 #170014_130: 1915374883189303149
+      Shrumal Warrior, Shrumeling - atlas0 #170014_131: -3323981047823424980
+      Shrumal Warrior, Shrumeling - atlas0 #170014_132: -3691439401097486407
+      Shrumal Warrior, Shrumeling - atlas0 #170014_133: -5798285020192945186
+      Shrumal Warrior, Shrumeling - atlas0 #170014_134: 7142701420141845838
+      Shrumal Warrior, Shrumeling - atlas0 #170014_135: 524189737634088403
+      Shrumal Warrior, Shrumeling - atlas0 #170014_136: -2436612052145185631
+      Shrumal Warrior, Shrumeling - atlas0 #170014_137: 6890075316458993008
+      Shrumal Warrior, Shrumeling - atlas0 #170014_138: 4107277133658266942
+      Shrumal Warrior, Shrumeling - atlas0 #170014_139: -3299831673015251807
+      Shrumal Warrior, Shrumeling - atlas0 #170014_14: -6694440803715729428
+      Shrumal Warrior, Shrumeling - atlas0 #170014_140: 3075700754969456995
+      Shrumal Warrior, Shrumeling - atlas0 #170014_141: 6143125617763447243
+      Shrumal Warrior, Shrumeling - atlas0 #170014_142: -3038119227965210214
+      Shrumal Warrior, Shrumeling - atlas0 #170014_143: -5159169866477806798
+      Shrumal Warrior, Shrumeling - atlas0 #170014_144: -6762281723460570982
+      Shrumal Warrior, Shrumeling - atlas0 #170014_145: -7759247380767938511
+      Shrumal Warrior, Shrumeling - atlas0 #170014_146: -4219891711871228702
+      Shrumal Warrior, Shrumeling - atlas0 #170014_147: -3265847842458279957
+      Shrumal Warrior, Shrumeling - atlas0 #170014_148: 6660495957263657476
+      Shrumal Warrior, Shrumeling - atlas0 #170014_149: -5878607456006235921
+      Shrumal Warrior, Shrumeling - atlas0 #170014_15: -4695275880869798987
+      Shrumal Warrior, Shrumeling - atlas0 #170014_150: -4868282487178415371
+      Shrumal Warrior, Shrumeling - atlas0 #170014_151: 6663827426738934908
+      Shrumal Warrior, Shrumeling - atlas0 #170014_152: -4645439712130593156
+      Shrumal Warrior, Shrumeling - atlas0 #170014_153: 4820121979567063432
+      Shrumal Warrior, Shrumeling - atlas0 #170014_154: 5867865828215166808
+      Shrumal Warrior, Shrumeling - atlas0 #170014_155: -2824562025676667392
+      Shrumal Warrior, Shrumeling - atlas0 #170014_156: 147453702439447770
+      Shrumal Warrior, Shrumeling - atlas0 #170014_157: 6212493948353781612
+      Shrumal Warrior, Shrumeling - atlas0 #170014_158: -583767870811207842
+      Shrumal Warrior, Shrumeling - atlas0 #170014_159: -5744053197315846080
+      Shrumal Warrior, Shrumeling - atlas0 #170014_16: 1968129906878894806
+      Shrumal Warrior, Shrumeling - atlas0 #170014_160: -8090397720079537576
+      Shrumal Warrior, Shrumeling - atlas0 #170014_161: -8168199097104119236
+      Shrumal Warrior, Shrumeling - atlas0 #170014_162: 3388185367060760558
+      Shrumal Warrior, Shrumeling - atlas0 #170014_163: -4405681647977046962
+      Shrumal Warrior, Shrumeling - atlas0 #170014_164: 6752839577690627195
+      Shrumal Warrior, Shrumeling - atlas0 #170014_165: 6715010278059958386
+      Shrumal Warrior, Shrumeling - atlas0 #170014_166: -5566091557232595756
+      Shrumal Warrior, Shrumeling - atlas0 #170014_167: -2406748557482911313
+      Shrumal Warrior, Shrumeling - atlas0 #170014_168: -1095332947286697207
+      Shrumal Warrior, Shrumeling - atlas0 #170014_169: 2251229261193727671
+      Shrumal Warrior, Shrumeling - atlas0 #170014_17: 3023894330318157029
+      Shrumal Warrior, Shrumeling - atlas0 #170014_170: 2372026461029144932
+      Shrumal Warrior, Shrumeling - atlas0 #170014_171: -337948736343808580
+      Shrumal Warrior, Shrumeling - atlas0 #170014_172: 6634918699966476967
+      Shrumal Warrior, Shrumeling - atlas0 #170014_173: 1533976078904653687
+      Shrumal Warrior, Shrumeling - atlas0 #170014_174: 1888544943994811524
+      Shrumal Warrior, Shrumeling - atlas0 #170014_175: 4379487619049985120
+      Shrumal Warrior, Shrumeling - atlas0 #170014_176: 8662583931498059932
+      Shrumal Warrior, Shrumeling - atlas0 #170014_177: -7128431010595032693
+      Shrumal Warrior, Shrumeling - atlas0 #170014_178: -2836636243146087591
+      Shrumal Warrior, Shrumeling - atlas0 #170014_179: 977164241572900475
+      Shrumal Warrior, Shrumeling - atlas0 #170014_18: -7018211440270742170
+      Shrumal Warrior, Shrumeling - atlas0 #170014_180: -4264190662565452060
+      Shrumal Warrior, Shrumeling - atlas0 #170014_181: 7610020652954134771
+      Shrumal Warrior, Shrumeling - atlas0 #170014_182: 5241335027927579130
+      Shrumal Warrior, Shrumeling - atlas0 #170014_183: -3968331783197057121
+      Shrumal Warrior, Shrumeling - atlas0 #170014_184: 7190928613023658064
+      Shrumal Warrior, Shrumeling - atlas0 #170014_185: -7927755214794782323
+      Shrumal Warrior, Shrumeling - atlas0 #170014_186: -7990638984867881360
+      Shrumal Warrior, Shrumeling - atlas0 #170014_187: 2927829167596761431
+      Shrumal Warrior, Shrumeling - atlas0 #170014_188: -1937042974392827442
+      Shrumal Warrior, Shrumeling - atlas0 #170014_189: 6464821819866618039
+      Shrumal Warrior, Shrumeling - atlas0 #170014_19: 8794798593416981628
+      Shrumal Warrior, Shrumeling - atlas0 #170014_190: -452939995786949751
+      Shrumal Warrior, Shrumeling - atlas0 #170014_191: 4712138933710751864
+      Shrumal Warrior, Shrumeling - atlas0 #170014_192: 313571219355433274
+      Shrumal Warrior, Shrumeling - atlas0 #170014_193: 5897981805741474944
+      Shrumal Warrior, Shrumeling - atlas0 #170014_194: 8777820874364973418
+      Shrumal Warrior, Shrumeling - atlas0 #170014_195: 4561273056208991246
+      Shrumal Warrior, Shrumeling - atlas0 #170014_196: 4954489461500885306
+      Shrumal Warrior, Shrumeling - atlas0 #170014_197: -5954981067385601080
+      Shrumal Warrior, Shrumeling - atlas0 #170014_198: 4968628859020558247
+      Shrumal Warrior, Shrumeling - atlas0 #170014_199: -9028148350780469098
+      Shrumal Warrior, Shrumeling - atlas0 #170014_2: -5136136521185002839
+      Shrumal Warrior, Shrumeling - atlas0 #170014_20: -5446107048441620553
+      Shrumal Warrior, Shrumeling - atlas0 #170014_200: 3869862604712525984
+      Shrumal Warrior, Shrumeling - atlas0 #170014_201: -4013078590940110467
+      Shrumal Warrior, Shrumeling - atlas0 #170014_202: -8608209558839208121
+      Shrumal Warrior, Shrumeling - atlas0 #170014_203: 3622960909168507105
+      Shrumal Warrior, Shrumeling - atlas0 #170014_204: -7667481135376820725
+      Shrumal Warrior, Shrumeling - atlas0 #170014_205: 5396330259614953575
+      Shrumal Warrior, Shrumeling - atlas0 #170014_206: -2322778761399152564
+      Shrumal Warrior, Shrumeling - atlas0 #170014_207: 7241394579418620176
+      Shrumal Warrior, Shrumeling - atlas0 #170014_208: -8052020072423447119
+      Shrumal Warrior, Shrumeling - atlas0 #170014_209: 5623483714946382092
+      Shrumal Warrior, Shrumeling - atlas0 #170014_21: -5518809892494915127
+      Shrumal Warrior, Shrumeling - atlas0 #170014_210: 4353224942365425229
+      Shrumal Warrior, Shrumeling - atlas0 #170014_211: -1302160666956195666
+      Shrumal Warrior, Shrumeling - atlas0 #170014_212: 1888304207318270349
+      Shrumal Warrior, Shrumeling - atlas0 #170014_213: -5455776535201454074
+      Shrumal Warrior, Shrumeling - atlas0 #170014_214: 3967495422478907517
+      Shrumal Warrior, Shrumeling - atlas0 #170014_215: 403016663032662733
+      Shrumal Warrior, Shrumeling - atlas0 #170014_216: -548022201573832490
+      Shrumal Warrior, Shrumeling - atlas0 #170014_217: -5382606732300870724
+      Shrumal Warrior, Shrumeling - atlas0 #170014_218: -8111954275303596838
+      Shrumal Warrior, Shrumeling - atlas0 #170014_219: 607445429141607439
+      Shrumal Warrior, Shrumeling - atlas0 #170014_22: 3687141511803921700
+      Shrumal Warrior, Shrumeling - atlas0 #170014_220: 5151808888223323869
+      Shrumal Warrior, Shrumeling - atlas0 #170014_221: -8385509724952216354
+      Shrumal Warrior, Shrumeling - atlas0 #170014_222: -7336948259498297400
+      Shrumal Warrior, Shrumeling - atlas0 #170014_223: 8187481188538707829
+      Shrumal Warrior, Shrumeling - atlas0 #170014_224: 3181527914837686762
+      Shrumal Warrior, Shrumeling - atlas0 #170014_225: 6519989169399087019
+      Shrumal Warrior, Shrumeling - atlas0 #170014_226: -5204994953297637223
+      Shrumal Warrior, Shrumeling - atlas0 #170014_23: 4573733019229372281
+      Shrumal Warrior, Shrumeling - atlas0 #170014_24: -901087870924777132
+      Shrumal Warrior, Shrumeling - atlas0 #170014_25: -8338956246503871236
+      Shrumal Warrior, Shrumeling - atlas0 #170014_26: -7837164648415159786
+      Shrumal Warrior, Shrumeling - atlas0 #170014_27: -5500569521086163352
+      Shrumal Warrior, Shrumeling - atlas0 #170014_28: 1790308110495293566
+      Shrumal Warrior, Shrumeling - atlas0 #170014_29: 6097769105511141640
+      Shrumal Warrior, Shrumeling - atlas0 #170014_3: -2119802888164938237
+      Shrumal Warrior, Shrumeling - atlas0 #170014_30: -6100506531014481210
+      Shrumal Warrior, Shrumeling - atlas0 #170014_31: -527926128311923103
+      Shrumal Warrior, Shrumeling - atlas0 #170014_32: 1023527750985922001
+      Shrumal Warrior, Shrumeling - atlas0 #170014_33: -3404649109562531987
+      Shrumal Warrior, Shrumeling - atlas0 #170014_34: -2509557442362106050
+      Shrumal Warrior, Shrumeling - atlas0 #170014_35: 1112476346394623713
+      Shrumal Warrior, Shrumeling - atlas0 #170014_36: 3041736155933279657
+      Shrumal Warrior, Shrumeling - atlas0 #170014_37: -3131410540647138127
+      Shrumal Warrior, Shrumeling - atlas0 #170014_38: 5922423065634738555
+      Shrumal Warrior, Shrumeling - atlas0 #170014_39: -6424177516917054033
+      Shrumal Warrior, Shrumeling - atlas0 #170014_4: 9073170235892125207
+      Shrumal Warrior, Shrumeling - atlas0 #170014_40: 7737164283405760279
+      Shrumal Warrior, Shrumeling - atlas0 #170014_41: -6315761618328144663
+      Shrumal Warrior, Shrumeling - atlas0 #170014_42: -7838811981499019990
+      Shrumal Warrior, Shrumeling - atlas0 #170014_43: 2175613858487887504
+      Shrumal Warrior, Shrumeling - atlas0 #170014_44: 7840035584691977860
+      Shrumal Warrior, Shrumeling - atlas0 #170014_45: 208403727954190710
+      Shrumal Warrior, Shrumeling - atlas0 #170014_46: 3053331060175626490
+      Shrumal Warrior, Shrumeling - atlas0 #170014_47: -5829648984988492803
+      Shrumal Warrior, Shrumeling - atlas0 #170014_48: 7885625514680082663
+      Shrumal Warrior, Shrumeling - atlas0 #170014_49: -7051027006518357267
+      Shrumal Warrior, Shrumeling - atlas0 #170014_5: -2894647368490942303
+      Shrumal Warrior, Shrumeling - atlas0 #170014_50: 3775542990854340546
+      Shrumal Warrior, Shrumeling - atlas0 #170014_51: -4923903506241769841
+      Shrumal Warrior, Shrumeling - atlas0 #170014_52: 2870450485309169737
+      Shrumal Warrior, Shrumeling - atlas0 #170014_53: 2818037692204418503
+      Shrumal Warrior, Shrumeling - atlas0 #170014_54: -4968143813875032030
+      Shrumal Warrior, Shrumeling - atlas0 #170014_55: -5464344555618478250
+      Shrumal Warrior, Shrumeling - atlas0 #170014_56: 7907777462972993570
+      Shrumal Warrior, Shrumeling - atlas0 #170014_57: 2698952456213740746
+      Shrumal Warrior, Shrumeling - atlas0 #170014_58: -4023550666627647090
+      Shrumal Warrior, Shrumeling - atlas0 #170014_59: 8225645111176542658
+      Shrumal Warrior, Shrumeling - atlas0 #170014_6: -5052473771254246291
+      Shrumal Warrior, Shrumeling - atlas0 #170014_60: -8129309513340348417
+      Shrumal Warrior, Shrumeling - atlas0 #170014_61: -1580914058946378763
+      Shrumal Warrior, Shrumeling - atlas0 #170014_62: -8822964088032497149
+      Shrumal Warrior, Shrumeling - atlas0 #170014_63: 8852698505425451929
+      Shrumal Warrior, Shrumeling - atlas0 #170014_64: 3109484693092339280
+      Shrumal Warrior, Shrumeling - atlas0 #170014_65: -1215236319905616835
+      Shrumal Warrior, Shrumeling - atlas0 #170014_66: 9080721631419016210
+      Shrumal Warrior, Shrumeling - atlas0 #170014_67: -3297413243254313750
+      Shrumal Warrior, Shrumeling - atlas0 #170014_68: 5337073925378404854
+      Shrumal Warrior, Shrumeling - atlas0 #170014_69: -295480988271144048
+      Shrumal Warrior, Shrumeling - atlas0 #170014_7: 5677917724862260908
+      Shrumal Warrior, Shrumeling - atlas0 #170014_70: 518265742646188160
+      Shrumal Warrior, Shrumeling - atlas0 #170014_71: 5081039681736509609
+      Shrumal Warrior, Shrumeling - atlas0 #170014_72: 30226311460187359
+      Shrumal Warrior, Shrumeling - atlas0 #170014_73: 4944008776619230549
+      Shrumal Warrior, Shrumeling - atlas0 #170014_74: -2023518207444707689
+      Shrumal Warrior, Shrumeling - atlas0 #170014_75: 4935299247291391173
+      Shrumal Warrior, Shrumeling - atlas0 #170014_76: 8996078681635433941
+      Shrumal Warrior, Shrumeling - atlas0 #170014_77: 4060215206418116435
+      Shrumal Warrior, Shrumeling - atlas0 #170014_78: -8278804976141433385
+      Shrumal Warrior, Shrumeling - atlas0 #170014_79: 3505140388252201623
+      Shrumal Warrior, Shrumeling - atlas0 #170014_8: 4512684554394852770
+      Shrumal Warrior, Shrumeling - atlas0 #170014_80: -7601020503878464930
+      Shrumal Warrior, Shrumeling - atlas0 #170014_81: -8133321649332605126
+      Shrumal Warrior, Shrumeling - atlas0 #170014_82: 7600617696512338151
+      Shrumal Warrior, Shrumeling - atlas0 #170014_83: -853153743933519827
+      Shrumal Warrior, Shrumeling - atlas0 #170014_84: -7852882303799479369
+      Shrumal Warrior, Shrumeling - atlas0 #170014_85: 3096815852936393674
+      Shrumal Warrior, Shrumeling - atlas0 #170014_86: -6916491072645912160
+      Shrumal Warrior, Shrumeling - atlas0 #170014_87: 8005619345608015874
+      Shrumal Warrior, Shrumeling - atlas0 #170014_88: -5150719838175338572
+      Shrumal Warrior, Shrumeling - atlas0 #170014_89: -5097762735655691227
+      Shrumal Warrior, Shrumeling - atlas0 #170014_9: -2493098217364599346
+      Shrumal Warrior, Shrumeling - atlas0 #170014_90: -5062607547633401963
+      Shrumal Warrior, Shrumeling - atlas0 #170014_91: 8995446242358731653
+      Shrumal Warrior, Shrumeling - atlas0 #170014_92: -7776553938489666793
+      Shrumal Warrior, Shrumeling - atlas0 #170014_93: -7241162681080732236
+      Shrumal Warrior, Shrumeling - atlas0 #170014_94: 3037933820870026406
+      Shrumal Warrior, Shrumeling - atlas0 #170014_95: 5496292577483248616
+      Shrumal Warrior, Shrumeling - atlas0 #170014_96: 6400111844684765053
+      Shrumal Warrior, Shrumeling - atlas0 #170014_97: 3595746424785436055
+      Shrumal Warrior, Shrumeling - atlas0 #170014_98: -8281779508837859007
+      Shrumal Warrior, Shrumeling - atlas0 #170014_99: -5551355597514475009
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

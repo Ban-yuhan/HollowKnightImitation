@@ -1,0 +1,468 @@
+fileFormatVersion: 2
+guid: 09a372459bedab74598a55960dc59f05
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2314782708912742572
+    second: Shadow Creeper - atlas0 #333021_0
+  - first:
+      213: 7532325659055094945
+    second: Shadow Creeper - atlas0 #333021_1
+  - first:
+      213: -641899183544991379
+    second: Shadow Creeper - atlas0 #333021_2
+  - first:
+      213: 5364260345811382743
+    second: Shadow Creeper - atlas0 #333021_3
+  - first:
+      213: 4187861107636785181
+    second: Shadow Creeper - atlas0 #333021_4
+  - first:
+      213: 7746842096284306648
+    second: Shadow Creeper - atlas0 #333021_5
+  - first:
+      213: -5971858338626671114
+    second: Shadow Creeper - atlas0 #333021_6
+  - first:
+      213: 2063922584132390086
+    second: Shadow Creeper - atlas0 #333021_7
+  - first:
+      213: 1649094917000525618
+    second: Shadow Creeper - atlas0 #333021_8
+  - first:
+      213: -7521533694815518549
+    second: Shadow Creeper - atlas0 #333021_9
+  - first:
+      213: -2810900316307931422
+    second: Shadow Creeper - atlas0 #333021_10
+  - first:
+      213: 1503381815445593940
+    second: Shadow Creeper - atlas0 #333021_11
+  - first:
+      213: 4017937722183743012
+    second: Shadow Creeper - atlas0 #333021_12
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Shadow Creeper - atlas0 #333021_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 506
+        width: 106
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca0e5f80c92cf1020800000000000000
+      internalID: 2314782708912742572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow Creeper - atlas0 #333021_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 237
+        width: 117
+        height: 271
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1acf9886742388860800000000000000
+      internalID: 7532325659055094945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow Creeper - atlas0 #333021_2
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 443
+        width: 88
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d61003fe7148717f0800000000000000
+      internalID: -641899183544991379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow Creeper - atlas0 #333021_3
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 430
+        width: 236
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d13dca0d5ea17a40800000000000000
+      internalID: 5364260345811382743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow Creeper - atlas0 #333021_4
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 322
+        width: 127
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d105d593d754e1a30800000000000000
+      internalID: 4187861107636785181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow Creeper - atlas0 #333021_5
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 214
+        width: 146
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dc811097df428b60800000000000000
+      internalID: 7746842096284306648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow Creeper - atlas0 #333021_6
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 219
+        width: 272
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fde3353b72bf1da0800000000000000
+      internalID: -5971858338626671114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow Creeper - atlas0 #333021_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 109
+        width: 131
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cc0e17b7a684ac10800000000000000
+      internalID: 2063922584132390086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow Creeper - atlas0 #333021_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 164
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 237f7b8f613c2e610800000000000000
+      internalID: 1649094917000525618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow Creeper - atlas0 #333021_9
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 109
+        width: 159
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba0c36294f42e9790800000000000000
+      internalID: -7521533694815518549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow Creeper - atlas0 #333021_10
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 0
+        width: 159
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2eebe6b1e0dadf8d0800000000000000
+      internalID: -2810900316307931422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow Creeper - atlas0 #333021_11
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 109
+        width: 151
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45f9a6fbbc51dd410800000000000000
+      internalID: 1503381815445593940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shadow Creeper - atlas0 #333021_12
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 0
+        width: 156
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4267764021592c730800000000000000
+      internalID: 4017937722183743012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Shadow Creeper - atlas0 #333021_0: 2314782708912742572
+      Shadow Creeper - atlas0 #333021_1: 7532325659055094945
+      Shadow Creeper - atlas0 #333021_10: -2810900316307931422
+      Shadow Creeper - atlas0 #333021_11: 1503381815445593940
+      Shadow Creeper - atlas0 #333021_12: 4017937722183743012
+      Shadow Creeper - atlas0 #333021_2: -641899183544991379
+      Shadow Creeper - atlas0 #333021_3: 5364260345811382743
+      Shadow Creeper - atlas0 #333021_4: 4187861107636785181
+      Shadow Creeper - atlas0 #333021_5: 7746842096284306648
+      Shadow Creeper - atlas0 #333021_6: -5971858338626671114
+      Shadow Creeper - atlas0 #333021_7: 2063922584132390086
+      Shadow Creeper - atlas0 #333021_8: 1649094917000525618
+      Shadow Creeper - atlas0 #333021_9: -7521533694815518549
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

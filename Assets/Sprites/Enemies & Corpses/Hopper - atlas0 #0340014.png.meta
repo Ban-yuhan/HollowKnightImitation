@@ -1,0 +1,1144 @@
+fileFormatVersion: 2
+guid: 0c65ae9aa390a9744ac5ceafd9ebec66
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5061840566063949457
+    second: Hopper - atlas0 #0340014_0
+  - first:
+      213: 3195859534900050010
+    second: Hopper - atlas0 #0340014_1
+  - first:
+      213: 7049344208132312640
+    second: Hopper - atlas0 #0340014_2
+  - first:
+      213: 3835069787473092351
+    second: Hopper - atlas0 #0340014_3
+  - first:
+      213: -308309106787848290
+    second: Hopper - atlas0 #0340014_4
+  - first:
+      213: -713206800427328717
+    second: Hopper - atlas0 #0340014_5
+  - first:
+      213: 5165808003141566477
+    second: Hopper - atlas0 #0340014_6
+  - first:
+      213: 1651227966212607631
+    second: Hopper - atlas0 #0340014_7
+  - first:
+      213: -3838966926156435164
+    second: Hopper - atlas0 #0340014_8
+  - first:
+      213: 4253905251196061888
+    second: Hopper - atlas0 #0340014_9
+  - first:
+      213: 3288369283441301498
+    second: Hopper - atlas0 #0340014_10
+  - first:
+      213: -8711046525154422422
+    second: Hopper - atlas0 #0340014_11
+  - first:
+      213: -2217385350263838187
+    second: Hopper - atlas0 #0340014_12
+  - first:
+      213: -1135298279064623852
+    second: Hopper - atlas0 #0340014_13
+  - first:
+      213: -2686506124773220261
+    second: Hopper - atlas0 #0340014_14
+  - first:
+      213: -2601428338942354238
+    second: Hopper - atlas0 #0340014_15
+  - first:
+      213: -4694429406895396614
+    second: Hopper - atlas0 #0340014_16
+  - first:
+      213: -7952209286793596479
+    second: Hopper - atlas0 #0340014_17
+  - first:
+      213: -7237167808831506981
+    second: Hopper - atlas0 #0340014_18
+  - first:
+      213: 7853385003512756944
+    second: Hopper - atlas0 #0340014_19
+  - first:
+      213: 2042542909638170770
+    second: Hopper - atlas0 #0340014_20
+  - first:
+      213: 636292971210707291
+    second: Hopper - atlas0 #0340014_21
+  - first:
+      213: -6040340352890645182
+    second: Hopper - atlas0 #0340014_22
+  - first:
+      213: 5513408738281099957
+    second: Hopper - atlas0 #0340014_23
+  - first:
+      213: 5073843318597444566
+    second: Hopper - atlas0 #0340014_24
+  - first:
+      213: 6100444905756736065
+    second: Hopper - atlas0 #0340014_25
+  - first:
+      213: 2144080321273907276
+    second: Hopper - atlas0 #0340014_26
+  - first:
+      213: -5875483334062566244
+    second: Hopper - atlas0 #0340014_27
+  - first:
+      213: -3241304582152716601
+    second: Hopper - atlas0 #0340014_28
+  - first:
+      213: -649519014187447202
+    second: Hopper - atlas0 #0340014_29
+  - first:
+      213: -5865727516651279934
+    second: Hopper - atlas0 #0340014_30
+  - first:
+      213: 5080448100054772315
+    second: Hopper - atlas0 #0340014_31
+  - first:
+      213: 6582976591231414291
+    second: Hopper - atlas0 #0340014_32
+  - first:
+      213: 4584061300217497574
+    second: Hopper - atlas0 #0340014_33
+  - first:
+      213: -5868869631286786704
+    second: Hopper - atlas0 #0340014_34
+  - first:
+      213: 7530200192266571070
+    second: Hopper - atlas0 #0340014_35
+  - first:
+      213: -7669391618125355985
+    second: Hopper - atlas0 #0340014_36
+  - first:
+      213: -1703066055075724682
+    second: Hopper - atlas0 #0340014_37
+  - first:
+      213: -93491998913984559
+    second: Hopper - atlas0 #0340014_38
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Hopper - atlas0 #0340014_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 506
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f69981ee2dab0c9b0800000000000000
+      internalID: -5061840566063949457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hopper - atlas0 #0340014_1
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 515
+        width: 23
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5833c98059f95c20800000000000000
+      internalID: 3195859534900050010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hopper - atlas0 #0340014_2
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 521
+        width: 50
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04e0f21553d44d160800000000000000
+      internalID: 7049344208132312640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hopper - atlas0 #0340014_3
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 489
+        width: 35
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffe9a2317a7e83530800000000000000
+      internalID: 3835069787473092351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hopper - atlas0 #0340014_4
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 515
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9f64e8308aa8bbf0800000000000000
+      internalID: -308309106787848290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hopper - atlas0 #0340014_5
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 495
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33bd229913e2a16f0800000000000000
+      internalID: -713206800427328717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hopper - atlas0 #0340014_6
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 451
+        width: 101
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d008f1d5203a0b740800000000000000
+      internalID: 5165808003141566477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hopper - atlas0 #0340014_7
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 455
+        width: 22
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8e0b4136175ae610800000000000000
+      internalID: 1651227966212607631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hopper - atlas0 #0340014_8
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 470
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 421f8fd9bef39bac0800000000000000
+      internalID: -3838966926156435164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hopper - atlas0 #0340014_9
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 481
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c8c5bda948e80b30800000000000000
+      internalID: 4253905251196061888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hopper - atlas0 #0340014_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 342
+        width: 125
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af713d5d072a2ad20800000000000000
+      internalID: 3288369283441301498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hopper - atlas0 #0340014_11
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 348
+        width: 126
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a611546a6552c1780800000000000000
+      internalID: -8711046525154422422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hopper - atlas0 #0340014_12
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 349
+        width: 110
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51a6e5ba5c34a31e0800000000000000
+      internalID: -2217385350263838187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hopper - atlas0 #0340014_13
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 451
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 415ad32fa3c9e30f0800000000000000
+      internalID: -1135298279064623852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hopper - atlas0 #0340014_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 132
+        width: 141
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b502bf9c9ec97bad0800000000000000
+      internalID: -2686506124773220261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hopper - atlas0 #0340014_15
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 239
+        width: 127
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ccd4bc65bed5ebd0800000000000000
+      internalID: -2601428338942354238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hopper - atlas0 #0340014_16
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 276
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af82ada93590adeb0800000000000000
+      internalID: -4694429406895396614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hopper - atlas0 #0340014_17
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 244
+        width: 139
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c1fa1949c314a190800000000000000
+      internalID: -7952209286793596479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hopper - atlas0 #0340014_18
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 244
+        width: 107
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd5b4b6d83a609b90800000000000000
+      internalID: -7237167808831506981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hopper - atlas0 #0340014_19
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 131
+        width: 147
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0daf1ca3d04dcfc60800000000000000
+      internalID: 7853385003512756944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hopper - atlas0 #0340014_20
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 122
+        width: 134
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 298d97754f1985c10800000000000000
+      internalID: 2042542909638170770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hopper - atlas0 #0340014_21
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 215
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b51971a061194d800800000000000000
+      internalID: 636292971210707291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hopper - atlas0 #0340014_22
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 128
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 245de7fb3766c2ca0800000000000000
+      internalID: -6040340352890645182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hopper - atlas0 #0340014_23
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 0
+        width: 130
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b297c24900938c40800000000000000
+      internalID: 5513408738281099957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hopper - atlas0 #0340014_24
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 122
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d36dfaad99e96640800000000000000
+      internalID: 5073843318597444566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hopper - atlas0 #0340014_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 85
+        width: 25
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14ab87bf15229a450800000000000000
+      internalID: 6100444905756736065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hopper - atlas0 #0340014_26
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 9
+        width: 129
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c48cf6f31bd41cd10800000000000000
+      internalID: 2144080321273907276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hopper - atlas0 #0340014_27
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 0
+        width: 130
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c94197d8907167ea0800000000000000
+      internalID: -5875483334062566244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hopper - atlas0 #0340014_28
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 89
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cef0fbd7a29403d0800000000000000
+      internalID: -3241304582152716601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hopper - atlas0 #0340014_29
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 85
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5cce7cd5e17cf6f0800000000000000
+      internalID: -649519014187447202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hopper - atlas0 #0340014_30
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 76
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c924ccc6efb89ea0800000000000000
+      internalID: -5865727516651279934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hopper - atlas0 #0340014_31
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 63
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5aa29f21a0618640800000000000000
+      internalID: 5080448100054772315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hopper - atlas0 #0340014_32
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 65
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3107f05e45e6b5b50800000000000000
+      internalID: 6582976591231414291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hopper - atlas0 #0340014_33
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 52
+        width: 25
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e74414177bdd9f30800000000000000
+      internalID: 4584061300217497574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hopper - atlas0 #0340014_34
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 11
+        width: 33
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 075c21a3a269d8ea0800000000000000
+      internalID: -5868869631286786704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hopper - atlas0 #0340014_35
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 30
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3d80ab9d25a08860800000000000000
+      internalID: 7530200192266571070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hopper - atlas0 #0340014_36
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 14
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f24a74e15f8d09590800000000000000
+      internalID: -7669391618125355985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hopper - atlas0 #0340014_37
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 16
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6728f26327e7d58e0800000000000000
+      internalID: -1703066055075724682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hopper - atlas0 #0340014_38
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 0
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d70467b589d3bef0800000000000000
+      internalID: -93491998913984559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Hopper - atlas0 #0340014_0: -5061840566063949457
+      Hopper - atlas0 #0340014_1: 3195859534900050010
+      Hopper - atlas0 #0340014_10: 3288369283441301498
+      Hopper - atlas0 #0340014_11: -8711046525154422422
+      Hopper - atlas0 #0340014_12: -2217385350263838187
+      Hopper - atlas0 #0340014_13: -1135298279064623852
+      Hopper - atlas0 #0340014_14: -2686506124773220261
+      Hopper - atlas0 #0340014_15: -2601428338942354238
+      Hopper - atlas0 #0340014_16: -4694429406895396614
+      Hopper - atlas0 #0340014_17: -7952209286793596479
+      Hopper - atlas0 #0340014_18: -7237167808831506981
+      Hopper - atlas0 #0340014_19: 7853385003512756944
+      Hopper - atlas0 #0340014_2: 7049344208132312640
+      Hopper - atlas0 #0340014_20: 2042542909638170770
+      Hopper - atlas0 #0340014_21: 636292971210707291
+      Hopper - atlas0 #0340014_22: -6040340352890645182
+      Hopper - atlas0 #0340014_23: 5513408738281099957
+      Hopper - atlas0 #0340014_24: 5073843318597444566
+      Hopper - atlas0 #0340014_25: 6100444905756736065
+      Hopper - atlas0 #0340014_26: 2144080321273907276
+      Hopper - atlas0 #0340014_27: -5875483334062566244
+      Hopper - atlas0 #0340014_28: -3241304582152716601
+      Hopper - atlas0 #0340014_29: -649519014187447202
+      Hopper - atlas0 #0340014_3: 3835069787473092351
+      Hopper - atlas0 #0340014_30: -5865727516651279934
+      Hopper - atlas0 #0340014_31: 5080448100054772315
+      Hopper - atlas0 #0340014_32: 6582976591231414291
+      Hopper - atlas0 #0340014_33: 4584061300217497574
+      Hopper - atlas0 #0340014_34: -5868869631286786704
+      Hopper - atlas0 #0340014_35: 7530200192266571070
+      Hopper - atlas0 #0340014_36: -7669391618125355985
+      Hopper - atlas0 #0340014_37: -1703066055075724682
+      Hopper - atlas0 #0340014_38: -93491998913984559
+      Hopper - atlas0 #0340014_4: -308309106787848290
+      Hopper - atlas0 #0340014_5: -713206800427328717
+      Hopper - atlas0 #0340014_6: 5165808003141566477
+      Hopper - atlas0 #0340014_7: 1651227966212607631
+      Hopper - atlas0 #0340014_8: -3838966926156435164
+      Hopper - atlas0 #0340014_9: 4253905251196061888
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

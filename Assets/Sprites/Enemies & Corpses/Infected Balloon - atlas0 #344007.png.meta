@@ -1,0 +1,1040 @@
+fileFormatVersion: 2
+guid: 61e2b13f91452d84a9bcb3daeb329dc7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1106214424164803866
+    second: Infected Balloon - atlas0 #344007_0
+  - first:
+      213: 5884434603303129716
+    second: Infected Balloon - atlas0 #344007_1
+  - first:
+      213: 7599314422425736380
+    second: Infected Balloon - atlas0 #344007_2
+  - first:
+      213: 3035609748216852286
+    second: Infected Balloon - atlas0 #344007_3
+  - first:
+      213: -8738555497574875367
+    second: Infected Balloon - atlas0 #344007_4
+  - first:
+      213: -851296148167449930
+    second: Infected Balloon - atlas0 #344007_5
+  - first:
+      213: 4506526638115230765
+    second: Infected Balloon - atlas0 #344007_6
+  - first:
+      213: 4490263950480090810
+    second: Infected Balloon - atlas0 #344007_7
+  - first:
+      213: -6505248426512062687
+    second: Infected Balloon - atlas0 #344007_8
+  - first:
+      213: -977891831055321848
+    second: Infected Balloon - atlas0 #344007_9
+  - first:
+      213: 6554833360238569896
+    second: Infected Balloon - atlas0 #344007_10
+  - first:
+      213: 7570870059675725418
+    second: Infected Balloon - atlas0 #344007_11
+  - first:
+      213: -3785291101623588048
+    second: Infected Balloon - atlas0 #344007_12
+  - first:
+      213: -6740371091999562344
+    second: Infected Balloon - atlas0 #344007_13
+  - first:
+      213: 3369003360438225042
+    second: Infected Balloon - atlas0 #344007_14
+  - first:
+      213: 2212849898205034954
+    second: Infected Balloon - atlas0 #344007_15
+  - first:
+      213: 8344699298241839679
+    second: Infected Balloon - atlas0 #344007_16
+  - first:
+      213: -3780690646729071586
+    second: Infected Balloon - atlas0 #344007_17
+  - first:
+      213: -1591601912772563094
+    second: Infected Balloon - atlas0 #344007_18
+  - first:
+      213: -5869736579311699497
+    second: Infected Balloon - atlas0 #344007_19
+  - first:
+      213: -8024747012971689812
+    second: Infected Balloon - atlas0 #344007_20
+  - first:
+      213: -7266831988997755357
+    second: Infected Balloon - atlas0 #344007_21
+  - first:
+      213: 2276569953254383172
+    second: Infected Balloon - atlas0 #344007_22
+  - first:
+      213: -244786892693425039
+    second: Infected Balloon - atlas0 #344007_23
+  - first:
+      213: -7946906412444608410
+    second: Infected Balloon - atlas0 #344007_24
+  - first:
+      213: -2740897729937616582
+    second: Infected Balloon - atlas0 #344007_25
+  - first:
+      213: -4240888376475869905
+    second: Infected Balloon - atlas0 #344007_26
+  - first:
+      213: -3541419616396744742
+    second: Infected Balloon - atlas0 #344007_27
+  - first:
+      213: 3393640764762860470
+    second: Infected Balloon - atlas0 #344007_28
+  - first:
+      213: 7087531959717163729
+    second: Infected Balloon - atlas0 #344007_29
+  - first:
+      213: 1950756358068360257
+    second: Infected Balloon - atlas0 #344007_30
+  - first:
+      213: 8312113870877567637
+    second: Infected Balloon - atlas0 #344007_31
+  - first:
+      213: -7206245792637645101
+    second: Infected Balloon - atlas0 #344007_32
+  - first:
+      213: -3400614684009190710
+    second: Infected Balloon - atlas0 #344007_33
+  - first:
+      213: 683648841005757842
+    second: Infected Balloon - atlas0 #344007_34
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Infected Balloon - atlas0 #344007_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 427
+        width: 60
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a15a1c568201a5f00800000000000000
+      internalID: 1106214424164803866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infected Balloon - atlas0 #344007_1
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 467
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47256e93816b9a150800000000000000
+      internalID: 5884434603303129716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infected Balloon - atlas0 #344007_2
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 444
+        width: 145
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb4503d4430367960800000000000000
+      internalID: 7599314422425736380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infected Balloon - atlas0 #344007_3
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 428
+        width: 19
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3fad2f8bf6a02a20800000000000000
+      internalID: 3035609748216852286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infected Balloon - atlas0 #344007_4
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 410
+        width: 39
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91f3305e21a6ab680800000000000000
+      internalID: -8738555497574875367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infected Balloon - atlas0 #344007_5
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 309
+        width: 127
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b222d1e9a69f24f0800000000000000
+      internalID: -851296148167449930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infected Balloon - atlas0 #344007_6
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 293
+        width: 94
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2491bbc9166a8e30800000000000000
+      internalID: 4506526638115230765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infected Balloon - atlas0 #344007_7
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 399
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab6ab14c54f905e30800000000000000
+      internalID: 4490263950480090810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infected Balloon - atlas0 #344007_8
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 393
+        width: 24
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 127641ab507b8b5a0800000000000000
+      internalID: -6505248426512062687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infected Balloon - atlas0 #344007_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 383
+        width: 27
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 805f03d8f84dd62f0800000000000000
+      internalID: -977891831055321848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infected Balloon - atlas0 #344007_10
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 365
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a966ee463277fa50800000000000000
+      internalID: 6554833360238569896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infected Balloon - atlas0 #344007_11
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 345
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6eac930532211960800000000000000
+      internalID: 7570870059675725418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infected Balloon - atlas0 #344007_12
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 313
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03b67446cc1f77bc0800000000000000
+      internalID: -3785291101623588048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infected Balloon - atlas0 #344007_13
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 327
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 895ed0f24346572a0800000000000000
+      internalID: -6740371091999562344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infected Balloon - atlas0 #344007_14
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 309
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2988402e4ba11ce20800000000000000
+      internalID: 3369003360438225042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infected Balloon - atlas0 #344007_15
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 247
+        width: 44
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac935cb124f95be10800000000000000
+      internalID: 2212849898205034954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infected Balloon - atlas0 #344007_16
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 219
+        width: 97
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f320825bcc35ec370800000000000000
+      internalID: 8344699298241839679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infected Balloon - atlas0 #344007_17
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 265
+        width: 34
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e14621443e9488bc0800000000000000
+      internalID: -3780690646729071586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infected Balloon - atlas0 #344007_18
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 273
+        width: 13
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6feb553e7e79e9e0800000000000000
+      internalID: -1591601912772563094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infected Balloon - atlas0 #344007_19
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 155
+        width: 174
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d972092ea18a8ea0800000000000000
+      internalID: -5869736579311699497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infected Balloon - atlas0 #344007_20
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 113
+        width: 110
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca8027fcb1f52a090800000000000000
+      internalID: -8024747012971689812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infected Balloon - atlas0 #344007_21
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 223
+        width: 59
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32ee75daec6072b90800000000000000
+      internalID: -7266831988997755357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infected Balloon - atlas0 #344007_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 219
+        width: 41
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44e1e0a8f40089f10800000000000000
+      internalID: 2276569953254383172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infected Balloon - atlas0 #344007_23
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 191
+        width: 42
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17436573e975a9cf0800000000000000
+      internalID: -244786892693425039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infected Balloon - atlas0 #344007_24
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 171
+        width: 25
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66817fee8bae6b190800000000000000
+      internalID: -7946906412444608410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infected Balloon - atlas0 #344007_25
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 155
+        width: 27
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a31d469590066f9d0800000000000000
+      internalID: -2740897729937616582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infected Balloon - atlas0 #344007_26
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 129
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2d9214ad765525c0800000000000000
+      internalID: -4240888376475869905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infected Balloon - atlas0 #344007_27
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 103
+        width: 59
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad762144f995adec0800000000000000
+      internalID: -3541419616396744742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infected Balloon - atlas0 #344007_28
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 105
+        width: 25
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bba9f69b42a81f20800000000000000
+      internalID: 3393640764762860470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infected Balloon - atlas0 #344007_29
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 0
+        width: 315
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d27b2914c8fb5260800000000000000
+      internalID: 7087531959717163729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infected Balloon - atlas0 #344007_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 71
+        width: 21
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 144dff5729a721b10800000000000000
+      internalID: 1950756358068360257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infected Balloon - atlas0 #344007_31
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 30
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59a214ea68f8a5370800000000000000
+      internalID: 8312113870877567637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infected Balloon - atlas0 #344007_32
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 49
+        width: 32
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3de0ea5c1a54efb90800000000000000
+      internalID: -7206245792637645101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infected Balloon - atlas0 #344007_33
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 0
+        width: 13
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acaa7ad46f69ec0d0800000000000000
+      internalID: -3400614684009190710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Infected Balloon - atlas0 #344007_34
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 12
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 295714faffecc7900800000000000000
+      internalID: 683648841005757842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Infected Balloon - atlas0 #344007_0: 1106214424164803866
+      Infected Balloon - atlas0 #344007_1: 5884434603303129716
+      Infected Balloon - atlas0 #344007_10: 6554833360238569896
+      Infected Balloon - atlas0 #344007_11: 7570870059675725418
+      Infected Balloon - atlas0 #344007_12: -3785291101623588048
+      Infected Balloon - atlas0 #344007_13: -6740371091999562344
+      Infected Balloon - atlas0 #344007_14: 3369003360438225042
+      Infected Balloon - atlas0 #344007_15: 2212849898205034954
+      Infected Balloon - atlas0 #344007_16: 8344699298241839679
+      Infected Balloon - atlas0 #344007_17: -3780690646729071586
+      Infected Balloon - atlas0 #344007_18: -1591601912772563094
+      Infected Balloon - atlas0 #344007_19: -5869736579311699497
+      Infected Balloon - atlas0 #344007_2: 7599314422425736380
+      Infected Balloon - atlas0 #344007_20: -8024747012971689812
+      Infected Balloon - atlas0 #344007_21: -7266831988997755357
+      Infected Balloon - atlas0 #344007_22: 2276569953254383172
+      Infected Balloon - atlas0 #344007_23: -244786892693425039
+      Infected Balloon - atlas0 #344007_24: -7946906412444608410
+      Infected Balloon - atlas0 #344007_25: -2740897729937616582
+      Infected Balloon - atlas0 #344007_26: -4240888376475869905
+      Infected Balloon - atlas0 #344007_27: -3541419616396744742
+      Infected Balloon - atlas0 #344007_28: 3393640764762860470
+      Infected Balloon - atlas0 #344007_29: 7087531959717163729
+      Infected Balloon - atlas0 #344007_3: 3035609748216852286
+      Infected Balloon - atlas0 #344007_30: 1950756358068360257
+      Infected Balloon - atlas0 #344007_31: 8312113870877567637
+      Infected Balloon - atlas0 #344007_32: -7206245792637645101
+      Infected Balloon - atlas0 #344007_33: -3400614684009190710
+      Infected Balloon - atlas0 #344007_34: 683648841005757842
+      Infected Balloon - atlas0 #344007_4: -8738555497574875367
+      Infected Balloon - atlas0 #344007_5: -851296148167449930
+      Infected Balloon - atlas0 #344007_6: 4506526638115230765
+      Infected Balloon - atlas0 #344007_7: 4490263950480090810
+      Infected Balloon - atlas0 #344007_8: -6505248426512062687
+      Infected Balloon - atlas0 #344007_9: -977891831055321848
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

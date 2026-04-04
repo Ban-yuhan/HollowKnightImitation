@@ -1,0 +1,1300 @@
+fileFormatVersion: 2
+guid: bf2957eeec83c4440b6a5a4fa452b444
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7321483769730480532
+    second: Wingmould - atlas0 #366019_0
+  - first:
+      213: -7934338938283563333
+    second: Wingmould - atlas0 #366019_1
+  - first:
+      213: 4604060534196338842
+    second: Wingmould - atlas0 #366019_2
+  - first:
+      213: 6309424871247123620
+    second: Wingmould - atlas0 #366019_3
+  - first:
+      213: -9110412627190630081
+    second: Wingmould - atlas0 #366019_4
+  - first:
+      213: -5133360413700780554
+    second: Wingmould - atlas0 #366019_5
+  - first:
+      213: 6339809986690659432
+    second: Wingmould - atlas0 #366019_6
+  - first:
+      213: 5995348968564595221
+    second: Wingmould - atlas0 #366019_7
+  - first:
+      213: -4970825273611884108
+    second: Wingmould - atlas0 #366019_8
+  - first:
+      213: 1907290154836857819
+    second: Wingmould - atlas0 #366019_9
+  - first:
+      213: -4847193780297386451
+    second: Wingmould - atlas0 #366019_10
+  - first:
+      213: 6056334004866198314
+    second: Wingmould - atlas0 #366019_11
+  - first:
+      213: 7963195582666559583
+    second: Wingmould - atlas0 #366019_12
+  - first:
+      213: -6210384168336344821
+    second: Wingmould - atlas0 #366019_13
+  - first:
+      213: -3161729027413153205
+    second: Wingmould - atlas0 #366019_14
+  - first:
+      213: -7122205179664478095
+    second: Wingmould - atlas0 #366019_15
+  - first:
+      213: -5535300394434487363
+    second: Wingmould - atlas0 #366019_16
+  - first:
+      213: -1783793906110870823
+    second: Wingmould - atlas0 #366019_17
+  - first:
+      213: 6853772765013536722
+    second: Wingmould - atlas0 #366019_18
+  - first:
+      213: -758863509631505034
+    second: Wingmould - atlas0 #366019_19
+  - first:
+      213: 4949770577687867969
+    second: Wingmould - atlas0 #366019_20
+  - first:
+      213: -3179964182774504274
+    second: Wingmould - atlas0 #366019_21
+  - first:
+      213: -2237530281735361920
+    second: Wingmould - atlas0 #366019_22
+  - first:
+      213: -4437068086994711119
+    second: Wingmould - atlas0 #366019_23
+  - first:
+      213: 6281487413000663069
+    second: Wingmould - atlas0 #366019_24
+  - first:
+      213: -8342596574939098643
+    second: Wingmould - atlas0 #366019_25
+  - first:
+      213: 8779431439681201455
+    second: Wingmould - atlas0 #366019_26
+  - first:
+      213: -4046181616029179121
+    second: Wingmould - atlas0 #366019_27
+  - first:
+      213: -2567559639168477333
+    second: Wingmould - atlas0 #366019_28
+  - first:
+      213: 5629050584181147490
+    second: Wingmould - atlas0 #366019_29
+  - first:
+      213: -1199810720813998151
+    second: Wingmould - atlas0 #366019_30
+  - first:
+      213: 862731613335893540
+    second: Wingmould - atlas0 #366019_31
+  - first:
+      213: 1630836460890567292
+    second: Wingmould - atlas0 #366019_32
+  - first:
+      213: -5128855416807670853
+    second: Wingmould - atlas0 #366019_33
+  - first:
+      213: -2432372135428553001
+    second: Wingmould - atlas0 #366019_34
+  - first:
+      213: 587510562417663441
+    second: Wingmould - atlas0 #366019_35
+  - first:
+      213: 1224965007695618215
+    second: Wingmould - atlas0 #366019_36
+  - first:
+      213: 4460931236191277094
+    second: Wingmould - atlas0 #366019_37
+  - first:
+      213: 4650476118524442798
+    second: Wingmould - atlas0 #366019_38
+  - first:
+      213: -5431938101323165371
+    second: Wingmould - atlas0 #366019_39
+  - first:
+      213: -4502302492548921504
+    second: Wingmould - atlas0 #366019_40
+  - first:
+      213: -8623122952397547170
+    second: Wingmould - atlas0 #366019_41
+  - first:
+      213: -819079901912664821
+    second: Wingmould - atlas0 #366019_42
+  - first:
+      213: 3686617588483242680
+    second: Wingmould - atlas0 #366019_43
+  - first:
+      213: -7066878886918435362
+    second: Wingmould - atlas0 #366019_44
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Wingmould - atlas0 #366019_0
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 609
+        width: 148
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c664d646d4dd46a90800000000000000
+      internalID: -7321483769730480532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wingmould - atlas0 #366019_1
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 602
+        width: 118
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb6ee0806c093e190800000000000000
+      internalID: -7934338938283563333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wingmould - atlas0 #366019_2
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 733
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a900b2999a8e4ef30800000000000000
+      internalID: 4604060534196338842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wingmould - atlas0 #366019_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 545
+        width: 150
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a413bbdd749f8750800000000000000
+      internalID: 6309424871247123620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wingmould - atlas0 #366019_4
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 534
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f39b11f0cff419180800000000000000
+      internalID: -9110412627190630081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wingmould - atlas0 #366019_5
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 450
+        width: 290
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fd0055c6e3a2c8b0800000000000000
+      internalID: -5133360413700780554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wingmould - atlas0 #366019_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 366
+        width: 222
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 864bb28d7978bf750800000000000000
+      internalID: 6339809986690659432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wingmould - atlas0 #366019_7
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 523
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51a1cc74f12c33350800000000000000
+      internalID: 5995348968564595221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wingmould - atlas0 #366019_8
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 515
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b964dd00c4140bb0800000000000000
+      internalID: -4970825273611884108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wingmould - atlas0 #366019_9
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 521
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd396a26a4e087a10800000000000000
+      internalID: 1907290154836857819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wingmould - atlas0 #366019_10
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 428
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2634e730fe4bbcb0800000000000000
+      internalID: -4847193780297386451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wingmould - atlas0 #366019_11
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 429
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2b2b2980bb6c0450800000000000000
+      internalID: 6056334004866198314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wingmould - atlas0 #366019_12
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 429
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f50dccd0134f28e60800000000000000
+      internalID: 7963195582666559583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wingmould - atlas0 #366019_13
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 433
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b093a9fb08840d9a0800000000000000
+      internalID: -6210384168336344821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wingmould - atlas0 #366019_14
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 428
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4a6ffc73384f14d0800000000000000
+      internalID: -3161729027413153205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wingmould - atlas0 #366019_15
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 418
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 170d6a8cf18d82d90800000000000000
+      internalID: -7122205179664478095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wingmould - atlas0 #366019_16
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 407
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbb17a85e99ae23b0800000000000000
+      internalID: -5535300394434487363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wingmould - atlas0 #366019_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 183
+        width: 252
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9da41c1b4e0be37e0800000000000000
+      internalID: -1783793906110870823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wingmould - atlas0 #366019_18
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 353
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dfe0e5540e7d1f50800000000000000
+      internalID: 6853772765013536722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wingmould - atlas0 #366019_19
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 296
+        width: 95
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67d686b98a9f775f0800000000000000
+      internalID: -758863509631505034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wingmould - atlas0 #366019_20
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 342
+        width: 101
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 142f3ca8d1e11b440800000000000000
+      internalID: 4949770577687867969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wingmould - atlas0 #366019_21
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 279
+        width: 85
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea4a2478c6f7ed3d0800000000000000
+      internalID: -3179964182774504274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wingmould - atlas0 #366019_22
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 327
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08aebfe4012b2f0e0800000000000000
+      internalID: -2237530281735361920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wingmould - atlas0 #366019_23
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 320
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bd457e551e5c62c0800000000000000
+      internalID: -4437068086994711119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wingmould - atlas0 #366019_24
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 323
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d10fdf875835c2750800000000000000
+      internalID: 6281487413000663069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wingmould - atlas0 #366019_25
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 305
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de15d56bd94293c80800000000000000
+      internalID: -8342596574939098643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wingmould - atlas0 #366019_26
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 0
+        width: 154
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f252814016ec6d970800000000000000
+      internalID: 8779431439681201455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wingmould - atlas0 #366019_27
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 200
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f036ddff14319d7c0800000000000000
+      internalID: -4046181616029179121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wingmould - atlas0 #366019_28
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 164
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b679bb79c123e5cd0800000000000000
+      internalID: -2567559639168477333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wingmould - atlas0 #366019_29
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 161
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26782dcaea76e1e40800000000000000
+      internalID: 5629050584181147490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wingmould - atlas0 #366019_30
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 170
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bf1d2c918a695fe0800000000000000
+      internalID: -1199810720813998151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wingmould - atlas0 #366019_31
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 167
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 426b265d4d909fb00800000000000000
+      internalID: 862731613335893540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wingmould - atlas0 #366019_32
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 175
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c723322ee15e1a610800000000000000
+      internalID: 1630836460890567292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wingmould - atlas0 #366019_33
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 68
+        width: 95
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbb37d81c25a2d8b0800000000000000
+      internalID: -5128855416807670853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wingmould - atlas0 #366019_34
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 151
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d6093a1e6a7e3ed0800000000000000
+      internalID: -2432372135428553001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wingmould - atlas0 #366019_35
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 157
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ddd1b66eb1472800800000000000000
+      internalID: 587510562417663441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wingmould - atlas0 #366019_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 22
+        width: 83
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a02bf13f23fff010800000000000000
+      internalID: 1224965007695618215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wingmould - atlas0 #366019_37
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 5
+        width: 92
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62010a4035968ed30800000000000000
+      internalID: 4460931236191277094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wingmould - atlas0 #366019_38
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 90
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea83619f36fc98040800000000000000
+      internalID: 4650476118524442798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wingmould - atlas0 #366019_39
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 93
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54119b49311ed94b0800000000000000
+      internalID: -5431938101323165371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wingmould - atlas0 #366019_40
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 69
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 067044cbcbb9481c0800000000000000
+      internalID: -4502302492548921504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wingmould - atlas0 #366019_41
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 47
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5993dfac53845880800000000000000
+      internalID: -8623122952397547170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wingmould - atlas0 #366019_42
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 28
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0575db3b2b02a4f0800000000000000
+      internalID: -819079901912664821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wingmould - atlas0 #366019_43
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 4
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ba30480a2f792330800000000000000
+      internalID: 3686617588483242680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wingmould - atlas0 #366019_44
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 0
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eddc48228176ded90800000000000000
+      internalID: -7066878886918435362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Wingmould - atlas0 #366019_0: -7321483769730480532
+      Wingmould - atlas0 #366019_1: -7934338938283563333
+      Wingmould - atlas0 #366019_10: -4847193780297386451
+      Wingmould - atlas0 #366019_11: 6056334004866198314
+      Wingmould - atlas0 #366019_12: 7963195582666559583
+      Wingmould - atlas0 #366019_13: -6210384168336344821
+      Wingmould - atlas0 #366019_14: -3161729027413153205
+      Wingmould - atlas0 #366019_15: -7122205179664478095
+      Wingmould - atlas0 #366019_16: -5535300394434487363
+      Wingmould - atlas0 #366019_17: -1783793906110870823
+      Wingmould - atlas0 #366019_18: 6853772765013536722
+      Wingmould - atlas0 #366019_19: -758863509631505034
+      Wingmould - atlas0 #366019_2: 4604060534196338842
+      Wingmould - atlas0 #366019_20: 4949770577687867969
+      Wingmould - atlas0 #366019_21: -3179964182774504274
+      Wingmould - atlas0 #366019_22: -2237530281735361920
+      Wingmould - atlas0 #366019_23: -4437068086994711119
+      Wingmould - atlas0 #366019_24: 6281487413000663069
+      Wingmould - atlas0 #366019_25: -8342596574939098643
+      Wingmould - atlas0 #366019_26: 8779431439681201455
+      Wingmould - atlas0 #366019_27: -4046181616029179121
+      Wingmould - atlas0 #366019_28: -2567559639168477333
+      Wingmould - atlas0 #366019_29: 5629050584181147490
+      Wingmould - atlas0 #366019_3: 6309424871247123620
+      Wingmould - atlas0 #366019_30: -1199810720813998151
+      Wingmould - atlas0 #366019_31: 862731613335893540
+      Wingmould - atlas0 #366019_32: 1630836460890567292
+      Wingmould - atlas0 #366019_33: -5128855416807670853
+      Wingmould - atlas0 #366019_34: -2432372135428553001
+      Wingmould - atlas0 #366019_35: 587510562417663441
+      Wingmould - atlas0 #366019_36: 1224965007695618215
+      Wingmould - atlas0 #366019_37: 4460931236191277094
+      Wingmould - atlas0 #366019_38: 4650476118524442798
+      Wingmould - atlas0 #366019_39: -5431938101323165371
+      Wingmould - atlas0 #366019_4: -9110412627190630081
+      Wingmould - atlas0 #366019_40: -4502302492548921504
+      Wingmould - atlas0 #366019_41: -8623122952397547170
+      Wingmould - atlas0 #366019_42: -819079901912664821
+      Wingmould - atlas0 #366019_43: 3686617588483242680
+      Wingmould - atlas0 #366019_44: -7066878886918435362
+      Wingmould - atlas0 #366019_5: -5133360413700780554
+      Wingmould - atlas0 #366019_6: 6339809986690659432
+      Wingmould - atlas0 #366019_7: 5995348968564595221
+      Wingmould - atlas0 #366019_8: -4970825273611884108
+      Wingmould - atlas0 #366019_9: 1907290154836857819
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

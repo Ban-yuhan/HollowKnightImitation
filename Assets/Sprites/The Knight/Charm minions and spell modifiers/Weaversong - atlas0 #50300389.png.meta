@@ -1,0 +1,962 @@
+fileFormatVersion: 2
+guid: abded500e83352c4ba6d0ee931807ec2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5662647542355690213
+    second: Weaversong - atlas0 #50300389_0
+  - first:
+      213: -5887584846172874159
+    second: Weaversong - atlas0 #50300389_1
+  - first:
+      213: 6590382288915362143
+    second: Weaversong - atlas0 #50300389_2
+  - first:
+      213: -7039347931116520257
+    second: Weaversong - atlas0 #50300389_3
+  - first:
+      213: 8942588954178803374
+    second: Weaversong - atlas0 #50300389_4
+  - first:
+      213: -1123994059026970728
+    second: Weaversong - atlas0 #50300389_5
+  - first:
+      213: 1087710156493741618
+    second: Weaversong - atlas0 #50300389_6
+  - first:
+      213: 488428594697756137
+    second: Weaversong - atlas0 #50300389_7
+  - first:
+      213: 7980462208085111741
+    second: Weaversong - atlas0 #50300389_8
+  - first:
+      213: 6803813194726019219
+    second: Weaversong - atlas0 #50300389_9
+  - first:
+      213: 8838714418013665480
+    second: Weaversong - atlas0 #50300389_10
+  - first:
+      213: -5381384234760445860
+    second: Weaversong - atlas0 #50300389_11
+  - first:
+      213: -8186048855998887865
+    second: Weaversong - atlas0 #50300389_12
+  - first:
+      213: -1738907640062306147
+    second: Weaversong - atlas0 #50300389_13
+  - first:
+      213: 2057202120441670970
+    second: Weaversong - atlas0 #50300389_14
+  - first:
+      213: 7446309381230676743
+    second: Weaversong - atlas0 #50300389_15
+  - first:
+      213: 4556241982920920259
+    second: Weaversong - atlas0 #50300389_16
+  - first:
+      213: -5774677477872479278
+    second: Weaversong - atlas0 #50300389_17
+  - first:
+      213: -1821173367905127862
+    second: Weaversong - atlas0 #50300389_18
+  - first:
+      213: 3269367661119089564
+    second: Weaversong - atlas0 #50300389_19
+  - first:
+      213: -4171976216188989279
+    second: Weaversong - atlas0 #50300389_20
+  - first:
+      213: -8675853549754892235
+    second: Weaversong - atlas0 #50300389_21
+  - first:
+      213: 6764638225739403340
+    second: Weaversong - atlas0 #50300389_22
+  - first:
+      213: -7761084977335088421
+    second: Weaversong - atlas0 #50300389_23
+  - first:
+      213: -1817863682169367828
+    second: Weaversong - atlas0 #50300389_24
+  - first:
+      213: -6643262727263318846
+    second: Weaversong - atlas0 #50300389_25
+  - first:
+      213: -3258288374915389834
+    second: Weaversong - atlas0 #50300389_26
+  - first:
+      213: 8698055525087831155
+    second: Weaversong - atlas0 #50300389_27
+  - first:
+      213: 3093503396181560333
+    second: Weaversong - atlas0 #50300389_28
+  - first:
+      213: -5517471966737529507
+    second: Weaversong - atlas0 #50300389_29
+  - first:
+      213: -7307524726985435749
+    second: Weaversong - atlas0 #50300389_30
+  - first:
+      213: 3590524563968853357
+    second: Weaversong - atlas0 #50300389_31
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Weaversong - atlas0 #50300389_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 782
+        width: 63
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e2895210f3c59e40800000000000000
+      internalID: 5662647542355690213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weaversong - atlas0 #50300389_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 720
+        width: 83
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15a94e2b6c81b4ea0800000000000000
+      internalID: -5887584846172874159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weaversong - atlas0 #50300389_2
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 747
+        width: 63
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5173d046cdb57b50800000000000000
+      internalID: 6590382288915362143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weaversong - atlas0 #50300389_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 539
+        width: 266
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbc3b6b4a563f4e90800000000000000
+      internalID: -7039347931116520257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weaversong - atlas0 #50300389_4
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 593
+        width: 67
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea6d82226457a1c70800000000000000
+      internalID: 8942588954178803374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weaversong - atlas0 #50300389_5
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 514
+        width: 85
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8974c06cb55c660f0800000000000000
+      internalID: -1123994059026970728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weaversong - atlas0 #50300389_6
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 595
+        width: 196
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23ed468df92581f00800000000000000
+      internalID: 1087710156493741618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weaversong - atlas0 #50300389_7
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 593
+        width: 79
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ed5a15183f37c600800000000000000
+      internalID: 488428594697756137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weaversong - atlas0 #50300389_8
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 585
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db3b750981c40ce60800000000000000
+      internalID: 7980462208085111741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weaversong - atlas0 #50300389_9
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 497
+        width: 72
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39092cd6d000c6e50800000000000000
+      internalID: 6803813194726019219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weaversong - atlas0 #50300389_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 370
+        width: 170
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c8f3d40feb69aa70800000000000000
+      internalID: 8838714418013665480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weaversong - atlas0 #50300389_11
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 474
+        width: 67
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c50673fdc8b7155b0800000000000000
+      internalID: -5381384234760445860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weaversong - atlas0 #50300389_12
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 379
+        width: 178
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7488130efef456e80800000000000000
+      internalID: -8186048855998887865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weaversong - atlas0 #50300389_13
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 514
+        width: 93
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d989fd8e6b82ed7e0800000000000000
+      internalID: -1738907640062306147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weaversong - atlas0 #50300389_14
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 384
+        width: 68
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3d2b14dd66ac8c10800000000000000
+      internalID: 2057202120441670970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weaversong - atlas0 #50300389_15
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 406
+        width: 98
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70bc9e31eea965760800000000000000
+      internalID: 7446309381230676743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weaversong - atlas0 #50300389_16
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 309
+        width: 62
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cc09b681f50b3f30800000000000000
+      internalID: 4556241982920920259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weaversong - atlas0 #50300389_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 209
+        width: 246
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d356feed693cdfa0800000000000000
+      internalID: -5774677477872479278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weaversong - atlas0 #50300389_18
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 191
+        width: 204
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a42fc9b8874e9b6e0800000000000000
+      internalID: -1821173367905127862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weaversong - atlas0 #50300389_19
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 300
+        width: 111
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9b2721e0902f5d20800000000000000
+      internalID: 3269367661119089564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weaversong - atlas0 #50300389_20
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 191
+        width: 65
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a05da64cb92a16c0800000000000000
+      internalID: -4171976216188989279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weaversong - atlas0 #50300389_21
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 173
+        width: 68
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5304c83c92d299780800000000000000
+      internalID: -8675853549754892235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weaversong - atlas0 #50300389_22
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 209
+        width: 58
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c40d93f20a2d0ed50800000000000000
+      internalID: 6764638225739403340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weaversong - atlas0 #50300389_23
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 84
+        width: 71
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bda425645561b4490800000000000000
+      internalID: -7761084977335088421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weaversong - atlas0 #50300389_24
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 103
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce2163ecc96a5c6e0800000000000000
+      internalID: -1817863682169367828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weaversong - atlas0 #50300389_25
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 63
+        width: 122
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cc80ef3fb36ec3a0800000000000000
+      internalID: -6643262727263318846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weaversong - atlas0 #50300389_26
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 115
+        width: 111
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67622657cfb38c2d0800000000000000
+      internalID: -3258288374915389834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weaversong - atlas0 #50300389_27
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 55
+        width: 56
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 374eb717a63b5b870800000000000000
+      internalID: 8698055525087831155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weaversong - atlas0 #50300389_28
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 0
+        width: 68
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0ccdd0e2f45eea20800000000000000
+      internalID: 3093503396181560333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weaversong - atlas0 #50300389_29
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 12
+        width: 79
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d550f64aa700e63b0800000000000000
+      internalID: -5517471966737529507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weaversong - atlas0 #50300389_30
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 0
+        width: 124
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9556ac4af4769a90800000000000000
+      internalID: -7307524726985435749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weaversong - atlas0 #50300389_31
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 11
+        width: 112
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d658da8411b14d130800000000000000
+      internalID: 3590524563968853357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Weaversong - atlas0 #50300389_0: 5662647542355690213
+      Weaversong - atlas0 #50300389_1: -5887584846172874159
+      Weaversong - atlas0 #50300389_10: 8838714418013665480
+      Weaversong - atlas0 #50300389_11: -5381384234760445860
+      Weaversong - atlas0 #50300389_12: -8186048855998887865
+      Weaversong - atlas0 #50300389_13: -1738907640062306147
+      Weaversong - atlas0 #50300389_14: 2057202120441670970
+      Weaversong - atlas0 #50300389_15: 7446309381230676743
+      Weaversong - atlas0 #50300389_16: 4556241982920920259
+      Weaversong - atlas0 #50300389_17: -5774677477872479278
+      Weaversong - atlas0 #50300389_18: -1821173367905127862
+      Weaversong - atlas0 #50300389_19: 3269367661119089564
+      Weaversong - atlas0 #50300389_2: 6590382288915362143
+      Weaversong - atlas0 #50300389_20: -4171976216188989279
+      Weaversong - atlas0 #50300389_21: -8675853549754892235
+      Weaversong - atlas0 #50300389_22: 6764638225739403340
+      Weaversong - atlas0 #50300389_23: -7761084977335088421
+      Weaversong - atlas0 #50300389_24: -1817863682169367828
+      Weaversong - atlas0 #50300389_25: -6643262727263318846
+      Weaversong - atlas0 #50300389_26: -3258288374915389834
+      Weaversong - atlas0 #50300389_27: 8698055525087831155
+      Weaversong - atlas0 #50300389_28: 3093503396181560333
+      Weaversong - atlas0 #50300389_29: -5517471966737529507
+      Weaversong - atlas0 #50300389_3: -7039347931116520257
+      Weaversong - atlas0 #50300389_30: -7307524726985435749
+      Weaversong - atlas0 #50300389_31: 3590524563968853357
+      Weaversong - atlas0 #50300389_4: 8942588954178803374
+      Weaversong - atlas0 #50300389_5: -1123994059026970728
+      Weaversong - atlas0 #50300389_6: 1087710156493741618
+      Weaversong - atlas0 #50300389_7: 488428594697756137
+      Weaversong - atlas0 #50300389_8: 7980462208085111741
+      Weaversong - atlas0 #50300389_9: 6803813194726019219
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

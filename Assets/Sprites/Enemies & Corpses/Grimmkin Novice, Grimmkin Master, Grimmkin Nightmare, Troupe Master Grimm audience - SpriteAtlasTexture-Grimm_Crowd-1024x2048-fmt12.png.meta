@@ -1,0 +1,578 @@
+fileFormatVersion: 2
+guid: 2cc243bf81e145048bc83fbcd0a00563
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2917931459450718535
+    second: Grimmkin Novice, Grimmkin Master, Grimmkin Nightmare, Troupe Master Grimm
+      audience - SpriteAtlasTexture-Grimm_Crowd-1024x2048-fmt12_0
+  - first:
+      213: -3192269635285982567
+    second: Grimmkin Novice, Grimmkin Master, Grimmkin Nightmare, Troupe Master Grimm
+      audience - SpriteAtlasTexture-Grimm_Crowd-1024x2048-fmt12_1
+  - first:
+      213: -6221163415693766280
+    second: Grimmkin Novice, Grimmkin Master, Grimmkin Nightmare, Troupe Master Grimm
+      audience - SpriteAtlasTexture-Grimm_Crowd-1024x2048-fmt12_2
+  - first:
+      213: -4723718264557265613
+    second: Grimmkin Novice, Grimmkin Master, Grimmkin Nightmare, Troupe Master Grimm
+      audience - SpriteAtlasTexture-Grimm_Crowd-1024x2048-fmt12_3
+  - first:
+      213: 6804742919526842736
+    second: Grimmkin Novice, Grimmkin Master, Grimmkin Nightmare, Troupe Master Grimm
+      audience - SpriteAtlasTexture-Grimm_Crowd-1024x2048-fmt12_4
+  - first:
+      213: 9124250121944545606
+    second: Grimmkin Novice, Grimmkin Master, Grimmkin Nightmare, Troupe Master Grimm
+      audience - SpriteAtlasTexture-Grimm_Crowd-1024x2048-fmt12_5
+  - first:
+      213: 2873423779408138997
+    second: Grimmkin Novice, Grimmkin Master, Grimmkin Nightmare, Troupe Master Grimm
+      audience - SpriteAtlasTexture-Grimm_Crowd-1024x2048-fmt12_6
+  - first:
+      213: -2963716238761689373
+    second: Grimmkin Novice, Grimmkin Master, Grimmkin Nightmare, Troupe Master Grimm
+      audience - SpriteAtlasTexture-Grimm_Crowd-1024x2048-fmt12_7
+  - first:
+      213: -4477946111514057383
+    second: Grimmkin Novice, Grimmkin Master, Grimmkin Nightmare, Troupe Master Grimm
+      audience - SpriteAtlasTexture-Grimm_Crowd-1024x2048-fmt12_8
+  - first:
+      213: 6274275522556756860
+    second: Grimmkin Novice, Grimmkin Master, Grimmkin Nightmare, Troupe Master Grimm
+      audience - SpriteAtlasTexture-Grimm_Crowd-1024x2048-fmt12_9
+  - first:
+      213: 3410911580298666820
+    second: Grimmkin Novice, Grimmkin Master, Grimmkin Nightmare, Troupe Master Grimm
+      audience - SpriteAtlasTexture-Grimm_Crowd-1024x2048-fmt12_10
+  - first:
+      213: 880508382522612131
+    second: Grimmkin Novice, Grimmkin Master, Grimmkin Nightmare, Troupe Master Grimm
+      audience - SpriteAtlasTexture-Grimm_Crowd-1024x2048-fmt12_11
+  - first:
+      213: -1922734818394502177
+    second: Grimmkin Novice, Grimmkin Master, Grimmkin Nightmare, Troupe Master Grimm
+      audience - SpriteAtlasTexture-Grimm_Crowd-1024x2048-fmt12_12
+  - first:
+      213: -8118994932996931062
+    second: Grimmkin Novice, Grimmkin Master, Grimmkin Nightmare, Troupe Master Grimm
+      audience - SpriteAtlasTexture-Grimm_Crowd-1024x2048-fmt12_13
+  - first:
+      213: -5233077851630704118
+    second: Grimmkin Novice, Grimmkin Master, Grimmkin Nightmare, Troupe Master Grimm
+      audience - SpriteAtlasTexture-Grimm_Crowd-1024x2048-fmt12_14
+  - first:
+      213: 5473036602104279614
+    second: Grimmkin Novice, Grimmkin Master, Grimmkin Nightmare, Troupe Master Grimm
+      audience - SpriteAtlasTexture-Grimm_Crowd-1024x2048-fmt12_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Grimmkin Novice, Grimmkin Master, Grimmkin Nightmare, Troupe Master Grimm
+        audience - SpriteAtlasTexture-Grimm_Crowd-1024x2048-fmt12_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 986
+        width: 255
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b6b0882ccc6187d0800000000000000
+      internalID: -2917931459450718535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grimmkin Novice, Grimmkin Master, Grimmkin Nightmare, Troupe Master Grimm
+        audience - SpriteAtlasTexture-Grimm_Crowd-1024x2048-fmt12_1
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 995
+        width: 118
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99263891ea7c2b3d0800000000000000
+      internalID: -3192269635285982567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grimmkin Novice, Grimmkin Master, Grimmkin Nightmare, Troupe Master Grimm
+        audience - SpriteAtlasTexture-Grimm_Crowd-1024x2048-fmt12_2
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 735
+        width: 256
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 871dae5a5dcf9a9a0800000000000000
+      internalID: -6221163415693766280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grimmkin Novice, Grimmkin Master, Grimmkin Nightmare, Troupe Master Grimm
+        audience - SpriteAtlasTexture-Grimm_Crowd-1024x2048-fmt12_3
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 747
+        width: 116
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33d1a06044bf17eb0800000000000000
+      internalID: -4723718264557265613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grimmkin Novice, Grimmkin Master, Grimmkin Nightmare, Troupe Master Grimm
+        audience - SpriteAtlasTexture-Grimm_Crowd-1024x2048-fmt12_4
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 697
+        width: 258
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 071804ad1ad4f6e50800000000000000
+      internalID: 6804742919526842736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grimmkin Novice, Grimmkin Master, Grimmkin Nightmare, Troupe Master Grimm
+        audience - SpriteAtlasTexture-Grimm_Crowd-1024x2048-fmt12_5
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 707
+        width: 115
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 649b150c429df9e70800000000000000
+      internalID: 9124250121944545606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grimmkin Novice, Grimmkin Master, Grimmkin Nightmare, Troupe Master Grimm
+        audience - SpriteAtlasTexture-Grimm_Crowd-1024x2048-fmt12_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 486
+        width: 257
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f258cc04b370e720800000000000000
+      internalID: 2873423779408138997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grimmkin Novice, Grimmkin Master, Grimmkin Nightmare, Troupe Master Grimm
+        audience - SpriteAtlasTexture-Grimm_Crowd-1024x2048-fmt12_7
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 499
+        width: 115
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ee7d8588c3ced6d0800000000000000
+      internalID: -2963716238761689373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grimmkin Novice, Grimmkin Master, Grimmkin Nightmare, Troupe Master Grimm
+        audience - SpriteAtlasTexture-Grimm_Crowd-1024x2048-fmt12_8
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 448
+        width: 255
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 955ecdb9cb32bd1c0800000000000000
+      internalID: -4477946111514057383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grimmkin Novice, Grimmkin Master, Grimmkin Nightmare, Troupe Master Grimm
+        audience - SpriteAtlasTexture-Grimm_Crowd-1024x2048-fmt12_9
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 469
+        width: 118
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c738ce06854b21750800000000000000
+      internalID: 6274275522556756860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grimmkin Novice, Grimmkin Master, Grimmkin Nightmare, Troupe Master Grimm
+        audience - SpriteAtlasTexture-Grimm_Crowd-1024x2048-fmt12_10
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 234
+        width: 255
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 443e7ffa20ef55f20800000000000000
+      internalID: 3410911580298666820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grimmkin Novice, Grimmkin Master, Grimmkin Nightmare, Troupe Master Grimm
+        audience - SpriteAtlasTexture-Grimm_Crowd-1024x2048-fmt12_11
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 263
+        width: 115
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a9930275b1383c00800000000000000
+      internalID: 880508382522612131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grimmkin Novice, Grimmkin Master, Grimmkin Nightmare, Troupe Master Grimm
+        audience - SpriteAtlasTexture-Grimm_Crowd-1024x2048-fmt12_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 257
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdb0258aed21155e0800000000000000
+      internalID: -1922734818394502177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grimmkin Novice, Grimmkin Master, Grimmkin Nightmare, Troupe Master Grimm
+        audience - SpriteAtlasTexture-Grimm_Crowd-1024x2048-fmt12_13
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 14
+        width: 114
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a02858def19835f80800000000000000
+      internalID: -8118994932996931062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grimmkin Novice, Grimmkin Master, Grimmkin Nightmare, Troupe Master Grimm
+        audience - SpriteAtlasTexture-Grimm_Crowd-1024x2048-fmt12_14
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 0
+        width: 256
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0a66938b6f5067b0800000000000000
+      internalID: -5233077851630704118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grimmkin Novice, Grimmkin Master, Grimmkin Nightmare, Troupe Master Grimm
+        audience - SpriteAtlasTexture-Grimm_Crowd-1024x2048-fmt12_15
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 0
+        width: 115
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e32f22fcac124fb40800000000000000
+      internalID: 5473036602104279614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Grimmkin Novice, Grimmkin Master, Grimmkin Nightmare, Troupe Master Grimm audience - SpriteAtlasTexture-Grimm_Crowd-1024x2048-fmt12_0: -2917931459450718535
+      Grimmkin Novice, Grimmkin Master, Grimmkin Nightmare, Troupe Master Grimm audience - SpriteAtlasTexture-Grimm_Crowd-1024x2048-fmt12_1: -3192269635285982567
+      Grimmkin Novice, Grimmkin Master, Grimmkin Nightmare, Troupe Master Grimm audience - SpriteAtlasTexture-Grimm_Crowd-1024x2048-fmt12_10: 3410911580298666820
+      Grimmkin Novice, Grimmkin Master, Grimmkin Nightmare, Troupe Master Grimm audience - SpriteAtlasTexture-Grimm_Crowd-1024x2048-fmt12_11: 880508382522612131
+      Grimmkin Novice, Grimmkin Master, Grimmkin Nightmare, Troupe Master Grimm audience - SpriteAtlasTexture-Grimm_Crowd-1024x2048-fmt12_12: -1922734818394502177
+      Grimmkin Novice, Grimmkin Master, Grimmkin Nightmare, Troupe Master Grimm audience - SpriteAtlasTexture-Grimm_Crowd-1024x2048-fmt12_13: -8118994932996931062
+      Grimmkin Novice, Grimmkin Master, Grimmkin Nightmare, Troupe Master Grimm audience - SpriteAtlasTexture-Grimm_Crowd-1024x2048-fmt12_14: -5233077851630704118
+      Grimmkin Novice, Grimmkin Master, Grimmkin Nightmare, Troupe Master Grimm audience - SpriteAtlasTexture-Grimm_Crowd-1024x2048-fmt12_15: 5473036602104279614
+      Grimmkin Novice, Grimmkin Master, Grimmkin Nightmare, Troupe Master Grimm audience - SpriteAtlasTexture-Grimm_Crowd-1024x2048-fmt12_2: -6221163415693766280
+      Grimmkin Novice, Grimmkin Master, Grimmkin Nightmare, Troupe Master Grimm audience - SpriteAtlasTexture-Grimm_Crowd-1024x2048-fmt12_3: -4723718264557265613
+      Grimmkin Novice, Grimmkin Master, Grimmkin Nightmare, Troupe Master Grimm audience - SpriteAtlasTexture-Grimm_Crowd-1024x2048-fmt12_4: 6804742919526842736
+      Grimmkin Novice, Grimmkin Master, Grimmkin Nightmare, Troupe Master Grimm audience - SpriteAtlasTexture-Grimm_Crowd-1024x2048-fmt12_5: 9124250121944545606
+      Grimmkin Novice, Grimmkin Master, Grimmkin Nightmare, Troupe Master Grimm audience - SpriteAtlasTexture-Grimm_Crowd-1024x2048-fmt12_6: 2873423779408138997
+      Grimmkin Novice, Grimmkin Master, Grimmkin Nightmare, Troupe Master Grimm audience - SpriteAtlasTexture-Grimm_Crowd-1024x2048-fmt12_7: -2963716238761689373
+      Grimmkin Novice, Grimmkin Master, Grimmkin Nightmare, Troupe Master Grimm audience - SpriteAtlasTexture-Grimm_Crowd-1024x2048-fmt12_8: -4477946111514057383
+      Grimmkin Novice, Grimmkin Master, Grimmkin Nightmare, Troupe Master Grimm audience - SpriteAtlasTexture-Grimm_Crowd-1024x2048-fmt12_9: 6274275522556756860
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

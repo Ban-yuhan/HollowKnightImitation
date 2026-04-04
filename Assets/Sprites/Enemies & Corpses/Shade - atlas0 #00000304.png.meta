@@ -1,0 +1,6396 @@
+fileFormatVersion: 2
+guid: 4ac3cde1412d7a04da95d90e4c9926b5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 372251825999015306
+    second: Shade - atlas0 #00000304_0
+  - first:
+      213: 6815072493294416760
+    second: Shade - atlas0 #00000304_1
+  - first:
+      213: 3366899737791286107
+    second: Shade - atlas0 #00000304_2
+  - first:
+      213: -7855281315958315319
+    second: Shade - atlas0 #00000304_3
+  - first:
+      213: 2009391529395519077
+    second: Shade - atlas0 #00000304_4
+  - first:
+      213: 4848549619961632434
+    second: Shade - atlas0 #00000304_5
+  - first:
+      213: -8984267601048459538
+    second: Shade - atlas0 #00000304_6
+  - first:
+      213: -2513484008628810173
+    second: Shade - atlas0 #00000304_7
+  - first:
+      213: 7624306119557421925
+    second: Shade - atlas0 #00000304_8
+  - first:
+      213: 3959913187491051964
+    second: Shade - atlas0 #00000304_9
+  - first:
+      213: 801134627134458551
+    second: Shade - atlas0 #00000304_10
+  - first:
+      213: 1325516588032576531
+    second: Shade - atlas0 #00000304_11
+  - first:
+      213: -3739170930112948179
+    second: Shade - atlas0 #00000304_12
+  - first:
+      213: 1857780769256887536
+    second: Shade - atlas0 #00000304_13
+  - first:
+      213: -8297182506522771887
+    second: Shade - atlas0 #00000304_14
+  - first:
+      213: -4963116466513621655
+    second: Shade - atlas0 #00000304_15
+  - first:
+      213: 1676391591532764303
+    second: Shade - atlas0 #00000304_16
+  - first:
+      213: 2508154159909617093
+    second: Shade - atlas0 #00000304_17
+  - first:
+      213: -7219816829688941538
+    second: Shade - atlas0 #00000304_18
+  - first:
+      213: -8132606209214507538
+    second: Shade - atlas0 #00000304_19
+  - first:
+      213: 3832121920081468481
+    second: Shade - atlas0 #00000304_20
+  - first:
+      213: -2652571861407942652
+    second: Shade - atlas0 #00000304_21
+  - first:
+      213: -3465281340475353489
+    second: Shade - atlas0 #00000304_22
+  - first:
+      213: 7874561256503679435
+    second: Shade - atlas0 #00000304_23
+  - first:
+      213: 992414230202194905
+    second: Shade - atlas0 #00000304_24
+  - first:
+      213: 2358286457286510245
+    second: Shade - atlas0 #00000304_25
+  - first:
+      213: -7215037502125800997
+    second: Shade - atlas0 #00000304_26
+  - first:
+      213: 5137137244895104473
+    second: Shade - atlas0 #00000304_27
+  - first:
+      213: 805253135388259616
+    second: Shade - atlas0 #00000304_28
+  - first:
+      213: -7746002287235494262
+    second: Shade - atlas0 #00000304_29
+  - first:
+      213: -5755004473776231915
+    second: Shade - atlas0 #00000304_30
+  - first:
+      213: -3980932677882484656
+    second: Shade - atlas0 #00000304_31
+  - first:
+      213: 7745738825530277798
+    second: Shade - atlas0 #00000304_32
+  - first:
+      213: 1117483348589327925
+    second: Shade - atlas0 #00000304_33
+  - first:
+      213: -3524296332649235469
+    second: Shade - atlas0 #00000304_34
+  - first:
+      213: -7566206088956992998
+    second: Shade - atlas0 #00000304_35
+  - first:
+      213: -1131520020866636601
+    second: Shade - atlas0 #00000304_36
+  - first:
+      213: 3355981490229829719
+    second: Shade - atlas0 #00000304_37
+  - first:
+      213: -4105636603437411929
+    second: Shade - atlas0 #00000304_38
+  - first:
+      213: -7431414181707984299
+    second: Shade - atlas0 #00000304_39
+  - first:
+      213: 2658018631009299031
+    second: Shade - atlas0 #00000304_40
+  - first:
+      213: -4620594694371419317
+    second: Shade - atlas0 #00000304_41
+  - first:
+      213: 4523831107476600678
+    second: Shade - atlas0 #00000304_42
+  - first:
+      213: -1349306767618749119
+    second: Shade - atlas0 #00000304_43
+  - first:
+      213: 8240728164932915466
+    second: Shade - atlas0 #00000304_44
+  - first:
+      213: -4589041544990825348
+    second: Shade - atlas0 #00000304_45
+  - first:
+      213: 2453568729878535847
+    second: Shade - atlas0 #00000304_46
+  - first:
+      213: 6881742633939514392
+    second: Shade - atlas0 #00000304_47
+  - first:
+      213: -7881521915685385131
+    second: Shade - atlas0 #00000304_48
+  - first:
+      213: -4702618629567099044
+    second: Shade - atlas0 #00000304_49
+  - first:
+      213: -7923378852122726564
+    second: Shade - atlas0 #00000304_50
+  - first:
+      213: -342074678018954136
+    second: Shade - atlas0 #00000304_51
+  - first:
+      213: 8561306805660995405
+    second: Shade - atlas0 #00000304_52
+  - first:
+      213: 5667653906896408102
+    second: Shade - atlas0 #00000304_53
+  - first:
+      213: -912148232987552532
+    second: Shade - atlas0 #00000304_54
+  - first:
+      213: -9218963624826902767
+    second: Shade - atlas0 #00000304_55
+  - first:
+      213: -2128469267488870858
+    second: Shade - atlas0 #00000304_56
+  - first:
+      213: -1677200668052945854
+    second: Shade - atlas0 #00000304_57
+  - first:
+      213: -17179068468929989
+    second: Shade - atlas0 #00000304_58
+  - first:
+      213: -5529689593295839231
+    second: Shade - atlas0 #00000304_59
+  - first:
+      213: -3425018561744179030
+    second: Shade - atlas0 #00000304_60
+  - first:
+      213: 2411734484384976527
+    second: Shade - atlas0 #00000304_61
+  - first:
+      213: 7054200427840722731
+    second: Shade - atlas0 #00000304_62
+  - first:
+      213: -5271362383024174754
+    second: Shade - atlas0 #00000304_63
+  - first:
+      213: 5524555536258491834
+    second: Shade - atlas0 #00000304_64
+  - first:
+      213: -470688311453899216
+    second: Shade - atlas0 #00000304_65
+  - first:
+      213: 2897043468495155131
+    second: Shade - atlas0 #00000304_66
+  - first:
+      213: -977228636737552420
+    second: Shade - atlas0 #00000304_67
+  - first:
+      213: -1821499949223578136
+    second: Shade - atlas0 #00000304_68
+  - first:
+      213: -921936516290649317
+    second: Shade - atlas0 #00000304_69
+  - first:
+      213: 5644930625758181807
+    second: Shade - atlas0 #00000304_70
+  - first:
+      213: 1656654558392672354
+    second: Shade - atlas0 #00000304_71
+  - first:
+      213: -3112267252820612370
+    second: Shade - atlas0 #00000304_72
+  - first:
+      213: -1787512037974610709
+    second: Shade - atlas0 #00000304_73
+  - first:
+      213: -2249422314383196141
+    second: Shade - atlas0 #00000304_74
+  - first:
+      213: -2960176777675518975
+    second: Shade - atlas0 #00000304_75
+  - first:
+      213: 2951116721351293690
+    second: Shade - atlas0 #00000304_76
+  - first:
+      213: 7381807447989194732
+    second: Shade - atlas0 #00000304_77
+  - first:
+      213: -3617144628792613079
+    second: Shade - atlas0 #00000304_78
+  - first:
+      213: 6211921120339950957
+    second: Shade - atlas0 #00000304_79
+  - first:
+      213: 1214508060797464926
+    second: Shade - atlas0 #00000304_80
+  - first:
+      213: 7297548722066272346
+    second: Shade - atlas0 #00000304_81
+  - first:
+      213: 1382163387459047744
+    second: Shade - atlas0 #00000304_82
+  - first:
+      213: -6750956085989631349
+    second: Shade - atlas0 #00000304_83
+  - first:
+      213: 3741494853116145283
+    second: Shade - atlas0 #00000304_84
+  - first:
+      213: 525763040559634098
+    second: Shade - atlas0 #00000304_85
+  - first:
+      213: 6718240304970758858
+    second: Shade - atlas0 #00000304_86
+  - first:
+      213: -3144317138822092164
+    second: Shade - atlas0 #00000304_87
+  - first:
+      213: 6362598383933798605
+    second: Shade - atlas0 #00000304_88
+  - first:
+      213: -1765960116686774071
+    second: Shade - atlas0 #00000304_89
+  - first:
+      213: -5265549022907476843
+    second: Shade - atlas0 #00000304_90
+  - first:
+      213: -8070908321330577651
+    second: Shade - atlas0 #00000304_91
+  - first:
+      213: -2648969767657462311
+    second: Shade - atlas0 #00000304_92
+  - first:
+      213: -3534511596543009878
+    second: Shade - atlas0 #00000304_93
+  - first:
+      213: -2393738905169156568
+    second: Shade - atlas0 #00000304_94
+  - first:
+      213: -1550207916152371349
+    second: Shade - atlas0 #00000304_95
+  - first:
+      213: 2697984558626201982
+    second: Shade - atlas0 #00000304_96
+  - first:
+      213: 5274164059103990537
+    second: Shade - atlas0 #00000304_97
+  - first:
+      213: 6091874968923684838
+    second: Shade - atlas0 #00000304_98
+  - first:
+      213: -7167539581817779309
+    second: Shade - atlas0 #00000304_99
+  - first:
+      213: -4490161162126041526
+    second: Shade - atlas0 #00000304_100
+  - first:
+      213: -2873224338581065046
+    second: Shade - atlas0 #00000304_101
+  - first:
+      213: -7687144248219381166
+    second: Shade - atlas0 #00000304_102
+  - first:
+      213: -5836069362849399533
+    second: Shade - atlas0 #00000304_103
+  - first:
+      213: 3007551661109307471
+    second: Shade - atlas0 #00000304_104
+  - first:
+      213: 4450030311361964496
+    second: Shade - atlas0 #00000304_105
+  - first:
+      213: 7294878496553639435
+    second: Shade - atlas0 #00000304_106
+  - first:
+      213: 582439846264474958
+    second: Shade - atlas0 #00000304_107
+  - first:
+      213: 3253723027468632256
+    second: Shade - atlas0 #00000304_108
+  - first:
+      213: 6003650838326158654
+    second: Shade - atlas0 #00000304_109
+  - first:
+      213: 6385178890805157010
+    second: Shade - atlas0 #00000304_110
+  - first:
+      213: 4487327616214283049
+    second: Shade - atlas0 #00000304_111
+  - first:
+      213: -1635454999321006507
+    second: Shade - atlas0 #00000304_112
+  - first:
+      213: -4033014656180729973
+    second: Shade - atlas0 #00000304_113
+  - first:
+      213: -8396753370836451072
+    second: Shade - atlas0 #00000304_114
+  - first:
+      213: 8883315786935548102
+    second: Shade - atlas0 #00000304_115
+  - first:
+      213: 2609689432650273872
+    second: Shade - atlas0 #00000304_116
+  - first:
+      213: -5343664481861698209
+    second: Shade - atlas0 #00000304_117
+  - first:
+      213: 1169372833696920363
+    second: Shade - atlas0 #00000304_118
+  - first:
+      213: -4055573665241707665
+    second: Shade - atlas0 #00000304_119
+  - first:
+      213: -6276924038797854644
+    second: Shade - atlas0 #00000304_120
+  - first:
+      213: -1905946940374312501
+    second: Shade - atlas0 #00000304_121
+  - first:
+      213: -5924386255201374525
+    second: Shade - atlas0 #00000304_122
+  - first:
+      213: -2775944655077464757
+    second: Shade - atlas0 #00000304_123
+  - first:
+      213: -9121863871665864893
+    second: Shade - atlas0 #00000304_124
+  - first:
+      213: -2843096240051585663
+    second: Shade - atlas0 #00000304_125
+  - first:
+      213: -569860429046308098
+    second: Shade - atlas0 #00000304_126
+  - first:
+      213: 1926537556297360574
+    second: Shade - atlas0 #00000304_127
+  - first:
+      213: -3368618760471453672
+    second: Shade - atlas0 #00000304_128
+  - first:
+      213: 3090207383020132485
+    second: Shade - atlas0 #00000304_129
+  - first:
+      213: -3211064617980603839
+    second: Shade - atlas0 #00000304_130
+  - first:
+      213: -8151166827984021766
+    second: Shade - atlas0 #00000304_131
+  - first:
+      213: 8982344060658013052
+    second: Shade - atlas0 #00000304_132
+  - first:
+      213: -104634767124552961
+    second: Shade - atlas0 #00000304_133
+  - first:
+      213: 1315469207155533320
+    second: Shade - atlas0 #00000304_134
+  - first:
+      213: -4957723626738728531
+    second: Shade - atlas0 #00000304_135
+  - first:
+      213: 6788480631428943497
+    second: Shade - atlas0 #00000304_136
+  - first:
+      213: 4182652777001187351
+    second: Shade - atlas0 #00000304_137
+  - first:
+      213: 2467240275078738967
+    second: Shade - atlas0 #00000304_138
+  - first:
+      213: 5012198711082825595
+    second: Shade - atlas0 #00000304_139
+  - first:
+      213: -5151602861006363819
+    second: Shade - atlas0 #00000304_140
+  - first:
+      213: -3579490302287431191
+    second: Shade - atlas0 #00000304_141
+  - first:
+      213: -3502365581464887093
+    second: Shade - atlas0 #00000304_142
+  - first:
+      213: -654399425059679902
+    second: Shade - atlas0 #00000304_143
+  - first:
+      213: 8155782822671299358
+    second: Shade - atlas0 #00000304_144
+  - first:
+      213: 5133253264877117614
+    second: Shade - atlas0 #00000304_145
+  - first:
+      213: -761939392142778896
+    second: Shade - atlas0 #00000304_146
+  - first:
+      213: -2189219798187323910
+    second: Shade - atlas0 #00000304_147
+  - first:
+      213: -5940830394931091919
+    second: Shade - atlas0 #00000304_148
+  - first:
+      213: -7477288347080054014
+    second: Shade - atlas0 #00000304_149
+  - first:
+      213: 371843575099072532
+    second: Shade - atlas0 #00000304_150
+  - first:
+      213: -5231736483200437964
+    second: Shade - atlas0 #00000304_151
+  - first:
+      213: -1503892866434272335
+    second: Shade - atlas0 #00000304_152
+  - first:
+      213: 6372013263849636700
+    second: Shade - atlas0 #00000304_153
+  - first:
+      213: -1399071703973870371
+    second: Shade - atlas0 #00000304_154
+  - first:
+      213: -8497675541660249698
+    second: Shade - atlas0 #00000304_155
+  - first:
+      213: -2986436906009499043
+    second: Shade - atlas0 #00000304_156
+  - first:
+      213: -5332307585717768468
+    second: Shade - atlas0 #00000304_157
+  - first:
+      213: 6321905277000235917
+    second: Shade - atlas0 #00000304_158
+  - first:
+      213: 5611513879373644185
+    second: Shade - atlas0 #00000304_159
+  - first:
+      213: 2918010988236181509
+    second: Shade - atlas0 #00000304_160
+  - first:
+      213: -2325968793117638551
+    second: Shade - atlas0 #00000304_161
+  - first:
+      213: -7606165780710752972
+    second: Shade - atlas0 #00000304_162
+  - first:
+      213: -2024884866210104836
+    second: Shade - atlas0 #00000304_163
+  - first:
+      213: -5694064643306430110
+    second: Shade - atlas0 #00000304_164
+  - first:
+      213: 8786942472617703001
+    second: Shade - atlas0 #00000304_165
+  - first:
+      213: -8070182249267176990
+    second: Shade - atlas0 #00000304_166
+  - first:
+      213: 8540105015070430972
+    second: Shade - atlas0 #00000304_167
+  - first:
+      213: 5222410346644094620
+    second: Shade - atlas0 #00000304_168
+  - first:
+      213: -7906251226279992220
+    second: Shade - atlas0 #00000304_169
+  - first:
+      213: 3930181858589953253
+    second: Shade - atlas0 #00000304_170
+  - first:
+      213: 7546107948898425789
+    second: Shade - atlas0 #00000304_171
+  - first:
+      213: -2946811637588000836
+    second: Shade - atlas0 #00000304_172
+  - first:
+      213: -6951309908575468423
+    second: Shade - atlas0 #00000304_173
+  - first:
+      213: 1923750704159287906
+    second: Shade - atlas0 #00000304_174
+  - first:
+      213: 9119112906384929357
+    second: Shade - atlas0 #00000304_175
+  - first:
+      213: 1206667041482827693
+    second: Shade - atlas0 #00000304_176
+  - first:
+      213: 7765610154595994323
+    second: Shade - atlas0 #00000304_177
+  - first:
+      213: -1384481894641423049
+    second: Shade - atlas0 #00000304_178
+  - first:
+      213: 9140144533986007647
+    second: Shade - atlas0 #00000304_179
+  - first:
+      213: -8406470818380814427
+    second: Shade - atlas0 #00000304_180
+  - first:
+      213: -4906234586135931751
+    second: Shade - atlas0 #00000304_181
+  - first:
+      213: -8911921707257124382
+    second: Shade - atlas0 #00000304_182
+  - first:
+      213: 728029577381094827
+    second: Shade - atlas0 #00000304_183
+  - first:
+      213: -6193255461105198592
+    second: Shade - atlas0 #00000304_184
+  - first:
+      213: -5598383276536397355
+    second: Shade - atlas0 #00000304_185
+  - first:
+      213: 5338763334593746745
+    second: Shade - atlas0 #00000304_186
+  - first:
+      213: -4805597097046339572
+    second: Shade - atlas0 #00000304_187
+  - first:
+      213: -6629647088759871120
+    second: Shade - atlas0 #00000304_188
+  - first:
+      213: 6117224897939729900
+    second: Shade - atlas0 #00000304_189
+  - first:
+      213: 7896516051459071124
+    second: Shade - atlas0 #00000304_190
+  - first:
+      213: 2524760652974052899
+    second: Shade - atlas0 #00000304_191
+  - first:
+      213: 2512932891646673569
+    second: Shade - atlas0 #00000304_192
+  - first:
+      213: 156051483174387043
+    second: Shade - atlas0 #00000304_193
+  - first:
+      213: 3114759415333089075
+    second: Shade - atlas0 #00000304_194
+  - first:
+      213: -4703592766666645808
+    second: Shade - atlas0 #00000304_195
+  - first:
+      213: 327253589714796309
+    second: Shade - atlas0 #00000304_196
+  - first:
+      213: 3414663866552819045
+    second: Shade - atlas0 #00000304_197
+  - first:
+      213: 3935440762607980774
+    second: Shade - atlas0 #00000304_198
+  - first:
+      213: -8841176589991209572
+    second: Shade - atlas0 #00000304_199
+  - first:
+      213: -972534970083695408
+    second: Shade - atlas0 #00000304_200
+  - first:
+      213: 4251640722148238605
+    second: Shade - atlas0 #00000304_201
+  - first:
+      213: 5669939006522663341
+    second: Shade - atlas0 #00000304_202
+  - first:
+      213: 2354186427054359462
+    second: Shade - atlas0 #00000304_203
+  - first:
+      213: -3282604256688242355
+    second: Shade - atlas0 #00000304_204
+  - first:
+      213: -4668016649880279199
+    second: Shade - atlas0 #00000304_205
+  - first:
+      213: -1292628374286987099
+    second: Shade - atlas0 #00000304_206
+  - first:
+      213: -3874112275741263321
+    second: Shade - atlas0 #00000304_207
+  - first:
+      213: -9166781690275305350
+    second: Shade - atlas0 #00000304_208
+  - first:
+      213: -6243521791582551300
+    second: Shade - atlas0 #00000304_209
+  - first:
+      213: -9155994871708231950
+    second: Shade - atlas0 #00000304_210
+  - first:
+      213: 7450467721650884071
+    second: Shade - atlas0 #00000304_211
+  - first:
+      213: 6696747906994612994
+    second: Shade - atlas0 #00000304_212
+  - first:
+      213: 5985420208693501039
+    second: Shade - atlas0 #00000304_213
+  - first:
+      213: -2104255151705953937
+    second: Shade - atlas0 #00000304_214
+  - first:
+      213: -2338283015993372531
+    second: Shade - atlas0 #00000304_215
+  - first:
+      213: 3372872080356914725
+    second: Shade - atlas0 #00000304_216
+  - first:
+      213: -8734855863689834177
+    second: Shade - atlas0 #00000304_217
+  - first:
+      213: -2321774828492011099
+    second: Shade - atlas0 #00000304_218
+  - first:
+      213: 368660697185098756
+    second: Shade - atlas0 #00000304_219
+  - first:
+      213: -2584576074926851945
+    second: Shade - atlas0 #00000304_220
+  - first:
+      213: -5585204757002279561
+    second: Shade - atlas0 #00000304_221
+  - first:
+      213: 953859894604839930
+    second: Shade - atlas0 #00000304_222
+  - first:
+      213: 3504812064533626437
+    second: Shade - atlas0 #00000304_223
+  - first:
+      213: 317555687753090413
+    second: Shade - atlas0 #00000304_224
+  - first:
+      213: -3295905304310249980
+    second: Shade - atlas0 #00000304_225
+  - first:
+      213: -6341143473862461822
+    second: Shade - atlas0 #00000304_226
+  - first:
+      213: -7480254155975160353
+    second: Shade - atlas0 #00000304_227
+  - first:
+      213: 5655423995048223221
+    second: Shade - atlas0 #00000304_228
+  - first:
+      213: -5599646106870181708
+    second: Shade - atlas0 #00000304_229
+  - first:
+      213: 590957759983702677
+    second: Shade - atlas0 #00000304_230
+  - first:
+      213: -1184329469936175204
+    second: Shade - atlas0 #00000304_231
+  - first:
+      213: 6605249210635457145
+    second: Shade - atlas0 #00000304_232
+  - first:
+      213: -3188252990805813533
+    second: Shade - atlas0 #00000304_233
+  - first:
+      213: -8651673049241249984
+    second: Shade - atlas0 #00000304_234
+  - first:
+      213: -6696165374957373876
+    second: Shade - atlas0 #00000304_235
+  - first:
+      213: 3332859523668886426
+    second: Shade - atlas0 #00000304_236
+  - first:
+      213: -1976778165062580902
+    second: Shade - atlas0 #00000304_237
+  - first:
+      213: 5981338945348896903
+    second: Shade - atlas0 #00000304_238
+  - first:
+      213: 7349836942500523321
+    second: Shade - atlas0 #00000304_239
+  - first:
+      213: -2521911263872086111
+    second: Shade - atlas0 #00000304_240
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Shade - atlas0 #00000304_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1903
+        width: 111
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8d69af30118a2500800000000000000
+      internalID: 372251825999015306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shade - atlas0 #00000304_1
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 1966
+        width: 85
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87379592350049e50800000000000000
+      internalID: 6815072493294416760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shade - atlas0 #00000304_2
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 1821
+        width: 106
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5bc7611971a9be20800000000000000
+      internalID: 3366899737791286107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shade - atlas0 #00000304_3
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 1945
+        width: 128
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c6aa8f134f6cf290800000000000000
+      internalID: -7855281315958315319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shade - atlas0 #00000304_4
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 1804
+        width: 155
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56e7c4423fac2eb10800000000000000
+      internalID: 2009391529395519077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shade - atlas0 #00000304_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1605
+        width: 112
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b61badc032894340800000000000000
+      internalID: 4848549619961632434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shade - atlas0 #00000304_6
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 1843
+        width: 144
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee6a470b738715380800000000000000
+      internalID: -8984267601048459538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shade - atlas0 #00000304_7
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 1742
+        width: 152
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34e0e057c9f4e1dd0800000000000000
+      internalID: -2513484008628810173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shade - atlas0 #00000304_8
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 1691
+        width: 129
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56b9e0b350afec960800000000000000
+      internalID: 7624306119557421925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shade - atlas0 #00000304_9
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 1841
+        width: 91
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb9f9c1401074f630800000000000000
+      internalID: 3959913187491051964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shade - atlas0 #00000304_10
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 1754
+        width: 132
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ba4d93e2b33e1b00800000000000000
+      internalID: 801134627134458551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shade - atlas0 #00000304_11
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 1568
+        width: 151
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31cc19d505e256210800000000000000
+      internalID: 1325516588032576531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shade - atlas0 #00000304_12
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 1722
+        width: 76
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d28962c99dbcb1cc0800000000000000
+      internalID: -3739170930112948179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shade - atlas0 #00000304_13
+      rect:
+        serializedVersion: 2
+        x: 977
+        y: 1791
+        width: 79
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f4db1644c928c910800000000000000
+      internalID: 1857780769256887536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shade - atlas0 #00000304_14
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 1678
+        width: 119
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15eff1e787c7adc80800000000000000
+      internalID: -8297182506522771887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shade - atlas0 #00000304_15
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 1621
+        width: 146
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96d40929ed77f1bb0800000000000000
+      internalID: -4963116466513621655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shade - atlas0 #00000304_16
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 1696
+        width: 143
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8c13c5454db34710800000000000000
+      internalID: 1676391591532764303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shade - atlas0 #00000304_17
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1574
+        width: 279
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cdb45f6be0cec220800000000000000
+      internalID: 2508154159909617093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shade - atlas0 #00000304_18
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 1468
+        width: 115
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e14f00b78de0ecb90800000000000000
+      internalID: -7219816829688941538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shade - atlas0 #00000304_19
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 1589
+        width: 94
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee512a9bdbd232f80800000000000000
+      internalID: -8132606209214507538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shade - atlas0 #00000304_20
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 1630
+        width: 66
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14c9176359e6e2530800000000000000
+      internalID: 3832121920081468481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shade - atlas0 #00000304_21
+      rect:
+        serializedVersion: 2
+        x: 1074
+        y: 1598
+        width: 137
+        height: 237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 408359b22fb203bd0800000000000000
+      internalID: -2652571861407942652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shade - atlas0 #00000304_22
+      rect:
+        serializedVersion: 2
+        x: 1259
+        y: 1629
+        width: 70
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f665d2e0bf8d8efc0800000000000000
+      internalID: -3465281340475353489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shade - atlas0 #00000304_23
+      rect:
+        serializedVersion: 2
+        x: 1386
+        y: 1546
+        width: 68
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc994f7ddbf084d60800000000000000
+      internalID: 7874561256503679435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shade - atlas0 #00000304_24
+      rect:
+        serializedVersion: 2
+        x: 1891
+        y: 1611
+        width: 138
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9db9e3dfb73c5cd00800000000000000
+      internalID: 992414230202194905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shade - atlas0 #00000304_25
+      rect:
+        serializedVersion: 2
+        x: 1255
+        y: 1689
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a64d25c9015ab020800000000000000
+      internalID: 2358286457286510245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shade - atlas0 #00000304_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1442
+        width: 117
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd18ba46e990fdb90800000000000000
+      internalID: -7215037502125800997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shade - atlas0 #00000304_27
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 1525
+        width: 120
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ddc6644b17ca4740800000000000000
+      internalID: 5137137244895104473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shade - atlas0 #00000304_28
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 1498
+        width: 149
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0253611d575dc2b00800000000000000
+      internalID: 805253135388259616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shade - atlas0 #00000304_29
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 1492
+        width: 93
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8e07f7b5fba08490800000000000000
+      internalID: -7746002287235494262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shade - atlas0 #00000304_30
+      rect:
+        serializedVersion: 2
+        x: 1155
+        y: 1478
+        width: 107
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51aa8c32ced1220b0800000000000000
+      internalID: -5755004473776231915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shade - atlas0 #00000304_31
+      rect:
+        serializedVersion: 2
+        x: 1199
+        y: 1598
+        width: 58
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 058e11442d2e0c8c0800000000000000
+      internalID: -3980932677882484656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shade - atlas0 #00000304_32
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 1542
+        width: 128
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6affea25c646e7b60800000000000000
+      internalID: 7745738825530277798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shade - atlas0 #00000304_33
+      rect:
+        serializedVersion: 2
+        x: 1764
+        y: 1555
+        width: 129
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 536b4135f29128f00800000000000000
+      internalID: 1117483348589327925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shade - atlas0 #00000304_34
+      rect:
+        serializedVersion: 2
+        x: 1914
+        y: 1423
+        width: 133
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fbfa31782f271fc0800000000000000
+      internalID: -3524296332649235469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shade - atlas0 #00000304_35
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 1362
+        width: 118
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a12225a46af6ff690800000000000000
+      internalID: -7566206088956992998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shade - atlas0 #00000304_36
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 1379
+        width: 156
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c4600c39880c40f0800000000000000
+      internalID: -1131520020866636601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shade - atlas0 #00000304_37
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 1415
+        width: 104
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7506fe57267d29e20800000000000000
+      internalID: 3355981490229829719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shade - atlas0 #00000304_38
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 1430
+        width: 121
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a195430349d507c0800000000000000
+      internalID: -4105636603437411929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shade - atlas0 #00000304_39
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 1450
+        width: 136
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 552de70dc205ed890800000000000000
+      internalID: -7431414181707984299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shade - atlas0 #00000304_40
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 1445
+        width: 114
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75aeda3bcdd23e420800000000000000
+      internalID: 2658018631009299031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shade - atlas0 #00000304_41
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 1345
+        width: 101
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4bdfee3b9950efb0800000000000000
+      internalID: -4620594694371419317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shade - atlas0 #00000304_42
+      rect:
+        serializedVersion: 2
+        x: 1157
+        y: 1334
+        width: 110
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66731098c60e7ce30800000000000000
+      internalID: 4523831107476600678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shade - atlas0 #00000304_43
+      rect:
+        serializedVersion: 2
+        x: 1265
+        y: 1435
+        width: 120
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14dcd0fc4ac464de0800000000000000
+      internalID: -1349306767618749119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shade - atlas0 #00000304_44
+      rect:
+        serializedVersion: 2
+        x: 1419
+        y: 1385
+        width: 74
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a011261da92fc5270800000000000000
+      internalID: 8240728164932915466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shade - atlas0 #00000304_45
+      rect:
+        serializedVersion: 2
+        x: 1491
+        y: 1471
+        width: 275
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c74ef4357037050c0800000000000000
+      internalID: -4589041544990825348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shade - atlas0 #00000304_46
+      rect:
+        serializedVersion: 2
+        x: 1497
+        y: 1377
+        width: 154
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ae9a60a2c3dc0220800000000000000
+      internalID: 2453568729878535847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shade - atlas0 #00000304_47
+      rect:
+        serializedVersion: 2
+        x: 1649
+        y: 1390
+        width: 130
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81430abe67cd08f50800000000000000
+      internalID: 6881742633939514392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shade - atlas0 #00000304_48
+      rect:
+        serializedVersion: 2
+        x: 1777
+        y: 1367
+        width: 139
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55ccd1663953f9290800000000000000
+      internalID: -7881521915685385131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shade - atlas0 #00000304_49
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1285
+        width: 123
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5fc48e9541fcbeb0800000000000000
+      internalID: -4702618629567099044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shade - atlas0 #00000304_50
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 1431
+        width: 25
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5fe162f9e08a0290800000000000000
+      internalID: -7923378852122726564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shade - atlas0 #00000304_51
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 1415
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86c260a84e4b04bf0800000000000000
+      internalID: -342074678018954136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shade - atlas0 #00000304_52
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 1439
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4fce841e2fdfc670800000000000000
+      internalID: 8561306805660995405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shade - atlas0 #00000304_53
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 1331
+        width: 127
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62e4a66233d87ae40800000000000000
+      internalID: 5667653906896408102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shade - atlas0 #00000304_54
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 1306
+        width: 128
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce4d64ec3066753f0800000000000000
+      internalID: -912148232987552532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shade - atlas0 #00000304_55
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 1278
+        width: 83
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 117e1f86d69af0080800000000000000
+      internalID: -9218963624826902767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shade - atlas0 #00000304_56
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 1419
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63e6df37a782672e0800000000000000
+      internalID: -2128469267488870858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shade - atlas0 #00000304_57
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 1275
+        width: 121
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24408abe0e269b8e0800000000000000
+      internalID: -1677200668052945854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shade - atlas0 #00000304_58
+      rect:
+        serializedVersion: 2
+        x: 1265
+        y: 1341
+        width: 156
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3a565e6ab7f2cff0800000000000000
+      internalID: -17179068468929989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shade - atlas0 #00000304_59
+      rect:
+        serializedVersion: 2
+        x: 1914
+        y: 790
+        width: 121
+        height: 635
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1006d69cc989243b0800000000000000
+      internalID: -5529689593295839231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shade - atlas0 #00000304_60
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1116
+        width: 150
+        height: 301
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa07e1eb3c3e770d0800000000000000
+      internalID: -3425018561744179030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shade - atlas0 #00000304_61
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 1262
+        width: 53
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8e83525cb3387120800000000000000
+      internalID: 2411734484384976527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shade - atlas0 #00000304_62
+      rect:
+        serializedVersion: 2
+        x: 1051
+        y: 1384
+        width: 19
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b27dad31aed85e160800000000000000
+      internalID: 7054200427840722731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shade - atlas0 #00000304_63
+      rect:
+        serializedVersion: 2
+        x: 1417
+        y: 1082
+        width: 85
+        height: 305
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e59cc7d67db58d6b0800000000000000
+      internalID: -5271362383024174754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shade - atlas0 #00000304_64
+      rect:
+        serializedVersion: 2
+        x: 1697
+        y: 1162
+        width: 87
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab5ea986df92bac40800000000000000
+      internalID: 5524555536258491834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shade - atlas0 #00000304_65
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 1207
+        width: 121
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 036acdb7977c779f0800000000000000
+      internalID: -470688311453899216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shade - atlas0 #00000304_66
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 1263
+        width: 160
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbfe4867fad543820800000000000000
+      internalID: 2897043468495155131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shade - atlas0 #00000304_67
+      rect:
+        serializedVersion: 2
+        x: 1058
+        y: 1190
+        width: 101
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdf3be28bbf2072f0800000000000000
+      internalID: -977228636737552420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shade - atlas0 #00000304_68
+      rect:
+        serializedVersion: 2
+        x: 1111
+        y: 1342
+        width: 19
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e5f228627bb8b6e0800000000000000
+      internalID: -1821499949223578136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shade - atlas0 #00000304_69
+      rect:
+        serializedVersion: 2
+        x: 1285
+        y: 1224
+        width: 142
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b13e8018f9f9433f0800000000000000
+      internalID: -921936516290649317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shade - atlas0 #00000304_70
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 1208
+        width: 189
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa93a0afe72d65e40800000000000000
+      internalID: 5644930625758181807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shade - atlas0 #00000304_71
+      rect:
+        serializedVersion: 2
+        x: 1796
+        y: 1146
+        width: 102
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 260e6842b8e9df610800000000000000
+      internalID: 1656654558392672354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shade - atlas0 #00000304_72
+      rect:
+        serializedVersion: 2
+        x: 2035
+        y: 1314
+        width: 6
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eeaeb8d4c610fc4d0800000000000000
+      internalID: -3112267252820612370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shade - atlas0 #00000304_73
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1124
+        width: 125
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bece9c8a54b7137e0800000000000000
+      internalID: -1787512037974610709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shade - atlas0 #00000304_74
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 923
+        width: 143
+        height: 348
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3104a51b25278c0e0800000000000000
+      internalID: -2249422314383196141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shade - atlas0 #00000304_75
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 1269
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10c4a4687e65be6d0800000000000000
+      internalID: -2960176777675518975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shade - atlas0 #00000304_76
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 1166
+        width: 121
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afafbdab50974f820800000000000000
+      internalID: 2951116721351293690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shade - atlas0 #00000304_77
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 1216
+        width: 24
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cef8ab173c2717660800000000000000
+      internalID: 7381807447989194732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shade - atlas0 #00000304_78
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 1111
+        width: 72
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 927aa93ef125dcdc0800000000000000
+      internalID: -3617144628792613079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shade - atlas0 #00000304_79
+      rect:
+        serializedVersion: 2
+        x: 1158
+        y: 1191
+        width: 129
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6dfb96c85d253650800000000000000
+      internalID: 6211921120339950957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shade - atlas0 #00000304_80
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 1140
+        width: 163
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e517ea485accad010800000000000000
+      internalID: 1214508060797464926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shade - atlas0 #00000304_81
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 839
+        width: 207
+        height: 425
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a50bddd06e9164560800000000000000
+      internalID: 7297548722066272346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shade - atlas0 #00000304_82
+      rect:
+        serializedVersion: 2
+        x: 1051
+        y: 1212
+        width: 27
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0411c03274e6e2310800000000000000
+      internalID: 1382163387459047744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shade - atlas0 #00000304_83
+      rect:
+        serializedVersion: 2
+        x: 1055
+        y: 1225
+        width: 31
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8a93583539cf42a0800000000000000
+      internalID: -6750956085989631349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shade - atlas0 #00000304_84
+      rect:
+        serializedVersion: 2
+        x: 1297
+        y: 1057
+        width: 72
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38ea0f0eeb57ce330800000000000000
+      internalID: 3741494853116145283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shade - atlas0 #00000304_85
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 1040
+        width: 130
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b6169423b2eb4700800000000000000
+      internalID: 525763040559634098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shade - atlas0 #00000304_86
+      rect:
+        serializedVersion: 2
+        x: 1068
+        y: 1170
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aca7e7d66fbfb3d50800000000000000
+      internalID: 6718240304970758858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shade - atlas0 #00000304_87
+      rect:
+        serializedVersion: 2
+        x: 1085
+        y: 1153
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7a2657b8342d54d0800000000000000
+      internalID: -3144317138822092164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shade - atlas0 #00000304_88
+      rect:
+        serializedVersion: 2
+        x: 1158
+        y: 1057
+        width: 141
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc839da058d7c4850800000000000000
+      internalID: 6362598383933798605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shade - atlas0 #00000304_89
+      rect:
+        serializedVersion: 2
+        x: 1367
+        y: 1165
+        width: 26
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c0a06d51ac0e77e0800000000000000
+      internalID: -1765960116686774071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shade - atlas0 #00000304_90
+      rect:
+        serializedVersion: 2
+        x: 1391
+        y: 1158
+        width: 28
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 594d13ecf030de6b0800000000000000
+      internalID: -5265549022907476843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shade - atlas0 #00000304_91
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 874
+        width: 205
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0fb85ca4af5eff80800000000000000
+      internalID: -8070908321330577651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shade - atlas0 #00000304_92
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 961
+        width: 129
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d5270af708fc3bd0800000000000000
+      internalID: -2648969767657462311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shade - atlas0 #00000304_93
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 997
+        width: 154
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aab1e89fd64e2fec0800000000000000
+      internalID: -3534511596543009878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shade - atlas0 #00000304_94
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 1011
+        width: 128
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8262c58f52bb7ced0800000000000000
+      internalID: -2393738905169156568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shade - atlas0 #00000304_95
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 1122
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b674db51d1e8c7ae0800000000000000
+      internalID: -1550207916152371349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shade - atlas0 #00000304_96
+      rect:
+        serializedVersion: 2
+        x: 1133
+        y: 1116
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e71676a59aa217520800000000000000
+      internalID: 2697984558626201982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shade - atlas0 #00000304_97
+      rect:
+        serializedVersion: 2
+        x: 1389
+        y: 1101
+        width: 19
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 903960e9448913940800000000000000
+      internalID: 5274164059103990537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shade - atlas0 #00000304_98
+      rect:
+        serializedVersion: 2
+        x: 1703
+        y: 918
+        width: 71
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ef3ac21200ba8450800000000000000
+      internalID: 6091874968923684838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shade - atlas0 #00000304_99
+      rect:
+        serializedVersion: 2
+        x: 1732
+        y: 1115
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39b0330c9b8c78c90800000000000000
+      internalID: -7167539581817779309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shade - atlas0 #00000304_100
+      rect:
+        serializedVersion: 2
+        x: 1744
+        y: 1062
+        width: 36
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4ed833863ebfa1c0800000000000000
+      internalID: -4490161162126041526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shade - atlas0 #00000304_101
+      rect:
+        serializedVersion: 2
+        x: 1789
+        y: 835
+        width: 127
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa27ed2efa14028d0800000000000000
+      internalID: -2873224338581065046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shade - atlas0 #00000304_102
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 946
+        width: 79
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25252b3d807c15590800000000000000
+      internalID: -7687144248219381166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shade - atlas0 #00000304_103
+      rect:
+        serializedVersion: 2
+        x: 1384
+        y: 1096
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31d32d6d5dd120fa0800000000000000
+      internalID: -5836069362849399533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shade - atlas0 #00000304_104
+      rect:
+        serializedVersion: 2
+        x: 1384
+        y: 1064
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f486e041d48fcb920800000000000000
+      internalID: 3007551661109307471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shade - atlas0 #00000304_105
+      rect:
+        serializedVersion: 2
+        x: 1395
+        y: 1094
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d9637cadfea1cd30800000000000000
+      internalID: 4450030311361964496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shade - atlas0 #00000304_106
+      rect:
+        serializedVersion: 2
+        x: 1129
+        y: 1067
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0e17bab75d9c3560800000000000000
+      internalID: 7294878496553639435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shade - atlas0 #00000304_107
+      rect:
+        serializedVersion: 2
+        x: 1428
+        y: 911
+        width: 74
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4d80ab44fd351800800000000000000
+      internalID: 582439846264474958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shade - atlas0 #00000304_108
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 839
+        width: 142
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c0c6c1cadb872d20800000000000000
+      internalID: 3253723027468632256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shade - atlas0 #00000304_109
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 1017
+        width: 29
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3528e5f0a0415350800000000000000
+      internalID: 6003650838326158654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shade - atlas0 #00000304_110
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 1010
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29c93cdfe56bc9850800000000000000
+      internalID: 6385178890805157010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shade - atlas0 #00000304_111
+      rect:
+        serializedVersion: 2
+        x: 1051
+        y: 1008
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 923b04b21b0364e30800000000000000
+      internalID: 4487327616214283049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shade - atlas0 #00000304_112
+      rect:
+        serializedVersion: 2
+        x: 1095
+        y: 1011
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55ea557d752bd49e0800000000000000
+      internalID: -1635454999321006507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shade - atlas0 #00000304_113
+      rect:
+        serializedVersion: 2
+        x: 1160
+        y: 888
+        width: 213
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b87476cb98ad708c0800000000000000
+      internalID: -4033014656180729973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shade - atlas0 #00000304_114
+      rect:
+        serializedVersion: 2
+        x: 1371
+        y: 929
+        width: 35
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 001cab01c4db87b80800000000000000
+      internalID: -8396753370836451072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shade - atlas0 #00000304_115
+      rect:
+        serializedVersion: 2
+        x: 1412
+        y: 1016
+        width: 7
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c8b9e374a0e74b70800000000000000
+      internalID: 8883315786935548102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shade - atlas0 #00000304_116
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 858
+        width: 163
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 054d53756ba773420800000000000000
+      internalID: 2609689432650273872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shade - atlas0 #00000304_117
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 985
+        width: 25
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5df2c7377d77d5b0800000000000000
+      internalID: -5343664481861698209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shade - atlas0 #00000304_118
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 976
+        width: 17
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b233f7a85627a3010800000000000000
+      internalID: 1169372833696920363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shade - atlas0 #00000304_119
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 954
+        width: 17
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6bc6d22d35b7b7c0800000000000000
+      internalID: -4055573665241707665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shade - atlas0 #00000304_120
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 961
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c48f751e7d2e3e8a0800000000000000
+      internalID: -6276924038797854644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shade - atlas0 #00000304_121
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 729
+        width: 97
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc91f3a1b57bc85e0800000000000000
+      internalID: -1905946940374312501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shade - atlas0 #00000304_122
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 965
+        width: 27
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cee382f61a58cda0800000000000000
+      internalID: -5924386255201374525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shade - atlas0 #00000304_123
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 957
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b45a6f53b0dd979d0800000000000000
+      internalID: -2775944655077464757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shade - atlas0 #00000304_124
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 777
+        width: 140
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34ff2ef6321a86180800000000000000
+      internalID: -9121863871665864893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shade - atlas0 #00000304_125
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 717
+        width: 94
+        height: 231
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18df975780b4b88d0800000000000000
+      internalID: -2843096240051585663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shade - atlas0 #00000304_126
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 934
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef2a42385f27718f0800000000000000
+      internalID: -569860429046308098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shade - atlas0 #00000304_127
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 760
+        width: 166
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb4ad8143bf6cba10800000000000000
+      internalID: 1926537556297360574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shade - atlas0 #00000304_128
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 915
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 810e166c5134041d0800000000000000
+      internalID: -3368618760471453672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shade - atlas0 #00000304_129
+      rect:
+        serializedVersion: 2
+        x: 1171
+        y: 708
+        width: 259
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58854330e3f92ea20800000000000000
+      internalID: 3090207383020132485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shade - atlas0 #00000304_130
+      rect:
+        serializedVersion: 2
+        x: 1726
+        y: 664
+        width: 65
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 142d07e2eb10073d0800000000000000
+      internalID: -3211064617980603839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shade - atlas0 #00000304_131
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 872
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af69019e4fc31ee80800000000000000
+      internalID: -8151166827984021766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shade - atlas0 #00000304_132
+      rect:
+        serializedVersion: 2
+        x: 1428
+        y: 741
+        width: 74
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c735cd92552b7ac70800000000000000
+      internalID: 8982344060658013052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shade - atlas0 #00000304_133
+      rect:
+        serializedVersion: 2
+        x: 1502
+        y: 670
+        width: 183
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff2a262db334c8ef0800000000000000
+      internalID: -104634767124552961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shade - atlas0 #00000304_134
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 748
+        width: 79
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8066875364c714210800000000000000
+      internalID: 1315469207155533320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shade - atlas0 #00000304_135
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 725
+        width: 174
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da14dade0a0a23bb0800000000000000
+      internalID: -4957723626738728531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shade - atlas0 #00000304_136
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 827
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98e01f8da27853e50800000000000000
+      internalID: 6788480631428943497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shade - atlas0 #00000304_137
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 800
+        width: 56
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 718f4ff3a84cb0a30800000000000000
+      internalID: 4182652777001187351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shade - atlas0 #00000304_138
+      rect:
+        serializedVersion: 2
+        x: 941
+        y: 838
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 714fa9b45f56d3220800000000000000
+      internalID: 2467240275078738967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shade - atlas0 #00000304_139
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 783
+        width: 26
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7733c50c28ee8540800000000000000
+      internalID: 5012198711082825595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shade - atlas0 #00000304_140
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 531
+        width: 272
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55364d50e74d188b0800000000000000
+      internalID: -5151602861006363819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shade - atlas0 #00000304_141
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 742
+        width: 184
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e9b337f888135ec0800000000000000
+      internalID: -3579490302287431191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shade - atlas0 #00000304_142
+      rect:
+        serializedVersion: 2
+        x: 1676
+        y: 772
+        width: 19
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc02b3b5f09156fc0800000000000000
+      internalID: -3502365581464887093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shade - atlas0 #00000304_143
+      rect:
+        serializedVersion: 2
+        x: 1789
+        y: 587
+        width: 247
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2611918a03b1be6f0800000000000000
+      internalID: -654399425059679902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shade - atlas0 #00000304_144
+      rect:
+        serializedVersion: 2
+        x: 1841
+        y: 790
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e133e8a14492f2170800000000000000
+      internalID: 8155782822671299358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shade - atlas0 #00000304_145
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 582
+        width: 155
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea06d13b5aafc3740800000000000000
+      internalID: 5133253264877117614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shade - atlas0 #00000304_146
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 752
+        width: 37
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fdd3f6e82c0d65f0800000000000000
+      internalID: -761939392142778896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shade - atlas0 #00000304_147
+      rect:
+        serializedVersion: 2
+        x: 1047
+        y: 765
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afdcac941345e91e0800000000000000
+      internalID: -2189219798187323910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shade - atlas0 #00000304_148
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 709
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 136e94f4b3eed8da0800000000000000
+      internalID: -5940830394931091919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shade - atlas0 #00000304_149
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 727
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20b202d5dd55b3890800000000000000
+      internalID: -7477288347080054014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shade - atlas0 #00000304_150
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 721
+        width: 13
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 410aacde2cd092500800000000000000
+      internalID: 371843575099072532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shade - atlas0 #00000304_151
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 571
+        width: 197
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 431f26033632567b0800000000000000
+      internalID: -5231736483200437964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shade - atlas0 #00000304_152
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 254
+        width: 151
+        height: 508
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b3f0fbe769112be0800000000000000
+      internalID: -1503892866434272335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shade - atlas0 #00000304_153
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 719
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c53c5d79d40fd6850800000000000000
+      internalID: 6372013263849636700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shade - atlas0 #00000304_154
+      rect:
+        serializedVersion: 2
+        x: 1091
+        y: 493
+        width: 82
+        height: 243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd44655a2bf759ce0800000000000000
+      internalID: -1399071703973870371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shade - atlas0 #00000304_155
+      rect:
+        serializedVersion: 2
+        x: 1428
+        y: 469
+        width: 76
+        height: 268
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e91d0d21e11321a80800000000000000
+      internalID: -8497675541660249698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shade - atlas0 #00000304_156
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 694
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5aef21f47b0e86d0800000000000000
+      internalID: -2986436906009499043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shade - atlas0 #00000304_157
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 701
+        width: 12
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ceeeb28a086dff5b0800000000000000
+      internalID: -5332307585717768468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shade - atlas0 #00000304_158
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 256
+        width: 94
+        height: 463
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8b3443ca5bebb750800000000000000
+      internalID: 6321905277000235917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shade - atlas0 #00000304_159
+      rect:
+        serializedVersion: 2
+        x: 1175
+        y: 469
+        width: 221
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9918d38642a10ed40800000000000000
+      internalID: 5611513879373644185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shade - atlas0 #00000304_160
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 265
+        width: 195
+        height: 319
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5001184988bde7820800000000000000
+      internalID: 2918010988236181509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shade - atlas0 #00000304_161
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 465
+        width: 94
+        height: 231
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9604497c4bf78bfd0800000000000000
+      internalID: -2325968793117638551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shade - atlas0 #00000304_162
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 417
+        width: 198
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43df00a8588717690800000000000000
+      internalID: -7606165780710752972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shade - atlas0 #00000304_163
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 493
+        width: 226
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf97b7641f926e3e0800000000000000
+      internalID: -2024884866210104836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shade - atlas0 #00000304_164
+      rect:
+        serializedVersion: 2
+        x: 1541
+        y: 532
+        width: 98
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 261eb97106e9af0b0800000000000000
+      internalID: -5694064643306430110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shade - atlas0 #00000304_165
+      rect:
+        serializedVersion: 2
+        x: 1648
+        y: 529
+        width: 92
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 956bb26af9d71f970800000000000000
+      internalID: 8786942472617703001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shade - atlas0 #00000304_166
+      rect:
+        serializedVersion: 2
+        x: 1740
+        y: 569
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e954cf7004f00090800000000000000
+      internalID: -8070182249267176990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shade - atlas0 #00000304_167
+      rect:
+        serializedVersion: 2
+        x: 1799
+        y: 296
+        width: 231
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf61ec7834c848670800000000000000
+      internalID: 8540105015070430972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shade - atlas0 #00000304_168
+      rect:
+        serializedVersion: 2
+        x: 1512
+        y: 545
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9ebb0f6a8ab97840800000000000000
+      internalID: 5222410346644094620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shade - atlas0 #00000304_169
+      rect:
+        serializedVersion: 2
+        x: 1748
+        y: 529
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 464a598166a574290800000000000000
+      internalID: -7906251226279992220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shade - atlas0 #00000304_170
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 254
+        width: 125
+        height: 279
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ec40ffc39fca8630800000000000000
+      internalID: 3930181858589953253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shade - atlas0 #00000304_171
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 257
+        width: 272
+        height: 243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbb97d2d23929b860800000000000000
+      internalID: 7546107948898425789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shade - atlas0 #00000304_172
+      rect:
+        serializedVersion: 2
+        x: 1502
+        y: 483
+        width: 109
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbf7491bd62da17d0800000000000000
+      internalID: -2946811637588000836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shade - atlas0 #00000304_173
+      rect:
+        serializedVersion: 2
+        x: 1654
+        y: 470
+        width: 137
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 974c4bfb77cf78f90800000000000000
+      internalID: -6951309908575468423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shade - atlas0 #00000304_174
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 265
+        width: 116
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26a62dda21982ba10800000000000000
+      internalID: 1923750704159287906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shade - atlas0 #00000304_175
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 256
+        width: 197
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d42f0cb8fd89d8e70800000000000000
+      internalID: 9119112906384929357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shade - atlas0 #00000304_176
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 328
+        width: 8
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da761c1f741feb010800000000000000
+      internalID: 1206667041482827693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shade - atlas0 #00000304_177
+      rect:
+        serializedVersion: 2
+        x: 1204
+        y: 238
+        width: 287
+        height: 233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3da4cd8aa4df4cb60800000000000000
+      internalID: 7765610154595994323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shade - atlas0 #00000304_178
+      rect:
+        serializedVersion: 2
+        x: 1507
+        y: 292
+        width: 273
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73d20f75d0559cce0800000000000000
+      internalID: -1384481894641423049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shade - atlas0 #00000304_179
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 280
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5ad6ffe60158de70800000000000000
+      internalID: 9140144533986007647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shade - atlas0 #00000304_180
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 274
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a769bf7457365b80800000000000000
+      internalID: -8406470818380814427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shade - atlas0 #00000304_181
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 281
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 994d1a463ad89ebb0800000000000000
+      internalID: -4906234586135931751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shade - atlas0 #00000304_182
+      rect:
+        serializedVersion: 2
+        x: 1178
+        y: 275
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e9a8d4bc6e725480800000000000000
+      internalID: -8911921707257124382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shade - atlas0 #00000304_183
+      rect:
+        serializedVersion: 2
+        x: 1511
+        y: 259
+        width: 31
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba527c91b0b7a1a00800000000000000
+      internalID: 728029577381094827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shade - atlas0 #00000304_184
+      rect:
+        serializedVersion: 2
+        x: 1546
+        y: 233
+        width: 44
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00a939da8f22d0aa0800000000000000
+      internalID: -6193255461105198592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shade - atlas0 #00000304_185
+      rect:
+        serializedVersion: 2
+        x: 1623
+        y: 226
+        width: 19
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d18f8d421c8e42b0800000000000000
+      internalID: -5598383276536397355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shade - atlas0 #00000304_186
+      rect:
+        serializedVersion: 2
+        x: 1647
+        y: 232
+        width: 13
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 937175287f8171a40800000000000000
+      internalID: 5338763334593746745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shade - atlas0 #00000304_187
+      rect:
+        serializedVersion: 2
+        x: 1684
+        y: 231
+        width: 12
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0097e0c6e61f4db0800000000000000
+      internalID: -4805597097046339572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shade - atlas0 #00000304_188
+      rect:
+        serializedVersion: 2
+        x: 1717
+        y: 236
+        width: 34
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 079e3402913cef3a0800000000000000
+      internalID: -6629647088759871120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shade - atlas0 #00000304_189
+      rect:
+        serializedVersion: 2
+        x: 1755
+        y: 245
+        width: 14
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ced6fdc52afb4e450800000000000000
+      internalID: 6117224897939729900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shade - atlas0 #00000304_190
+      rect:
+        serializedVersion: 2
+        x: 1778
+        y: 226
+        width: 23
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49c5362e28f069d60800000000000000
+      internalID: 7896516051459071124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shade - atlas0 #00000304_191
+      rect:
+        serializedVersion: 2
+        x: 1859
+        y: 222
+        width: 71
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 326d667ef60c90320800000000000000
+      internalID: 2524760652974052899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shade - atlas0 #00000304_192
+      rect:
+        serializedVersion: 2
+        x: 1928
+        y: 265
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a2cefe962bbfd220800000000000000
+      internalID: 2512932891646673569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shade - atlas0 #00000304_193
+      rect:
+        serializedVersion: 2
+        x: 1929
+        y: 201
+        width: 37
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36d38454ff76a2200800000000000000
+      internalID: 156051483174387043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shade - atlas0 #00000304_194
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 254
+        width: 130
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33f6bbf7f29d93b20800000000000000
+      internalID: 3114759415333089075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shade - atlas0 #00000304_195
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 267
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dedcb6ac4b79beb0800000000000000
+      internalID: -4703592766666645808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shade - atlas0 #00000304_196
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 261
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51ffb6ee763aa8400800000000000000
+      internalID: 327253589714796309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shade - atlas0 #00000304_197
+      rect:
+        serializedVersion: 2
+        x: 1175
+        y: 259
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56d1e39e1b2536f20800000000000000
+      internalID: 3414663866552819045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shade - atlas0 #00000304_198
+      rect:
+        serializedVersion: 2
+        x: 1189
+        y: 267
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e057d1d58e7d9630800000000000000
+      internalID: 3935440762607980774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shade - atlas0 #00000304_199
+      rect:
+        serializedVersion: 2
+        x: 1847
+        y: 265
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c951315ebb4dd4580800000000000000
+      internalID: -8841176589991209572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shade - atlas0 #00000304_200
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 0
+        width: 321
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d42480f89cd082f0800000000000000
+      internalID: -972534970083695408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shade - atlas0 #00000304_201
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 226
+        width: 7
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d052b3ce5bcd00b30800000000000000
+      internalID: 4251640722148238605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shade - atlas0 #00000304_202
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 254
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da12aed5c7bafae40800000000000000
+      internalID: 5669939006522663341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shade - atlas0 #00000304_203
+      rect:
+        serializedVersion: 2
+        x: 1084
+        y: 251
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a30f971510cba020800000000000000
+      internalID: 2354186427054359462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shade - atlas0 #00000304_204
+      rect:
+        serializedVersion: 2
+        x: 1193
+        y: 251
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4189ed02d8d172d0800000000000000
+      internalID: -3282604256688242355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shade - atlas0 #00000304_205
+      rect:
+        serializedVersion: 2
+        x: 1615
+        y: 232
+        width: 9
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 167e642d69fd73fb0800000000000000
+      internalID: -4668016649880279199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shade - atlas0 #00000304_206
+      rect:
+        serializedVersion: 2
+        x: 1707
+        y: 236
+        width: 7
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a0980c9759af0ee0800000000000000
+      internalID: -1292628374286987099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shade - atlas0 #00000304_207
+      rect:
+        serializedVersion: 2
+        x: 1748
+        y: 241
+        width: 6
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72a367049636c3ac0800000000000000
+      internalID: -3874112275741263321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shade - atlas0 #00000304_208
+      rect:
+        serializedVersion: 2
+        x: 1884
+        y: 221
+        width: 27
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a78e591de9c09c080800000000000000
+      internalID: -9166781690275305350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shade - atlas0 #00000304_209
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 0
+        width: 298
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf2cf49920e8a59a0800000000000000
+      internalID: -6243521791582551300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shade - atlas0 #00000304_210
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 0
+        width: 301
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f6588abc2f5fe080800000000000000
+      internalID: -9155994871708231950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shade - atlas0 #00000304_211
+      rect:
+        serializedVersion: 2
+        x: 1045
+        y: 232
+        width: 6
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7edc3872be0656760800000000000000
+      internalID: 7450467721650884071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shade - atlas0 #00000304_212
+      rect:
+        serializedVersion: 2
+        x: 1097
+        y: 218
+        width: 21
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20b21c29db0afec50800000000000000
+      internalID: 6696747906994612994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shade - atlas0 #00000304_213
+      rect:
+        serializedVersion: 2
+        x: 1137
+        y: 227
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6cde9ab7fb701350800000000000000
+      internalID: 5985420208693501039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shade - atlas0 #00000304_214
+      rect:
+        serializedVersion: 2
+        x: 1215
+        y: 0
+        width: 294
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f69e7cd961f2cc2e0800000000000000
+      internalID: -2104255151705953937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shade - atlas0 #00000304_215
+      rect:
+        serializedVersion: 2
+        x: 1838
+        y: 223
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d80d2675cffbc8fd0800000000000000
+      internalID: -2338283015993372531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shade - atlas0 #00000304_216
+      rect:
+        serializedVersion: 2
+        x: 1893
+        y: 216
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 526b18e6949dece20800000000000000
+      internalID: 3372872080356914725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shade - atlas0 #00000304_217
+      rect:
+        serializedVersion: 2
+        x: 1963
+        y: 216
+        width: 66
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3197880fde87c680800000000000000
+      internalID: -8734855863689834177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shade - atlas0 #00000304_218
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 177
+        width: 44
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a94a43481667cfd0800000000000000
+      internalID: -2321774828492011099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shade - atlas0 #00000304_219
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 186
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40c9d5a63febd1500800000000000000
+      internalID: 368660697185098756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shade - atlas0 #00000304_220
+      rect:
+        serializedVersion: 2
+        x: 1204
+        y: 160
+        width: 33
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 798f207e0cdb12cd0800000000000000
+      internalID: -2584576074926851945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shade - atlas0 #00000304_221
+      rect:
+        serializedVersion: 2
+        x: 1507
+        y: 0
+        width: 307
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 775ae0d7ddd5d72b0800000000000000
+      internalID: -5585204757002279561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shade - atlas0 #00000304_222
+      rect:
+        serializedVersion: 2
+        x: 2013
+        y: 186
+        width: 29
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afbb967358acc3d00800000000000000
+      internalID: 953859894604839930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shade - atlas0 #00000304_223
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 80
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54eb70fd00893a030800000000000000
+      internalID: 3504812064533626437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shade - atlas0 #00000304_224
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 172
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d658dec273f286400800000000000000
+      internalID: 317555687753090413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shade - atlas0 #00000304_225
+      rect:
+        serializedVersion: 2
+        x: 1967
+        y: 170
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 406034396979242d0800000000000000
+      internalID: -3295905304310249980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shade - atlas0 #00000304_226
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 131
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28634aa7b9bbff7a0800000000000000
+      internalID: -6341143473862461822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shade - atlas0 #00000304_227
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 135
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdd067b2a7cc03890800000000000000
+      internalID: -7480254155975160353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shade - atlas0 #00000304_228
+      rect:
+        serializedVersion: 2
+        x: 1986
+        y: 142
+        width: 44
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f1e117e82a1c7e40800000000000000
+      internalID: 5655423995048223221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shade - atlas0 #00000304_229
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 108
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b09a14b88f0a42b0800000000000000
+      internalID: -5599646106870181708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shade - atlas0 #00000304_230
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 97
+        width: 25
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 592d611a3f0833800800000000000000
+      internalID: 590957759983702677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shade - atlas0 #00000304_231
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 108
+        width: 42
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c977d673f9a609fe0800000000000000
+      internalID: -1184329469936175204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shade - atlas0 #00000304_232
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 88
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9721bd4392f8aab50800000000000000
+      internalID: 6605249210635457145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shade - atlas0 #00000304_233
+      rect:
+        serializedVersion: 2
+        x: 1959
+        y: 80
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e651f40ccc01c3d0800000000000000
+      internalID: -3188252990805813533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shade - atlas0 #00000304_234
+      rect:
+        serializedVersion: 2
+        x: 1812
+        y: 58
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 047972343351fe780800000000000000
+      internalID: -8651673049241249984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shade - atlas0 #00000304_235
+      rect:
+        serializedVersion: 2
+        x: 2014
+        y: 65
+        width: 25
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c46356cb1117213a0800000000000000
+      internalID: -6696165374957373876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shade - atlas0 #00000304_236
+      rect:
+        serializedVersion: 2
+        x: 1869
+        y: 0
+        width: 37
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a93cf8a1412b04e20800000000000000
+      internalID: 3332859523668886426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shade - atlas0 #00000304_237
+      rect:
+        serializedVersion: 2
+        x: 1904
+        y: 16
+        width: 15
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5542b77bb21194e0800000000000000
+      internalID: -1976778165062580902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shade - atlas0 #00000304_238
+      rect:
+        serializedVersion: 2
+        x: 1955
+        y: 41
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7880bbe841cf10350800000000000000
+      internalID: 5981338945348896903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shade - atlas0 #00000304_239
+      rect:
+        serializedVersion: 2
+        x: 1981
+        y: 23
+        width: 35
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93d69c212cddff560800000000000000
+      internalID: 7349836942500523321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shade - atlas0 #00000304_240
+      rect:
+        serializedVersion: 2
+        x: 2040
+        y: 0
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1af09d1311f500dd0800000000000000
+      internalID: -2521911263872086111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Shade - atlas0 #00000304_0: 372251825999015306
+      Shade - atlas0 #00000304_1: 6815072493294416760
+      Shade - atlas0 #00000304_10: 801134627134458551
+      Shade - atlas0 #00000304_100: -4490161162126041526
+      Shade - atlas0 #00000304_101: -2873224338581065046
+      Shade - atlas0 #00000304_102: -7687144248219381166
+      Shade - atlas0 #00000304_103: -5836069362849399533
+      Shade - atlas0 #00000304_104: 3007551661109307471
+      Shade - atlas0 #00000304_105: 4450030311361964496
+      Shade - atlas0 #00000304_106: 7294878496553639435
+      Shade - atlas0 #00000304_107: 582439846264474958
+      Shade - atlas0 #00000304_108: 3253723027468632256
+      Shade - atlas0 #00000304_109: 6003650838326158654
+      Shade - atlas0 #00000304_11: 1325516588032576531
+      Shade - atlas0 #00000304_110: 6385178890805157010
+      Shade - atlas0 #00000304_111: 4487327616214283049
+      Shade - atlas0 #00000304_112: -1635454999321006507
+      Shade - atlas0 #00000304_113: -4033014656180729973
+      Shade - atlas0 #00000304_114: -8396753370836451072
+      Shade - atlas0 #00000304_115: 8883315786935548102
+      Shade - atlas0 #00000304_116: 2609689432650273872
+      Shade - atlas0 #00000304_117: -5343664481861698209
+      Shade - atlas0 #00000304_118: 1169372833696920363
+      Shade - atlas0 #00000304_119: -4055573665241707665
+      Shade - atlas0 #00000304_12: -3739170930112948179
+      Shade - atlas0 #00000304_120: -6276924038797854644
+      Shade - atlas0 #00000304_121: -1905946940374312501
+      Shade - atlas0 #00000304_122: -5924386255201374525
+      Shade - atlas0 #00000304_123: -2775944655077464757
+      Shade - atlas0 #00000304_124: -9121863871665864893
+      Shade - atlas0 #00000304_125: -2843096240051585663
+      Shade - atlas0 #00000304_126: -569860429046308098
+      Shade - atlas0 #00000304_127: 1926537556297360574
+      Shade - atlas0 #00000304_128: -3368618760471453672
+      Shade - atlas0 #00000304_129: 3090207383020132485
+      Shade - atlas0 #00000304_13: 1857780769256887536
+      Shade - atlas0 #00000304_130: -3211064617980603839
+      Shade - atlas0 #00000304_131: -8151166827984021766
+      Shade - atlas0 #00000304_132: 8982344060658013052
+      Shade - atlas0 #00000304_133: -104634767124552961
+      Shade - atlas0 #00000304_134: 1315469207155533320
+      Shade - atlas0 #00000304_135: -4957723626738728531
+      Shade - atlas0 #00000304_136: 6788480631428943497
+      Shade - atlas0 #00000304_137: 4182652777001187351
+      Shade - atlas0 #00000304_138: 2467240275078738967
+      Shade - atlas0 #00000304_139: 5012198711082825595
+      Shade - atlas0 #00000304_14: -8297182506522771887
+      Shade - atlas0 #00000304_140: -5151602861006363819
+      Shade - atlas0 #00000304_141: -3579490302287431191
+      Shade - atlas0 #00000304_142: -3502365581464887093
+      Shade - atlas0 #00000304_143: -654399425059679902
+      Shade - atlas0 #00000304_144: 8155782822671299358
+      Shade - atlas0 #00000304_145: 5133253264877117614
+      Shade - atlas0 #00000304_146: -761939392142778896
+      Shade - atlas0 #00000304_147: -2189219798187323910
+      Shade - atlas0 #00000304_148: -5940830394931091919
+      Shade - atlas0 #00000304_149: -7477288347080054014
+      Shade - atlas0 #00000304_15: -4963116466513621655
+      Shade - atlas0 #00000304_150: 371843575099072532
+      Shade - atlas0 #00000304_151: -5231736483200437964
+      Shade - atlas0 #00000304_152: -1503892866434272335
+      Shade - atlas0 #00000304_153: 6372013263849636700
+      Shade - atlas0 #00000304_154: -1399071703973870371
+      Shade - atlas0 #00000304_155: -8497675541660249698
+      Shade - atlas0 #00000304_156: -2986436906009499043
+      Shade - atlas0 #00000304_157: -5332307585717768468
+      Shade - atlas0 #00000304_158: 6321905277000235917
+      Shade - atlas0 #00000304_159: 5611513879373644185
+      Shade - atlas0 #00000304_16: 1676391591532764303
+      Shade - atlas0 #00000304_160: 2918010988236181509
+      Shade - atlas0 #00000304_161: -2325968793117638551
+      Shade - atlas0 #00000304_162: -7606165780710752972
+      Shade - atlas0 #00000304_163: -2024884866210104836
+      Shade - atlas0 #00000304_164: -5694064643306430110
+      Shade - atlas0 #00000304_165: 8786942472617703001
+      Shade - atlas0 #00000304_166: -8070182249267176990
+      Shade - atlas0 #00000304_167: 8540105015070430972
+      Shade - atlas0 #00000304_168: 5222410346644094620
+      Shade - atlas0 #00000304_169: -7906251226279992220
+      Shade - atlas0 #00000304_17: 2508154159909617093
+      Shade - atlas0 #00000304_170: 3930181858589953253
+      Shade - atlas0 #00000304_171: 7546107948898425789
+      Shade - atlas0 #00000304_172: -2946811637588000836
+      Shade - atlas0 #00000304_173: -6951309908575468423
+      Shade - atlas0 #00000304_174: 1923750704159287906
+      Shade - atlas0 #00000304_175: 9119112906384929357
+      Shade - atlas0 #00000304_176: 1206667041482827693
+      Shade - atlas0 #00000304_177: 7765610154595994323
+      Shade - atlas0 #00000304_178: -1384481894641423049
+      Shade - atlas0 #00000304_179: 9140144533986007647
+      Shade - atlas0 #00000304_18: -7219816829688941538
+      Shade - atlas0 #00000304_180: -8406470818380814427
+      Shade - atlas0 #00000304_181: -4906234586135931751
+      Shade - atlas0 #00000304_182: -8911921707257124382
+      Shade - atlas0 #00000304_183: 728029577381094827
+      Shade - atlas0 #00000304_184: -6193255461105198592
+      Shade - atlas0 #00000304_185: -5598383276536397355
+      Shade - atlas0 #00000304_186: 5338763334593746745
+      Shade - atlas0 #00000304_187: -4805597097046339572
+      Shade - atlas0 #00000304_188: -6629647088759871120
+      Shade - atlas0 #00000304_189: 6117224897939729900
+      Shade - atlas0 #00000304_19: -8132606209214507538
+      Shade - atlas0 #00000304_190: 7896516051459071124
+      Shade - atlas0 #00000304_191: 2524760652974052899
+      Shade - atlas0 #00000304_192: 2512932891646673569
+      Shade - atlas0 #00000304_193: 156051483174387043
+      Shade - atlas0 #00000304_194: 3114759415333089075
+      Shade - atlas0 #00000304_195: -4703592766666645808
+      Shade - atlas0 #00000304_196: 327253589714796309
+      Shade - atlas0 #00000304_197: 3414663866552819045
+      Shade - atlas0 #00000304_198: 3935440762607980774
+      Shade - atlas0 #00000304_199: -8841176589991209572
+      Shade - atlas0 #00000304_2: 3366899737791286107
+      Shade - atlas0 #00000304_20: 3832121920081468481
+      Shade - atlas0 #00000304_200: -972534970083695408
+      Shade - atlas0 #00000304_201: 4251640722148238605
+      Shade - atlas0 #00000304_202: 5669939006522663341
+      Shade - atlas0 #00000304_203: 2354186427054359462
+      Shade - atlas0 #00000304_204: -3282604256688242355
+      Shade - atlas0 #00000304_205: -4668016649880279199
+      Shade - atlas0 #00000304_206: -1292628374286987099
+      Shade - atlas0 #00000304_207: -3874112275741263321
+      Shade - atlas0 #00000304_208: -9166781690275305350
+      Shade - atlas0 #00000304_209: -6243521791582551300
+      Shade - atlas0 #00000304_21: -2652571861407942652
+      Shade - atlas0 #00000304_210: -9155994871708231950
+      Shade - atlas0 #00000304_211: 7450467721650884071
+      Shade - atlas0 #00000304_212: 6696747906994612994
+      Shade - atlas0 #00000304_213: 5985420208693501039
+      Shade - atlas0 #00000304_214: -2104255151705953937
+      Shade - atlas0 #00000304_215: -2338283015993372531
+      Shade - atlas0 #00000304_216: 3372872080356914725
+      Shade - atlas0 #00000304_217: -8734855863689834177
+      Shade - atlas0 #00000304_218: -2321774828492011099
+      Shade - atlas0 #00000304_219: 368660697185098756
+      Shade - atlas0 #00000304_22: -3465281340475353489
+      Shade - atlas0 #00000304_220: -2584576074926851945
+      Shade - atlas0 #00000304_221: -5585204757002279561
+      Shade - atlas0 #00000304_222: 953859894604839930
+      Shade - atlas0 #00000304_223: 3504812064533626437
+      Shade - atlas0 #00000304_224: 317555687753090413
+      Shade - atlas0 #00000304_225: -3295905304310249980
+      Shade - atlas0 #00000304_226: -6341143473862461822
+      Shade - atlas0 #00000304_227: -7480254155975160353
+      Shade - atlas0 #00000304_228: 5655423995048223221
+      Shade - atlas0 #00000304_229: -5599646106870181708
+      Shade - atlas0 #00000304_23: 7874561256503679435
+      Shade - atlas0 #00000304_230: 590957759983702677
+      Shade - atlas0 #00000304_231: -1184329469936175204
+      Shade - atlas0 #00000304_232: 6605249210635457145
+      Shade - atlas0 #00000304_233: -3188252990805813533
+      Shade - atlas0 #00000304_234: -8651673049241249984
+      Shade - atlas0 #00000304_235: -6696165374957373876
+      Shade - atlas0 #00000304_236: 3332859523668886426
+      Shade - atlas0 #00000304_237: -1976778165062580902
+      Shade - atlas0 #00000304_238: 5981338945348896903
+      Shade - atlas0 #00000304_239: 7349836942500523321
+      Shade - atlas0 #00000304_24: 992414230202194905
+      Shade - atlas0 #00000304_240: -2521911263872086111
+      Shade - atlas0 #00000304_25: 2358286457286510245
+      Shade - atlas0 #00000304_26: -7215037502125800997
+      Shade - atlas0 #00000304_27: 5137137244895104473
+      Shade - atlas0 #00000304_28: 805253135388259616
+      Shade - atlas0 #00000304_29: -7746002287235494262
+      Shade - atlas0 #00000304_3: -7855281315958315319
+      Shade - atlas0 #00000304_30: -5755004473776231915
+      Shade - atlas0 #00000304_31: -3980932677882484656
+      Shade - atlas0 #00000304_32: 7745738825530277798
+      Shade - atlas0 #00000304_33: 1117483348589327925
+      Shade - atlas0 #00000304_34: -3524296332649235469
+      Shade - atlas0 #00000304_35: -7566206088956992998
+      Shade - atlas0 #00000304_36: -1131520020866636601
+      Shade - atlas0 #00000304_37: 3355981490229829719
+      Shade - atlas0 #00000304_38: -4105636603437411929
+      Shade - atlas0 #00000304_39: -7431414181707984299
+      Shade - atlas0 #00000304_4: 2009391529395519077
+      Shade - atlas0 #00000304_40: 2658018631009299031
+      Shade - atlas0 #00000304_41: -4620594694371419317
+      Shade - atlas0 #00000304_42: 4523831107476600678
+      Shade - atlas0 #00000304_43: -1349306767618749119
+      Shade - atlas0 #00000304_44: 8240728164932915466
+      Shade - atlas0 #00000304_45: -4589041544990825348
+      Shade - atlas0 #00000304_46: 2453568729878535847
+      Shade - atlas0 #00000304_47: 6881742633939514392
+      Shade - atlas0 #00000304_48: -7881521915685385131
+      Shade - atlas0 #00000304_49: -4702618629567099044
+      Shade - atlas0 #00000304_5: 4848549619961632434
+      Shade - atlas0 #00000304_50: -7923378852122726564
+      Shade - atlas0 #00000304_51: -342074678018954136
+      Shade - atlas0 #00000304_52: 8561306805660995405
+      Shade - atlas0 #00000304_53: 5667653906896408102
+      Shade - atlas0 #00000304_54: -912148232987552532
+      Shade - atlas0 #00000304_55: -9218963624826902767
+      Shade - atlas0 #00000304_56: -2128469267488870858
+      Shade - atlas0 #00000304_57: -1677200668052945854
+      Shade - atlas0 #00000304_58: -17179068468929989
+      Shade - atlas0 #00000304_59: -5529689593295839231
+      Shade - atlas0 #00000304_6: -8984267601048459538
+      Shade - atlas0 #00000304_60: -3425018561744179030
+      Shade - atlas0 #00000304_61: 2411734484384976527
+      Shade - atlas0 #00000304_62: 7054200427840722731
+      Shade - atlas0 #00000304_63: -5271362383024174754
+      Shade - atlas0 #00000304_64: 5524555536258491834
+      Shade - atlas0 #00000304_65: -470688311453899216
+      Shade - atlas0 #00000304_66: 2897043468495155131
+      Shade - atlas0 #00000304_67: -977228636737552420
+      Shade - atlas0 #00000304_68: -1821499949223578136
+      Shade - atlas0 #00000304_69: -921936516290649317
+      Shade - atlas0 #00000304_7: -2513484008628810173
+      Shade - atlas0 #00000304_70: 5644930625758181807
+      Shade - atlas0 #00000304_71: 1656654558392672354
+      Shade - atlas0 #00000304_72: -3112267252820612370
+      Shade - atlas0 #00000304_73: -1787512037974610709
+      Shade - atlas0 #00000304_74: -2249422314383196141
+      Shade - atlas0 #00000304_75: -2960176777675518975
+      Shade - atlas0 #00000304_76: 2951116721351293690
+      Shade - atlas0 #00000304_77: 7381807447989194732
+      Shade - atlas0 #00000304_78: -3617144628792613079
+      Shade - atlas0 #00000304_79: 6211921120339950957
+      Shade - atlas0 #00000304_8: 7624306119557421925
+      Shade - atlas0 #00000304_80: 1214508060797464926
+      Shade - atlas0 #00000304_81: 7297548722066272346
+      Shade - atlas0 #00000304_82: 1382163387459047744
+      Shade - atlas0 #00000304_83: -6750956085989631349
+      Shade - atlas0 #00000304_84: 3741494853116145283
+      Shade - atlas0 #00000304_85: 525763040559634098
+      Shade - atlas0 #00000304_86: 6718240304970758858
+      Shade - atlas0 #00000304_87: -3144317138822092164
+      Shade - atlas0 #00000304_88: 6362598383933798605
+      Shade - atlas0 #00000304_89: -1765960116686774071
+      Shade - atlas0 #00000304_9: 3959913187491051964
+      Shade - atlas0 #00000304_90: -5265549022907476843
+      Shade - atlas0 #00000304_91: -8070908321330577651
+      Shade - atlas0 #00000304_92: -2648969767657462311
+      Shade - atlas0 #00000304_93: -3534511596543009878
+      Shade - atlas0 #00000304_94: -2393738905169156568
+      Shade - atlas0 #00000304_95: -1550207916152371349
+      Shade - atlas0 #00000304_96: 2697984558626201982
+      Shade - atlas0 #00000304_97: 5274164059103990537
+      Shade - atlas0 #00000304_98: 6091874968923684838
+      Shade - atlas0 #00000304_99: -7167539581817779309
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

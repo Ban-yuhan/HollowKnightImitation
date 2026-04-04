@@ -1,0 +1,2574 @@
+fileFormatVersion: 2
+guid: 92f81c119d2c89e41a4139388988e70b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2482662349762869537
+    second: Kingsmould - atlas0 #367010_0
+  - first:
+      213: -9132199000896342470
+    second: Kingsmould - atlas0 #367010_1
+  - first:
+      213: 5286128891873043308
+    second: Kingsmould - atlas0 #367010_2
+  - first:
+      213: 6661312534119039658
+    second: Kingsmould - atlas0 #367010_3
+  - first:
+      213: 8295132290055051253
+    second: Kingsmould - atlas0 #367010_4
+  - first:
+      213: -6193273180810798697
+    second: Kingsmould - atlas0 #367010_5
+  - first:
+      213: 7334548250507496425
+    second: Kingsmould - atlas0 #367010_6
+  - first:
+      213: 2356778130978175606
+    second: Kingsmould - atlas0 #367010_7
+  - first:
+      213: 7755093575559846436
+    second: Kingsmould - atlas0 #367010_8
+  - first:
+      213: -456279634713884973
+    second: Kingsmould - atlas0 #367010_9
+  - first:
+      213: -899260223699315989
+    second: Kingsmould - atlas0 #367010_10
+  - first:
+      213: -695395136680161320
+    second: Kingsmould - atlas0 #367010_11
+  - first:
+      213: -6656652889613265781
+    second: Kingsmould - atlas0 #367010_12
+  - first:
+      213: 8485065116157826936
+    second: Kingsmould - atlas0 #367010_13
+  - first:
+      213: -6695310439104886829
+    second: Kingsmould - atlas0 #367010_14
+  - first:
+      213: 405082402283179836
+    second: Kingsmould - atlas0 #367010_15
+  - first:
+      213: 346592105017040121
+    second: Kingsmould - atlas0 #367010_16
+  - first:
+      213: 5227947668508505109
+    second: Kingsmould - atlas0 #367010_17
+  - first:
+      213: -9056100669021077247
+    second: Kingsmould - atlas0 #367010_18
+  - first:
+      213: 2596417395875757606
+    second: Kingsmould - atlas0 #367010_19
+  - first:
+      213: 7875878043195235164
+    second: Kingsmould - atlas0 #367010_20
+  - first:
+      213: 7368258273154931308
+    second: Kingsmould - atlas0 #367010_21
+  - first:
+      213: -2158759959400477008
+    second: Kingsmould - atlas0 #367010_22
+  - first:
+      213: 8172986910508590057
+    second: Kingsmould - atlas0 #367010_23
+  - first:
+      213: -5637588089090848515
+    second: Kingsmould - atlas0 #367010_24
+  - first:
+      213: 961198151324215157
+    second: Kingsmould - atlas0 #367010_25
+  - first:
+      213: 8943734804559060379
+    second: Kingsmould - atlas0 #367010_26
+  - first:
+      213: 2229877957593236110
+    second: Kingsmould - atlas0 #367010_27
+  - first:
+      213: 8125129714096656409
+    second: Kingsmould - atlas0 #367010_28
+  - first:
+      213: -6607800780565891269
+    second: Kingsmould - atlas0 #367010_29
+  - first:
+      213: 162774180325906699
+    second: Kingsmould - atlas0 #367010_30
+  - first:
+      213: 8136980568118374360
+    second: Kingsmould - atlas0 #367010_31
+  - first:
+      213: -4144646313722359876
+    second: Kingsmould - atlas0 #367010_32
+  - first:
+      213: -4319022453779216804
+    second: Kingsmould - atlas0 #367010_33
+  - first:
+      213: -6666271236009638224
+    second: Kingsmould - atlas0 #367010_34
+  - first:
+      213: -1032508368178054706
+    second: Kingsmould - atlas0 #367010_35
+  - first:
+      213: -8346887198642855171
+    second: Kingsmould - atlas0 #367010_36
+  - first:
+      213: 4298476517499016423
+    second: Kingsmould - atlas0 #367010_37
+  - first:
+      213: -9074736826539710505
+    second: Kingsmould - atlas0 #367010_38
+  - first:
+      213: 3460646564891278456
+    second: Kingsmould - atlas0 #367010_39
+  - first:
+      213: 3934241649467032510
+    second: Kingsmould - atlas0 #367010_40
+  - first:
+      213: -9179444438111371738
+    second: Kingsmould - atlas0 #367010_41
+  - first:
+      213: -8082961912190999602
+    second: Kingsmould - atlas0 #367010_42
+  - first:
+      213: -5350457124233897245
+    second: Kingsmould - atlas0 #367010_43
+  - first:
+      213: 1113528417411586065
+    second: Kingsmould - atlas0 #367010_44
+  - first:
+      213: 4432049058041857549
+    second: Kingsmould - atlas0 #367010_45
+  - first:
+      213: -1644171050078021055
+    second: Kingsmould - atlas0 #367010_46
+  - first:
+      213: 7933034968019340702
+    second: Kingsmould - atlas0 #367010_47
+  - first:
+      213: 7119551688836494409
+    second: Kingsmould - atlas0 #367010_48
+  - first:
+      213: -4672287290580086120
+    second: Kingsmould - atlas0 #367010_49
+  - first:
+      213: 8910568683818943757
+    second: Kingsmould - atlas0 #367010_50
+  - first:
+      213: 4848231600266940072
+    second: Kingsmould - atlas0 #367010_51
+  - first:
+      213: 2457703939347685383
+    second: Kingsmould - atlas0 #367010_52
+  - first:
+      213: 7915196734665214772
+    second: Kingsmould - atlas0 #367010_53
+  - first:
+      213: 4199116076566271167
+    second: Kingsmould - atlas0 #367010_54
+  - first:
+      213: 3284668269631352163
+    second: Kingsmould - atlas0 #367010_55
+  - first:
+      213: -1549635347377472166
+    second: Kingsmould - atlas0 #367010_56
+  - first:
+      213: -2764577877026757698
+    second: Kingsmould - atlas0 #367010_57
+  - first:
+      213: 7025416497783164049
+    second: Kingsmould - atlas0 #367010_58
+  - first:
+      213: 547456094665326206
+    second: Kingsmould - atlas0 #367010_59
+  - first:
+      213: -5644869920943404145
+    second: Kingsmould - atlas0 #367010_60
+  - first:
+      213: 2319169041180736102
+    second: Kingsmould - atlas0 #367010_61
+  - first:
+      213: 6285398913473044076
+    second: Kingsmould - atlas0 #367010_62
+  - first:
+      213: -7766520588671069249
+    second: Kingsmould - atlas0 #367010_63
+  - first:
+      213: 202868180946192091
+    second: Kingsmould - atlas0 #367010_64
+  - first:
+      213: 274692101753549151
+    second: Kingsmould - atlas0 #367010_65
+  - first:
+      213: -1543294174118228466
+    second: Kingsmould - atlas0 #367010_66
+  - first:
+      213: 3603611245967646458
+    second: Kingsmould - atlas0 #367010_67
+  - first:
+      213: -3143405585835556762
+    second: Kingsmould - atlas0 #367010_68
+  - first:
+      213: -6040779168458023317
+    second: Kingsmould - atlas0 #367010_69
+  - first:
+      213: -8891274420651857080
+    second: Kingsmould - atlas0 #367010_70
+  - first:
+      213: -8875286020010982143
+    second: Kingsmould - atlas0 #367010_71
+  - first:
+      213: 7612047702104410592
+    second: Kingsmould - atlas0 #367010_72
+  - first:
+      213: -1037088807626888800
+    second: Kingsmould - atlas0 #367010_73
+  - first:
+      213: 5912279072575775061
+    second: Kingsmould - atlas0 #367010_74
+  - first:
+      213: 1745279613536905702
+    second: Kingsmould - atlas0 #367010_75
+  - first:
+      213: -5634191070076541020
+    second: Kingsmould - atlas0 #367010_76
+  - first:
+      213: -7882165879143158451
+    second: Kingsmould - atlas0 #367010_77
+  - first:
+      213: 9213530581584147604
+    second: Kingsmould - atlas0 #367010_78
+  - first:
+      213: 376308328120387384
+    second: Kingsmould - atlas0 #367010_79
+  - first:
+      213: 8648443412943516704
+    second: Kingsmould - atlas0 #367010_80
+  - first:
+      213: 96320525732389798
+    second: Kingsmould - atlas0 #367010_81
+  - first:
+      213: -714241064154081780
+    second: Kingsmould - atlas0 #367010_82
+  - first:
+      213: 5623548143945316469
+    second: Kingsmould - atlas0 #367010_83
+  - first:
+      213: 2541669055020530823
+    second: Kingsmould - atlas0 #367010_84
+  - first:
+      213: -7653551821399461599
+    second: Kingsmould - atlas0 #367010_85
+  - first:
+      213: 9187100940559419308
+    second: Kingsmould - atlas0 #367010_86
+  - first:
+      213: 1633159546735059096
+    second: Kingsmould - atlas0 #367010_87
+  - first:
+      213: -1430246237534987680
+    second: Kingsmould - atlas0 #367010_88
+  - first:
+      213: 1809903350793232800
+    second: Kingsmould - atlas0 #367010_89
+  - first:
+      213: -955298553909113209
+    second: Kingsmould - atlas0 #367010_90
+  - first:
+      213: -1776447410309429452
+    second: Kingsmould - atlas0 #367010_91
+  - first:
+      213: 4545721567979017545
+    second: Kingsmould - atlas0 #367010_92
+  - first:
+      213: 8389668554243604209
+    second: Kingsmould - atlas0 #367010_93
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Kingsmould - atlas0 #367010_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3770
+        width: 248
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1293aded040347220800000000000000
+      internalID: 2482662349762869537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kingsmould - atlas0 #367010_1
+      rect:
+        serializedVersion: 2
+        x: 1229
+        y: 3668
+        width: 253
+        height: 343
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a367565a469e34180800000000000000
+      internalID: -9132199000896342470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kingsmould - atlas0 #367010_2
+      rect:
+        serializedVersion: 2
+        x: 1488
+        y: 3662
+        width: 234
+        height: 346
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c63a505583a1c5940800000000000000
+      internalID: 5286128891873043308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kingsmould - atlas0 #367010_3
+      rect:
+        serializedVersion: 2
+        x: 1720
+        y: 3959
+        width: 209
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa2c506e47cb17c50800000000000000
+      internalID: 6661312534119039658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kingsmould - atlas0 #367010_4
+      rect:
+        serializedVersion: 2
+        x: 1733
+        y: 3597
+        width: 283
+        height: 364
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f79a994eda3e1370800000000000000
+      internalID: 8295132290055051253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kingsmould - atlas0 #367010_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3478
+        width: 273
+        height: 294
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79991dcfad21d0aa0800000000000000
+      internalID: -6193273180810798697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kingsmould - atlas0 #367010_6
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 3252
+        width: 322
+        height: 601
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9eb467316cc89c560800000000000000
+      internalID: 7334548250507496425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kingsmould - atlas0 #367010_7
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 3652
+        width: 168
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67afc5f2935f4b020800000000000000
+      internalID: 2356778130978175606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kingsmould - atlas0 #367010_8
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 3652
+        width: 185
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42a982bc480af9b60800000000000000
+      internalID: 7755093575559846436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kingsmould - atlas0 #367010_9
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 3706
+        width: 184
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d642a6f618faa9f0800000000000000
+      internalID: -456279634713884973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kingsmould - atlas0 #367010_10
+      rect:
+        serializedVersion: 2
+        x: 977
+        y: 3357
+        width: 254
+        height: 351
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be293cd479f2583f0800000000000000
+      internalID: -899260223699315989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kingsmould - atlas0 #367010_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3106
+        width: 292
+        height: 374
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8df05abbec57956f0800000000000000
+      internalID: -695395136680161320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kingsmould - atlas0 #367010_12
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 3432
+        width: 362
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8416812771de93a0800000000000000
+      internalID: -6656652889613265781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kingsmould - atlas0 #367010_13
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 3159
+        width: 373
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87755a074c101c570800000000000000
+      internalID: 8485065116157826936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kingsmould - atlas0 #367010_14
+      rect:
+        serializedVersion: 2
+        x: 1239
+        y: 3259
+        width: 251
+        height: 411
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d7403001aa7513a0800000000000000
+      internalID: -6695310439104886829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kingsmould - atlas0 #367010_15
+      rect:
+        serializedVersion: 2
+        x: 1493
+        y: 3263
+        width: 112
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3fc9d47c442f9500800000000000000
+      internalID: 405082402283179836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kingsmould - atlas0 #367010_16
+      rect:
+        serializedVersion: 2
+        x: 1603
+        y: 3419
+        width: 132
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fcde75eea75fc400800000000000000
+      internalID: 346592105017040121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kingsmould - atlas0 #367010_17
+      rect:
+        serializedVersion: 2
+        x: 1747
+        y: 3238
+        width: 299
+        height: 361
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 514f7c5a4b66d8840800000000000000
+      internalID: 5227947668508505109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kingsmould - atlas0 #367010_18
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 2947
+        width: 251
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10142dc3c64425280800000000000000
+      internalID: -9056100669021077247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kingsmould - atlas0 #367010_19
+      rect:
+        serializedVersion: 2
+        x: 1299
+        y: 2898
+        width: 311
+        height: 363
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62eb1d97dd3580420800000000000000
+      internalID: 2596417395875757606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kingsmould - atlas0 #367010_20
+      rect:
+        serializedVersion: 2
+        x: 1488
+        y: 3259
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5b53f22a5dbc4d60800000000000000
+      internalID: 7875878043195235164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kingsmould - atlas0 #367010_21
+      rect:
+        serializedVersion: 2
+        x: 1608
+        y: 3190
+        width: 141
+        height: 231
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6a9bb85cdf414660800000000000000
+      internalID: 7368258273154931308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kingsmould - atlas0 #367010_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2708
+        width: 308
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0be0998214b8a02e0800000000000000
+      internalID: -2158759959400477008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kingsmould - atlas0 #367010_23
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 2861
+        width: 298
+        height: 393
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e328c2fa484c6170800000000000000
+      internalID: 8172986910508590057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kingsmould - atlas0 #367010_24
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 2892
+        width: 389
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df844cf808343c1b0800000000000000
+      internalID: -5637588089090848515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kingsmould - atlas0 #367010_25
+      rect:
+        serializedVersion: 2
+        x: 1608
+        y: 2955
+        width: 158
+        height: 237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 577217040acd65d00800000000000000
+      internalID: 961198151324215157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kingsmould - atlas0 #367010_26
+      rect:
+        serializedVersion: 2
+        x: 1630
+        y: 2706
+        width: 151
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9d5a073b678e1c70800000000000000
+      internalID: 8943734804559060379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kingsmould - atlas0 #367010_27
+      rect:
+        serializedVersion: 2
+        x: 1788
+        y: 2784
+        width: 236
+        height: 456
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8281d2203e12fe10800000000000000
+      internalID: 2229877957593236110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kingsmould - atlas0 #367010_28
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 2476
+        width: 327
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 910d3ba1d6242c070800000000000000
+      internalID: 8125129714096656409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kingsmould - atlas0 #367010_29
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 2199
+        width: 690
+        height: 750
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3732df13306c44a0800000000000000
+      internalID: -6607800780565891269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kingsmould - atlas0 #367010_30
+      rect:
+        serializedVersion: 2
+        x: 1321
+        y: 2537
+        width: 316
+        height: 363
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b095eec214a424200800000000000000
+      internalID: 162774180325906699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kingsmould - atlas0 #367010_31
+      rect:
+        serializedVersion: 2
+        x: 1780
+        y: 2852
+        width: 10
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dfa3f217bc5ce070800000000000000
+      internalID: 8136980568118374360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kingsmould - atlas0 #367010_32
+      rect:
+        serializedVersion: 2
+        x: 1784
+        y: 2845
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbf42fe03224b76c0800000000000000
+      internalID: -4144646313722359876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kingsmould - atlas0 #367010_33
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2307
+        width: 309
+        height: 403
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c56cd8126ffbf04c0800000000000000
+      internalID: -4319022453779216804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kingsmould - atlas0 #367010_34
+      rect:
+        serializedVersion: 2
+        x: 1660
+        y: 2202
+        width: 159
+        height: 509
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b6cd3951a5ac73a0800000000000000
+      internalID: -6666271236009638224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kingsmould - atlas0 #367010_35
+      rect:
+        serializedVersion: 2
+        x: 1776
+        y: 2665
+        width: 20
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec9f02f0c1bcba1f0800000000000000
+      internalID: -1032508368178054706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kingsmould - atlas0 #367010_36
+      rect:
+        serializedVersion: 2
+        x: 1817
+        y: 2294
+        width: 185
+        height: 492
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df223a80156e92c80800000000000000
+      internalID: -8346887198642855171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kingsmould - atlas0 #367010_37
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1903
+        width: 335
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e413ec4e9147ab30800000000000000
+      internalID: 4298476517499016423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kingsmould - atlas0 #367010_38
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 2070
+        width: 324
+        height: 408
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d7e1ffafee001280800000000000000
+      internalID: -9074736826539710505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kingsmould - atlas0 #367010_39
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 2196
+        width: 352
+        height: 368
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87c358927bfa60030800000000000000
+      internalID: 3460646564891278456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kingsmould - atlas0 #367010_40
+      rect:
+        serializedVersion: 2
+        x: 1321
+        y: 2202
+        width: 341
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb387098feb399630800000000000000
+      internalID: 3934241649467032510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kingsmould - atlas0 #367010_41
+      rect:
+        serializedVersion: 2
+        x: 1367
+        y: 1844
+        width: 361
+        height: 364
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62ebfe61bef0c9080800000000000000
+      internalID: -9179444438111371738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kingsmould - atlas0 #367010_42
+      rect:
+        serializedVersion: 2
+        x: 1781
+        y: 2202
+        width: 33
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec3e7da57fc83df80800000000000000
+      internalID: -8082961912190999602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kingsmould - atlas0 #367010_43
+      rect:
+        serializedVersion: 2
+        x: 1820
+        y: 1838
+        width: 215
+        height: 458
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ea941ce79b5fb5b0800000000000000
+      internalID: -5350457124233897245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kingsmould - atlas0 #367010_44
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1506
+        width: 344
+        height: 399
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 118de17223c047f00800000000000000
+      internalID: 1113528417411586065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kingsmould - atlas0 #367010_45
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 1660
+        width: 322
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0680b3e22dc18d30800000000000000
+      internalID: 4432049058041857549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kingsmould - atlas0 #367010_46
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 1807
+        width: 348
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14a5e12242bbe29e0800000000000000
+      internalID: -1644171050078021055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kingsmould - atlas0 #367010_47
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 1841
+        width: 361
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9d8b8bb54dc71e60800000000000000
+      internalID: 7933034968019340702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kingsmould - atlas0 #367010_48
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 1482
+        width: 377
+        height: 361
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 944b12d3a8abdc260800000000000000
+      internalID: 7119551688836494409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kingsmould - atlas0 #367010_49
+      rect:
+        serializedVersion: 2
+        x: 1425
+        y: 1505
+        width: 397
+        height: 341
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 892d66cc673b82fb0800000000000000
+      internalID: -4672287290580086120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kingsmould - atlas0 #367010_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1108
+        width: 361
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d058fb9f103b8ab70800000000000000
+      internalID: 8910568683818943757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kingsmould - atlas0 #367010_51
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 1247
+        width: 315
+        height: 415
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ae0cb214f0684340800000000000000
+      internalID: 4848231600266940072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kingsmould - atlas0 #367010_52
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 1448
+        width: 380
+        height: 361
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 700a5eb16b48b1220800000000000000
+      internalID: 2457703939347685383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kingsmould - atlas0 #367010_53
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 1090
+        width: 392
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43b4d016e7d68dd60800000000000000
+      internalID: 7915196734665214772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kingsmould - atlas0 #367010_54
+      rect:
+        serializedVersion: 2
+        x: 1063
+        y: 1145
+        width: 405
+        height: 339
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb45d52e2d1464a30800000000000000
+      internalID: 4199116076566271167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kingsmould - atlas0 #367010_55
+      rect:
+        serializedVersion: 2
+        x: 1466
+        y: 1146
+        width: 380
+        height: 361
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36daf58636c759d20800000000000000
+      internalID: 3284668269631352163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kingsmould - atlas0 #367010_56
+      rect:
+        serializedVersion: 2
+        x: 1844
+        y: 1353
+        width: 197
+        height: 487
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5d3d24acd69e7ae0800000000000000
+      internalID: -1549635347377472166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kingsmould - atlas0 #367010_57
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 803
+        width: 287
+        height: 446
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb3aae5711f32a9d0800000000000000
+      internalID: -2764577877026757698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kingsmould - atlas0 #367010_58
+      rect:
+        serializedVersion: 2
+        x: 1167
+        y: 770
+        width: 380
+        height: 377
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19cc88d151b4f7160800000000000000
+      internalID: 7025416497783164049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kingsmould - atlas0 #367010_59
+      rect:
+        serializedVersion: 2
+        x: 1572
+        y: 769
+        width: 394
+        height: 379
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7e36a4ea64f89700800000000000000
+      internalID: 547456094665326206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kingsmould - atlas0 #367010_60
+      rect:
+        serializedVersion: 2
+        x: 1844
+        y: 1146
+        width: 120
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8b81e6f6b469a1b0800000000000000
+      internalID: -5644869920943404145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kingsmould - atlas0 #367010_61
+      rect:
+        serializedVersion: 2
+        x: 1964
+        y: 1132
+        width: 69
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66a39a994f75f2020800000000000000
+      internalID: 2319169041180736102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kingsmould - atlas0 #367010_62
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 732
+        width: 390
+        height: 378
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6edf25a2093a3750800000000000000
+      internalID: 6285398913473044076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kingsmould - atlas0 #367010_63
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 723
+        width: 479
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb3d0836ca6c73490800000000000000
+      internalID: -7766520588671069249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kingsmould - atlas0 #367010_64
+      rect:
+        serializedVersion: 2
+        x: 1964
+        y: 946
+        width: 70
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd60785298bb0d200800000000000000
+      internalID: 202868180946192091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kingsmould - atlas0 #367010_65
+      rect:
+        serializedVersion: 2
+        x: 1964
+        y: 769
+        width: 84
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5130abd207efc300800000000000000
+      internalID: 274692101753549151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kingsmould - atlas0 #367010_66
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 361
+        width: 290
+        height: 444
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0ec0c7102e159ae0800000000000000
+      internalID: -1543294174118228466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kingsmould - atlas0 #367010_67
+      rect:
+        serializedVersion: 2
+        x: 1074
+        y: 736
+        width: 95
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afe1180e559920230800000000000000
+      internalID: 3603611245967646458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kingsmould - atlas0 #367010_68
+      rect:
+        serializedVersion: 2
+        x: 1085
+        y: 536
+        width: 92
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6600b4f26416064d0800000000000000
+      internalID: -3143405585835556762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kingsmould - atlas0 #367010_69
+      rect:
+        serializedVersion: 2
+        x: 1181
+        y: 389
+        width: 393
+        height: 383
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6eda790a57da2ca0800000000000000
+      internalID: -6040779168458023317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kingsmould - atlas0 #367010_70
+      rect:
+        serializedVersion: 2
+        x: 1599
+        y: 382
+        width: 391
+        height: 389
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84b678cb509db9480800000000000000
+      internalID: -8891274420651857080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kingsmould - atlas0 #367010_71
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 361
+        width: 396
+        height: 373
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10541495366a4d480800000000000000
+      internalID: -8875286020010982143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kingsmould - atlas0 #367010_72
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 345
+        width: 400
+        height: 380
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e903410e0d63a960800000000000000
+      internalID: 7612047702104410592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kingsmould - atlas0 #367010_73
+      rect:
+        serializedVersion: 2
+        x: 1085
+        y: 345
+        width: 98
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a9add469358b91f0800000000000000
+      internalID: -1037088807626888800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kingsmould - atlas0 #367010_74
+      rect:
+        serializedVersion: 2
+        x: 1988
+        y: 489
+        width: 56
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 551eadded72ac0250800000000000000
+      internalID: 5912279072575775061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kingsmould - atlas0 #367010_75
+      rect:
+        serializedVersion: 2
+        x: 1988
+        y: 392
+        width: 55
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e92996cf8a783810800000000000000
+      internalID: 1745279613536905702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kingsmould - atlas0 #367010_76
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 347
+        width: 17
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a7e86fa2155fc1b0800000000000000
+      internalID: -5634191070076541020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kingsmould - atlas0 #367010_77
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 349
+        width: 46
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4da7f8f4ebec9290800000000000000
+      internalID: -7882165879143158451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kingsmould - atlas0 #367010_78
+      rect:
+        serializedVersion: 2
+        x: 1197
+        y: 0
+        width: 404
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4947582af390ddf70800000000000000
+      internalID: 9213530581584147604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kingsmould - atlas0 #367010_79
+      rect:
+        serializedVersion: 2
+        x: 1599
+        y: 0
+        width: 390
+        height: 384
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83703af3e6ae83500800000000000000
+      internalID: 376308328120387384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kingsmould - atlas0 #367010_80
+      rect:
+        serializedVersion: 2
+        x: 1995
+        y: 336
+        width: 42
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 024b0907671750870800000000000000
+      internalID: 8648443412943516704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kingsmould - atlas0 #367010_81
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 637
+        height: 319
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a3abd00203365100800000000000000
+      internalID: 96320525732389798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kingsmould - atlas0 #367010_82
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 311
+        width: 136
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c06591f49818616f0800000000000000
+      internalID: -714241064154081780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kingsmould - atlas0 #367010_83
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 0
+        width: 516
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 578fa29fd3bda0e40800000000000000
+      internalID: 5623548143945316469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kingsmould - atlas0 #367010_84
+      rect:
+        serializedVersion: 2
+        x: 1995
+        y: 0
+        width: 51
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78cf9190a82d54320800000000000000
+      internalID: 2541669055020530823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kingsmould - atlas0 #367010_85
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 274
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 121f07f2b2f19c590800000000000000
+      internalID: -7653551821399461599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kingsmould - atlas0 #367010_86
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 249
+        width: 40
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca783bd41a32f7f70800000000000000
+      internalID: 9187100940559419308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kingsmould - atlas0 #367010_87
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 276
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8906ea474f52aa610800000000000000
+      internalID: 1633159546735059096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kingsmould - atlas0 #367010_88
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 249
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06a536eef9eb62ce0800000000000000
+      internalID: -1430246237534987680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kingsmould - atlas0 #367010_89
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 174
+        width: 132
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a1e1dd12811e1910800000000000000
+      internalID: 1809903350793232800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kingsmould - atlas0 #367010_90
+      rect:
+        serializedVersion: 2
+        x: 1990
+        y: 214
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78e8dcfc6091eb2f0800000000000000
+      internalID: -955298553909113209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kingsmould - atlas0 #367010_91
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 199
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 437085a0e7ac857e0800000000000000
+      internalID: -1776447410309429452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kingsmould - atlas0 #367010_92
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 199
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 945983b8ea5a51f30800000000000000
+      internalID: 4545721567979017545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kingsmould - atlas0 #367010_93
+      rect:
+        serializedVersion: 2
+        x: 1164
+        y: 109
+        width: 35
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fe74f689171e6470800000000000000
+      internalID: 8389668554243604209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Kingsmould - atlas0 #367010_0: 2482662349762869537
+      Kingsmould - atlas0 #367010_1: -9132199000896342470
+      Kingsmould - atlas0 #367010_10: -899260223699315989
+      Kingsmould - atlas0 #367010_11: -695395136680161320
+      Kingsmould - atlas0 #367010_12: -6656652889613265781
+      Kingsmould - atlas0 #367010_13: 8485065116157826936
+      Kingsmould - atlas0 #367010_14: -6695310439104886829
+      Kingsmould - atlas0 #367010_15: 405082402283179836
+      Kingsmould - atlas0 #367010_16: 346592105017040121
+      Kingsmould - atlas0 #367010_17: 5227947668508505109
+      Kingsmould - atlas0 #367010_18: -9056100669021077247
+      Kingsmould - atlas0 #367010_19: 2596417395875757606
+      Kingsmould - atlas0 #367010_2: 5286128891873043308
+      Kingsmould - atlas0 #367010_20: 7875878043195235164
+      Kingsmould - atlas0 #367010_21: 7368258273154931308
+      Kingsmould - atlas0 #367010_22: -2158759959400477008
+      Kingsmould - atlas0 #367010_23: 8172986910508590057
+      Kingsmould - atlas0 #367010_24: -5637588089090848515
+      Kingsmould - atlas0 #367010_25: 961198151324215157
+      Kingsmould - atlas0 #367010_26: 8943734804559060379
+      Kingsmould - atlas0 #367010_27: 2229877957593236110
+      Kingsmould - atlas0 #367010_28: 8125129714096656409
+      Kingsmould - atlas0 #367010_29: -6607800780565891269
+      Kingsmould - atlas0 #367010_3: 6661312534119039658
+      Kingsmould - atlas0 #367010_30: 162774180325906699
+      Kingsmould - atlas0 #367010_31: 8136980568118374360
+      Kingsmould - atlas0 #367010_32: -4144646313722359876
+      Kingsmould - atlas0 #367010_33: -4319022453779216804
+      Kingsmould - atlas0 #367010_34: -6666271236009638224
+      Kingsmould - atlas0 #367010_35: -1032508368178054706
+      Kingsmould - atlas0 #367010_36: -8346887198642855171
+      Kingsmould - atlas0 #367010_37: 4298476517499016423
+      Kingsmould - atlas0 #367010_38: -9074736826539710505
+      Kingsmould - atlas0 #367010_39: 3460646564891278456
+      Kingsmould - atlas0 #367010_4: 8295132290055051253
+      Kingsmould - atlas0 #367010_40: 3934241649467032510
+      Kingsmould - atlas0 #367010_41: -9179444438111371738
+      Kingsmould - atlas0 #367010_42: -8082961912190999602
+      Kingsmould - atlas0 #367010_43: -5350457124233897245
+      Kingsmould - atlas0 #367010_44: 1113528417411586065
+      Kingsmould - atlas0 #367010_45: 4432049058041857549
+      Kingsmould - atlas0 #367010_46: -1644171050078021055
+      Kingsmould - atlas0 #367010_47: 7933034968019340702
+      Kingsmould - atlas0 #367010_48: 7119551688836494409
+      Kingsmould - atlas0 #367010_49: -4672287290580086120
+      Kingsmould - atlas0 #367010_5: -6193273180810798697
+      Kingsmould - atlas0 #367010_50: 8910568683818943757
+      Kingsmould - atlas0 #367010_51: 4848231600266940072
+      Kingsmould - atlas0 #367010_52: 2457703939347685383
+      Kingsmould - atlas0 #367010_53: 7915196734665214772
+      Kingsmould - atlas0 #367010_54: 4199116076566271167
+      Kingsmould - atlas0 #367010_55: 3284668269631352163
+      Kingsmould - atlas0 #367010_56: -1549635347377472166
+      Kingsmould - atlas0 #367010_57: -2764577877026757698
+      Kingsmould - atlas0 #367010_58: 7025416497783164049
+      Kingsmould - atlas0 #367010_59: 547456094665326206
+      Kingsmould - atlas0 #367010_6: 7334548250507496425
+      Kingsmould - atlas0 #367010_60: -5644869920943404145
+      Kingsmould - atlas0 #367010_61: 2319169041180736102
+      Kingsmould - atlas0 #367010_62: 6285398913473044076
+      Kingsmould - atlas0 #367010_63: -7766520588671069249
+      Kingsmould - atlas0 #367010_64: 202868180946192091
+      Kingsmould - atlas0 #367010_65: 274692101753549151
+      Kingsmould - atlas0 #367010_66: -1543294174118228466
+      Kingsmould - atlas0 #367010_67: 3603611245967646458
+      Kingsmould - atlas0 #367010_68: -3143405585835556762
+      Kingsmould - atlas0 #367010_69: -6040779168458023317
+      Kingsmould - atlas0 #367010_7: 2356778130978175606
+      Kingsmould - atlas0 #367010_70: -8891274420651857080
+      Kingsmould - atlas0 #367010_71: -8875286020010982143
+      Kingsmould - atlas0 #367010_72: 7612047702104410592
+      Kingsmould - atlas0 #367010_73: -1037088807626888800
+      Kingsmould - atlas0 #367010_74: 5912279072575775061
+      Kingsmould - atlas0 #367010_75: 1745279613536905702
+      Kingsmould - atlas0 #367010_76: -5634191070076541020
+      Kingsmould - atlas0 #367010_77: -7882165879143158451
+      Kingsmould - atlas0 #367010_78: 9213530581584147604
+      Kingsmould - atlas0 #367010_79: 376308328120387384
+      Kingsmould - atlas0 #367010_8: 7755093575559846436
+      Kingsmould - atlas0 #367010_80: 8648443412943516704
+      Kingsmould - atlas0 #367010_81: 96320525732389798
+      Kingsmould - atlas0 #367010_82: -714241064154081780
+      Kingsmould - atlas0 #367010_83: 5623548143945316469
+      Kingsmould - atlas0 #367010_84: 2541669055020530823
+      Kingsmould - atlas0 #367010_85: -7653551821399461599
+      Kingsmould - atlas0 #367010_86: 9187100940559419308
+      Kingsmould - atlas0 #367010_87: 1633159546735059096
+      Kingsmould - atlas0 #367010_88: -1430246237534987680
+      Kingsmould - atlas0 #367010_89: 1809903350793232800
+      Kingsmould - atlas0 #367010_9: -456279634713884973
+      Kingsmould - atlas0 #367010_90: -955298553909113209
+      Kingsmould - atlas0 #367010_91: -1776447410309429452
+      Kingsmould - atlas0 #367010_92: 4545721567979017545
+      Kingsmould - atlas0 #367010_93: 8389668554243604209
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

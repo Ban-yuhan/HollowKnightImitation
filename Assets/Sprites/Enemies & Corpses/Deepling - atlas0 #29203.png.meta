@@ -1,0 +1,598 @@
+fileFormatVersion: 2
+guid: c0ec0e641320e9d4ba03f9fbae642181
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5295937233119578097
+    second: Deepling - atlas0 #29203_0
+  - first:
+      213: 1843058234108913622
+    second: Deepling - atlas0 #29203_1
+  - first:
+      213: 2524502275101680383
+    second: Deepling - atlas0 #29203_2
+  - first:
+      213: 3333729150349549705
+    second: Deepling - atlas0 #29203_3
+  - first:
+      213: 2264507689629858122
+    second: Deepling - atlas0 #29203_4
+  - first:
+      213: -5021307281518996947
+    second: Deepling - atlas0 #29203_5
+  - first:
+      213: 5223681916722909112
+    second: Deepling - atlas0 #29203_6
+  - first:
+      213: 5000426420597006848
+    second: Deepling - atlas0 #29203_7
+  - first:
+      213: -8735663027524629447
+    second: Deepling - atlas0 #29203_8
+  - first:
+      213: 4603315435612732865
+    second: Deepling - atlas0 #29203_9
+  - first:
+      213: 893630712951871825
+    second: Deepling - atlas0 #29203_10
+  - first:
+      213: 8511015935746917109
+    second: Deepling - atlas0 #29203_11
+  - first:
+      213: 3884033132679052250
+    second: Deepling - atlas0 #29203_12
+  - first:
+      213: -5471680177067622876
+    second: Deepling - atlas0 #29203_13
+  - first:
+      213: -513679625779787801
+    second: Deepling - atlas0 #29203_14
+  - first:
+      213: -6079589998536435384
+    second: Deepling - atlas0 #29203_15
+  - first:
+      213: 3035568670915177956
+    second: Deepling - atlas0 #29203_16
+  - first:
+      213: -4145876658111908859
+    second: Deepling - atlas0 #29203_17
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Deepling - atlas0 #29203_0
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 325
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f78bdcbad2fe7940800000000000000
+      internalID: 5295937233119578097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deepling - atlas0 #29203_1
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 399
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d7ab60f2bbd39910800000000000000
+      internalID: 1843058234108913622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deepling - atlas0 #29203_2
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 272
+        width: 96
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff2e91e9175d80320800000000000000
+      internalID: 2524502275101680383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deepling - atlas0 #29203_3
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 354
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98023f7dff8c34e20800000000000000
+      internalID: 3333729150349549705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deepling - atlas0 #29203_4
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 281
+        width: 74
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a49378feeb52d6f10800000000000000
+      internalID: 2264507689629858122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deepling - atlas0 #29203_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 200
+        width: 81
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d225af8a1abb05ab0800000000000000
+      internalID: -5021307281518996947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deepling - atlas0 #29203_6
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 196
+        width: 97
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bf86e9e60f3e7840800000000000000
+      internalID: 5223681916722909112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deepling - atlas0 #29203_7
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 187
+        width: 101
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 002a92d0655156540800000000000000
+      internalID: 5000426420597006848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deepling - atlas0 #29203_8
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 187
+        width: 83
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93c81ee82c0b4c680800000000000000
+      internalID: -8735663027524629447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deepling - atlas0 #29203_9
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 240
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cdf4c0dff242ef30800000000000000
+      internalID: 4603315435612732865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deepling - atlas0 #29203_10
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 241
+        width: 100
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15910e51660d66c00800000000000000
+      internalID: 893630712951871825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deepling - atlas0 #29203_11
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 133
+        width: 94
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f242e776e33d1670800000000000000
+      internalID: 8511015935746917109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deepling - atlas0 #29203_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 97
+        width: 127
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adbbe214e8bd6e530800000000000000
+      internalID: 3884033132679052250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deepling - atlas0 #29203_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 286
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42e76518edfa014b0800000000000000
+      internalID: -5471680177067622876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deepling - atlas0 #29203_14
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 108
+        width: 101
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e74a091a1b0fd8f0800000000000000
+      internalID: -513679625779787801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deepling - atlas0 #29203_15
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 94
+        width: 128
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 849d73d7b15f0aba0800000000000000
+      internalID: -6079589998536435384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deepling - atlas0 #29203_16
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 0
+        width: 90
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ed24318f91802a20800000000000000
+      internalID: 3035568670915177956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deepling - atlas0 #29203_17
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 0
+        width: 136
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 504f7ae2523e676c0800000000000000
+      internalID: -4145876658111908859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Deepling - atlas0 #29203_0: 5295937233119578097
+      Deepling - atlas0 #29203_1: 1843058234108913622
+      Deepling - atlas0 #29203_10: 893630712951871825
+      Deepling - atlas0 #29203_11: 8511015935746917109
+      Deepling - atlas0 #29203_12: 3884033132679052250
+      Deepling - atlas0 #29203_13: -5471680177067622876
+      Deepling - atlas0 #29203_14: -513679625779787801
+      Deepling - atlas0 #29203_15: -6079589998536435384
+      Deepling - atlas0 #29203_16: 3035568670915177956
+      Deepling - atlas0 #29203_17: -4145876658111908859
+      Deepling - atlas0 #29203_2: 2524502275101680383
+      Deepling - atlas0 #29203_3: 3333729150349549705
+      Deepling - atlas0 #29203_4: 2264507689629858122
+      Deepling - atlas0 #29203_5: -5021307281518996947
+      Deepling - atlas0 #29203_6: 5223681916722909112
+      Deepling - atlas0 #29203_7: 5000426420597006848
+      Deepling - atlas0 #29203_8: -8735663027524629447
+      Deepling - atlas0 #29203_9: 4603315435612732865
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

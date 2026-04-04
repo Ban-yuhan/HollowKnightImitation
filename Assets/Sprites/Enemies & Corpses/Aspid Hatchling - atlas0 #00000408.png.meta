@@ -1,0 +1,858 @@
+fileFormatVersion: 2
+guid: 6c47e18c9b41de74383c80b4f62d200a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6861535763551762119
+    second: Aspid Hatchling - atlas0 #00000408_0
+  - first:
+      213: -252486823650117734
+    second: Aspid Hatchling - atlas0 #00000408_1
+  - first:
+      213: -3325369736549720904
+    second: Aspid Hatchling - atlas0 #00000408_2
+  - first:
+      213: -5911356406207954161
+    second: Aspid Hatchling - atlas0 #00000408_3
+  - first:
+      213: -3825870495689204275
+    second: Aspid Hatchling - atlas0 #00000408_4
+  - first:
+      213: 1653684603656967791
+    second: Aspid Hatchling - atlas0 #00000408_5
+  - first:
+      213: 8679126771085233135
+    second: Aspid Hatchling - atlas0 #00000408_6
+  - first:
+      213: -1644266005848752976
+    second: Aspid Hatchling - atlas0 #00000408_7
+  - first:
+      213: -4195534599790562626
+    second: Aspid Hatchling - atlas0 #00000408_8
+  - first:
+      213: -373401788436053069
+    second: Aspid Hatchling - atlas0 #00000408_9
+  - first:
+      213: -7960315385753198344
+    second: Aspid Hatchling - atlas0 #00000408_10
+  - first:
+      213: 5147985889670019810
+    second: Aspid Hatchling - atlas0 #00000408_11
+  - first:
+      213: 6542160492287711705
+    second: Aspid Hatchling - atlas0 #00000408_12
+  - first:
+      213: -1687466588692765178
+    second: Aspid Hatchling - atlas0 #00000408_13
+  - first:
+      213: 2694114187225000494
+    second: Aspid Hatchling - atlas0 #00000408_14
+  - first:
+      213: 443414128792757236
+    second: Aspid Hatchling - atlas0 #00000408_15
+  - first:
+      213: -2400884191814216345
+    second: Aspid Hatchling - atlas0 #00000408_16
+  - first:
+      213: -1031931077024787602
+    second: Aspid Hatchling - atlas0 #00000408_17
+  - first:
+      213: 2799806780480544317
+    second: Aspid Hatchling - atlas0 #00000408_18
+  - first:
+      213: -4749148638848490981
+    second: Aspid Hatchling - atlas0 #00000408_19
+  - first:
+      213: 5208521186931181999
+    second: Aspid Hatchling - atlas0 #00000408_20
+  - first:
+      213: -5594691098651167410
+    second: Aspid Hatchling - atlas0 #00000408_21
+  - first:
+      213: 7343488642371618802
+    second: Aspid Hatchling - atlas0 #00000408_22
+  - first:
+      213: -9210133997102179086
+    second: Aspid Hatchling - atlas0 #00000408_23
+  - first:
+      213: 7513011241444602221
+    second: Aspid Hatchling - atlas0 #00000408_24
+  - first:
+      213: -41036722476294792
+    second: Aspid Hatchling - atlas0 #00000408_25
+  - first:
+      213: -1719559507353711539
+    second: Aspid Hatchling - atlas0 #00000408_26
+  - first:
+      213: -3903911408832602079
+    second: Aspid Hatchling - atlas0 #00000408_27
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Aspid Hatchling - atlas0 #00000408_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 321
+        width: 82
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c634284c62193f50800000000000000
+      internalID: 6861535763551762119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aspid Hatchling - atlas0 #00000408_1
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 262
+        width: 51
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a973ed5529cfe7cf0800000000000000
+      internalID: -252486823650117734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aspid Hatchling - atlas0 #00000408_2
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 327
+        width: 74
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bc9e1ad7d9e9d1d0800000000000000
+      internalID: -3325369736549720904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aspid Hatchling - atlas0 #00000408_3
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 241
+        width: 78
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f03ce331ba4a6fda0800000000000000
+      internalID: -5911356406207954161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aspid Hatchling - atlas0 #00000408_4
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 252
+        width: 45
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcd1cc3fd07c7eac0800000000000000
+      internalID: -3825870495689204275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aspid Hatchling - atlas0 #00000408_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 262
+        width: 86
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f66918ba26113f610800000000000000
+      internalID: 1653684603656967791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aspid Hatchling - atlas0 #00000408_6
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 250
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: feb4e1770d3727870800000000000000
+      internalID: 8679126771085233135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aspid Hatchling - atlas0 #00000408_7
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 246
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bc722587c46e29e0800000000000000
+      internalID: -1644266005848752976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aspid Hatchling - atlas0 #00000408_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 201
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb27f98a28776c5c0800000000000000
+      internalID: -4195534599790562626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aspid Hatchling - atlas0 #00000408_9
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 182
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b306c14d0961daf0800000000000000
+      internalID: -373401788436053069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aspid Hatchling - atlas0 #00000408_10
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 201
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f0aa1c0557478190800000000000000
+      internalID: -7960315385753198344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aspid Hatchling - atlas0 #00000408_11
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 180
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ea318634e1517740800000000000000
+      internalID: 5147985889670019810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aspid Hatchling - atlas0 #00000408_12
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 116
+        width: 95
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d9576e4e4c6aca50800000000000000
+      internalID: 6542160492287711705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aspid Hatchling - atlas0 #00000408_13
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 157
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 606a0a2041ae498e0800000000000000
+      internalID: -1687466588692765178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aspid Hatchling - atlas0 #00000408_14
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 153
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2ae2e9449a636520800000000000000
+      internalID: 2694114187225000494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aspid Hatchling - atlas0 #00000408_15
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 144
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f3e4130dc2572600800000000000000
+      internalID: 443414128792757236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aspid Hatchling - atlas0 #00000408_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 156
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76510184c885eaed0800000000000000
+      internalID: -2400884191814216345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aspid Hatchling - atlas0 #00000408_17
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 103
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6350412728dda1f0800000000000000
+      internalID: -1031931077024787602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aspid Hatchling - atlas0 #00000408_18
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 103
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3ed54ece69ead620800000000000000
+      internalID: 2799806780480544317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aspid Hatchling - atlas0 #00000408_19
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 96
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b12e7eb9972a71eb0800000000000000
+      internalID: -4749148638848490981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aspid Hatchling - atlas0 #00000408_20
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 87
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa901207c62684840800000000000000
+      internalID: 5208521186931181999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aspid Hatchling - atlas0 #00000408_21
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 39
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e457bd4761aab52b0800000000000000
+      internalID: -5594691098651167410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aspid Hatchling - atlas0 #00000408_22
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 47
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f70da4430059e560800000000000000
+      internalID: 7343488642371618802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aspid Hatchling - atlas0 #00000408_23
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 52
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fcd9f05de70f2080800000000000000
+      internalID: -9210133997102179086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aspid Hatchling - atlas0 #00000408_24
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 13
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6172df1be3934860800000000000000
+      internalID: 7513011241444602221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aspid Hatchling - atlas0 #00000408_25
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 20
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87ddd0e71553e6ff0800000000000000
+      internalID: -41036722476294792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aspid Hatchling - atlas0 #00000408_26
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 0
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4c490a1db5e228e0800000000000000
+      internalID: -1719559507353711539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aspid Hatchling - atlas0 #00000408_27
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 13
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12020f9e14582d9c0800000000000000
+      internalID: -3903911408832602079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Aspid Hatchling - atlas0 #00000408_0: 6861535763551762119
+      Aspid Hatchling - atlas0 #00000408_1: -252486823650117734
+      Aspid Hatchling - atlas0 #00000408_10: -7960315385753198344
+      Aspid Hatchling - atlas0 #00000408_11: 5147985889670019810
+      Aspid Hatchling - atlas0 #00000408_12: 6542160492287711705
+      Aspid Hatchling - atlas0 #00000408_13: -1687466588692765178
+      Aspid Hatchling - atlas0 #00000408_14: 2694114187225000494
+      Aspid Hatchling - atlas0 #00000408_15: 443414128792757236
+      Aspid Hatchling - atlas0 #00000408_16: -2400884191814216345
+      Aspid Hatchling - atlas0 #00000408_17: -1031931077024787602
+      Aspid Hatchling - atlas0 #00000408_18: 2799806780480544317
+      Aspid Hatchling - atlas0 #00000408_19: -4749148638848490981
+      Aspid Hatchling - atlas0 #00000408_2: -3325369736549720904
+      Aspid Hatchling - atlas0 #00000408_20: 5208521186931181999
+      Aspid Hatchling - atlas0 #00000408_21: -5594691098651167410
+      Aspid Hatchling - atlas0 #00000408_22: 7343488642371618802
+      Aspid Hatchling - atlas0 #00000408_23: -9210133997102179086
+      Aspid Hatchling - atlas0 #00000408_24: 7513011241444602221
+      Aspid Hatchling - atlas0 #00000408_25: -41036722476294792
+      Aspid Hatchling - atlas0 #00000408_26: -1719559507353711539
+      Aspid Hatchling - atlas0 #00000408_27: -3903911408832602079
+      Aspid Hatchling - atlas0 #00000408_3: -5911356406207954161
+      Aspid Hatchling - atlas0 #00000408_4: -3825870495689204275
+      Aspid Hatchling - atlas0 #00000408_5: 1653684603656967791
+      Aspid Hatchling - atlas0 #00000408_6: 8679126771085233135
+      Aspid Hatchling - atlas0 #00000408_7: -1644266005848752976
+      Aspid Hatchling - atlas0 #00000408_8: -4195534599790562626
+      Aspid Hatchling - atlas0 #00000408_9: -373401788436053069
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

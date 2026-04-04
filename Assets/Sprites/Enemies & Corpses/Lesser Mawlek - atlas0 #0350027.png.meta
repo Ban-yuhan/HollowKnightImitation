@@ -1,0 +1,988 @@
+fileFormatVersion: 2
+guid: da9a0b328b9f53d4dacffa830a89b0c9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 197270158623659779
+    second: Lesser Mawlek - atlas0 #0350027_0
+  - first:
+      213: 8859344579391186758
+    second: Lesser Mawlek - atlas0 #0350027_1
+  - first:
+      213: -7620209089221150964
+    second: Lesser Mawlek - atlas0 #0350027_2
+  - first:
+      213: 3088437043371654320
+    second: Lesser Mawlek - atlas0 #0350027_3
+  - first:
+      213: 3229492104654803321
+    second: Lesser Mawlek - atlas0 #0350027_4
+  - first:
+      213: -5201581781068913693
+    second: Lesser Mawlek - atlas0 #0350027_5
+  - first:
+      213: 6337453540886202900
+    second: Lesser Mawlek - atlas0 #0350027_6
+  - first:
+      213: -2620286033407649013
+    second: Lesser Mawlek - atlas0 #0350027_7
+  - first:
+      213: 1745198922040979688
+    second: Lesser Mawlek - atlas0 #0350027_8
+  - first:
+      213: -3853127477086972792
+    second: Lesser Mawlek - atlas0 #0350027_9
+  - first:
+      213: -5174115457358694553
+    second: Lesser Mawlek - atlas0 #0350027_10
+  - first:
+      213: 1487476421809580103
+    second: Lesser Mawlek - atlas0 #0350027_11
+  - first:
+      213: -7335101560085439251
+    second: Lesser Mawlek - atlas0 #0350027_12
+  - first:
+      213: 8503429638259507967
+    second: Lesser Mawlek - atlas0 #0350027_13
+  - first:
+      213: -5075739553844647378
+    second: Lesser Mawlek - atlas0 #0350027_14
+  - first:
+      213: 2255252853972535511
+    second: Lesser Mawlek - atlas0 #0350027_15
+  - first:
+      213: 4967635626985993096
+    second: Lesser Mawlek - atlas0 #0350027_16
+  - first:
+      213: -8811207648461867996
+    second: Lesser Mawlek - atlas0 #0350027_17
+  - first:
+      213: 3678763264400702937
+    second: Lesser Mawlek - atlas0 #0350027_18
+  - first:
+      213: 4912720537292631160
+    second: Lesser Mawlek - atlas0 #0350027_19
+  - first:
+      213: -3850981215487740807
+    second: Lesser Mawlek - atlas0 #0350027_20
+  - first:
+      213: -3108551754898969121
+    second: Lesser Mawlek - atlas0 #0350027_21
+  - first:
+      213: -7962088639468451689
+    second: Lesser Mawlek - atlas0 #0350027_22
+  - first:
+      213: 1622723057035256203
+    second: Lesser Mawlek - atlas0 #0350027_23
+  - first:
+      213: 6892792148037588287
+    second: Lesser Mawlek - atlas0 #0350027_24
+  - first:
+      213: 2915915347698031845
+    second: Lesser Mawlek - atlas0 #0350027_25
+  - first:
+      213: -5487570931404436384
+    second: Lesser Mawlek - atlas0 #0350027_26
+  - first:
+      213: -4591237663881146067
+    second: Lesser Mawlek - atlas0 #0350027_27
+  - first:
+      213: 8005794163535096886
+    second: Lesser Mawlek - atlas0 #0350027_28
+  - first:
+      213: -5649925328914857788
+    second: Lesser Mawlek - atlas0 #0350027_29
+  - first:
+      213: 1269430784468170088
+    second: Lesser Mawlek - atlas0 #0350027_30
+  - first:
+      213: -930808503912653810
+    second: Lesser Mawlek - atlas0 #0350027_31
+  - first:
+      213: 1614458900153360803
+    second: Lesser Mawlek - atlas0 #0350027_32
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Lesser Mawlek - atlas0 #0350027_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1855
+        width: 207
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3075c810a28dcb200800000000000000
+      internalID: 197270158623659779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lesser Mawlek - atlas0 #0350027_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1676
+        width: 213
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 647e465c4f6b2fa70800000000000000
+      internalID: 8859344579391186758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lesser Mawlek - atlas0 #0350027_2
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 1823
+        width: 364
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0735caf4349f3690800000000000000
+      internalID: -7620209089221150964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lesser Mawlek - atlas0 #0350027_3
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 1821
+        width: 272
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bc3351b0255cda20800000000000000
+      internalID: 3088437043371654320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lesser Mawlek - atlas0 #0350027_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1487
+        width: 231
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 971d0e665f571dc20800000000000000
+      internalID: 3229492104654803321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lesser Mawlek - atlas0 #0350027_5
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 1502
+        width: 132
+        height: 301
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e36e35ede440d7b0800000000000000
+      internalID: -5201581781068913693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lesser Mawlek - atlas0 #0350027_6
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 1612
+        width: 299
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41a401d0b6823f750800000000000000
+      internalID: 6337453540886202900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lesser Mawlek - atlas0 #0350027_7
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 1422
+        width: 440
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0bd1d84cbfd2abd0800000000000000
+      internalID: -2620286033407649013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lesser Mawlek - atlas0 #0350027_8
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 1612
+        width: 148
+        height: 211
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e0b5a25c21383810800000000000000
+      internalID: 1745198922040979688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lesser Mawlek - atlas0 #0350027_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1310
+        width: 250
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8841fed69f0f68ac0800000000000000
+      internalID: -3853127477086972792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lesser Mawlek - atlas0 #0350027_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1138
+        width: 267
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 767f649b769d138b0800000000000000
+      internalID: -5174115457358694553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lesser Mawlek - atlas0 #0350027_11
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 1249
+        width: 176
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 748aab5bce394a410800000000000000
+      internalID: 1487476421809580103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lesser Mawlek - atlas0 #0350027_12
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 1152
+        width: 163
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dec91bf7efb743a90800000000000000
+      internalID: -7335101560085439251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lesser Mawlek - atlas0 #0350027_13
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 1189
+        width: 175
+        height: 235
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff28cf0f330420670800000000000000
+      internalID: 8503429638259507967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lesser Mawlek - atlas0 #0350027_14
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 1189
+        width: 132
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2aa0b8a4c95f89b0800000000000000
+      internalID: -5075739553844647378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lesser Mawlek - atlas0 #0350027_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 964
+        width: 270
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d808b795844c4f10800000000000000
+      internalID: 2255252853972535511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lesser Mawlek - atlas0 #0350027_16
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 983
+        width: 174
+        height: 268
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8833318784690f440800000000000000
+      internalID: 4967635626985993096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lesser Mawlek - atlas0 #0350027_17
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 726
+        width: 186
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 424b937d35d48b580800000000000000
+      internalID: -8811207648461867996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lesser Mawlek - atlas0 #0350027_18
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 803
+        width: 514
+        height: 388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dd3c53b2b79d0330800000000000000
+      internalID: 3678763264400702937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lesser Mawlek - atlas0 #0350027_19
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 838
+        width: 272
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87ce71acc4d7d2440800000000000000
+      internalID: 4912720537292631160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lesser Mawlek - atlas0 #0350027_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 771
+        width: 245
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 974b626ecf09e8ac0800000000000000
+      internalID: -3850981215487740807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lesser Mawlek - atlas0 #0350027_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 598
+        width: 277
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdd645316a43cd4d0800000000000000
+      internalID: -3108551754898969121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lesser Mawlek - atlas0 #0350027_22
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 607
+        width: 248
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7984f4e319af08190800000000000000
+      internalID: -7962088639468451689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lesser Mawlek - atlas0 #0350027_23
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 576
+        width: 198
+        height: 264
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b812c67d502158610800000000000000
+      internalID: 1622723057035256203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lesser Mawlek - atlas0 #0350027_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 380
+        width: 289
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f35d16660fd18af50800000000000000
+      internalID: 6892792148037588287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lesser Mawlek - atlas0 #0350027_25
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 454
+        width: 199
+        height: 274
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ec96ae3f89677820800000000000000
+      internalID: 2915915347698031845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lesser Mawlek - atlas0 #0350027_26
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 184
+        width: 181
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06c01e1ff4b38d3b0800000000000000
+      internalID: -5487570931404436384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lesser Mawlek - atlas0 #0350027_27
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 401
+        width: 278
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2158fc8ba5a840c0800000000000000
+      internalID: -4591237663881146067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lesser Mawlek - atlas0 #0350027_28
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 281
+        width: 203
+        height: 297
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63ca76e006b4a1f60800000000000000
+      internalID: 8005794163535096886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lesser Mawlek - atlas0 #0350027_29
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 178
+        width: 316
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c04c8219de6791b0800000000000000
+      internalID: -5649925328914857788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lesser Mawlek - atlas0 #0350027_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 503
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 865bb2f929ced9110800000000000000
+      internalID: 1269430784468170088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lesser Mawlek - atlas0 #0350027_31
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 0
+        width: 374
+        height: 403
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0c9f5ae89a1513f0800000000000000
+      internalID: -930808503912653810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lesser Mawlek - atlas0 #0350027_32
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 0
+        width: 154
+        height: 283
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a1eb10e0d5b76610800000000000000
+      internalID: 1614458900153360803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Lesser Mawlek - atlas0 #0350027_0: 197270158623659779
+      Lesser Mawlek - atlas0 #0350027_1: 8859344579391186758
+      Lesser Mawlek - atlas0 #0350027_10: -5174115457358694553
+      Lesser Mawlek - atlas0 #0350027_11: 1487476421809580103
+      Lesser Mawlek - atlas0 #0350027_12: -7335101560085439251
+      Lesser Mawlek - atlas0 #0350027_13: 8503429638259507967
+      Lesser Mawlek - atlas0 #0350027_14: -5075739553844647378
+      Lesser Mawlek - atlas0 #0350027_15: 2255252853972535511
+      Lesser Mawlek - atlas0 #0350027_16: 4967635626985993096
+      Lesser Mawlek - atlas0 #0350027_17: -8811207648461867996
+      Lesser Mawlek - atlas0 #0350027_18: 3678763264400702937
+      Lesser Mawlek - atlas0 #0350027_19: 4912720537292631160
+      Lesser Mawlek - atlas0 #0350027_2: -7620209089221150964
+      Lesser Mawlek - atlas0 #0350027_20: -3850981215487740807
+      Lesser Mawlek - atlas0 #0350027_21: -3108551754898969121
+      Lesser Mawlek - atlas0 #0350027_22: -7962088639468451689
+      Lesser Mawlek - atlas0 #0350027_23: 1622723057035256203
+      Lesser Mawlek - atlas0 #0350027_24: 6892792148037588287
+      Lesser Mawlek - atlas0 #0350027_25: 2915915347698031845
+      Lesser Mawlek - atlas0 #0350027_26: -5487570931404436384
+      Lesser Mawlek - atlas0 #0350027_27: -4591237663881146067
+      Lesser Mawlek - atlas0 #0350027_28: 8005794163535096886
+      Lesser Mawlek - atlas0 #0350027_29: -5649925328914857788
+      Lesser Mawlek - atlas0 #0350027_3: 3088437043371654320
+      Lesser Mawlek - atlas0 #0350027_30: 1269430784468170088
+      Lesser Mawlek - atlas0 #0350027_31: -930808503912653810
+      Lesser Mawlek - atlas0 #0350027_32: 1614458900153360803
+      Lesser Mawlek - atlas0 #0350027_4: 3229492104654803321
+      Lesser Mawlek - atlas0 #0350027_5: -5201581781068913693
+      Lesser Mawlek - atlas0 #0350027_6: 6337453540886202900
+      Lesser Mawlek - atlas0 #0350027_7: -2620286033407649013
+      Lesser Mawlek - atlas0 #0350027_8: 1745198922040979688
+      Lesser Mawlek - atlas0 #0350027_9: -3853127477086972792
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

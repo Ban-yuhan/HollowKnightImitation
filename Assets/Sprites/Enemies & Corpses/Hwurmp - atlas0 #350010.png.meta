@@ -1,0 +1,676 @@
+fileFormatVersion: 2
+guid: 1c92079ed9d6fa4418782b833f6d1e20
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5470519560605972595
+    second: Hwurmp - atlas0 #350010_0
+  - first:
+      213: -9087988306958390271
+    second: Hwurmp - atlas0 #350010_1
+  - first:
+      213: -3132742306008074488
+    second: Hwurmp - atlas0 #350010_2
+  - first:
+      213: -8597349112848174724
+    second: Hwurmp - atlas0 #350010_3
+  - first:
+      213: 295144203291825198
+    second: Hwurmp - atlas0 #350010_4
+  - first:
+      213: 8618781518057373681
+    second: Hwurmp - atlas0 #350010_5
+  - first:
+      213: 6827245605855688585
+    second: Hwurmp - atlas0 #350010_6
+  - first:
+      213: -1413603308396577492
+    second: Hwurmp - atlas0 #350010_7
+  - first:
+      213: 5089028619946896495
+    second: Hwurmp - atlas0 #350010_8
+  - first:
+      213: 5316640654597107186
+    second: Hwurmp - atlas0 #350010_9
+  - first:
+      213: -6553520123873742040
+    second: Hwurmp - atlas0 #350010_10
+  - first:
+      213: 6190426654524899675
+    second: Hwurmp - atlas0 #350010_11
+  - first:
+      213: -3536877715907317174
+    second: Hwurmp - atlas0 #350010_12
+  - first:
+      213: 762504458367597845
+    second: Hwurmp - atlas0 #350010_13
+  - first:
+      213: 1146490042333782456
+    second: Hwurmp - atlas0 #350010_14
+  - first:
+      213: 9213758781117490728
+    second: Hwurmp - atlas0 #350010_15
+  - first:
+      213: 9049572919594919125
+    second: Hwurmp - atlas0 #350010_16
+  - first:
+      213: 7277417214924217333
+    second: Hwurmp - atlas0 #350010_17
+  - first:
+      213: 1632639786946860457
+    second: Hwurmp - atlas0 #350010_18
+  - first:
+      213: -7772132220883483204
+    second: Hwurmp - atlas0 #350010_19
+  - first:
+      213: -6491109072353470705
+    second: Hwurmp - atlas0 #350010_20
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Hwurmp - atlas0 #350010_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1315
+        width: 364
+        height: 597
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d874145917fc414b0800000000000000
+      internalID: -5470519560605972595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hwurmp - atlas0 #350010_1
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 1439
+        width: 335
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10c67d8f8caf0e180800000000000000
+      internalID: -9087988306958390271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hwurmp - atlas0 #350010_2
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 1529
+        width: 284
+        height: 264
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 807fc8d78734684d0800000000000000
+      internalID: -3132742306008074488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hwurmp - atlas0 #350010_3
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 1160
+        width: 301
+        height: 371
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c713aa6588410b880800000000000000
+      internalID: -8597349112848174724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hwurmp - atlas0 #350010_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 987
+        width: 369
+        height: 330
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2499b2d610981400800000000000000
+      internalID: 295144203291825198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hwurmp - atlas0 #350010_5
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 1107
+        width: 335
+        height: 332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fff28c50201c9770800000000000000
+      internalID: 8618781518057373681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hwurmp - atlas0 #350010_6
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 726
+        width: 321
+        height: 384
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 987ff5bc4bf3fbe50800000000000000
+      internalID: 6827245605855688585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hwurmp - atlas0 #350010_7
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 798
+        width: 317
+        height: 364
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2d74b5d74fd16ce0800000000000000
+      internalID: -1413603308396577492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hwurmp - atlas0 #350010_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 671
+        width: 384
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6c2bb7219cdf9640800000000000000
+      internalID: 5089028619946896495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hwurmp - atlas0 #350010_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 332
+        width: 366
+        height: 341
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fd29afa18088c940800000000000000
+      internalID: 5316640654597107186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hwurmp - atlas0 #350010_10
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 331
+        width: 319
+        height: 397
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 823b12c5b283d05a0800000000000000
+      internalID: -6553520123873742040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hwurmp - atlas0 #350010_11
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 404
+        width: 307
+        height: 396
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5101177e30d8e550800000000000000
+      internalID: 6190426654524899675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hwurmp - atlas0 #350010_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 395
+        height: 334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a427951e47c7aeec0800000000000000
+      internalID: -3536877715907317174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hwurmp - atlas0 #350010_13
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 0
+        width: 396
+        height: 333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51df6a4d3c5f49a00800000000000000
+      internalID: 762504458367597845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hwurmp - atlas0 #350010_14
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 217
+        width: 73
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b1e3df7e9629ef00800000000000000
+      internalID: 1146490042333782456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hwurmp - atlas0 #350010_15
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 333
+        width: 124
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 826e4aa7bc8dddf70800000000000000
+      internalID: 9213758781117490728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hwurmp - atlas0 #350010_16
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 265
+        width: 131
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d42379af9a869d70800000000000000
+      internalID: 9049572919594919125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hwurmp - atlas0 #350010_17
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 86
+        width: 73
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fbded946649ef460800000000000000
+      internalID: 7277417214924217333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hwurmp - atlas0 #350010_18
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 133
+        width: 140
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a513237c3d48a610800000000000000
+      internalID: 1632639786946860457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hwurmp - atlas0 #350010_19
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 0
+        width: 73
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb54fd27ce6d32490800000000000000
+      internalID: -7772132220883483204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hwurmp - atlas0 #350010_20
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 0
+        width: 113
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f075e08a0b2fae5a0800000000000000
+      internalID: -6491109072353470705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Hwurmp - atlas0 #350010_0: -5470519560605972595
+      Hwurmp - atlas0 #350010_1: -9087988306958390271
+      Hwurmp - atlas0 #350010_10: -6553520123873742040
+      Hwurmp - atlas0 #350010_11: 6190426654524899675
+      Hwurmp - atlas0 #350010_12: -3536877715907317174
+      Hwurmp - atlas0 #350010_13: 762504458367597845
+      Hwurmp - atlas0 #350010_14: 1146490042333782456
+      Hwurmp - atlas0 #350010_15: 9213758781117490728
+      Hwurmp - atlas0 #350010_16: 9049572919594919125
+      Hwurmp - atlas0 #350010_17: 7277417214924217333
+      Hwurmp - atlas0 #350010_18: 1632639786946860457
+      Hwurmp - atlas0 #350010_19: -7772132220883483204
+      Hwurmp - atlas0 #350010_2: -3132742306008074488
+      Hwurmp - atlas0 #350010_20: -6491109072353470705
+      Hwurmp - atlas0 #350010_3: -8597349112848174724
+      Hwurmp - atlas0 #350010_4: 295144203291825198
+      Hwurmp - atlas0 #350010_5: 8618781518057373681
+      Hwurmp - atlas0 #350010_6: 6827245605855688585
+      Hwurmp - atlas0 #350010_7: -1413603308396577492
+      Hwurmp - atlas0 #350010_8: 5089028619946896495
+      Hwurmp - atlas0 #350010_9: 5316640654597107186
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

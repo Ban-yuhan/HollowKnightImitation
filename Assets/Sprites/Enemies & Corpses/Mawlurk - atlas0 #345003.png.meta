@@ -1,0 +1,494 @@
+fileFormatVersion: 2
+guid: e7250e529a3ac9b40acc5f7417f9ed96
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4590563010967475803
+    second: Mawlurk - atlas0 #345003_0
+  - first:
+      213: 864886550233664290
+    second: Mawlurk - atlas0 #345003_1
+  - first:
+      213: -613726061781226227
+    second: Mawlurk - atlas0 #345003_2
+  - first:
+      213: -1113576428329577439
+    second: Mawlurk - atlas0 #345003_3
+  - first:
+      213: -2671016378936799036
+    second: Mawlurk - atlas0 #345003_4
+  - first:
+      213: 2119839754051037000
+    second: Mawlurk - atlas0 #345003_5
+  - first:
+      213: 2326678867515103611
+    second: Mawlurk - atlas0 #345003_6
+  - first:
+      213: 722674833668414588
+    second: Mawlurk - atlas0 #345003_7
+  - first:
+      213: 96271653399755206
+    second: Mawlurk - atlas0 #345003_8
+  - first:
+      213: 2738119044851497359
+    second: Mawlurk - atlas0 #345003_9
+  - first:
+      213: -2704644503092601441
+    second: Mawlurk - atlas0 #345003_10
+  - first:
+      213: -8750626766436584462
+    second: Mawlurk - atlas0 #345003_11
+  - first:
+      213: 2092119810436132471
+    second: Mawlurk - atlas0 #345003_12
+  - first:
+      213: 5472686524705501914
+    second: Mawlurk - atlas0 #345003_13
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Mawlurk - atlas0 #345003_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1024
+        width: 178
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a96c3c634b0b40c0800000000000000
+      internalID: -4590563010967475803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mawlurk - atlas0 #345003_1
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 1064
+        width: 125
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22bc0bd2cb1b00c00800000000000000
+      internalID: 864886550233664290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mawlurk - atlas0 #345003_2
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 794
+        width: 355
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0d6122066b9b77f0800000000000000
+      internalID: -613726061781226227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mawlurk - atlas0 #345003_3
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 945
+        width: 355
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 124da2f6328cb80f0800000000000000
+      internalID: -1113576428329577439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mawlurk - atlas0 #345003_4
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 945
+        width: 98
+        height: 355
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c0d83841c4aeead0800000000000000
+      internalID: -2671016378936799036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mawlurk - atlas0 #345003_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 688
+        width: 207
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 847a6f0660f2b6d10800000000000000
+      internalID: 2119839754051037000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mawlurk - atlas0 #345003_6
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 360
+        width: 343
+        height: 580
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7955ac4a160a4020800000000000000
+      internalID: 2326678867515103611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mawlurk - atlas0 #345003_7
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 899
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7c9becaee4770a00800000000000000
+      internalID: 722674833668414588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mawlurk - atlas0 #345003_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 315
+        width: 273
+        height: 375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c9f4d60f86065100800000000000000
+      internalID: 96271653399755206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mawlurk - atlas0 #345003_9
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 285
+        width: 419
+        height: 511
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f89fa1d93c0cff520800000000000000
+      internalID: 2738119044851497359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mawlurk - atlas0 #345003_10
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 0
+        width: 299
+        height: 362
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9dd37d772c277ad0800000000000000
+      internalID: -2704644503092601441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mawlurk - atlas0 #345003_11
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 360
+        width: 47
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f3b58891578f8680800000000000000
+      internalID: -8750626766436584462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mawlurk - atlas0 #345003_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 350
+        height: 317
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77e6a9012e3b80d10800000000000000
+      internalID: 2092119810436132471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mawlurk - atlas0 #345003_13
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 0
+        width: 379
+        height: 287
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad273201663e2fb40800000000000000
+      internalID: 5472686524705501914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Mawlurk - atlas0 #345003_0: -4590563010967475803
+      Mawlurk - atlas0 #345003_1: 864886550233664290
+      Mawlurk - atlas0 #345003_10: -2704644503092601441
+      Mawlurk - atlas0 #345003_11: -8750626766436584462
+      Mawlurk - atlas0 #345003_12: 2092119810436132471
+      Mawlurk - atlas0 #345003_13: 5472686524705501914
+      Mawlurk - atlas0 #345003_2: -613726061781226227
+      Mawlurk - atlas0 #345003_3: -1113576428329577439
+      Mawlurk - atlas0 #345003_4: -2671016378936799036
+      Mawlurk - atlas0 #345003_5: 2119839754051037000
+      Mawlurk - atlas0 #345003_6: 2326678867515103611
+      Mawlurk - atlas0 #345003_7: 722674833668414588
+      Mawlurk - atlas0 #345003_8: 96271653399755206
+      Mawlurk - atlas0 #345003_9: 2738119044851497359
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

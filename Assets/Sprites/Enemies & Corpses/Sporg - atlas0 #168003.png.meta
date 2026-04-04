@@ -1,0 +1,546 @@
+fileFormatVersion: 2
+guid: 16075e6461716f6409abef2f5be75908
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3744157492636440930
+    second: Sporg - atlas0 #168003_0
+  - first:
+      213: 3964209164042119149
+    second: Sporg - atlas0 #168003_1
+  - first:
+      213: -7816120534666863226
+    second: Sporg - atlas0 #168003_2
+  - first:
+      213: -7924482845814132033
+    second: Sporg - atlas0 #168003_3
+  - first:
+      213: -4248223628809027440
+    second: Sporg - atlas0 #168003_4
+  - first:
+      213: -8629076164060056067
+    second: Sporg - atlas0 #168003_5
+  - first:
+      213: -4094691900835696005
+    second: Sporg - atlas0 #168003_6
+  - first:
+      213: -8052668812751402295
+    second: Sporg - atlas0 #168003_7
+  - first:
+      213: -3525357947313407623
+    second: Sporg - atlas0 #168003_8
+  - first:
+      213: -8468018518865181013
+    second: Sporg - atlas0 #168003_9
+  - first:
+      213: -7364784459666108466
+    second: Sporg - atlas0 #168003_10
+  - first:
+      213: -8536913706923818206
+    second: Sporg - atlas0 #168003_11
+  - first:
+      213: 7442210585701994536
+    second: Sporg - atlas0 #168003_12
+  - first:
+      213: 3200854912145521235
+    second: Sporg - atlas0 #168003_13
+  - first:
+      213: 667757523068166171
+    second: Sporg - atlas0 #168003_14
+  - first:
+      213: 6386745498462285885
+    second: Sporg - atlas0 #168003_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Sporg - atlas0 #168003_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 785
+        width: 394
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26956b3f66be5f330800000000000000
+      internalID: 3744157492636440930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sporg - atlas0 #168003_1
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 829
+        width: 284
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de7241e3b33b30730800000000000000
+      internalID: 3964209164042119149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sporg - atlas0 #168003_2
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 984
+        width: 112
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68d9b8909cf878390800000000000000
+      internalID: -7816120534666863226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sporg - atlas0 #168003_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 666
+        width: 142
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb2729266d4960290800000000000000
+      internalID: -7924482845814132033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sporg - atlas0 #168003_4
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 590
+        width: 143
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 090ca6e1e174b05c0800000000000000
+      internalID: -4248223628809027440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sporg - atlas0 #168003_5
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 699
+        width: 184
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df5f86592fc5f3880800000000000000
+      internalID: -8629076164060056067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sporg - atlas0 #168003_6
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 140
+        width: 524
+        height: 561
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b72f40a296bbc27c0800000000000000
+      internalID: -4094691900835696005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sporg - atlas0 #168003_7
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 670
+        width: 143
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ca0612316c2f3090800000000000000
+      internalID: -8052668812751402295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sporg - atlas0 #168003_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 459
+        width: 142
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 979b84400a9631fc0800000000000000
+      internalID: -3525357947313407623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sporg - atlas0 #168003_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 235
+        width: 142
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba68c97c50e8b7a80800000000000000
+      internalID: -8468018518865181013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sporg - atlas0 #168003_10
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 394
+        width: 143
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecfc842ed870bc990800000000000000
+      internalID: -7364784459666108466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sporg - atlas0 #168003_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 283
+        height: 396
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22384acc63ac68980800000000000000
+      internalID: -8536913706923818206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sporg - atlas0 #168003_12
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 0
+        width: 372
+        height: 333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8205b60e81b084760800000000000000
+      internalID: 7442210585701994536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sporg - atlas0 #168003_13
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 0
+        width: 154
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35a7fff6598bb6c20800000000000000
+      internalID: 3200854912145521235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sporg - atlas0 #168003_14
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 140
+        width: 43
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b10a296ede9544900800000000000000
+      internalID: 667757523068166171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sporg - atlas0 #168003_15
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 0
+        width: 43
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d307ba2413742a850800000000000000
+      internalID: 6386745498462285885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Sporg - atlas0 #168003_0: 3744157492636440930
+      Sporg - atlas0 #168003_1: 3964209164042119149
+      Sporg - atlas0 #168003_10: -7364784459666108466
+      Sporg - atlas0 #168003_11: -8536913706923818206
+      Sporg - atlas0 #168003_12: 7442210585701994536
+      Sporg - atlas0 #168003_13: 3200854912145521235
+      Sporg - atlas0 #168003_14: 667757523068166171
+      Sporg - atlas0 #168003_15: 6386745498462285885
+      Sporg - atlas0 #168003_2: -7816120534666863226
+      Sporg - atlas0 #168003_3: -7924482845814132033
+      Sporg - atlas0 #168003_4: -4248223628809027440
+      Sporg - atlas0 #168003_5: -8629076164060056067
+      Sporg - atlas0 #168003_6: -4094691900835696005
+      Sporg - atlas0 #168003_7: -8052668812751402295
+      Sporg - atlas0 #168003_8: -3525357947313407623
+      Sporg - atlas0 #168003_9: -8468018518865181013
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

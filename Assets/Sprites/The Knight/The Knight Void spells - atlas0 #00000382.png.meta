@@ -1,0 +1,5980 @@
+fileFormatVersion: 2
+guid: 4cbfc13390bb8a9459a966e6b74c6b2b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1959933871112176906
+    second: The Knight Void spells - atlas0 #00000382_0
+  - first:
+      213: -6601373116602192869
+    second: The Knight Void spells - atlas0 #00000382_1
+  - first:
+      213: -6330327956598670481
+    second: The Knight Void spells - atlas0 #00000382_2
+  - first:
+      213: 3779937650638041575
+    second: The Knight Void spells - atlas0 #00000382_3
+  - first:
+      213: -2992146366933677858
+    second: The Knight Void spells - atlas0 #00000382_4
+  - first:
+      213: -2667359624307748619
+    second: The Knight Void spells - atlas0 #00000382_5
+  - first:
+      213: -1891483180237639768
+    second: The Knight Void spells - atlas0 #00000382_6
+  - first:
+      213: -9121038272971155632
+    second: The Knight Void spells - atlas0 #00000382_7
+  - first:
+      213: 1817248898331169783
+    second: The Knight Void spells - atlas0 #00000382_8
+  - first:
+      213: -4933565112582899767
+    second: The Knight Void spells - atlas0 #00000382_9
+  - first:
+      213: 4242201876723193999
+    second: The Knight Void spells - atlas0 #00000382_10
+  - first:
+      213: -7932963931760092703
+    second: The Knight Void spells - atlas0 #00000382_11
+  - first:
+      213: 9114056236054167918
+    second: The Knight Void spells - atlas0 #00000382_12
+  - first:
+      213: 100403582888200568
+    second: The Knight Void spells - atlas0 #00000382_13
+  - first:
+      213: -3025389129509561649
+    second: The Knight Void spells - atlas0 #00000382_14
+  - first:
+      213: 825111168249266610
+    second: The Knight Void spells - atlas0 #00000382_15
+  - first:
+      213: -5146312117628573996
+    second: The Knight Void spells - atlas0 #00000382_16
+  - first:
+      213: -5504389741057908498
+    second: The Knight Void spells - atlas0 #00000382_17
+  - first:
+      213: 5061934698301533407
+    second: The Knight Void spells - atlas0 #00000382_18
+  - first:
+      213: -3456686681718886181
+    second: The Knight Void spells - atlas0 #00000382_19
+  - first:
+      213: -7686579144397372299
+    second: The Knight Void spells - atlas0 #00000382_20
+  - first:
+      213: -252395759847546410
+    second: The Knight Void spells - atlas0 #00000382_21
+  - first:
+      213: -6380242177204828251
+    second: The Knight Void spells - atlas0 #00000382_22
+  - first:
+      213: -831569859022752558
+    second: The Knight Void spells - atlas0 #00000382_23
+  - first:
+      213: 8713048666631813393
+    second: The Knight Void spells - atlas0 #00000382_24
+  - first:
+      213: 8459188676228852341
+    second: The Knight Void spells - atlas0 #00000382_25
+  - first:
+      213: -2292875137596233213
+    second: The Knight Void spells - atlas0 #00000382_26
+  - first:
+      213: 8887461044333748307
+    second: The Knight Void spells - atlas0 #00000382_27
+  - first:
+      213: 8476690090899691515
+    second: The Knight Void spells - atlas0 #00000382_28
+  - first:
+      213: -3213657961478585364
+    second: The Knight Void spells - atlas0 #00000382_29
+  - first:
+      213: -2345896386206505476
+    second: The Knight Void spells - atlas0 #00000382_30
+  - first:
+      213: -8228684878257481357
+    second: The Knight Void spells - atlas0 #00000382_31
+  - first:
+      213: 3315782817416372353
+    second: The Knight Void spells - atlas0 #00000382_32
+  - first:
+      213: 8587772440617941972
+    second: The Knight Void spells - atlas0 #00000382_33
+  - first:
+      213: 5470766939430461050
+    second: The Knight Void spells - atlas0 #00000382_34
+  - first:
+      213: 3345574326662286390
+    second: The Knight Void spells - atlas0 #00000382_35
+  - first:
+      213: -8459206090155252802
+    second: The Knight Void spells - atlas0 #00000382_36
+  - first:
+      213: 2694795139884498364
+    second: The Knight Void spells - atlas0 #00000382_37
+  - first:
+      213: -8718183541471356312
+    second: The Knight Void spells - atlas0 #00000382_38
+  - first:
+      213: 1794024727949343663
+    second: The Knight Void spells - atlas0 #00000382_39
+  - first:
+      213: -7326635487371243317
+    second: The Knight Void spells - atlas0 #00000382_40
+  - first:
+      213: -1117084218162607277
+    second: The Knight Void spells - atlas0 #00000382_41
+  - first:
+      213: -7116039864612504547
+    second: The Knight Void spells - atlas0 #00000382_42
+  - first:
+      213: 5414062840476594803
+    second: The Knight Void spells - atlas0 #00000382_43
+  - first:
+      213: -7656876359860931315
+    second: The Knight Void spells - atlas0 #00000382_44
+  - first:
+      213: -8070283413815892376
+    second: The Knight Void spells - atlas0 #00000382_45
+  - first:
+      213: 6277197092515383908
+    second: The Knight Void spells - atlas0 #00000382_46
+  - first:
+      213: 3733475631728388943
+    second: The Knight Void spells - atlas0 #00000382_47
+  - first:
+      213: -4104176221713751283
+    second: The Knight Void spells - atlas0 #00000382_48
+  - first:
+      213: -7711756664313880120
+    second: The Knight Void spells - atlas0 #00000382_49
+  - first:
+      213: 3639703830194169261
+    second: The Knight Void spells - atlas0 #00000382_50
+  - first:
+      213: -3247406139794612395
+    second: The Knight Void spells - atlas0 #00000382_51
+  - first:
+      213: -5526780275264486682
+    second: The Knight Void spells - atlas0 #00000382_52
+  - first:
+      213: 6816992631078970007
+    second: The Knight Void spells - atlas0 #00000382_53
+  - first:
+      213: 3460814711019779810
+    second: The Knight Void spells - atlas0 #00000382_54
+  - first:
+      213: 4801849835747957082
+    second: The Knight Void spells - atlas0 #00000382_55
+  - first:
+      213: -7371723673587903674
+    second: The Knight Void spells - atlas0 #00000382_56
+  - first:
+      213: 5626771390354347361
+    second: The Knight Void spells - atlas0 #00000382_57
+  - first:
+      213: -3275888199246594847
+    second: The Knight Void spells - atlas0 #00000382_58
+  - first:
+      213: 6838467421962996330
+    second: The Knight Void spells - atlas0 #00000382_59
+  - first:
+      213: 858464653070790396
+    second: The Knight Void spells - atlas0 #00000382_60
+  - first:
+      213: -6160172195646670671
+    second: The Knight Void spells - atlas0 #00000382_61
+  - first:
+      213: -7502210004354415339
+    second: The Knight Void spells - atlas0 #00000382_62
+  - first:
+      213: 2638364838303562070
+    second: The Knight Void spells - atlas0 #00000382_63
+  - first:
+      213: -5150813077898033606
+    second: The Knight Void spells - atlas0 #00000382_64
+  - first:
+      213: -6825986615962602218
+    second: The Knight Void spells - atlas0 #00000382_65
+  - first:
+      213: -6489233686744546683
+    second: The Knight Void spells - atlas0 #00000382_66
+  - first:
+      213: -7431664981800141226
+    second: The Knight Void spells - atlas0 #00000382_67
+  - first:
+      213: -8885594048057169540
+    second: The Knight Void spells - atlas0 #00000382_68
+  - first:
+      213: 1770615803895767491
+    second: The Knight Void spells - atlas0 #00000382_69
+  - first:
+      213: -3585947064830235646
+    second: The Knight Void spells - atlas0 #00000382_70
+  - first:
+      213: -2287237553040231989
+    second: The Knight Void spells - atlas0 #00000382_71
+  - first:
+      213: 6964563993840527851
+    second: The Knight Void spells - atlas0 #00000382_72
+  - first:
+      213: -4841225744362616593
+    second: The Knight Void spells - atlas0 #00000382_73
+  - first:
+      213: -7966274479454545599
+    second: The Knight Void spells - atlas0 #00000382_74
+  - first:
+      213: -5079894089484172919
+    second: The Knight Void spells - atlas0 #00000382_75
+  - first:
+      213: -8411322078859005458
+    second: The Knight Void spells - atlas0 #00000382_76
+  - first:
+      213: -1091852040411560607
+    second: The Knight Void spells - atlas0 #00000382_77
+  - first:
+      213: 7157163187092396939
+    second: The Knight Void spells - atlas0 #00000382_78
+  - first:
+      213: 8531254359368005464
+    second: The Knight Void spells - atlas0 #00000382_79
+  - first:
+      213: -5125041651481451761
+    second: The Knight Void spells - atlas0 #00000382_80
+  - first:
+      213: -8287501723668835159
+    second: The Knight Void spells - atlas0 #00000382_81
+  - first:
+      213: 8868261710460100684
+    second: The Knight Void spells - atlas0 #00000382_82
+  - first:
+      213: 1417909832452332014
+    second: The Knight Void spells - atlas0 #00000382_83
+  - first:
+      213: 3246469902424315573
+    second: The Knight Void spells - atlas0 #00000382_84
+  - first:
+      213: -675605913215870020
+    second: The Knight Void spells - atlas0 #00000382_85
+  - first:
+      213: 5335159304894213318
+    second: The Knight Void spells - atlas0 #00000382_86
+  - first:
+      213: 2105986227009830489
+    second: The Knight Void spells - atlas0 #00000382_87
+  - first:
+      213: 276686191101489616
+    second: The Knight Void spells - atlas0 #00000382_88
+  - first:
+      213: -4581662358311761801
+    second: The Knight Void spells - atlas0 #00000382_89
+  - first:
+      213: -4444419829397362556
+    second: The Knight Void spells - atlas0 #00000382_90
+  - first:
+      213: 6101687278034779534
+    second: The Knight Void spells - atlas0 #00000382_91
+  - first:
+      213: 4391133843834662368
+    second: The Knight Void spells - atlas0 #00000382_92
+  - first:
+      213: 2523340479182609457
+    second: The Knight Void spells - atlas0 #00000382_93
+  - first:
+      213: -5721330720171861625
+    second: The Knight Void spells - atlas0 #00000382_94
+  - first:
+      213: -2675184717477296383
+    second: The Knight Void spells - atlas0 #00000382_95
+  - first:
+      213: 4761687749782314773
+    second: The Knight Void spells - atlas0 #00000382_96
+  - first:
+      213: -4898627971291308054
+    second: The Knight Void spells - atlas0 #00000382_97
+  - first:
+      213: -5219895322901365593
+    second: The Knight Void spells - atlas0 #00000382_98
+  - first:
+      213: 8396977351066000714
+    second: The Knight Void spells - atlas0 #00000382_99
+  - first:
+      213: -5482238945339323072
+    second: The Knight Void spells - atlas0 #00000382_100
+  - first:
+      213: 2484457603903951133
+    second: The Knight Void spells - atlas0 #00000382_101
+  - first:
+      213: -2464197548684461438
+    second: The Knight Void spells - atlas0 #00000382_102
+  - first:
+      213: 6982912180242162503
+    second: The Knight Void spells - atlas0 #00000382_103
+  - first:
+      213: -2323096482469538363
+    second: The Knight Void spells - atlas0 #00000382_104
+  - first:
+      213: 3863015353279653033
+    second: The Knight Void spells - atlas0 #00000382_105
+  - first:
+      213: -2897034492739512577
+    second: The Knight Void spells - atlas0 #00000382_106
+  - first:
+      213: 2949832714490550465
+    second: The Knight Void spells - atlas0 #00000382_107
+  - first:
+      213: 4805533319521883813
+    second: The Knight Void spells - atlas0 #00000382_108
+  - first:
+      213: 5620641847997598532
+    second: The Knight Void spells - atlas0 #00000382_109
+  - first:
+      213: -8551048255018386981
+    second: The Knight Void spells - atlas0 #00000382_110
+  - first:
+      213: 8031728609753963886
+    second: The Knight Void spells - atlas0 #00000382_111
+  - first:
+      213: -429585592740264832
+    second: The Knight Void spells - atlas0 #00000382_112
+  - first:
+      213: 1144019337579682386
+    second: The Knight Void spells - atlas0 #00000382_113
+  - first:
+      213: 1263334450819094746
+    second: The Knight Void spells - atlas0 #00000382_114
+  - first:
+      213: -4620820343479911028
+    second: The Knight Void spells - atlas0 #00000382_115
+  - first:
+      213: -8155225824968742607
+    second: The Knight Void spells - atlas0 #00000382_116
+  - first:
+      213: 5523205519417131565
+    second: The Knight Void spells - atlas0 #00000382_117
+  - first:
+      213: 8850378836161019591
+    second: The Knight Void spells - atlas0 #00000382_118
+  - first:
+      213: -3284983307032169230
+    second: The Knight Void spells - atlas0 #00000382_119
+  - first:
+      213: 2976784381122762994
+    second: The Knight Void spells - atlas0 #00000382_120
+  - first:
+      213: 476868303498356499
+    second: The Knight Void spells - atlas0 #00000382_121
+  - first:
+      213: -7736360804216644988
+    second: The Knight Void spells - atlas0 #00000382_122
+  - first:
+      213: -6125108895730708554
+    second: The Knight Void spells - atlas0 #00000382_123
+  - first:
+      213: 662450800413167877
+    second: The Knight Void spells - atlas0 #00000382_124
+  - first:
+      213: -2507749810846418837
+    second: The Knight Void spells - atlas0 #00000382_125
+  - first:
+      213: 2074502445699542805
+    second: The Knight Void spells - atlas0 #00000382_126
+  - first:
+      213: -7362475333736517468
+    second: The Knight Void spells - atlas0 #00000382_127
+  - first:
+      213: 2668450908132189530
+    second: The Knight Void spells - atlas0 #00000382_128
+  - first:
+      213: 2415734724889618224
+    second: The Knight Void spells - atlas0 #00000382_129
+  - first:
+      213: -2776798015354736761
+    second: The Knight Void spells - atlas0 #00000382_130
+  - first:
+      213: -7263479748163580432
+    second: The Knight Void spells - atlas0 #00000382_131
+  - first:
+      213: -3908341211682154039
+    second: The Knight Void spells - atlas0 #00000382_132
+  - first:
+      213: -5201136319972468729
+    second: The Knight Void spells - atlas0 #00000382_133
+  - first:
+      213: 7950899929622667777
+    second: The Knight Void spells - atlas0 #00000382_134
+  - first:
+      213: 1191378149316138345
+    second: The Knight Void spells - atlas0 #00000382_135
+  - first:
+      213: 2876906627497051676
+    second: The Knight Void spells - atlas0 #00000382_136
+  - first:
+      213: -8852276029399623068
+    second: The Knight Void spells - atlas0 #00000382_137
+  - first:
+      213: 3426315606668059191
+    second: The Knight Void spells - atlas0 #00000382_138
+  - first:
+      213: -4021999446722933675
+    second: The Knight Void spells - atlas0 #00000382_139
+  - first:
+      213: -9053110532212178427
+    second: The Knight Void spells - atlas0 #00000382_140
+  - first:
+      213: 7043816547670311285
+    second: The Knight Void spells - atlas0 #00000382_141
+  - first:
+      213: 1819666991185760099
+    second: The Knight Void spells - atlas0 #00000382_142
+  - first:
+      213: 4421666137754917404
+    second: The Knight Void spells - atlas0 #00000382_143
+  - first:
+      213: -4275118235383390379
+    second: The Knight Void spells - atlas0 #00000382_144
+  - first:
+      213: -7435975719933625431
+    second: The Knight Void spells - atlas0 #00000382_145
+  - first:
+      213: 7013304373886034815
+    second: The Knight Void spells - atlas0 #00000382_146
+  - first:
+      213: 5985490261995023722
+    second: The Knight Void spells - atlas0 #00000382_147
+  - first:
+      213: -651062832877040456
+    second: The Knight Void spells - atlas0 #00000382_148
+  - first:
+      213: -6924415161189841229
+    second: The Knight Void spells - atlas0 #00000382_149
+  - first:
+      213: -2802012849190612455
+    second: The Knight Void spells - atlas0 #00000382_150
+  - first:
+      213: 1772465286611156532
+    second: The Knight Void spells - atlas0 #00000382_151
+  - first:
+      213: -3131848761566350970
+    second: The Knight Void spells - atlas0 #00000382_152
+  - first:
+      213: 2254959935233589618
+    second: The Knight Void spells - atlas0 #00000382_153
+  - first:
+      213: 7972121039825130726
+    second: The Knight Void spells - atlas0 #00000382_154
+  - first:
+      213: -4807347347186162926
+    second: The Knight Void spells - atlas0 #00000382_155
+  - first:
+      213: -2090994548751559616
+    second: The Knight Void spells - atlas0 #00000382_156
+  - first:
+      213: 2062786118937501221
+    second: The Knight Void spells - atlas0 #00000382_157
+  - first:
+      213: -6816578053358104388
+    second: The Knight Void spells - atlas0 #00000382_158
+  - first:
+      213: -7593765696443607935
+    second: The Knight Void spells - atlas0 #00000382_159
+  - first:
+      213: -7958811468744071443
+    second: The Knight Void spells - atlas0 #00000382_160
+  - first:
+      213: -9168519202023367556
+    second: The Knight Void spells - atlas0 #00000382_161
+  - first:
+      213: -1208935151581405145
+    second: The Knight Void spells - atlas0 #00000382_162
+  - first:
+      213: 5062888621747690199
+    second: The Knight Void spells - atlas0 #00000382_163
+  - first:
+      213: -5063802743695316111
+    second: The Knight Void spells - atlas0 #00000382_164
+  - first:
+      213: -3369382144362393101
+    second: The Knight Void spells - atlas0 #00000382_165
+  - first:
+      213: 3867371276250391006
+    second: The Knight Void spells - atlas0 #00000382_166
+  - first:
+      213: -3447968014410685914
+    second: The Knight Void spells - atlas0 #00000382_167
+  - first:
+      213: -125383157966904437
+    second: The Knight Void spells - atlas0 #00000382_168
+  - first:
+      213: 7642239124333577721
+    second: The Knight Void spells - atlas0 #00000382_169
+  - first:
+      213: 6797540594921643044
+    second: The Knight Void spells - atlas0 #00000382_170
+  - first:
+      213: -8465430466049057694
+    second: The Knight Void spells - atlas0 #00000382_171
+  - first:
+      213: 6076490134198618947
+    second: The Knight Void spells - atlas0 #00000382_172
+  - first:
+      213: 7132887179052374562
+    second: The Knight Void spells - atlas0 #00000382_173
+  - first:
+      213: -1831303667121527965
+    second: The Knight Void spells - atlas0 #00000382_174
+  - first:
+      213: 8539576120826538260
+    second: The Knight Void spells - atlas0 #00000382_175
+  - first:
+      213: -640652569887317840
+    second: The Knight Void spells - atlas0 #00000382_176
+  - first:
+      213: 4117993269136437808
+    second: The Knight Void spells - atlas0 #00000382_177
+  - first:
+      213: -4175580439506961207
+    second: The Knight Void spells - atlas0 #00000382_178
+  - first:
+      213: -2953995849755359819
+    second: The Knight Void spells - atlas0 #00000382_179
+  - first:
+      213: 7810952449731260762
+    second: The Knight Void spells - atlas0 #00000382_180
+  - first:
+      213: 8995065247027548788
+    second: The Knight Void spells - atlas0 #00000382_181
+  - first:
+      213: -3487923530283308518
+    second: The Knight Void spells - atlas0 #00000382_182
+  - first:
+      213: 5294786952525129176
+    second: The Knight Void spells - atlas0 #00000382_183
+  - first:
+      213: -4604075667695283574
+    second: The Knight Void spells - atlas0 #00000382_184
+  - first:
+      213: 155234195137390352
+    second: The Knight Void spells - atlas0 #00000382_185
+  - first:
+      213: -5873836479195043887
+    second: The Knight Void spells - atlas0 #00000382_186
+  - first:
+      213: -2272548345642807733
+    second: The Knight Void spells - atlas0 #00000382_187
+  - first:
+      213: 1123994919751908989
+    second: The Knight Void spells - atlas0 #00000382_188
+  - first:
+      213: 5333007929469761768
+    second: The Knight Void spells - atlas0 #00000382_189
+  - first:
+      213: 4534730645643217170
+    second: The Knight Void spells - atlas0 #00000382_190
+  - first:
+      213: -2347972309284624708
+    second: The Knight Void spells - atlas0 #00000382_191
+  - first:
+      213: 2799173193227248620
+    second: The Knight Void spells - atlas0 #00000382_192
+  - first:
+      213: -2071181161092223829
+    second: The Knight Void spells - atlas0 #00000382_193
+  - first:
+      213: -3907549599794767120
+    second: The Knight Void spells - atlas0 #00000382_194
+  - first:
+      213: -369986403067118025
+    second: The Knight Void spells - atlas0 #00000382_195
+  - first:
+      213: -3645776093529905592
+    second: The Knight Void spells - atlas0 #00000382_196
+  - first:
+      213: -992341624152776578
+    second: The Knight Void spells - atlas0 #00000382_197
+  - first:
+      213: 1470293151447666111
+    second: The Knight Void spells - atlas0 #00000382_198
+  - first:
+      213: 7336576242409470756
+    second: The Knight Void spells - atlas0 #00000382_199
+  - first:
+      213: -8586211557755426010
+    second: The Knight Void spells - atlas0 #00000382_200
+  - first:
+      213: -3073230395750354703
+    second: The Knight Void spells - atlas0 #00000382_201
+  - first:
+      213: 3337607541407892393
+    second: The Knight Void spells - atlas0 #00000382_202
+  - first:
+      213: -3094549450892367570
+    second: The Knight Void spells - atlas0 #00000382_203
+  - first:
+      213: -603862449577979977
+    second: The Knight Void spells - atlas0 #00000382_204
+  - first:
+      213: -1134716480346702130
+    second: The Knight Void spells - atlas0 #00000382_205
+  - first:
+      213: -3097557402143783292
+    second: The Knight Void spells - atlas0 #00000382_206
+  - first:
+      213: -1827758766366342120
+    second: The Knight Void spells - atlas0 #00000382_207
+  - first:
+      213: 8439368333213794266
+    second: The Knight Void spells - atlas0 #00000382_208
+  - first:
+      213: -4438088045484799884
+    second: The Knight Void spells - atlas0 #00000382_209
+  - first:
+      213: 7565056037983941243
+    second: The Knight Void spells - atlas0 #00000382_210
+  - first:
+      213: 5857995883244080423
+    second: The Knight Void spells - atlas0 #00000382_211
+  - first:
+      213: -1631557819336193159
+    second: The Knight Void spells - atlas0 #00000382_212
+  - first:
+      213: -1476873522062516247
+    second: The Knight Void spells - atlas0 #00000382_213
+  - first:
+      213: -1205897651960399431
+    second: The Knight Void spells - atlas0 #00000382_214
+  - first:
+      213: 7088880722364549028
+    second: The Knight Void spells - atlas0 #00000382_215
+  - first:
+      213: 6577174909847706336
+    second: The Knight Void spells - atlas0 #00000382_216
+  - first:
+      213: -6651771553964630961
+    second: The Knight Void spells - atlas0 #00000382_217
+  - first:
+      213: 2223637600740575507
+    second: The Knight Void spells - atlas0 #00000382_218
+  - first:
+      213: -1590725087869511081
+    second: The Knight Void spells - atlas0 #00000382_219
+  - first:
+      213: 4570649671311158036
+    second: The Knight Void spells - atlas0 #00000382_220
+  - first:
+      213: -1397849941582674050
+    second: The Knight Void spells - atlas0 #00000382_221
+  - first:
+      213: -4003078634802062483
+    second: The Knight Void spells - atlas0 #00000382_222
+  - first:
+      213: -8442688444706985013
+    second: The Knight Void spells - atlas0 #00000382_223
+  - first:
+      213: 9081150035540761990
+    second: The Knight Void spells - atlas0 #00000382_224
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: The Knight Void spells - atlas0 #00000382_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1964
+        width: 303
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a05c5eab875133b10800000000000000
+      internalID: 1959933871112176906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight Void spells - atlas0 #00000382_1
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 1964
+        width: 429
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1cec1340263364a0800000000000000
+      internalID: -6601373116602192869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight Void spells - atlas0 #00000382_2
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 1964
+        width: 283
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6b363353482628a0800000000000000
+      internalID: -6330327956598670481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight Void spells - atlas0 #00000382_3
+      rect:
+        serializedVersion: 2
+        x: 1185
+        y: 2006
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e1b76b2449057430800000000000000
+      internalID: 3779937650638041575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight Void spells - atlas0 #00000382_4
+      rect:
+        serializedVersion: 2
+        x: 1443
+        y: 2013
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed841fa7bb2c976d0800000000000000
+      internalID: -2992146366933677858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight Void spells - atlas0 #00000382_5
+      rect:
+        serializedVersion: 2
+        x: 1551
+        y: 2022
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f0dae0dd82abfad0800000000000000
+      internalID: -2667359624307748619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight Void spells - atlas0 #00000382_6
+      rect:
+        serializedVersion: 2
+        x: 1760
+        y: 2025
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8af2f4fa11a10c5e0800000000000000
+      internalID: -1891483180237639768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight Void spells - atlas0 #00000382_7
+      rect:
+        serializedVersion: 2
+        x: 1772
+        y: 2029
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 057dfcc14009b6180800000000000000
+      internalID: -9121038272971155632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight Void spells - atlas0 #00000382_8
+      rect:
+        serializedVersion: 2
+        x: 1959
+        y: 2021
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f3df7dae3a283910800000000000000
+      internalID: 1817248898331169783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight Void spells - atlas0 #00000382_9
+      rect:
+        serializedVersion: 2
+        x: 1057
+        y: 1964
+        width: 117
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c77c345ba4788bb0800000000000000
+      internalID: -4933565112582899767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight Void spells - atlas0 #00000382_10
+      rect:
+        serializedVersion: 2
+        x: 1124
+        y: 2021
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f88d49771245fda30800000000000000
+      internalID: 4242201876723193999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight Void spells - atlas0 #00000382_11
+      rect:
+        serializedVersion: 2
+        x: 1321
+        y: 1998
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e9147fa55378e190800000000000000
+      internalID: -7932963931760092703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight Void spells - atlas0 #00000382_12
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 1992
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6141fcbbd1ab7e70800000000000000
+      internalID: 9114056236054167918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight Void spells - atlas0 #00000382_13
+      rect:
+        serializedVersion: 2
+        x: 1524
+        y: 1964
+        width: 343
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8794a34d684b46100800000000000000
+      internalID: 100403582888200568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight Void spells - atlas0 #00000382_14
+      rect:
+        serializedVersion: 2
+        x: 1561
+        y: 2019
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fca114cad98a306d0800000000000000
+      internalID: -3025389129509561649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight Void spells - atlas0 #00000382_15
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 1981
+        width: 92
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b184b36c32637b00800000000000000
+      internalID: 825111168249266610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight Void spells - atlas0 #00000382_16
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 1972
+        width: 62
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d6e5753560a498b0800000000000000
+      internalID: -5146312117628573996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight Void spells - atlas0 #00000382_17
+      rect:
+        serializedVersion: 2
+        x: 1236
+        y: 1985
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee060faa1ba7c93b0800000000000000
+      internalID: -5504389741057908498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight Void spells - atlas0 #00000382_18
+      rect:
+        serializedVersion: 2
+        x: 1366
+        y: 1980
+        width: 12
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdcac70f9ca9f3640800000000000000
+      internalID: 5061934698301533407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight Void spells - atlas0 #00000382_19
+      rect:
+        serializedVersion: 2
+        x: 1447
+        y: 1979
+        width: 36
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd0725cf6c16700d0800000000000000
+      internalID: -3456686681718886181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight Void spells - atlas0 #00000382_20
+      rect:
+        serializedVersion: 2
+        x: 1495
+        y: 2009
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 574c4405ef8c35590800000000000000
+      internalID: -7686579144397372299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight Void spells - atlas0 #00000382_21
+      rect:
+        serializedVersion: 2
+        x: 1961
+        y: 1977
+        width: 42
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d1e877c46f4f7cf0800000000000000
+      internalID: -252395759847546410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight Void spells - atlas0 #00000382_22
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 2000
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a7cdb63b83d477a0800000000000000
+      internalID: -6380242177204828251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight Void spells - atlas0 #00000382_23
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1995
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d4f60b7e9ba574f0800000000000000
+      internalID: -831569859022752558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight Void spells - atlas0 #00000382_24
+      rect:
+        serializedVersion: 2
+        x: 1270
+        y: 1995
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 119b74d3997fae870800000000000000
+      internalID: 8713048666631813393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight Void spells - atlas0 #00000382_25
+      rect:
+        serializedVersion: 2
+        x: 1481
+        y: 1996
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57aa0a64843156570800000000000000
+      internalID: 8459188676228852341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight Void spells - atlas0 #00000382_26
+      rect:
+        serializedVersion: 2
+        x: 1503
+        y: 1985
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30a6045e5321e20e0800000000000000
+      internalID: -2292875137596233213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight Void spells - atlas0 #00000382_27
+      rect:
+        serializedVersion: 2
+        x: 1881
+        y: 1993
+        width: 22
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 350a2a66bba965b70800000000000000
+      internalID: 8887461044333748307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight Void spells - atlas0 #00000382_28
+      rect:
+        serializedVersion: 2
+        x: 1952
+        y: 1982
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf7562be9b043a570800000000000000
+      internalID: 8476690090899691515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight Void spells - atlas0 #00000382_29
+      rect:
+        serializedVersion: 2
+        x: 1172
+        y: 1973
+        width: 29
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce386785c1bc663d0800000000000000
+      internalID: -3213657961478585364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight Void spells - atlas0 #00000382_30
+      rect:
+        serializedVersion: 2
+        x: 1245
+        y: 1964
+        width: 12
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf5e9447aa3b17fd0800000000000000
+      internalID: -2345896386206505476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight Void spells - atlas0 #00000382_31
+      rect:
+        serializedVersion: 2
+        x: 1279
+        y: 1970
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37995de53b6ddcd80800000000000000
+      internalID: -8228684878257481357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight Void spells - atlas0 #00000382_32
+      rect:
+        serializedVersion: 2
+        x: 1493
+        y: 1974
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 180627897e6040e20800000000000000
+      internalID: 3315782817416372353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight Void spells - atlas0 #00000382_33
+      rect:
+        serializedVersion: 2
+        x: 1865
+        y: 1969
+        width: 42
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dbfbe6e885ed2770800000000000000
+      internalID: 8587772440617941972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight Void spells - atlas0 #00000382_34
+      rect:
+        serializedVersion: 2
+        x: 1886
+        y: 1964
+        width: 81
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7e14b9cb811ceb40800000000000000
+      internalID: 5470766939430461050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight Void spells - atlas0 #00000382_35
+      rect:
+        serializedVersion: 2
+        x: 1352
+        y: 1810
+        width: 27
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63c4f5edf1edd6e20800000000000000
+      internalID: 3345574326662286390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight Void spells - atlas0 #00000382_36
+      rect:
+        serializedVersion: 2
+        x: 1354
+        y: 1870
+        width: 18
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb3a97a31ecda9a80800000000000000
+      internalID: -8459206090155252802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight Void spells - atlas0 #00000382_37
+      rect:
+        serializedVersion: 2
+        x: 1379
+        y: 1874
+        width: 11
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbdb34fe6e5d56520800000000000000
+      internalID: 2694795139884498364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight Void spells - atlas0 #00000382_38
+      rect:
+        serializedVersion: 2
+        x: 1447
+        y: 1865
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86a51fb824ac20780800000000000000
+      internalID: -8718183541471356312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight Void spells - atlas0 #00000382_39
+      rect:
+        serializedVersion: 2
+        x: 1451
+        y: 1829
+        width: 124
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fabffa32cf7a5e810800000000000000
+      internalID: 1794024727949343663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight Void spells - atlas0 #00000382_40
+      rect:
+        serializedVersion: 2
+        x: 1566
+        y: 1845
+        width: 181
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc05778a7df825a90800000000000000
+      internalID: -7326635487371243317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight Void spells - atlas0 #00000382_41
+      rect:
+        serializedVersion: 2
+        x: 1718
+        y: 1841
+        width: 68
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35b093872d15f70f0800000000000000
+      internalID: -1117084218162607277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight Void spells - atlas0 #00000382_42
+      rect:
+        serializedVersion: 2
+        x: 1739
+        y: 1832
+        width: 65
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1cb04e027fbe3d90800000000000000
+      internalID: -7116039864612504547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight Void spells - atlas0 #00000382_43
+      rect:
+        serializedVersion: 2
+        x: 1802
+        y: 1723
+        width: 141
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 372ff3ee77d922b40800000000000000
+      internalID: 5414062840476594803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight Void spells - atlas0 #00000382_44
+      rect:
+        serializedVersion: 2
+        x: 1961
+        y: 1537
+        width: 76
+        height: 429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d053761c48f4db590800000000000000
+      internalID: -7656876359860931315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight Void spells - atlas0 #00000382_45
+      rect:
+        serializedVersion: 2
+        x: 1103
+        y: 1793
+        width: 43
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 866e6ca4ef7900090800000000000000
+      internalID: -8070283413815892376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight Void spells - atlas0 #00000382_46
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 1716
+        width: 61
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46a8e746f751d1750800000000000000
+      internalID: 6277197092515383908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight Void spells - atlas0 #00000382_47
+      rect:
+        serializedVersion: 2
+        x: 1122
+        y: 1814
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4b6fb66e48ffc330800000000000000
+      internalID: 3733475631728388943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight Void spells - atlas0 #00000382_48
+      rect:
+        serializedVersion: 2
+        x: 1126
+        y: 1804
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d03a521a8790b07c0800000000000000
+      internalID: -4104176221713751283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight Void spells - atlas0 #00000382_49
+      rect:
+        serializedVersion: 2
+        x: 1363
+        y: 1784
+        width: 41
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c1e1552c265af490800000000000000
+      internalID: -7711756664313880120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight Void spells - atlas0 #00000382_50
+      rect:
+        serializedVersion: 2
+        x: 1368
+        y: 1812
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da52a5e7953d28230800000000000000
+      internalID: 3639703830194169261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight Void spells - atlas0 #00000382_51
+      rect:
+        serializedVersion: 2
+        x: 1407
+        y: 1814
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55f9e144255eee2d0800000000000000
+      internalID: -3247406139794612395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight Void spells - atlas0 #00000382_52
+      rect:
+        serializedVersion: 2
+        x: 1447
+        y: 1686
+        width: 63
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e2893d2f9eec43b0800000000000000
+      internalID: -5526780275264486682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight Void spells - atlas0 #00000382_53
+      rect:
+        serializedVersion: 2
+        x: 1172
+        y: 1767
+        width: 26
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 792eae31ea2da9e50800000000000000
+      internalID: 6816992631078970007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight Void spells - atlas0 #00000382_54
+      rect:
+        serializedVersion: 2
+        x: 1184
+        y: 1698
+        width: 43
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e6b7cbb4a8470030800000000000000
+      internalID: 3460814711019779810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight Void spells - atlas0 #00000382_55
+      rect:
+        serializedVersion: 2
+        x: 1504
+        y: 1697
+        width: 166
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a59568cfbf893a240800000000000000
+      internalID: 4801849835747957082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight Void spells - atlas0 #00000382_56
+      rect:
+        serializedVersion: 2
+        x: 1098
+        y: 1598
+        width: 54
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 643947d306062b990800000000000000
+      internalID: -7371723673587903674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight Void spells - atlas0 #00000382_57
+      rect:
+        serializedVersion: 2
+        x: 1187
+        y: 1674
+        width: 16
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 165d66284ce461e40800000000000000
+      internalID: 5626771390354347361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight Void spells - atlas0 #00000382_58
+      rect:
+        serializedVersion: 2
+        x: 1339
+        y: 1609
+        width: 84
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ec33080a05b982d0800000000000000
+      internalID: -3275888199246594847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight Void spells - atlas0 #00000382_59
+      rect:
+        serializedVersion: 2
+        x: 1346
+        y: 1700
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6a8f2673ed17ee50800000000000000
+      internalID: 6838467421962996330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight Void spells - atlas0 #00000382_60
+      rect:
+        serializedVersion: 2
+        x: 1674
+        y: 1697
+        width: 128
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfe638abd01e9eb00800000000000000
+      internalID: 858464653070790396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight Void spells - atlas0 #00000382_61
+      rect:
+        serializedVersion: 2
+        x: 1839
+        y: 1701
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b8fd3ba60ca28aa0800000000000000
+      internalID: -6160172195646670671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight Void spells - atlas0 #00000382_62
+      rect:
+        serializedVersion: 2
+        x: 1870
+        y: 1703
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 515c21cdfbbc2e790800000000000000
+      internalID: -7502210004354415339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight Void spells - atlas0 #00000382_63
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1669
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 659f6fe77da5d9420800000000000000
+      internalID: 2638364838303562070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight Void spells - atlas0 #00000382_64
+      rect:
+        serializedVersion: 2
+        x: 1339
+        y: 1589
+        width: 30
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a36837bbbc2a488b0800000000000000
+      internalID: -5150813077898033606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight Void spells - atlas0 #00000382_65
+      rect:
+        serializedVersion: 2
+        x: 1447
+        y: 1641
+        width: 36
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6157af1a6593541a0800000000000000
+      internalID: -6825986615962602218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight Void spells - atlas0 #00000382_66
+      rect:
+        serializedVersion: 2
+        x: 1506
+        y: 1575
+        width: 144
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 582c715e75c91f5a0800000000000000
+      internalID: -6489233686744546683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight Void spells - atlas0 #00000382_67
+      rect:
+        serializedVersion: 2
+        x: 1803
+        y: 1679
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65eb71ed21c6dd890800000000000000
+      internalID: -7431664981800141226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight Void spells - atlas0 #00000382_68
+      rect:
+        serializedVersion: 2
+        x: 1894
+        y: 1673
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c792a3b8a4700b480800000000000000
+      internalID: -8885594048057169540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight Void spells - atlas0 #00000382_69
+      rect:
+        serializedVersion: 2
+        x: 1905
+        y: 1662
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c166e841bd729810800000000000000
+      internalID: 1770615803895767491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight Void spells - atlas0 #00000382_70
+      rect:
+        serializedVersion: 2
+        x: 1447
+        y: 1668
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20c6079c4282c3ec0800000000000000
+      internalID: -3585947064830235646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight Void spells - atlas0 #00000382_71
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 1651
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc17a1650991240e0800000000000000
+      internalID: -2287237553040231989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight Void spells - atlas0 #00000382_72
+      rect:
+        serializedVersion: 2
+        x: 1018
+        y: 1429
+        width: 82
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be927547d0a17a060800000000000000
+      internalID: 6964563993840527851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight Void spells - atlas0 #00000382_73
+      rect:
+        serializedVersion: 2
+        x: 1163
+        y: 1605
+        width: 20
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe84acdd5d280dcb0800000000000000
+      internalID: -4841225744362616593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight Void spells - atlas0 #00000382_74
+      rect:
+        serializedVersion: 2
+        x: 1232
+        y: 840
+        width: 163
+        height: 805
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1491adc619b127190800000000000000
+      internalID: -7966274479454545599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight Void spells - atlas0 #00000382_75
+      rect:
+        serializedVersion: 2
+        x: 1362
+        y: 1586
+        width: 45
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98180b37d379089b0800000000000000
+      internalID: -5079894089484172919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight Void spells - atlas0 #00000382_76
+      rect:
+        serializedVersion: 2
+        x: 1427
+        y: 1603
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee17536622bf44b80800000000000000
+      internalID: -8411322078859005458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight Void spells - atlas0 #00000382_77
+      rect:
+        serializedVersion: 2
+        x: 1447
+        y: 1586
+        width: 38
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 165cbf7aa56f8d0f0800000000000000
+      internalID: -1091852040411560607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight Void spells - atlas0 #00000382_78
+      rect:
+        serializedVersion: 2
+        x: 1467
+        y: 1611
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8b15269ff9535360800000000000000
+      internalID: 7157163187092396939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight Void spells - atlas0 #00000382_79
+      rect:
+        serializedVersion: 2
+        x: 1709
+        y: 1607
+        width: 11
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 857f1aaa3aa156670800000000000000
+      internalID: 8531254359368005464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight Void spells - atlas0 #00000382_80
+      rect:
+        serializedVersion: 2
+        x: 1732
+        y: 1551
+        width: 23
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f03ed5885c130e8b0800000000000000
+      internalID: -5125041651481451761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight Void spells - atlas0 #00000382_81
+      rect:
+        serializedVersion: 2
+        x: 1786
+        y: 1611
+        width: 9
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a418456711ecfc80800000000000000
+      internalID: -8287501723668835159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight Void spells - atlas0 #00000382_82
+      rect:
+        serializedVersion: 2
+        x: 1827
+        y: 1619
+        width: 11
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c402c232a05621b70800000000000000
+      internalID: 8868261710460100684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight Void spells - atlas0 #00000382_83
+      rect:
+        serializedVersion: 2
+        x: 1126
+        y: 1326
+        width: 69
+        height: 268
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee9dadeea7d6da310800000000000000
+      internalID: 1417909832452332014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight Void spells - atlas0 #00000382_84
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 1485
+        width: 28
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b69ffbfc27cd0d20800000000000000
+      internalID: 3246469902424315573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight Void spells - atlas0 #00000382_85
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 1446
+        width: 82
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbb5d9e5004cf96f0800000000000000
+      internalID: -675605913215870020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight Void spells - atlas0 #00000382_86
+      rect:
+        serializedVersion: 2
+        x: 1421
+        y: 1508
+        width: 46
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cce654fe1b4a0a40800000000000000
+      internalID: 5335159304894213318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight Void spells - atlas0 #00000382_87
+      rect:
+        serializedVersion: 2
+        x: 1486
+        y: 1548
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95e39c2c057f93d10800000000000000
+      internalID: 2105986227009830489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight Void spells - atlas0 #00000382_88
+      rect:
+        serializedVersion: 2
+        x: 1506
+        y: 1405
+        width: 104
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d13cd6ff9cf6d300800000000000000
+      internalID: 276686191101489616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight Void spells - atlas0 #00000382_89
+      rect:
+        serializedVersion: 2
+        x: 1801
+        y: 1564
+        width: 9
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7788c0c1c5aaa60c0800000000000000
+      internalID: -4581662358311761801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight Void spells - atlas0 #00000382_90
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1186
+        width: 281
+        height: 311
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 488611476bf3252c0800000000000000
+      internalID: -4444419829397362556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight Void spells - atlas0 #00000382_91
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 1243
+        width: 82
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8d78c1504c8da450800000000000000
+      internalID: 6101687278034779534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight Void spells - atlas0 #00000382_92
+      rect:
+        serializedVersion: 2
+        x: 1648
+        y: 1491
+        width: 35
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ede5fa37f070fc30800000000000000
+      internalID: 4391133843834662368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight Void spells - atlas0 #00000382_93
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 1446
+        width: 38
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13c1b0debc4b40320800000000000000
+      internalID: 2523340479182609457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight Void spells - atlas0 #00000382_94
+      rect:
+        serializedVersion: 2
+        x: 1843
+        y: 246
+        width: 164
+        height: 1315
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78950add500c990b0800000000000000
+      internalID: -5721330720171861625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight Void spells - atlas0 #00000382_95
+      rect:
+        serializedVersion: 2
+        x: 1980
+        y: 1195
+        width: 54
+        height: 344
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10746365ca5dfdad0800000000000000
+      internalID: -2675184717477296383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight Void spells - atlas0 #00000382_96
+      rect:
+        serializedVersion: 2
+        x: 1405
+        y: 1438
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51f9a19a7c9e41240800000000000000
+      internalID: 4761687749782314773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight Void spells - atlas0 #00000382_97
+      rect:
+        serializedVersion: 2
+        x: 1407
+        y: 1434
+        width: 37
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aef936c60d3940cb0800000000000000
+      internalID: -4898627971291308054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight Void spells - atlas0 #00000382_98
+      rect:
+        serializedVersion: 2
+        x: 1663
+        y: 1034
+        width: 178
+        height: 414
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7acbdb92cd43f87b0800000000000000
+      internalID: -5219895322901365593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight Void spells - atlas0 #00000382_99
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 1093
+        width: 97
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4d1a45696e088470800000000000000
+      internalID: 8396977351066000714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight Void spells - atlas0 #00000382_100
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 1093
+        width: 62
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04dcc31b9bc2be3b0800000000000000
+      internalID: -5482238945339323072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight Void spells - atlas0 #00000382_101
+      rect:
+        serializedVersion: 2
+        x: 1018
+        y: 1243
+        width: 110
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d11963c07019a7220800000000000000
+      internalID: 2484457603903951133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight Void spells - atlas0 #00000382_102
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 1240
+        width: 68
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28a3646a2696dcdd0800000000000000
+      internalID: -2464197548684461438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight Void spells - atlas0 #00000382_103
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 1336
+        width: 25
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 743251181a948e060800000000000000
+      internalID: 6982912180242162503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight Void spells - atlas0 #00000382_104
+      rect:
+        serializedVersion: 2
+        x: 1520
+        y: 1034
+        width: 145
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c59177be04b2cfd0800000000000000
+      internalID: -2323096482469538363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight Void spells - atlas0 #00000382_105
+      rect:
+        serializedVersion: 2
+        x: 1151
+        y: 1248
+        width: 48
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a42d162fff2c9530800000000000000
+      internalID: 3863015353279653033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight Void spells - atlas0 #00000382_106
+      rect:
+        serializedVersion: 2
+        x: 1450
+        y: 1275
+        width: 43
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff6153e5a7aabc7d0800000000000000
+      internalID: -2897034492739512577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight Void spells - atlas0 #00000382_107
+      rect:
+        serializedVersion: 2
+        x: 1839
+        y: 1319
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c819069939efe820800000000000000
+      internalID: 2949832714490550465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight Void spells - atlas0 #00000382_108
+      rect:
+        serializedVersion: 2
+        x: 1148
+        y: 965
+        width: 86
+        height: 342
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a6d762e71fa0b240800000000000000
+      internalID: 4805533319521883813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight Void spells - atlas0 #00000382_109
+      rect:
+        serializedVersion: 2
+        x: 1444
+        y: 1267
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44b87973bf7800e40800000000000000
+      internalID: 5620641847997598532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight Void spells - atlas0 #00000382_110
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 1200
+        width: 21
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd9b76edae2945980800000000000000
+      internalID: -8551048255018386981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight Void spells - atlas0 #00000382_111
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 1237
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6d1abcdd9e667f60800000000000000
+      internalID: 8031728609753963886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight Void spells - atlas0 #00000382_112
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 1235
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0844710fd2ec90af0800000000000000
+      internalID: -429585592740264832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight Void spells - atlas0 #00000382_113
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 1105
+        width: 92
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25a5d98b68f50ef00800000000000000
+      internalID: 1144019337579682386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight Void spells - atlas0 #00000382_114
+      rect:
+        serializedVersion: 2
+        x: 1393
+        y: 840
+        width: 129
+        height: 402
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad8d5955df3488110800000000000000
+      internalID: 1263334450819094746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight Void spells - atlas0 #00000382_115
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 1203
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8d3bf7316c8fdfb0800000000000000
+      internalID: -4620820343479911028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight Void spells - atlas0 #00000382_116
+      rect:
+        serializedVersion: 2
+        x: 1036
+        y: 1154
+        width: 60
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13965a70251d2de80800000000000000
+      internalID: -8155225824968742607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight Void spells - atlas0 #00000382_117
+      rect:
+        serializedVersion: 2
+        x: 1229
+        y: 1222
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d22c55e182e56ac40800000000000000
+      internalID: 5523205519417131565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight Void spells - atlas0 #00000382_118
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 1214
+        width: 25
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ce330109acd2da70800000000000000
+      internalID: 8850378836161019591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight Void spells - atlas0 #00000382_119
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 1174
+        width: 10
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f4724b36156962d0800000000000000
+      internalID: -3284983307032169230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight Void spells - atlas0 #00000382_120
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 1192
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f8d0c97f99af4920800000000000000
+      internalID: 2976784381122762994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight Void spells - atlas0 #00000382_121
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 1168
+        width: 37
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 317a9aa023d2e9600800000000000000
+      internalID: 476868303498356499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight Void spells - atlas0 #00000382_122
+      rect:
+        serializedVersion: 2
+        x: 1094
+        y: 1179
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48a596a66dce2a490800000000000000
+      internalID: -7736360804216644988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight Void spells - atlas0 #00000382_123
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 735
+        width: 193
+        height: 453
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bfc26b59ed3ffaa0800000000000000
+      internalID: -6125108895730708554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight Void spells - atlas0 #00000382_124
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 1100
+        width: 404
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 501dccf3e7f713900800000000000000
+      internalID: 662450800413167877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight Void spells - atlas0 #00000382_125
+      rect:
+        serializedVersion: 2
+        x: 1112
+        y: 1171
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6832fa65dea23dd0800000000000000
+      internalID: -2507749810846418837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight Void spells - atlas0 #00000382_126
+      rect:
+        serializedVersion: 2
+        x: 1658
+        y: 1176
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51fa991bbfc1acc10800000000000000
+      internalID: 2074502445699542805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight Void spells - atlas0 #00000382_127
+      rect:
+        serializedVersion: 2
+        x: 1980
+        y: 707
+        width: 64
+        height: 479
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a03f0921bb33d990800000000000000
+      internalID: -7362475333736517468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight Void spells - atlas0 #00000382_128
+      rect:
+        serializedVersion: 2
+        x: 881
+        y: 1140
+        width: 22
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a55a9cf76fd380520800000000000000
+      internalID: 2668450908132189530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight Void spells - atlas0 #00000382_129
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 1110
+        width: 43
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0372f94eee9668120800000000000000
+      internalID: 2415734724889618224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight Void spells - atlas0 #00000382_130
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 1112
+        width: 90
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78f65c9cae4d679d0800000000000000
+      internalID: -2776798015354736761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight Void spells - atlas0 #00000382_131
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 1115
+        width: 22
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fd477117afe23b90800000000000000
+      internalID: -7263479748163580432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight Void spells - atlas0 #00000382_132
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 1080
+        width: 35
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c95aa01068c2c9c0800000000000000
+      internalID: -3908341211682154039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight Void spells - atlas0 #00000382_133
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 1106
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70898a3e21ad1d7b0800000000000000
+      internalID: -5201136319972468729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight Void spells - atlas0 #00000382_134
+      rect:
+        serializedVersion: 2
+        x: 957
+        y: 1095
+        width: 6
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10266dd3c55475e60800000000000000
+      internalID: 7950899929622667777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight Void spells - atlas0 #00000382_135
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 1090
+        width: 7
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96596275d10a88010800000000000000
+      internalID: 1191378149316138345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight Void spells - atlas0 #00000382_136
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 1092
+        width: 7
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c16cdefc553dce720800000000000000
+      internalID: 2876906627497051676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight Void spells - atlas0 #00000382_137
+      rect:
+        serializedVersion: 2
+        x: 1021
+        y: 1099
+        width: 6
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46a1ee54ad5662580800000000000000
+      internalID: -8852276029399623068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight Void spells - atlas0 #00000382_138
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 1102
+        width: 6
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 732a3df04e7bc8f20800000000000000
+      internalID: 3426315606668059191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight Void spells - atlas0 #00000382_139
+      rect:
+        serializedVersion: 2
+        x: 1098
+        y: 1095
+        width: 6
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55c034b00dcfe28c0800000000000000
+      internalID: -4021999446722933675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight Void spells - atlas0 #00000382_140
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 791
+        width: 282
+        height: 312
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5024527bfe3ec5280800000000000000
+      internalID: -9053110532212178427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight Void spells - atlas0 #00000382_141
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 1093
+        width: 32
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57148e294d9a0c160800000000000000
+      internalID: 7043816547670311285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight Void spells - atlas0 #00000382_142
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 1097
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36f812bcc71c04910800000000000000
+      internalID: 1819666991185760099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight Void spells - atlas0 #00000382_143
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 1077
+        width: 7
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1a5140ece9ec5d30800000000000000
+      internalID: 4421666137754917404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight Void spells - atlas0 #00000382_144
+      rect:
+        serializedVersion: 2
+        x: 1011
+        y: 1086
+        width: 8
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55f9d2f8d9abba4c0800000000000000
+      internalID: -4275118235383390379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight Void spells - atlas0 #00000382_145
+      rect:
+        serializedVersion: 2
+        x: 1052
+        y: 1083
+        width: 7
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ab3deeea7b1ec890800000000000000
+      internalID: -7435975719933625431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight Void spells - atlas0 #00000382_146
+      rect:
+        serializedVersion: 2
+        x: 1082
+        y: 1084
+        width: 6
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f73ab238b23445160800000000000000
+      internalID: 7013304373886034815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight Void spells - atlas0 #00000382_147
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 790
+        width: 284
+        height: 305
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6de5c84eabb01350800000000000000
+      internalID: 5985490261995023722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight Void spells - atlas0 #00000382_148
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 1086
+        width: 15
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bc87ef8dc5f6f6f0800000000000000
+      internalID: -651062832877040456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight Void spells - atlas0 #00000382_149
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 1077
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b643f7191987ef90800000000000000
+      internalID: -6924415161189841229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight Void spells - atlas0 #00000382_150
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 965
+        width: 402
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 912d9ebc8204d19d0800000000000000
+      internalID: -2802012849190612455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight Void spells - atlas0 #00000382_151
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 853
+        width: 414
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43e3b2989cf099810800000000000000
+      internalID: 1772465286611156532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight Void spells - atlas0 #00000382_152
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 814
+        width: 264
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 681379405207984d0800000000000000
+      internalID: -3131848761566350970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight Void spells - atlas0 #00000382_153
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 295
+        width: 145
+        height: 498
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27106522d1a3b4f10800000000000000
+      internalID: 2254959935233589618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight Void spells - atlas0 #00000382_154
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 579
+        width: 452
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e4d13df8d9a2ae60800000000000000
+      internalID: 7972121039825130726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight Void spells - atlas0 #00000382_155
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 779
+        width: 151
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2136d03ee0fd84db0800000000000000
+      internalID: -4807347347186162926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight Void spells - atlas0 #00000382_156
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 750
+        width: 87
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0449266598b4bf2e0800000000000000
+      internalID: -2090994548751559616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight Void spells - atlas0 #00000382_157
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 775
+        width: 60
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52e50eacb0d70ac10800000000000000
+      internalID: 2062786118937501221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight Void spells - atlas0 #00000382_158
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 729
+        width: 393
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb0ddd15066a661a0800000000000000
+      internalID: -6816578053358104388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight Void spells - atlas0 #00000382_159
+      rect:
+        serializedVersion: 2
+        x: 1297
+        y: 699
+        width: 201
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1849ee325568d9690800000000000000
+      internalID: -7593765696443607935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight Void spells - atlas0 #00000382_160
+      rect:
+        serializedVersion: 2
+        x: 1635
+        y: 716
+        width: 75
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de66433032f9c8190800000000000000
+      internalID: -7958811468744071443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight Void spells - atlas0 #00000382_161
+      rect:
+        serializedVersion: 2
+        x: 1705
+        y: 717
+        width: 41
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7c9c07dc50e2c080800000000000000
+      internalID: -9168519202023367556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight Void spells - atlas0 #00000382_162
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 295
+        width: 197
+        height: 441
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 720e18582eff83fe0800000000000000
+      internalID: -1208935151581405145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight Void spells - atlas0 #00000382_163
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 729
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7da53ac806ef24640800000000000000
+      internalID: 5062888621747690199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight Void spells - atlas0 #00000382_164
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 579
+        width: 459
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17b6469db32c9b9b0800000000000000
+      internalID: -5063802743695316111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight Void spells - atlas0 #00000382_165
+      rect:
+        serializedVersion: 2
+        x: 1488
+        y: 728
+        width: 50
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f15cbc9acc8d31d0800000000000000
+      internalID: -3369382144362393101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight Void spells - atlas0 #00000382_166
+      rect:
+        serializedVersion: 2
+        x: 1595
+        y: 714
+        width: 39
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed1247f7fa9aba530800000000000000
+      internalID: 3867371276250391006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight Void spells - atlas0 #00000382_167
+      rect:
+        serializedVersion: 2
+        x: 1669
+        y: 713
+        width: 38
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6226428eb5b5620d0800000000000000
+      internalID: -3447968014410685914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight Void spells - atlas0 #00000382_168
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 668
+        width: 41
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b83e090aeac824ef0800000000000000
+      internalID: -125383157966904437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight Void spells - atlas0 #00000382_169
+      rect:
+        serializedVersion: 2
+        x: 1347
+        y: 697
+        width: 76
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f5ce764effae0a60800000000000000
+      internalID: 7642239124333577721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight Void spells - atlas0 #00000382_170
+      rect:
+        serializedVersion: 2
+        x: 1604
+        y: 697
+        width: 38
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42c1a9af727b55e50800000000000000
+      internalID: 6797540594921643044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight Void spells - atlas0 #00000382_171
+      rect:
+        serializedVersion: 2
+        x: 1293
+        y: 554
+        width: 165
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26c5068c7dfb48a80800000000000000
+      internalID: -8465430466049057694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight Void spells - atlas0 #00000382_172
+      rect:
+        serializedVersion: 2
+        x: 1575
+        y: 623
+        width: 54
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34b031a1597045450800000000000000
+      internalID: 6076490134198618947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight Void spells - atlas0 #00000382_173
+      rect:
+        serializedVersion: 2
+        x: 1747
+        y: 671
+        width: 68
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22ada52091b1df260800000000000000
+      internalID: 7132887179052374562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight Void spells - atlas0 #00000382_174
+      rect:
+        serializedVersion: 2
+        x: 1668
+        y: 593
+        width: 51
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 363e9557407e596e0800000000000000
+      internalID: -1831303667121527965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight Void spells - atlas0 #00000382_175
+      rect:
+        serializedVersion: 2
+        x: 1796
+        y: 628
+        width: 49
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 419264ebc3ba28670800000000000000
+      internalID: 8539576120826538260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight Void spells - atlas0 #00000382_176
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 287
+        width: 158
+        height: 294
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b0ec6bc1e1fb17f0800000000000000
+      internalID: -640652569887317840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight Void spells - atlas0 #00000382_177
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 423
+        width: 24
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 032b35a6f0d062930800000000000000
+      internalID: 4117993269136437808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight Void spells - atlas0 #00000382_178
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 298
+        width: 306
+        height: 283
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cc3e14a6bb5d06c0800000000000000
+      internalID: -4175580439506961207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight Void spells - atlas0 #00000382_179
+      rect:
+        serializedVersion: 2
+        x: 967
+        y: 293
+        width: 306
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b58a53fc6c4107d0800000000000000
+      internalID: -2953995849755359819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight Void spells - atlas0 #00000382_180
+      rect:
+        serializedVersion: 2
+        x: 1271
+        y: 278
+        width: 306
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a51f2bb6ed3166c60800000000000000
+      internalID: 7810952449731260762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight Void spells - atlas0 #00000382_181
+      rect:
+        serializedVersion: 2
+        x: 1575
+        y: 269
+        width: 292
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 472d98c2f24e4dc70800000000000000
+      internalID: 8995065247027548788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight Void spells - atlas0 #00000382_182
+      rect:
+        serializedVersion: 2
+        x: 1698
+        y: 549
+        width: 48
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1aacbd6708689fc0800000000000000
+      internalID: -3487923530283308518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight Void spells - atlas0 #00000382_183
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 293
+        width: 142
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d522aa2eacda7940800000000000000
+      internalID: 5294786952525129176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight Void spells - atlas0 #00000382_184
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 485
+        width: 29
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a82d00cd2990b10c0800000000000000
+      internalID: -4604075667695283574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight Void spells - atlas0 #00000382_185
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 343
+        width: 28
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01768229da0872200800000000000000
+      internalID: 155234195137390352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight Void spells - atlas0 #00000382_186
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 287
+        width: 6
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d729d4d7d0fb7ea0800000000000000
+      internalID: -5873836479195043887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight Void spells - atlas0 #00000382_187
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 317
+        width: 12
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4e0f03f1594670e0800000000000000
+      internalID: -2272548345642807733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight Void spells - atlas0 #00000382_188
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 0
+        width: 202
+        height: 297
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7ef721ac6b399f00800000000000000
+      internalID: 1123994919751908989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight Void spells - atlas0 #00000382_189
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 0
+        width: 300
+        height: 289
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e8f264d476a20a40800000000000000
+      internalID: 5333007929469761768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight Void spells - atlas0 #00000382_190
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 287
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21944a50f799eee30800000000000000
+      internalID: 4534730645643217170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight Void spells - atlas0 #00000382_191
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 0
+        width: 167
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb6e2a2ff935a6fd0800000000000000
+      internalID: -2347972309284624708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight Void spells - atlas0 #00000382_192
+      rect:
+        serializedVersion: 2
+        x: 998
+        y: 278
+        width: 79
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce32b174039a8d620800000000000000
+      internalID: 2799173193227248620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight Void spells - atlas0 #00000382_193
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 5
+        width: 207
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: baced9325bfa143e0800000000000000
+      internalID: -2071181161092223829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight Void spells - atlas0 #00000382_194
+      rect:
+        serializedVersion: 2
+        x: 998
+        y: 0
+        width: 305
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fa5302975895c9c0800000000000000
+      internalID: -3907549599794767120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight Void spells - atlas0 #00000382_195
+      rect:
+        serializedVersion: 2
+        x: 1309
+        y: 145
+        width: 145
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73eb571a35b8ddaf0800000000000000
+      internalID: -369986403067118025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight Void spells - atlas0 #00000382_196
+      rect:
+        serializedVersion: 2
+        x: 1476
+        y: 243
+        width: 30
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 846e98685f9976dc0800000000000000
+      internalID: -3645776093529905592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight Void spells - atlas0 #00000382_197
+      rect:
+        serializedVersion: 2
+        x: 1675
+        y: 99
+        width: 79
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e702a8cec8e7a32f0800000000000000
+      internalID: -992341624152776578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight Void spells - atlas0 #00000382_198
+      rect:
+        serializedVersion: 2
+        x: 1765
+        y: 153
+        width: 24
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbd4abfc4d7876410800000000000000
+      internalID: 1470293151447666111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight Void spells - atlas0 #00000382_199
+      rect:
+        serializedVersion: 2
+        x: 1799
+        y: 214
+        width: 10
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42bf26cb831c0d560800000000000000
+      internalID: 7336576242409470756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight Void spells - atlas0 #00000382_200
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 74
+        width: 53
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62b62a57416a7d880800000000000000
+      internalID: -8586211557755426010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight Void spells - atlas0 #00000382_201
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 148
+        width: 48
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f0fd5cdc31b955d0800000000000000
+      internalID: -3073230395750354703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight Void spells - atlas0 #00000382_202
+      rect:
+        serializedVersion: 2
+        x: 1458
+        y: 19
+        width: 127
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a348412060915e20800000000000000
+      internalID: 3337607541407892393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight Void spells - atlas0 #00000382_203
+      rect:
+        serializedVersion: 2
+        x: 1874
+        y: 212
+        width: 14
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e292ea78ba3fd05d0800000000000000
+      internalID: -3094549450892367570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight Void spells - atlas0 #00000382_204
+      rect:
+        serializedVersion: 2
+        x: 1894
+        y: 205
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bf05bf2d46ae97f0800000000000000
+      internalID: -603862449577979977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight Void spells - atlas0 #00000382_205
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 137
+        width: 46
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ece37248f5da040f0800000000000000
+      internalID: -1134716480346702130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight Void spells - atlas0 #00000382_206
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 39
+        width: 47
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48686dd44f34305d0800000000000000
+      internalID: -3097557402143783292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight Void spells - atlas0 #00000382_207
+      rect:
+        serializedVersion: 2
+        x: 1301
+        y: 92
+        width: 99
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 814c0abf51f72a6e0800000000000000
+      internalID: -1827758766366342120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight Void spells - atlas0 #00000382_208
+      rect:
+        serializedVersion: 2
+        x: 1456
+        y: 162
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adf73ed09c8ae1570800000000000000
+      internalID: 8439368333213794266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight Void spells - atlas0 #00000382_209
+      rect:
+        serializedVersion: 2
+        x: 1623
+        y: 125
+        width: 36
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47888f6cf6eb862c0800000000000000
+      internalID: -4438088045484799884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight Void spells - atlas0 #00000382_210
+      rect:
+        serializedVersion: 2
+        x: 1839
+        y: 4
+        width: 198
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b72f4f9926a7cf860800000000000000
+      internalID: 7565056037983941243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight Void spells - atlas0 #00000382_211
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 10
+        width: 43
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72dc6740838cb4150800000000000000
+      internalID: 5857995883244080423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight Void spells - atlas0 #00000382_212
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 26
+        width: 49
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97b84f3ceca8b59e0800000000000000
+      internalID: -1631557819336193159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight Void spells - atlas0 #00000382_213
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 37
+        width: 15
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ef98434b57118be0800000000000000
+      internalID: -1476873522062516247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight Void spells - atlas0 #00000382_214
+      rect:
+        serializedVersion: 2
+        x: 1619
+        y: 45
+        width: 49
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b93c63897ac34fe0800000000000000
+      internalID: -1205897651960399431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight Void spells - atlas0 #00000382_215
+      rect:
+        serializedVersion: 2
+        x: 1648
+        y: 12
+        width: 43
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a747af5573c06260800000000000000
+      internalID: 7088880722364549028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight Void spells - atlas0 #00000382_216
+      rect:
+        serializedVersion: 2
+        x: 1669
+        y: 0
+        width: 46
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ea951fabb1d64b50800000000000000
+      internalID: 6577174909847706336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight Void spells - atlas0 #00000382_217
+      rect:
+        serializedVersion: 2
+        x: 1746
+        y: 94
+        width: 17
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4cd3e6a30920b3a0800000000000000
+      internalID: -6651771553964630961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight Void spells - atlas0 #00000382_218
+      rect:
+        serializedVersion: 2
+        x: 1785
+        y: 42
+        width: 40
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3190855dd92fbde10800000000000000
+      internalID: 2223637600740575507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight Void spells - atlas0 #00000382_219
+      rect:
+        serializedVersion: 2
+        x: 1341
+        y: 48
+        width: 49
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75a5c3ae5fb9ce9e0800000000000000
+      internalID: -1590725087869511081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight Void spells - atlas0 #00000382_220
+      rect:
+        serializedVersion: 2
+        x: 1380
+        y: 68
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41be143e8a53e6f30800000000000000
+      internalID: 4570649671311158036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight Void spells - atlas0 #00000382_221
+      rect:
+        serializedVersion: 2
+        x: 1583
+        y: 11
+        width: 16
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e770aae52e6d99ce0800000000000000
+      internalID: -1397849941582674050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight Void spells - atlas0 #00000382_222
+      rect:
+        serializedVersion: 2
+        x: 1702
+        y: 26
+        width: 25
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6bdaacd0353278c0800000000000000
+      internalID: -4003078634802062483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight Void spells - atlas0 #00000382_223
+      rect:
+        serializedVersion: 2
+        x: 1390
+        y: 0
+        width: 46
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcbe1ff379b85da80800000000000000
+      internalID: -8442688444706985013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight Void spells - atlas0 #00000382_224
+      rect:
+        serializedVersion: 2
+        x: 1899
+        y: 0
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68dde64e7d9b60e70800000000000000
+      internalID: 9081150035540761990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      The Knight Void spells - atlas0 #00000382_0: 1959933871112176906
+      The Knight Void spells - atlas0 #00000382_1: -6601373116602192869
+      The Knight Void spells - atlas0 #00000382_10: 4242201876723193999
+      The Knight Void spells - atlas0 #00000382_100: -5482238945339323072
+      The Knight Void spells - atlas0 #00000382_101: 2484457603903951133
+      The Knight Void spells - atlas0 #00000382_102: -2464197548684461438
+      The Knight Void spells - atlas0 #00000382_103: 6982912180242162503
+      The Knight Void spells - atlas0 #00000382_104: -2323096482469538363
+      The Knight Void spells - atlas0 #00000382_105: 3863015353279653033
+      The Knight Void spells - atlas0 #00000382_106: -2897034492739512577
+      The Knight Void spells - atlas0 #00000382_107: 2949832714490550465
+      The Knight Void spells - atlas0 #00000382_108: 4805533319521883813
+      The Knight Void spells - atlas0 #00000382_109: 5620641847997598532
+      The Knight Void spells - atlas0 #00000382_11: -7932963931760092703
+      The Knight Void spells - atlas0 #00000382_110: -8551048255018386981
+      The Knight Void spells - atlas0 #00000382_111: 8031728609753963886
+      The Knight Void spells - atlas0 #00000382_112: -429585592740264832
+      The Knight Void spells - atlas0 #00000382_113: 1144019337579682386
+      The Knight Void spells - atlas0 #00000382_114: 1263334450819094746
+      The Knight Void spells - atlas0 #00000382_115: -4620820343479911028
+      The Knight Void spells - atlas0 #00000382_116: -8155225824968742607
+      The Knight Void spells - atlas0 #00000382_117: 5523205519417131565
+      The Knight Void spells - atlas0 #00000382_118: 8850378836161019591
+      The Knight Void spells - atlas0 #00000382_119: -3284983307032169230
+      The Knight Void spells - atlas0 #00000382_12: 9114056236054167918
+      The Knight Void spells - atlas0 #00000382_120: 2976784381122762994
+      The Knight Void spells - atlas0 #00000382_121: 476868303498356499
+      The Knight Void spells - atlas0 #00000382_122: -7736360804216644988
+      The Knight Void spells - atlas0 #00000382_123: -6125108895730708554
+      The Knight Void spells - atlas0 #00000382_124: 662450800413167877
+      The Knight Void spells - atlas0 #00000382_125: -2507749810846418837
+      The Knight Void spells - atlas0 #00000382_126: 2074502445699542805
+      The Knight Void spells - atlas0 #00000382_127: -7362475333736517468
+      The Knight Void spells - atlas0 #00000382_128: 2668450908132189530
+      The Knight Void spells - atlas0 #00000382_129: 2415734724889618224
+      The Knight Void spells - atlas0 #00000382_13: 100403582888200568
+      The Knight Void spells - atlas0 #00000382_130: -2776798015354736761
+      The Knight Void spells - atlas0 #00000382_131: -7263479748163580432
+      The Knight Void spells - atlas0 #00000382_132: -3908341211682154039
+      The Knight Void spells - atlas0 #00000382_133: -5201136319972468729
+      The Knight Void spells - atlas0 #00000382_134: 7950899929622667777
+      The Knight Void spells - atlas0 #00000382_135: 1191378149316138345
+      The Knight Void spells - atlas0 #00000382_136: 2876906627497051676
+      The Knight Void spells - atlas0 #00000382_137: -8852276029399623068
+      The Knight Void spells - atlas0 #00000382_138: 3426315606668059191
+      The Knight Void spells - atlas0 #00000382_139: -4021999446722933675
+      The Knight Void spells - atlas0 #00000382_14: -3025389129509561649
+      The Knight Void spells - atlas0 #00000382_140: -9053110532212178427
+      The Knight Void spells - atlas0 #00000382_141: 7043816547670311285
+      The Knight Void spells - atlas0 #00000382_142: 1819666991185760099
+      The Knight Void spells - atlas0 #00000382_143: 4421666137754917404
+      The Knight Void spells - atlas0 #00000382_144: -4275118235383390379
+      The Knight Void spells - atlas0 #00000382_145: -7435975719933625431
+      The Knight Void spells - atlas0 #00000382_146: 7013304373886034815
+      The Knight Void spells - atlas0 #00000382_147: 5985490261995023722
+      The Knight Void spells - atlas0 #00000382_148: -651062832877040456
+      The Knight Void spells - atlas0 #00000382_149: -6924415161189841229
+      The Knight Void spells - atlas0 #00000382_15: 825111168249266610
+      The Knight Void spells - atlas0 #00000382_150: -2802012849190612455
+      The Knight Void spells - atlas0 #00000382_151: 1772465286611156532
+      The Knight Void spells - atlas0 #00000382_152: -3131848761566350970
+      The Knight Void spells - atlas0 #00000382_153: 2254959935233589618
+      The Knight Void spells - atlas0 #00000382_154: 7972121039825130726
+      The Knight Void spells - atlas0 #00000382_155: -4807347347186162926
+      The Knight Void spells - atlas0 #00000382_156: -2090994548751559616
+      The Knight Void spells - atlas0 #00000382_157: 2062786118937501221
+      The Knight Void spells - atlas0 #00000382_158: -6816578053358104388
+      The Knight Void spells - atlas0 #00000382_159: -7593765696443607935
+      The Knight Void spells - atlas0 #00000382_16: -5146312117628573996
+      The Knight Void spells - atlas0 #00000382_160: -7958811468744071443
+      The Knight Void spells - atlas0 #00000382_161: -9168519202023367556
+      The Knight Void spells - atlas0 #00000382_162: -1208935151581405145
+      The Knight Void spells - atlas0 #00000382_163: 5062888621747690199
+      The Knight Void spells - atlas0 #00000382_164: -5063802743695316111
+      The Knight Void spells - atlas0 #00000382_165: -3369382144362393101
+      The Knight Void spells - atlas0 #00000382_166: 3867371276250391006
+      The Knight Void spells - atlas0 #00000382_167: -3447968014410685914
+      The Knight Void spells - atlas0 #00000382_168: -125383157966904437
+      The Knight Void spells - atlas0 #00000382_169: 7642239124333577721
+      The Knight Void spells - atlas0 #00000382_17: -5504389741057908498
+      The Knight Void spells - atlas0 #00000382_170: 6797540594921643044
+      The Knight Void spells - atlas0 #00000382_171: -8465430466049057694
+      The Knight Void spells - atlas0 #00000382_172: 6076490134198618947
+      The Knight Void spells - atlas0 #00000382_173: 7132887179052374562
+      The Knight Void spells - atlas0 #00000382_174: -1831303667121527965
+      The Knight Void spells - atlas0 #00000382_175: 8539576120826538260
+      The Knight Void spells - atlas0 #00000382_176: -640652569887317840
+      The Knight Void spells - atlas0 #00000382_177: 4117993269136437808
+      The Knight Void spells - atlas0 #00000382_178: -4175580439506961207
+      The Knight Void spells - atlas0 #00000382_179: -2953995849755359819
+      The Knight Void spells - atlas0 #00000382_18: 5061934698301533407
+      The Knight Void spells - atlas0 #00000382_180: 7810952449731260762
+      The Knight Void spells - atlas0 #00000382_181: 8995065247027548788
+      The Knight Void spells - atlas0 #00000382_182: -3487923530283308518
+      The Knight Void spells - atlas0 #00000382_183: 5294786952525129176
+      The Knight Void spells - atlas0 #00000382_184: -4604075667695283574
+      The Knight Void spells - atlas0 #00000382_185: 155234195137390352
+      The Knight Void spells - atlas0 #00000382_186: -5873836479195043887
+      The Knight Void spells - atlas0 #00000382_187: -2272548345642807733
+      The Knight Void spells - atlas0 #00000382_188: 1123994919751908989
+      The Knight Void spells - atlas0 #00000382_189: 5333007929469761768
+      The Knight Void spells - atlas0 #00000382_19: -3456686681718886181
+      The Knight Void spells - atlas0 #00000382_190: 4534730645643217170
+      The Knight Void spells - atlas0 #00000382_191: -2347972309284624708
+      The Knight Void spells - atlas0 #00000382_192: 2799173193227248620
+      The Knight Void spells - atlas0 #00000382_193: -2071181161092223829
+      The Knight Void spells - atlas0 #00000382_194: -3907549599794767120
+      The Knight Void spells - atlas0 #00000382_195: -369986403067118025
+      The Knight Void spells - atlas0 #00000382_196: -3645776093529905592
+      The Knight Void spells - atlas0 #00000382_197: -992341624152776578
+      The Knight Void spells - atlas0 #00000382_198: 1470293151447666111
+      The Knight Void spells - atlas0 #00000382_199: 7336576242409470756
+      The Knight Void spells - atlas0 #00000382_2: -6330327956598670481
+      The Knight Void spells - atlas0 #00000382_20: -7686579144397372299
+      The Knight Void spells - atlas0 #00000382_200: -8586211557755426010
+      The Knight Void spells - atlas0 #00000382_201: -3073230395750354703
+      The Knight Void spells - atlas0 #00000382_202: 3337607541407892393
+      The Knight Void spells - atlas0 #00000382_203: -3094549450892367570
+      The Knight Void spells - atlas0 #00000382_204: -603862449577979977
+      The Knight Void spells - atlas0 #00000382_205: -1134716480346702130
+      The Knight Void spells - atlas0 #00000382_206: -3097557402143783292
+      The Knight Void spells - atlas0 #00000382_207: -1827758766366342120
+      The Knight Void spells - atlas0 #00000382_208: 8439368333213794266
+      The Knight Void spells - atlas0 #00000382_209: -4438088045484799884
+      The Knight Void spells - atlas0 #00000382_21: -252395759847546410
+      The Knight Void spells - atlas0 #00000382_210: 7565056037983941243
+      The Knight Void spells - atlas0 #00000382_211: 5857995883244080423
+      The Knight Void spells - atlas0 #00000382_212: -1631557819336193159
+      The Knight Void spells - atlas0 #00000382_213: -1476873522062516247
+      The Knight Void spells - atlas0 #00000382_214: -1205897651960399431
+      The Knight Void spells - atlas0 #00000382_215: 7088880722364549028
+      The Knight Void spells - atlas0 #00000382_216: 6577174909847706336
+      The Knight Void spells - atlas0 #00000382_217: -6651771553964630961
+      The Knight Void spells - atlas0 #00000382_218: 2223637600740575507
+      The Knight Void spells - atlas0 #00000382_219: -1590725087869511081
+      The Knight Void spells - atlas0 #00000382_22: -6380242177204828251
+      The Knight Void spells - atlas0 #00000382_220: 4570649671311158036
+      The Knight Void spells - atlas0 #00000382_221: -1397849941582674050
+      The Knight Void spells - atlas0 #00000382_222: -4003078634802062483
+      The Knight Void spells - atlas0 #00000382_223: -8442688444706985013
+      The Knight Void spells - atlas0 #00000382_224: 9081150035540761990
+      The Knight Void spells - atlas0 #00000382_23: -831569859022752558
+      The Knight Void spells - atlas0 #00000382_24: 8713048666631813393
+      The Knight Void spells - atlas0 #00000382_25: 8459188676228852341
+      The Knight Void spells - atlas0 #00000382_26: -2292875137596233213
+      The Knight Void spells - atlas0 #00000382_27: 8887461044333748307
+      The Knight Void spells - atlas0 #00000382_28: 8476690090899691515
+      The Knight Void spells - atlas0 #00000382_29: -3213657961478585364
+      The Knight Void spells - atlas0 #00000382_3: 3779937650638041575
+      The Knight Void spells - atlas0 #00000382_30: -2345896386206505476
+      The Knight Void spells - atlas0 #00000382_31: -8228684878257481357
+      The Knight Void spells - atlas0 #00000382_32: 3315782817416372353
+      The Knight Void spells - atlas0 #00000382_33: 8587772440617941972
+      The Knight Void spells - atlas0 #00000382_34: 5470766939430461050
+      The Knight Void spells - atlas0 #00000382_35: 3345574326662286390
+      The Knight Void spells - atlas0 #00000382_36: -8459206090155252802
+      The Knight Void spells - atlas0 #00000382_37: 2694795139884498364
+      The Knight Void spells - atlas0 #00000382_38: -8718183541471356312
+      The Knight Void spells - atlas0 #00000382_39: 1794024727949343663
+      The Knight Void spells - atlas0 #00000382_4: -2992146366933677858
+      The Knight Void spells - atlas0 #00000382_40: -7326635487371243317
+      The Knight Void spells - atlas0 #00000382_41: -1117084218162607277
+      The Knight Void spells - atlas0 #00000382_42: -7116039864612504547
+      The Knight Void spells - atlas0 #00000382_43: 5414062840476594803
+      The Knight Void spells - atlas0 #00000382_44: -7656876359860931315
+      The Knight Void spells - atlas0 #00000382_45: -8070283413815892376
+      The Knight Void spells - atlas0 #00000382_46: 6277197092515383908
+      The Knight Void spells - atlas0 #00000382_47: 3733475631728388943
+      The Knight Void spells - atlas0 #00000382_48: -4104176221713751283
+      The Knight Void spells - atlas0 #00000382_49: -7711756664313880120
+      The Knight Void spells - atlas0 #00000382_5: -2667359624307748619
+      The Knight Void spells - atlas0 #00000382_50: 3639703830194169261
+      The Knight Void spells - atlas0 #00000382_51: -3247406139794612395
+      The Knight Void spells - atlas0 #00000382_52: -5526780275264486682
+      The Knight Void spells - atlas0 #00000382_53: 6816992631078970007
+      The Knight Void spells - atlas0 #00000382_54: 3460814711019779810
+      The Knight Void spells - atlas0 #00000382_55: 4801849835747957082
+      The Knight Void spells - atlas0 #00000382_56: -7371723673587903674
+      The Knight Void spells - atlas0 #00000382_57: 5626771390354347361
+      The Knight Void spells - atlas0 #00000382_58: -3275888199246594847
+      The Knight Void spells - atlas0 #00000382_59: 6838467421962996330
+      The Knight Void spells - atlas0 #00000382_6: -1891483180237639768
+      The Knight Void spells - atlas0 #00000382_60: 858464653070790396
+      The Knight Void spells - atlas0 #00000382_61: -6160172195646670671
+      The Knight Void spells - atlas0 #00000382_62: -7502210004354415339
+      The Knight Void spells - atlas0 #00000382_63: 2638364838303562070
+      The Knight Void spells - atlas0 #00000382_64: -5150813077898033606
+      The Knight Void spells - atlas0 #00000382_65: -6825986615962602218
+      The Knight Void spells - atlas0 #00000382_66: -6489233686744546683
+      The Knight Void spells - atlas0 #00000382_67: -7431664981800141226
+      The Knight Void spells - atlas0 #00000382_68: -8885594048057169540
+      The Knight Void spells - atlas0 #00000382_69: 1770615803895767491
+      The Knight Void spells - atlas0 #00000382_7: -9121038272971155632
+      The Knight Void spells - atlas0 #00000382_70: -3585947064830235646
+      The Knight Void spells - atlas0 #00000382_71: -2287237553040231989
+      The Knight Void spells - atlas0 #00000382_72: 6964563993840527851
+      The Knight Void spells - atlas0 #00000382_73: -4841225744362616593
+      The Knight Void spells - atlas0 #00000382_74: -7966274479454545599
+      The Knight Void spells - atlas0 #00000382_75: -5079894089484172919
+      The Knight Void spells - atlas0 #00000382_76: -8411322078859005458
+      The Knight Void spells - atlas0 #00000382_77: -1091852040411560607
+      The Knight Void spells - atlas0 #00000382_78: 7157163187092396939
+      The Knight Void spells - atlas0 #00000382_79: 8531254359368005464
+      The Knight Void spells - atlas0 #00000382_8: 1817248898331169783
+      The Knight Void spells - atlas0 #00000382_80: -5125041651481451761
+      The Knight Void spells - atlas0 #00000382_81: -8287501723668835159
+      The Knight Void spells - atlas0 #00000382_82: 8868261710460100684
+      The Knight Void spells - atlas0 #00000382_83: 1417909832452332014
+      The Knight Void spells - atlas0 #00000382_84: 3246469902424315573
+      The Knight Void spells - atlas0 #00000382_85: -675605913215870020
+      The Knight Void spells - atlas0 #00000382_86: 5335159304894213318
+      The Knight Void spells - atlas0 #00000382_87: 2105986227009830489
+      The Knight Void spells - atlas0 #00000382_88: 276686191101489616
+      The Knight Void spells - atlas0 #00000382_89: -4581662358311761801
+      The Knight Void spells - atlas0 #00000382_9: -4933565112582899767
+      The Knight Void spells - atlas0 #00000382_90: -4444419829397362556
+      The Knight Void spells - atlas0 #00000382_91: 6101687278034779534
+      The Knight Void spells - atlas0 #00000382_92: 4391133843834662368
+      The Knight Void spells - atlas0 #00000382_93: 2523340479182609457
+      The Knight Void spells - atlas0 #00000382_94: -5721330720171861625
+      The Knight Void spells - atlas0 #00000382_95: -2675184717477296383
+      The Knight Void spells - atlas0 #00000382_96: 4761687749782314773
+      The Knight Void spells - atlas0 #00000382_97: -4898627971291308054
+      The Knight Void spells - atlas0 #00000382_98: -5219895322901365593
+      The Knight Void spells - atlas0 #00000382_99: 8396977351066000714
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

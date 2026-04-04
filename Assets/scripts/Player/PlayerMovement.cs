@@ -45,6 +45,14 @@ public class PlayerMovement : MonoBehaviour
 
     PlayerHealth playerHealth;
 
+    public bool isKnockbacked = false;
+
+    [SerializeField]
+    private float knockbackdamp = 5f;
+
+    private float knockbackVel;
+ 
+
 
     private void Start()
     {
@@ -58,16 +66,19 @@ public class PlayerMovement : MonoBehaviour
 
     private void Update()
     {
-        PlayerHead();
-
-        if (Input.GetKeyDown(JumpKey))
+        if (!isKnockbacked)
         {
-            Jump();
-        }
+            PlayerHead();
 
-        if (Input.GetKeyDown(AttackKey))
-        {
-            Attack();
+            if (Input.GetKeyDown(JumpKey))
+            {
+                Jump();
+            }
+
+            if (Input.GetKeyDown(AttackKey))
+            {
+                Attack();
+            }
         }
 
         if (FootPoint != null)
@@ -96,6 +107,21 @@ public class PlayerMovement : MonoBehaviour
 
         float x = Input.GetAxisRaw("Horizontal");
 
+        if(isKnockbacked)
+        {
+            float damp = Mathf.Exp(- knockbackdamp * Time.fixedDeltaTime);
+            knockbackVel *= damp;
+
+            x = knockbackVel;
+
+
+            if (Mathf.Abs(knockbackVel) < 0.01f)
+            {
+                knockbackVel = 0f;
+                isKnockbacked = false;
+            }
+        }
+
         rb.linearVelocity = new Vector2(MoveSpeed * x, rb.linearVelocity.y);
     }
 
@@ -123,7 +149,7 @@ public class PlayerMovement : MonoBehaviour
                 lastAttackTime = Time.time; // 공격한 시점을 기록
 
                 Vector2 trans = new Vector2(gameObject.transform.position.x, gameObject.transform.position.y - 0.7f);
-                GameObject Effect = Instantiate(VerticalattackEffectPrefab, trans, Quaternion.Euler(0, 0, 0));
+                GameObject Effect = Instantiate(VerticalattackEffectPrefab, trans, Quaternion.Euler(0, 0, 90f));
                 Destroy(Effect, 0.15f);
             }
             else if (Input.GetKey(KeyCode.UpArrow))
@@ -162,7 +188,7 @@ public class PlayerMovement : MonoBehaviour
 
     void PlayerHead()
     {
-            if (rb.linearVelocity.x < 0f)
+        if (rb.linearVelocity.x < 0f)
             {
                 sr.flipX = true;
             }
@@ -191,8 +217,15 @@ public class PlayerMovement : MonoBehaviour
 
         if (!isGrounded && isRecentAttack)
         {
+            Debug.Log("Pogo Jump!");
             rb.linearVelocity = new Vector2(rb.linearVelocity.x, 0f);
             rb.AddForce(Vector2.up * JumpPower, ForceMode2D.Impulse);
         }
+    }
+
+    
+    public void ApplyKnockback(float force)
+    {
+            knockbackVel += force;
     }
 }

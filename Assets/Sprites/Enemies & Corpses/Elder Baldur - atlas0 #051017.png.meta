@@ -1,0 +1,858 @@
+fileFormatVersion: 2
+guid: 4aa96c16bcf8450418507145e80b369a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7380055792719747196
+    second: Elder Baldur - atlas0 #051017_0
+  - first:
+      213: -7334438584713239613
+    second: Elder Baldur - atlas0 #051017_1
+  - first:
+      213: -521995900153776539
+    second: Elder Baldur - atlas0 #051017_2
+  - first:
+      213: -3840181353555338379
+    second: Elder Baldur - atlas0 #051017_3
+  - first:
+      213: -4102281897684079220
+    second: Elder Baldur - atlas0 #051017_4
+  - first:
+      213: -511127111119566337
+    second: Elder Baldur - atlas0 #051017_5
+  - first:
+      213: -5684550140465090772
+    second: Elder Baldur - atlas0 #051017_6
+  - first:
+      213: 8731155697583602431
+    second: Elder Baldur - atlas0 #051017_7
+  - first:
+      213: -6167785126164635990
+    second: Elder Baldur - atlas0 #051017_8
+  - first:
+      213: 312112949247000345
+    second: Elder Baldur - atlas0 #051017_9
+  - first:
+      213: -1358159837367422980
+    second: Elder Baldur - atlas0 #051017_10
+  - first:
+      213: -6598678303498219083
+    second: Elder Baldur - atlas0 #051017_11
+  - first:
+      213: -6687333241930337357
+    second: Elder Baldur - atlas0 #051017_12
+  - first:
+      213: 4208055390656754601
+    second: Elder Baldur - atlas0 #051017_13
+  - first:
+      213: -8291748237098744685
+    second: Elder Baldur - atlas0 #051017_14
+  - first:
+      213: 4484096720136656175
+    second: Elder Baldur - atlas0 #051017_15
+  - first:
+      213: -4073103229866452082
+    second: Elder Baldur - atlas0 #051017_16
+  - first:
+      213: 7376811605179215303
+    second: Elder Baldur - atlas0 #051017_17
+  - first:
+      213: -5407499402112892046
+    second: Elder Baldur - atlas0 #051017_18
+  - first:
+      213: 137940032507559111
+    second: Elder Baldur - atlas0 #051017_19
+  - first:
+      213: 1978347007491187092
+    second: Elder Baldur - atlas0 #051017_20
+  - first:
+      213: -334663600890126460
+    second: Elder Baldur - atlas0 #051017_21
+  - first:
+      213: 953520446404044429
+    second: Elder Baldur - atlas0 #051017_22
+  - first:
+      213: -2042105284084455311
+    second: Elder Baldur - atlas0 #051017_23
+  - first:
+      213: 7626107780279910895
+    second: Elder Baldur - atlas0 #051017_24
+  - first:
+      213: -424040681047690363
+    second: Elder Baldur - atlas0 #051017_25
+  - first:
+      213: 3233554218553318368
+    second: Elder Baldur - atlas0 #051017_26
+  - first:
+      213: -7207056114388958152
+    second: Elder Baldur - atlas0 #051017_27
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Elder Baldur - atlas0 #051017_0
+      rect:
+        serializedVersion: 2
+        x: 1327
+        y: 1235
+        width: 270
+        height: 243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48720649b56c49990800000000000000
+      internalID: -7380055792719747196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elder Baldur - atlas0 #051017_1
+      rect:
+        serializedVersion: 2
+        x: 1595
+        y: 1368
+        width: 260
+        height: 249
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c3af3b77f6d63a90800000000000000
+      internalID: -7334438584713239613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elder Baldur - atlas0 #051017_2
+      rect:
+        serializedVersion: 2
+        x: 1603
+        y: 871
+        width: 358
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 566bf159e7f71c8f0800000000000000
+      internalID: -521995900153776539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elder Baldur - atlas0 #051017_3
+      rect:
+        serializedVersion: 2
+        x: 1189
+        y: 894
+        width: 140
+        height: 426
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57b5144b76fe4bac0800000000000000
+      internalID: -3840181353555338379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elder Baldur - atlas0 #051017_4
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 1268
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8d66005954c117c0800000000000000
+      internalID: -4102281897684079220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elder Baldur - atlas0 #051017_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 808
+        width: 222
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff985aab99c18e8f0800000000000000
+      internalID: -511127111119566337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elder Baldur - atlas0 #051017_6
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 306
+        width: 365
+        height: 736
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2f6ea9e3cb6c11b0800000000000000
+      internalID: -5684550140465090772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elder Baldur - atlas0 #051017_7
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 736
+        width: 285
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffa3919e8db4b2970800000000000000
+      internalID: 8731155697583602431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elder Baldur - atlas0 #051017_8
+      rect:
+        serializedVersion: 2
+        x: 1327
+        y: 987
+        width: 275
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaed4082b10a76aa0800000000000000
+      internalID: -6167785126164635990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elder Baldur - atlas0 #051017_9
+      rect:
+        serializedVersion: 2
+        x: 1391
+        y: 731
+        width: 285
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91fbaadd219d45400800000000000000
+      internalID: 312112949247000345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elder Baldur - atlas0 #051017_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 312
+        width: 287
+        height: 498
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cff2381e2d8d62de0800000000000000
+      internalID: -1358159837367422980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elder Baldur - atlas0 #051017_11
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 745
+        width: 263
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b159e45b09cc64a0800000000000000
+      internalID: -6598678303498219083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elder Baldur - atlas0 #051017_12
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 239
+        width: 352
+        height: 508
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b3b414f8d1d133a0800000000000000
+      internalID: -6687333241930337357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elder Baldur - atlas0 #051017_13
+      rect:
+        serializedVersion: 2
+        x: 1248
+        y: 476
+        width: 145
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a373432514066a30800000000000000
+      internalID: 4208055390656754601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elder Baldur - atlas0 #051017_14
+      rect:
+        serializedVersion: 2
+        x: 1683
+        y: 613
+        width: 288
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39402c0f8eacdec80800000000000000
+      internalID: -8291748237098744685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elder Baldur - atlas0 #051017_15
+      rect:
+        serializedVersion: 2
+        x: 973
+        y: 476
+        width: 277
+        height: 268
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f255d3e8536ba3e30800000000000000
+      internalID: 4484096720136656175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elder Baldur - atlas0 #051017_16
+      rect:
+        serializedVersion: 2
+        x: 1391
+        y: 481
+        width: 294
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8b5052513e6977c0800000000000000
+      internalID: -4073103229866452082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elder Baldur - atlas0 #051017_17
+      rect:
+        serializedVersion: 2
+        x: 1428
+        y: 208
+        width: 290
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cdafa52213bf5660800000000000000
+      internalID: 7376811605179215303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elder Baldur - atlas0 #051017_18
+      rect:
+        serializedVersion: 2
+        x: 1716
+        y: 370
+        width: 315
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2738ce5a1f3b4f4b0800000000000000
+      internalID: -5407499402112892046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elder Baldur - atlas0 #051017_19
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 339
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cc3bed8abf0ae100800000000000000
+      internalID: 137940032507559111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elder Baldur - atlas0 #051017_20
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 0
+        width: 345
+        height: 308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49128ff1f10847b10800000000000000
+      internalID: 1978347007491187092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elder Baldur - atlas0 #051017_21
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 0
+        width: 378
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48fd0b56a390b5bf0800000000000000
+      internalID: -334663600890126460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elder Baldur - atlas0 #051017_22
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 220
+        width: 29
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d862cf54bc59b3d00800000000000000
+      internalID: 953520446404044429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elder Baldur - atlas0 #051017_23
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 234
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 178a23c401cf8a3e0800000000000000
+      internalID: -2042105284084455311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elder Baldur - atlas0 #051017_24
+      rect:
+        serializedVersion: 2
+        x: 1051
+        y: 238
+        width: 323
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe14d6e0f9065d960800000000000000
+      internalID: 7626107780279910895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elder Baldur - atlas0 #051017_25
+      rect:
+        serializedVersion: 2
+        x: 1051
+        y: 0
+        width: 379
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58376db4f318d1af0800000000000000
+      internalID: -424040681047690363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elder Baldur - atlas0 #051017_26
+      rect:
+        serializedVersion: 2
+        x: 1828
+        y: 0
+        width: 214
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0eb16defd64efdc20800000000000000
+      internalID: 3233554218553318368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elder Baldur - atlas0 #051017_27
+      rect:
+        serializedVersion: 2
+        x: 1428
+        y: 0
+        width: 402
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8340a8906a46bfb90800000000000000
+      internalID: -7207056114388958152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Elder Baldur - atlas0 #051017_0: -7380055792719747196
+      Elder Baldur - atlas0 #051017_1: -7334438584713239613
+      Elder Baldur - atlas0 #051017_10: -1358159837367422980
+      Elder Baldur - atlas0 #051017_11: -6598678303498219083
+      Elder Baldur - atlas0 #051017_12: -6687333241930337357
+      Elder Baldur - atlas0 #051017_13: 4208055390656754601
+      Elder Baldur - atlas0 #051017_14: -8291748237098744685
+      Elder Baldur - atlas0 #051017_15: 4484096720136656175
+      Elder Baldur - atlas0 #051017_16: -4073103229866452082
+      Elder Baldur - atlas0 #051017_17: 7376811605179215303
+      Elder Baldur - atlas0 #051017_18: -5407499402112892046
+      Elder Baldur - atlas0 #051017_19: 137940032507559111
+      Elder Baldur - atlas0 #051017_2: -521995900153776539
+      Elder Baldur - atlas0 #051017_20: 1978347007491187092
+      Elder Baldur - atlas0 #051017_21: -334663600890126460
+      Elder Baldur - atlas0 #051017_22: 953520446404044429
+      Elder Baldur - atlas0 #051017_23: -2042105284084455311
+      Elder Baldur - atlas0 #051017_24: 7626107780279910895
+      Elder Baldur - atlas0 #051017_25: -424040681047690363
+      Elder Baldur - atlas0 #051017_26: 3233554218553318368
+      Elder Baldur - atlas0 #051017_27: -7207056114388958152
+      Elder Baldur - atlas0 #051017_3: -3840181353555338379
+      Elder Baldur - atlas0 #051017_4: -4102281897684079220
+      Elder Baldur - atlas0 #051017_5: -511127111119566337
+      Elder Baldur - atlas0 #051017_6: -5684550140465090772
+      Elder Baldur - atlas0 #051017_7: 8731155697583602431
+      Elder Baldur - atlas0 #051017_8: -6167785126164635990
+      Elder Baldur - atlas0 #051017_9: 312112949247000345
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

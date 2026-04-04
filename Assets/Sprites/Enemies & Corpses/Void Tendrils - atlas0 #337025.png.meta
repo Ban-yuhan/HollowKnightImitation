@@ -1,0 +1,598 @@
+fileFormatVersion: 2
+guid: 1571473572fa729479a58d6d6a50da73
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7825086481723052540
+    second: Void Tendrils - atlas0 #337025_0
+  - first:
+      213: 3929592518207148952
+    second: Void Tendrils - atlas0 #337025_1
+  - first:
+      213: 7848005340929690555
+    second: Void Tendrils - atlas0 #337025_2
+  - first:
+      213: -6254067265085577990
+    second: Void Tendrils - atlas0 #337025_3
+  - first:
+      213: 4487953958857760242
+    second: Void Tendrils - atlas0 #337025_4
+  - first:
+      213: 3729968346835233038
+    second: Void Tendrils - atlas0 #337025_5
+  - first:
+      213: -1051894895417072206
+    second: Void Tendrils - atlas0 #337025_6
+  - first:
+      213: -1391361221026173930
+    second: Void Tendrils - atlas0 #337025_7
+  - first:
+      213: -8780030620142410723
+    second: Void Tendrils - atlas0 #337025_8
+  - first:
+      213: 6701632609418448263
+    second: Void Tendrils - atlas0 #337025_9
+  - first:
+      213: -7146798568437071903
+    second: Void Tendrils - atlas0 #337025_10
+  - first:
+      213: -4248424467405884192
+    second: Void Tendrils - atlas0 #337025_11
+  - first:
+      213: 2356876616492758701
+    second: Void Tendrils - atlas0 #337025_12
+  - first:
+      213: 1611967724000761511
+    second: Void Tendrils - atlas0 #337025_13
+  - first:
+      213: 8279887252634713150
+    second: Void Tendrils - atlas0 #337025_14
+  - first:
+      213: 4826923490284859126
+    second: Void Tendrils - atlas0 #337025_15
+  - first:
+      213: 3682910579105594049
+    second: Void Tendrils - atlas0 #337025_16
+  - first:
+      213: 2756918057594235267
+    second: Void Tendrils - atlas0 #337025_17
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Void Tendrils - atlas0 #337025_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1448
+        width: 381
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf150df22ba489c60800000000000000
+      internalID: 7825086481723052540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Void Tendrils - atlas0 #337025_1
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 1876
+        width: 37
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89315cf4397b88630800000000000000
+      internalID: 3929592518207148952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Void Tendrils - atlas0 #337025_2
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 1797
+        width: 343
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbb8b7de647b9ec60800000000000000
+      internalID: 7848005340929690555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Void Tendrils - atlas0 #337025_3
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 1867
+        width: 188
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af4ec2735f61539a0800000000000000
+      internalID: -6254067265085577990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Void Tendrils - atlas0 #337025_4
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 1832
+        width: 8
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fd560ee85a684e30800000000000000
+      internalID: 4487953958857760242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Void Tendrils - atlas0 #337025_5
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 1816
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e09a090037283c330800000000000000
+      internalID: 3729968346835233038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Void Tendrils - atlas0 #337025_6
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1812
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b56e917a2be661f0800000000000000
+      internalID: -1051894895417072206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Void Tendrils - atlas0 #337025_7
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 1441
+        width: 105
+        height: 379
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61c2b7a5754e0bce0800000000000000
+      internalID: -1391361221026173930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Void Tendrils - atlas0 #337025_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 966
+        width: 224
+        height: 466
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d14eb596ba0172680800000000000000
+      internalID: -8780030620142410723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Void Tendrils - atlas0 #337025_9
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 1392
+        width: 12
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78d8f8bf95bf00d50800000000000000
+      internalID: 6701632609418448263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Void Tendrils - atlas0 #337025_10
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 1419
+        width: 191
+        height: 380
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1efb90f319871dc90800000000000000
+      internalID: -7146798568437071903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Void Tendrils - atlas0 #337025_11
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 1419
+        width: 245
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e4b13db4709a05c0800000000000000
+      internalID: -4248424467405884192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Void Tendrils - atlas0 #337025_12
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 1093
+        width: 176
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da6b971abce45b020800000000000000
+      internalID: 2356876616492758701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Void Tendrils - atlas0 #337025_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 524
+        width: 431
+        height: 448
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a6d57aba1cde5610800000000000000
+      internalID: 1611967724000761511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Void Tendrils - atlas0 #337025_14
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 970
+        width: 227
+        height: 429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3cb399669118e270800000000000000
+      internalID: 8279887252634713150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Void Tendrils - atlas0 #337025_15
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 701
+        width: 584
+        height: 394
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6feea6c175dacf240800000000000000
+      internalID: 4826923490284859126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Void Tendrils - atlas0 #337025_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 503
+        height: 526
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cafd17a8a35c1330800000000000000
+      internalID: 3682910579105594049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Void Tendrils - atlas0 #337025_17
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 0
+        width: 586
+        height: 703
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 389a3c9dd5a824620800000000000000
+      internalID: 2756918057594235267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Void Tendrils - atlas0 #337025_0: 7825086481723052540
+      Void Tendrils - atlas0 #337025_1: 3929592518207148952
+      Void Tendrils - atlas0 #337025_10: -7146798568437071903
+      Void Tendrils - atlas0 #337025_11: -4248424467405884192
+      Void Tendrils - atlas0 #337025_12: 2356876616492758701
+      Void Tendrils - atlas0 #337025_13: 1611967724000761511
+      Void Tendrils - atlas0 #337025_14: 8279887252634713150
+      Void Tendrils - atlas0 #337025_15: 4826923490284859126
+      Void Tendrils - atlas0 #337025_16: 3682910579105594049
+      Void Tendrils - atlas0 #337025_17: 2756918057594235267
+      Void Tendrils - atlas0 #337025_2: 7848005340929690555
+      Void Tendrils - atlas0 #337025_3: -6254067265085577990
+      Void Tendrils - atlas0 #337025_4: 4487953958857760242
+      Void Tendrils - atlas0 #337025_5: 3729968346835233038
+      Void Tendrils - atlas0 #337025_6: -1051894895417072206
+      Void Tendrils - atlas0 #337025_7: -1391361221026173930
+      Void Tendrils - atlas0 #337025_8: -8780030620142410723
+      Void Tendrils - atlas0 #337025_9: 6701632609418448263
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

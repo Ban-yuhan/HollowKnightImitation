@@ -515,10 +515,10 @@ GameObject:
   m_Component:
   - component: {fileID: 1810905781}
   - component: {fileID: 1810905780}
-  - component: {fileID: 1810905779}
   - component: {fileID: 1810905783}
   - component: {fileID: 1810905782}
   - component: {fileID: 1810905784}
+  - component: {fileID: 1810905785}
   m_Layer: 7
   m_Name: Dumy
   m_TagString: Enemy
@@ -526,52 +526,6 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!61 &1810905779
-BoxCollider2D:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1810905777}
-  m_Enabled: 1
-  serializedVersion: 3
-  m_Density: 1
-  m_Material: {fileID: 0}
-  m_IncludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_ExcludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_LayerOverridePriority: 0
-  m_ForceSendLayers:
-    serializedVersion: 2
-    m_Bits: 4294967295
-  m_ForceReceiveLayers:
-    serializedVersion: 2
-    m_Bits: 4294967295
-  m_ContactCaptureLayers:
-    serializedVersion: 2
-    m_Bits: 4294967295
-  m_CallbackLayers:
-    serializedVersion: 2
-    m_Bits: 4294967295
-  m_IsTrigger: 0
-  m_UsedByEffector: 0
-  m_CompositeOperation: 0
-  m_CompositeOrder: 0
-  m_Offset: {x: 0, y: 0}
-  m_SpriteTilingProperty:
-    border: {x: 0, y: 0, z: 0, w: 0}
-    pivot: {x: 0.5, y: 0.5}
-    oldSize: {x: 1.47, y: 1.35}
-    newSize: {x: 1.47, y: 1.35}
-    adaptiveTilingThreshold: 0.5
-    drawMode: 0
-    adaptiveTiling: 0
-  m_AutoTiling: 0
-  m_Size: {x: 1.47, y: 1.35}
-  m_EdgeRadius: 0
 --- !u!212 &1810905780
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -616,12 +570,12 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: -1755642549554506002, guid: 31fc8af7fbdb4b248beeb1f3debb1ac6, type: 3}
+  m_Sprite: {fileID: 1299923646190668302, guid: b480ee91845b4a84d8e38aab099c312e, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
-  m_Size: {x: 1.47, y: 1.35}
+  m_Size: {x: 1.08, y: 1.31}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
@@ -696,6 +650,44 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   damage: 1
+  KnockbackForce: 5
+  playerMovement: {fileID: 2013377914}
+--- !u!58 &1810905785
+CircleCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1810905777}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_ForceSendLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ForceReceiveLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ContactCaptureLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_CallbackLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_CompositeOperation: 0
+  m_CompositeOrder: 0
+  m_Offset: {x: 0, y: 0}
+  m_Radius: 0.655
 --- !u!1 &2013377913
 GameObject:
   m_ObjectHideFlags: 0
@@ -740,6 +732,8 @@ MonoBehaviour:
   AttackKey: 113
   NormalattackEffectPrefab: {fileID: 5677410115255107838, guid: 050289ec55afbe4499eae8cb81663f06, type: 3}
   VerticalattackEffectPrefab: {fileID: 631072266398661264, guid: bf20e9d28c9cf46439246897d6d8440d, type: 3}
+  isKnockbacked: 0
+  knockbackdamp: 20
 --- !u!50 &2013377916
 Rigidbody2D:
   serializedVersion: 5
@@ -811,12 +805,12 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: -808093975510508449, guid: 1c7307a55d2d2fe4f84087ea96a29bed, type: 3}
+  m_Sprite: {fileID: -3173964232991249977, guid: 3db46f943963c7b4fb190243b8dab401, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
-  m_Size: {x: 0.76, y: 1.3}
+  m_Size: {x: 0.79, y: 1.27}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
@@ -876,8 +870,8 @@ BoxCollider2D:
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
-    oldSize: {x: 0.76, y: 1.3}
-    newSize: {x: 0.76, y: 1.3}
+    oldSize: {x: 0.79, y: 1.27}
+    newSize: {x: 0.79, y: 1.27}
     adaptiveTilingThreshold: 0.5
     drawMode: 0
     adaptiveTiling: 0

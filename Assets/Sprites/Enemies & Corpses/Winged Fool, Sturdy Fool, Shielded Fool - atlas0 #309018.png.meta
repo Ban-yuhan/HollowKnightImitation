@@ -1,0 +1,416 @@
+fileFormatVersion: 2
+guid: 1fdeb6f792162804e834a38d779dc896
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7165155108161398958
+    second: Winged Fool, Sturdy Fool, Shielded Fool - atlas0 #309018_0
+  - first:
+      213: -3618708516298450424
+    second: Winged Fool, Sturdy Fool, Shielded Fool - atlas0 #309018_1
+  - first:
+      213: -7624965883429604701
+    second: Winged Fool, Sturdy Fool, Shielded Fool - atlas0 #309018_2
+  - first:
+      213: -4909129016205020423
+    second: Winged Fool, Sturdy Fool, Shielded Fool - atlas0 #309018_3
+  - first:
+      213: 332391497469180207
+    second: Winged Fool, Sturdy Fool, Shielded Fool - atlas0 #309018_4
+  - first:
+      213: -4665922402645769494
+    second: Winged Fool, Sturdy Fool, Shielded Fool - atlas0 #309018_5
+  - first:
+      213: -5820675782167360382
+    second: Winged Fool, Sturdy Fool, Shielded Fool - atlas0 #309018_6
+  - first:
+      213: -1342911059399479552
+    second: Winged Fool, Sturdy Fool, Shielded Fool - atlas0 #309018_7
+  - first:
+      213: -4099925504733896232
+    second: Winged Fool, Sturdy Fool, Shielded Fool - atlas0 #309018_8
+  - first:
+      213: 6851984756956301359
+    second: Winged Fool, Sturdy Fool, Shielded Fool - atlas0 #309018_9
+  - first:
+      213: -9094631579948290267
+    second: Winged Fool, Sturdy Fool, Shielded Fool - atlas0 #309018_10
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Winged Fool, Sturdy Fool, Shielded Fool - atlas0 #309018_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 391
+        width: 224
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 257d6794461409c90800000000000000
+      internalID: -7165155108161398958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Winged Fool, Sturdy Fool, Shielded Fool - atlas0 #309018_1
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 209
+        width: 281
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80a9954f6c3c7cdc0800000000000000
+      internalID: -3618708516298450424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Winged Fool, Sturdy Fool, Shielded Fool - atlas0 #309018_2
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 413
+        width: 228
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a2b4b58dedae2690800000000000000
+      internalID: -7624965883429604701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Winged Fool, Sturdy Fool, Shielded Fool - atlas0 #309018_3
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 534
+        width: 240
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f279806b254fdbb0800000000000000
+      internalID: -4909129016205020423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Winged Fool, Sturdy Fool, Shielded Fool - atlas0 #309018_4
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 266
+        width: 194
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f29b20d4e44ec9400800000000000000
+      internalID: 332391497469180207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Winged Fool, Sturdy Fool, Shielded Fool - atlas0 #309018_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 240
+        width: 245
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae203c0cb405f3fb0800000000000000
+      internalID: -4665922402645769494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Winged Fool, Sturdy Fool, Shielded Fool - atlas0 #309018_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 275
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28c0233273ec83fa0800000000000000
+      internalID: -5820675782167360382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Winged Fool, Sturdy Fool, Shielded Fool - atlas0 #309018_7
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 206
+        width: 278
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00fec8ba1850d5de0800000000000000
+      internalID: -1342911059399479552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Winged Fool, Sturdy Fool, Shielded Fool - atlas0 #309018_8
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 0
+        width: 205
+        height: 268
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d1a5ccc9732a17c0800000000000000
+      internalID: -4099925504733896232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Winged Fool, Sturdy Fool, Shielded Fool - atlas0 #309018_9
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 0
+        width: 277
+        height: 211
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2885c445d3271f50800000000000000
+      internalID: 6851984756956301359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Winged Fool, Sturdy Fool, Shielded Fool - atlas0 #309018_10
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 0
+        width: 190
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52fe12273c069c180800000000000000
+      internalID: -9094631579948290267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Winged Fool, Sturdy Fool, Shielded Fool - atlas0 #309018_0: -7165155108161398958
+      Winged Fool, Sturdy Fool, Shielded Fool - atlas0 #309018_1: -3618708516298450424
+      Winged Fool, Sturdy Fool, Shielded Fool - atlas0 #309018_10: -9094631579948290267
+      Winged Fool, Sturdy Fool, Shielded Fool - atlas0 #309018_2: -7624965883429604701
+      Winged Fool, Sturdy Fool, Shielded Fool - atlas0 #309018_3: -4909129016205020423
+      Winged Fool, Sturdy Fool, Shielded Fool - atlas0 #309018_4: 332391497469180207
+      Winged Fool, Sturdy Fool, Shielded Fool - atlas0 #309018_5: -4665922402645769494
+      Winged Fool, Sturdy Fool, Shielded Fool - atlas0 #309018_6: -5820675782167360382
+      Winged Fool, Sturdy Fool, Shielded Fool - atlas0 #309018_7: -1342911059399479552
+      Winged Fool, Sturdy Fool, Shielded Fool - atlas0 #309018_8: -4099925504733896232
+      Winged Fool, Sturdy Fool, Shielded Fool - atlas0 #309018_9: 6851984756956301359
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

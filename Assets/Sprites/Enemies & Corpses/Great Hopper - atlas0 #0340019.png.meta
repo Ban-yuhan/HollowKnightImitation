@@ -1,0 +1,1326 @@
+fileFormatVersion: 2
+guid: a15b23fbc75f84b4eb6e0171a55da425
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2833164771165301245
+    second: Great Hopper - atlas0 #0340019_0
+  - first:
+      213: 4684298890485223683
+    second: Great Hopper - atlas0 #0340019_1
+  - first:
+      213: 5857405834630712739
+    second: Great Hopper - atlas0 #0340019_2
+  - first:
+      213: -5327815934107637697
+    second: Great Hopper - atlas0 #0340019_3
+  - first:
+      213: 304224265545688299
+    second: Great Hopper - atlas0 #0340019_4
+  - first:
+      213: -4542741431724706906
+    second: Great Hopper - atlas0 #0340019_5
+  - first:
+      213: 8021324587416583378
+    second: Great Hopper - atlas0 #0340019_6
+  - first:
+      213: -8332345993287651162
+    second: Great Hopper - atlas0 #0340019_7
+  - first:
+      213: 780955701056488620
+    second: Great Hopper - atlas0 #0340019_8
+  - first:
+      213: -9053538824006591985
+    second: Great Hopper - atlas0 #0340019_9
+  - first:
+      213: -1750543560812707126
+    second: Great Hopper - atlas0 #0340019_10
+  - first:
+      213: 5187395067808815149
+    second: Great Hopper - atlas0 #0340019_11
+  - first:
+      213: -5034361094436703705
+    second: Great Hopper - atlas0 #0340019_12
+  - first:
+      213: 1817224590582612776
+    second: Great Hopper - atlas0 #0340019_13
+  - first:
+      213: 2652974889341677923
+    second: Great Hopper - atlas0 #0340019_14
+  - first:
+      213: -2868222993381214235
+    second: Great Hopper - atlas0 #0340019_15
+  - first:
+      213: -7567855607440694750
+    second: Great Hopper - atlas0 #0340019_16
+  - first:
+      213: -4962625954791969085
+    second: Great Hopper - atlas0 #0340019_17
+  - first:
+      213: 7194261626568662328
+    second: Great Hopper - atlas0 #0340019_18
+  - first:
+      213: -3249640160025582280
+    second: Great Hopper - atlas0 #0340019_19
+  - first:
+      213: 6035368136883363662
+    second: Great Hopper - atlas0 #0340019_20
+  - first:
+      213: 5734590656841928488
+    second: Great Hopper - atlas0 #0340019_21
+  - first:
+      213: -5264526383625770147
+    second: Great Hopper - atlas0 #0340019_22
+  - first:
+      213: -180348250124454400
+    second: Great Hopper - atlas0 #0340019_23
+  - first:
+      213: 2268632445762706426
+    second: Great Hopper - atlas0 #0340019_24
+  - first:
+      213: 7583915392596509051
+    second: Great Hopper - atlas0 #0340019_25
+  - first:
+      213: 5670022205671243971
+    second: Great Hopper - atlas0 #0340019_26
+  - first:
+      213: -7274469095476817644
+    second: Great Hopper - atlas0 #0340019_27
+  - first:
+      213: -7835715808637327774
+    second: Great Hopper - atlas0 #0340019_28
+  - first:
+      213: 6079312761960293119
+    second: Great Hopper - atlas0 #0340019_29
+  - first:
+      213: 3426549300764873508
+    second: Great Hopper - atlas0 #0340019_30
+  - first:
+      213: 2684442359153099444
+    second: Great Hopper - atlas0 #0340019_31
+  - first:
+      213: -5132279264697051580
+    second: Great Hopper - atlas0 #0340019_32
+  - first:
+      213: -4170561095987734991
+    second: Great Hopper - atlas0 #0340019_33
+  - first:
+      213: 2340886658711870730
+    second: Great Hopper - atlas0 #0340019_34
+  - first:
+      213: -952745398042146976
+    second: Great Hopper - atlas0 #0340019_35
+  - first:
+      213: 4983597258058906679
+    second: Great Hopper - atlas0 #0340019_36
+  - first:
+      213: -8212498000513709007
+    second: Great Hopper - atlas0 #0340019_37
+  - first:
+      213: 3551156201044955519
+    second: Great Hopper - atlas0 #0340019_38
+  - first:
+      213: -5074791377893724207
+    second: Great Hopper - atlas0 #0340019_39
+  - first:
+      213: 572707507866583287
+    second: Great Hopper - atlas0 #0340019_40
+  - first:
+      213: -1716120496600837906
+    second: Great Hopper - atlas0 #0340019_41
+  - first:
+      213: -2912780342383011011
+    second: Great Hopper - atlas0 #0340019_42
+  - first:
+      213: 8562388649470153386
+    second: Great Hopper - atlas0 #0340019_43
+  - first:
+      213: -7564845723025692929
+    second: Great Hopper - atlas0 #0340019_44
+  - first:
+      213: -4878659345046188554
+    second: Great Hopper - atlas0 #0340019_45
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Great Hopper - atlas0 #0340019_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 971
+        width: 32
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3069a80c6a39ea8d0800000000000000
+      internalID: -2833164771165301245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Great Hopper - atlas0 #0340019_1
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 971
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 301d02db509f10140800000000000000
+      internalID: 4684298890485223683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Great Hopper - atlas0 #0340019_2
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 961
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3adc67e929fa94150800000000000000
+      internalID: 5857405834630712739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Great Hopper - atlas0 #0340019_3
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 898
+        width: 47
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3829dac2abcf06b0800000000000000
+      internalID: -5327815934107637697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Great Hopper - atlas0 #0340019_4
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 916
+        width: 33
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be4a7ef8b52d83400800000000000000
+      internalID: 304224265545688299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Great Hopper - atlas0 #0340019_5
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 943
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a3799f7cb0f4f0c0800000000000000
+      internalID: -4542741431724706906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Great Hopper - atlas0 #0340019_6
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 945
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dc7215a638715f60800000000000000
+      internalID: 8021324587416583378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Great Hopper - atlas0 #0340019_7
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 834
+        width: 64
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a0b07c377f8d5c80800000000000000
+      internalID: -8332345993287651162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Great Hopper - atlas0 #0340019_8
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 872
+        width: 57
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca4c9ca821386da00800000000000000
+      internalID: 780955701056488620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Great Hopper - atlas0 #0340019_9
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 910
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0a11e2486e5b5280800000000000000
+      internalID: -9053538824006591985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Great Hopper - atlas0 #0340019_10
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 467
+        width: 237
+        height: 462
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac249edf7e1d4b7e0800000000000000
+      internalID: -1750543560812707126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Great Hopper - atlas0 #0340019_11
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 875
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d289b5684545df740800000000000000
+      internalID: 5187395067808815149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Great Hopper - atlas0 #0340019_12
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 885
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 722bd0ff14b522ab0800000000000000
+      internalID: -5034361094436703705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Great Hopper - atlas0 #0340019_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 591
+        width: 238
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82308c61324183910800000000000000
+      internalID: 1817224590582612776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Great Hopper - atlas0 #0340019_14
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 864
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 361fd351b9241d420800000000000000
+      internalID: 2652974889341677923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Great Hopper - atlas0 #0340019_15
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 737
+        width: 67
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e7b7ee42660238d0800000000000000
+      internalID: -2868222993381214235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Great Hopper - atlas0 #0340019_16
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 573
+        width: 238
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 222ac07db6399f690800000000000000
+      internalID: -7567855607440694750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Great Hopper - atlas0 #0340019_17
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 828
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cead7bbcf5312bb0800000000000000
+      internalID: -4962625954791969085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Great Hopper - atlas0 #0340019_18
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 746
+        width: 57
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83d59d025d627d360800000000000000
+      internalID: 7194261626568662328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Great Hopper - atlas0 #0340019_19
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 798
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 835e4d5ed75f6e2d0800000000000000
+      internalID: -3249640160025582280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Great Hopper - atlas0 #0340019_20
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 482
+        width: 201
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4fd4aff75fe1c350800000000000000
+      internalID: 6035368136883363662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Great Hopper - atlas0 #0340019_21
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 731
+        width: 15
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82f4659b1db559f40800000000000000
+      internalID: 5734590656841928488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Great Hopper - atlas0 #0340019_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 357
+        width: 229
+        height: 235
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5b60519525a0f6b0800000000000000
+      internalID: -5264526383625770147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Great Hopper - atlas0 #0340019_23
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 342
+        width: 15
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 006f777d8364f7df0800000000000000
+      internalID: -180348250124454400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Great Hopper - atlas0 #0340019_24
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 355
+        width: 230
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afb9c9f803dcb7f10800000000000000
+      internalID: 2268632445762706426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Great Hopper - atlas0 #0340019_25
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 354
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7105564eda7f3960800000000000000
+      internalID: 7583915392596509051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Great Hopper - atlas0 #0340019_26
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 350
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c08c9da727ffae40800000000000000
+      internalID: 5670022205671243971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Great Hopper - atlas0 #0340019_27
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 215
+        width: 213
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4111c8246e4eb0b90800000000000000
+      internalID: -7274469095476817644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Great Hopper - atlas0 #0340019_28
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 250
+        width: 243
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2666249ccf1f14390800000000000000
+      internalID: -7835715808637327774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Great Hopper - atlas0 #0340019_29
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 329
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff264275fbe0e5450800000000000000
+      internalID: 6079312761960293119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Great Hopper - atlas0 #0340019_30
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 349
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42314753f6c8d8f20800000000000000
+      internalID: 3426549300764873508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Great Hopper - atlas0 #0340019_31
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 324
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b205555a1e014520800000000000000
+      internalID: 2684442359153099444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Great Hopper - atlas0 #0340019_32
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 316
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44611a3633b76c8b0800000000000000
+      internalID: -5132279264697051580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Great Hopper - atlas0 #0340019_33
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 318
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 136569f97c03f16c0800000000000000
+      internalID: -4170561095987734991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Great Hopper - atlas0 #0340019_34
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 298
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0dd8f773008c7020800000000000000
+      internalID: 2340886658711870730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Great Hopper - atlas0 #0340019_35
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 314
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0674f4cbb1b27c2f0800000000000000
+      internalID: -952745398042146976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Great Hopper - atlas0 #0340019_36
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 288
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73c363e4d4b492540800000000000000
+      internalID: 4983597258058906679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Great Hopper - atlas0 #0340019_37
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 291
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13c46c88498570e80800000000000000
+      internalID: -8212498000513709007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Great Hopper - atlas0 #0340019_38
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 288
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f71d53100cd384130800000000000000
+      internalID: 3551156201044955519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Great Hopper - atlas0 #0340019_39
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 218
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dfed631128b299b0800000000000000
+      internalID: -5074791377893724207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Great Hopper - atlas0 #0340019_40
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 242
+        width: 31
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f0469ea17aa2f700800000000000000
+      internalID: 572707507866583287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Great Hopper - atlas0 #0340019_41
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 0
+        width: 222
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee01750308d1f28e0800000000000000
+      internalID: -1716120496600837906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Great Hopper - atlas0 #0340019_42
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 226
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3b158f06b9b397d0800000000000000
+      internalID: -2912780342383011011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Great Hopper - atlas0 #0340019_43
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 0
+        width: 300
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa251887c17b3d670800000000000000
+      internalID: 8562388649470153386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Great Hopper - atlas0 #0340019_44
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 0
+        width: 256
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff6ab6a25e4440790800000000000000
+      internalID: -7564845723025692929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Great Hopper - atlas0 #0340019_45
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 185
+        width: 47
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fdc1668c258b4cb0800000000000000
+      internalID: -4878659345046188554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Great Hopper - atlas0 #0340019_0: -2833164771165301245
+      Great Hopper - atlas0 #0340019_1: 4684298890485223683
+      Great Hopper - atlas0 #0340019_10: -1750543560812707126
+      Great Hopper - atlas0 #0340019_11: 5187395067808815149
+      Great Hopper - atlas0 #0340019_12: -5034361094436703705
+      Great Hopper - atlas0 #0340019_13: 1817224590582612776
+      Great Hopper - atlas0 #0340019_14: 2652974889341677923
+      Great Hopper - atlas0 #0340019_15: -2868222993381214235
+      Great Hopper - atlas0 #0340019_16: -7567855607440694750
+      Great Hopper - atlas0 #0340019_17: -4962625954791969085
+      Great Hopper - atlas0 #0340019_18: 7194261626568662328
+      Great Hopper - atlas0 #0340019_19: -3249640160025582280
+      Great Hopper - atlas0 #0340019_2: 5857405834630712739
+      Great Hopper - atlas0 #0340019_20: 6035368136883363662
+      Great Hopper - atlas0 #0340019_21: 5734590656841928488
+      Great Hopper - atlas0 #0340019_22: -5264526383625770147
+      Great Hopper - atlas0 #0340019_23: -180348250124454400
+      Great Hopper - atlas0 #0340019_24: 2268632445762706426
+      Great Hopper - atlas0 #0340019_25: 7583915392596509051
+      Great Hopper - atlas0 #0340019_26: 5670022205671243971
+      Great Hopper - atlas0 #0340019_27: -7274469095476817644
+      Great Hopper - atlas0 #0340019_28: -7835715808637327774
+      Great Hopper - atlas0 #0340019_29: 6079312761960293119
+      Great Hopper - atlas0 #0340019_3: -5327815934107637697
+      Great Hopper - atlas0 #0340019_30: 3426549300764873508
+      Great Hopper - atlas0 #0340019_31: 2684442359153099444
+      Great Hopper - atlas0 #0340019_32: -5132279264697051580
+      Great Hopper - atlas0 #0340019_33: -4170561095987734991
+      Great Hopper - atlas0 #0340019_34: 2340886658711870730
+      Great Hopper - atlas0 #0340019_35: -952745398042146976
+      Great Hopper - atlas0 #0340019_36: 4983597258058906679
+      Great Hopper - atlas0 #0340019_37: -8212498000513709007
+      Great Hopper - atlas0 #0340019_38: 3551156201044955519
+      Great Hopper - atlas0 #0340019_39: -5074791377893724207
+      Great Hopper - atlas0 #0340019_4: 304224265545688299
+      Great Hopper - atlas0 #0340019_40: 572707507866583287
+      Great Hopper - atlas0 #0340019_41: -1716120496600837906
+      Great Hopper - atlas0 #0340019_42: -2912780342383011011
+      Great Hopper - atlas0 #0340019_43: 8562388649470153386
+      Great Hopper - atlas0 #0340019_44: -7564845723025692929
+      Great Hopper - atlas0 #0340019_45: -4878659345046188554
+      Great Hopper - atlas0 #0340019_5: -4542741431724706906
+      Great Hopper - atlas0 #0340019_6: 8021324587416583378
+      Great Hopper - atlas0 #0340019_7: -8332345993287651162
+      Great Hopper - atlas0 #0340019_8: 780955701056488620
+      Great Hopper - atlas0 #0340019_9: -9053538824006591985
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

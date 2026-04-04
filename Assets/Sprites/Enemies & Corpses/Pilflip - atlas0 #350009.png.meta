@@ -1,0 +1,1040 @@
+fileFormatVersion: 2
+guid: c04cc86247ea36d4fa1fb7e65f2bff81
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4036286280908991747
+    second: Pilflip - atlas0 #350009_0
+  - first:
+      213: -3002647286505239167
+    second: Pilflip - atlas0 #350009_1
+  - first:
+      213: 5964459201856054017
+    second: Pilflip - atlas0 #350009_2
+  - first:
+      213: -1658597335774846416
+    second: Pilflip - atlas0 #350009_3
+  - first:
+      213: -4709474895931304134
+    second: Pilflip - atlas0 #350009_4
+  - first:
+      213: -2728096410699224814
+    second: Pilflip - atlas0 #350009_5
+  - first:
+      213: 7149430375957505007
+    second: Pilflip - atlas0 #350009_6
+  - first:
+      213: -5643013821434557677
+    second: Pilflip - atlas0 #350009_7
+  - first:
+      213: -3119530798062625317
+    second: Pilflip - atlas0 #350009_8
+  - first:
+      213: -2235799013652915772
+    second: Pilflip - atlas0 #350009_9
+  - first:
+      213: 2887234804799698533
+    second: Pilflip - atlas0 #350009_10
+  - first:
+      213: -1161738194163985457
+    second: Pilflip - atlas0 #350009_11
+  - first:
+      213: 660817082456703603
+    second: Pilflip - atlas0 #350009_12
+  - first:
+      213: 8865881623279164291
+    second: Pilflip - atlas0 #350009_13
+  - first:
+      213: -6714470833907474614
+    second: Pilflip - atlas0 #350009_14
+  - first:
+      213: -4313556890032680641
+    second: Pilflip - atlas0 #350009_15
+  - first:
+      213: 8686514791445410580
+    second: Pilflip - atlas0 #350009_16
+  - first:
+      213: 1783945608726174081
+    second: Pilflip - atlas0 #350009_17
+  - first:
+      213: -7017164059020697719
+    second: Pilflip - atlas0 #350009_18
+  - first:
+      213: 4639495721176634721
+    second: Pilflip - atlas0 #350009_19
+  - first:
+      213: -2056195666934685036
+    second: Pilflip - atlas0 #350009_20
+  - first:
+      213: 5330444934396194989
+    second: Pilflip - atlas0 #350009_21
+  - first:
+      213: 4149986021169436667
+    second: Pilflip - atlas0 #350009_22
+  - first:
+      213: -38801184524890263
+    second: Pilflip - atlas0 #350009_23
+  - first:
+      213: 1265322713930416094
+    second: Pilflip - atlas0 #350009_24
+  - first:
+      213: -2317090153376681105
+    second: Pilflip - atlas0 #350009_25
+  - first:
+      213: 444662753502023139
+    second: Pilflip - atlas0 #350009_26
+  - first:
+      213: -4993993677959789733
+    second: Pilflip - atlas0 #350009_27
+  - first:
+      213: 2895368620316169296
+    second: Pilflip - atlas0 #350009_28
+  - first:
+      213: 6676121359642603460
+    second: Pilflip - atlas0 #350009_29
+  - first:
+      213: -7825868818335545995
+    second: Pilflip - atlas0 #350009_30
+  - first:
+      213: 4786539642533535473
+    second: Pilflip - atlas0 #350009_31
+  - first:
+      213: 2168389623794663241
+    second: Pilflip - atlas0 #350009_32
+  - first:
+      213: 2923537118602948923
+    second: Pilflip - atlas0 #350009_33
+  - first:
+      213: 6512956034056116173
+    second: Pilflip - atlas0 #350009_34
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Pilflip - atlas0 #350009_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 980
+        width: 111
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30dec51ccf4c30830800000000000000
+      internalID: 4036286280908991747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pilflip - atlas0 #350009_1
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 1010
+        width: 190
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18d801e93347456d0800000000000000
+      internalID: -3002647286505239167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pilflip - atlas0 #350009_2
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 866
+        width: 180
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 103a0f30b0406c250800000000000000
+      internalID: 5964459201856054017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pilflip - atlas0 #350009_3
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 880
+        width: 177
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0322bbfb28a7bf8e0800000000000000
+      internalID: -1658597335774846416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pilflip - atlas0 #350009_4
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 862
+        width: 109
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a371565b88594aeb0800000000000000
+      internalID: -4709474895931304134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pilflip - atlas0 #350009_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 757
+        width: 125
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 219214fb4cad32ad0800000000000000
+      internalID: -2728096410699224814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pilflip - atlas0 #350009_6
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 937
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe3a5513c01e73360800000000000000
+      internalID: 7149430375957505007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pilflip - atlas0 #350009_7
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 899
+        width: 190
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31b06cec3dcffa1b0800000000000000
+      internalID: -5643013821434557677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pilflip - atlas0 #350009_8
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 583
+        width: 387
+        height: 299
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdd1693644335b4d0800000000000000
+      internalID: -3119530798062625317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pilflip - atlas0 #350009_9
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 683
+        width: 124
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c99c0294a8d8f0e0800000000000000
+      internalID: -2235799013652915772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pilflip - atlas0 #350009_10
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 723
+        width: 190
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 566fa3bf1c4811820800000000000000
+      internalID: 2887234804799698533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pilflip - atlas0 #350009_11
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 856
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc31ade744da0efe0800000000000000
+      internalID: -1161738194163985457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pilflip - atlas0 #350009_12
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 723
+        width: 130
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3728755a2a1bb2900800000000000000
+      internalID: 660817082456703603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pilflip - atlas0 #350009_13
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 763
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38bd738ec50f90b70800000000000000
+      internalID: 8865881623279164291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pilflip - atlas0 #350009_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 600
+        width: 174
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4f5932f95861d2a0800000000000000
+      internalID: -6714470833907474614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pilflip - atlas0 #350009_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 444
+        width: 179
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f31d92bdcda2324c0800000000000000
+      internalID: -4313556890032680641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pilflip - atlas0 #350009_16
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 462
+        width: 189
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 413b7400e23bc8870800000000000000
+      internalID: 8686514791445410580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pilflip - atlas0 #350009_17
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 546
+        width: 200
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 189ddb25419d1c810800000000000000
+      internalID: 1783945608726174081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pilflip - atlas0 #350009_18
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 586
+        width: 196
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98fde6387760e9e90800000000000000
+      internalID: -7017164059020697719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pilflip - atlas0 #350009_19
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 299
+        width: 199
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1659dadf6ccc26040800000000000000
+      internalID: 4639495721176634721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pilflip - atlas0 #350009_20
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 431
+        width: 196
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49229a36fece673e0800000000000000
+      internalID: -2056195666934685036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pilflip - atlas0 #350009_21
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 299
+        width: 173
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da037790d6b89f940800000000000000
+      internalID: 5330444934396194989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pilflip - atlas0 #350009_22
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 388
+        width: 181
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf714a67c46b79930800000000000000
+      internalID: 4149986021169436667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pilflip - atlas0 #350009_23
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 441
+        width: 196
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96f878b3786267ff0800000000000000
+      internalID: -38801184524890263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pilflip - atlas0 #350009_24
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 214
+        width: 149
+        height: 229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edf3e0aed445f8110800000000000000
+      internalID: 1265322713930416094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pilflip - atlas0 #350009_25
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 308
+        width: 213
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f637d6f28ca08dfd0800000000000000
+      internalID: -2317090153376681105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pilflip - atlas0 #350009_26
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 182
+        width: 164
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3edc55b1b62cb2600800000000000000
+      internalID: 444662753502023139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pilflip - atlas0 #350009_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 151
+        width: 236
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5309ae8535c1bab0800000000000000
+      internalID: -4993993677959789733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pilflip - atlas0 #350009_28
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 152
+        width: 222
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05412cb7b6a6e2820800000000000000
+      internalID: 2895368620316169296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pilflip - atlas0 #350009_29
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 290
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cf25e6410956ac50800000000000000
+      internalID: 6676121359642603460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pilflip - atlas0 #350009_30
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 146
+        width: 224
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 575cd40e5cde46390800000000000000
+      internalID: -7825868818335545995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pilflip - atlas0 #350009_31
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 240
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fe5988d1743d6240800000000000000
+      internalID: 4786539642533535473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pilflip - atlas0 #350009_32
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 0
+        width: 469
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94f7ceccfdaa71e10800000000000000
+      internalID: 2168389623794663241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pilflip - atlas0 #350009_33
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 0
+        width: 188
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b317ff1158d729820800000000000000
+      internalID: 2923537118602948923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pilflip - atlas0 #350009_34
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 0
+        width: 129
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc7d6af710ba26a50800000000000000
+      internalID: 6512956034056116173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Pilflip - atlas0 #350009_0: 4036286280908991747
+      Pilflip - atlas0 #350009_1: -3002647286505239167
+      Pilflip - atlas0 #350009_10: 2887234804799698533
+      Pilflip - atlas0 #350009_11: -1161738194163985457
+      Pilflip - atlas0 #350009_12: 660817082456703603
+      Pilflip - atlas0 #350009_13: 8865881623279164291
+      Pilflip - atlas0 #350009_14: -6714470833907474614
+      Pilflip - atlas0 #350009_15: -4313556890032680641
+      Pilflip - atlas0 #350009_16: 8686514791445410580
+      Pilflip - atlas0 #350009_17: 1783945608726174081
+      Pilflip - atlas0 #350009_18: -7017164059020697719
+      Pilflip - atlas0 #350009_19: 4639495721176634721
+      Pilflip - atlas0 #350009_2: 5964459201856054017
+      Pilflip - atlas0 #350009_20: -2056195666934685036
+      Pilflip - atlas0 #350009_21: 5330444934396194989
+      Pilflip - atlas0 #350009_22: 4149986021169436667
+      Pilflip - atlas0 #350009_23: -38801184524890263
+      Pilflip - atlas0 #350009_24: 1265322713930416094
+      Pilflip - atlas0 #350009_25: -2317090153376681105
+      Pilflip - atlas0 #350009_26: 444662753502023139
+      Pilflip - atlas0 #350009_27: -4993993677959789733
+      Pilflip - atlas0 #350009_28: 2895368620316169296
+      Pilflip - atlas0 #350009_29: 6676121359642603460
+      Pilflip - atlas0 #350009_3: -1658597335774846416
+      Pilflip - atlas0 #350009_30: -7825868818335545995
+      Pilflip - atlas0 #350009_31: 4786539642533535473
+      Pilflip - atlas0 #350009_32: 2168389623794663241
+      Pilflip - atlas0 #350009_33: 2923537118602948923
+      Pilflip - atlas0 #350009_34: 6512956034056116173
+      Pilflip - atlas0 #350009_4: -4709474895931304134
+      Pilflip - atlas0 #350009_5: -2728096410699224814
+      Pilflip - atlas0 #350009_6: 7149430375957505007
+      Pilflip - atlas0 #350009_7: -5643013821434557677
+      Pilflip - atlas0 #350009_8: -3119530798062625317
+      Pilflip - atlas0 #350009_9: -2235799013652915772
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

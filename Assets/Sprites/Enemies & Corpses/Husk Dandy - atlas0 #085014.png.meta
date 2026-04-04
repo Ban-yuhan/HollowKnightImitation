@@ -1,0 +1,832 @@
+fileFormatVersion: 2
+guid: 8e982fd3088ce794dae192fa80aa0b91
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6166839819158922282
+    second: Husk Dandy - atlas0 #085014_0
+  - first:
+      213: 8055248515177435211
+    second: Husk Dandy - atlas0 #085014_1
+  - first:
+      213: 5322889269586945716
+    second: Husk Dandy - atlas0 #085014_2
+  - first:
+      213: 3964726185121915271
+    second: Husk Dandy - atlas0 #085014_3
+  - first:
+      213: 7096551830718639628
+    second: Husk Dandy - atlas0 #085014_4
+  - first:
+      213: 8529078469581558455
+    second: Husk Dandy - atlas0 #085014_5
+  - first:
+      213: -6099975613544390565
+    second: Husk Dandy - atlas0 #085014_6
+  - first:
+      213: 5666031512348796312
+    second: Husk Dandy - atlas0 #085014_7
+  - first:
+      213: 7348044476367110533
+    second: Husk Dandy - atlas0 #085014_8
+  - first:
+      213: 5058428364418703067
+    second: Husk Dandy - atlas0 #085014_9
+  - first:
+      213: -71034175451332194
+    second: Husk Dandy - atlas0 #085014_10
+  - first:
+      213: -4101524217886979255
+    second: Husk Dandy - atlas0 #085014_11
+  - first:
+      213: 7819595756372932286
+    second: Husk Dandy - atlas0 #085014_12
+  - first:
+      213: 3074888700264403641
+    second: Husk Dandy - atlas0 #085014_13
+  - first:
+      213: 7175602959281538077
+    second: Husk Dandy - atlas0 #085014_14
+  - first:
+      213: -5530208787197779423
+    second: Husk Dandy - atlas0 #085014_15
+  - first:
+      213: -1951589275645411455
+    second: Husk Dandy - atlas0 #085014_16
+  - first:
+      213: -771523801119514102
+    second: Husk Dandy - atlas0 #085014_17
+  - first:
+      213: -3472083670315426489
+    second: Husk Dandy - atlas0 #085014_18
+  - first:
+      213: 3821171931703831778
+    second: Husk Dandy - atlas0 #085014_19
+  - first:
+      213: 2915625930230372473
+    second: Husk Dandy - atlas0 #085014_20
+  - first:
+      213: 761053118850921576
+    second: Husk Dandy - atlas0 #085014_21
+  - first:
+      213: 5343962243048208809
+    second: Husk Dandy - atlas0 #085014_22
+  - first:
+      213: -5810793942324936016
+    second: Husk Dandy - atlas0 #085014_23
+  - first:
+      213: -684330135549108857
+    second: Husk Dandy - atlas0 #085014_24
+  - first:
+      213: 9063526261959930211
+    second: Husk Dandy - atlas0 #085014_25
+  - first:
+      213: 1203162656399039178
+    second: Husk Dandy - atlas0 #085014_26
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Husk Dandy - atlas0 #085014_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 761
+        width: 216
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6db5c489bdbfa6aa0800000000000000
+      internalID: -6166839819158922282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Husk Dandy - atlas0 #085014_1
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 728
+        width: 127
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b40d4a498ddf9cf60800000000000000
+      internalID: 8055248515177435211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Husk Dandy - atlas0 #085014_2
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 887
+        width: 214
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b6e77cb693bed940800000000000000
+      internalID: 5322889269586945716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Husk Dandy - atlas0 #085014_3
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 821
+        width: 215
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 781a1e79579850730800000000000000
+      internalID: 3964726185121915271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Husk Dandy - atlas0 #085014_4
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 819
+        width: 214
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0ee1287a440c7260800000000000000
+      internalID: 7096551830718639628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Husk Dandy - atlas0 #085014_5
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 819
+        width: 152
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b257d8ddaf5d5670800000000000000
+      internalID: 8529078469581558455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Husk Dandy - atlas0 #085014_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 568
+        width: 134
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b502420af78885ba0800000000000000
+      internalID: -6099975613544390565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Husk Dandy - atlas0 #085014_7
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 568
+        width: 150
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89528bbf3a9c1ae40800000000000000
+      internalID: 5666031512348796312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Husk Dandy - atlas0 #085014_8
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 641
+        width: 226
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58102a7058f79f560800000000000000
+      internalID: 7348044476367110533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Husk Dandy - atlas0 #085014_9
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 547
+        width: 623
+        height: 274
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdedfe6fbc5233640800000000000000
+      internalID: 5058428364418703067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Husk Dandy - atlas0 #085014_10
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 627
+        width: 110
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e918f453bc2a30ff0800000000000000
+      internalID: -71034175451332194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Husk Dandy - atlas0 #085014_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 380
+        width: 182
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94b4f2364757417c0800000000000000
+      internalID: -4101524217886979255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Husk Dandy - atlas0 #085014_12
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 380
+        width: 135
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb6b2c119e8c48c60800000000000000
+      internalID: 7819595756372932286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Husk Dandy - atlas0 #085014_13
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 303
+        width: 388
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b25f1f3bf23caa20800000000000000
+      internalID: 3074888700264403641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Husk Dandy - atlas0 #085014_14
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 299
+        width: 160
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d14c73d9fdcd49360800000000000000
+      internalID: 7175602959281538077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Husk Dandy - atlas0 #085014_15
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 424
+        width: 97
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12225598860c043b0800000000000000
+      internalID: -5530208787197779423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Husk Dandy - atlas0 #085014_16
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 213
+        width: 93
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18f71bdc4ef8ae4e0800000000000000
+      internalID: -1951589275645411455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Husk Dandy - atlas0 #085014_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 189
+        width: 293
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a02238ac03ffa45f0800000000000000
+      internalID: -771523801119514102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Husk Dandy - atlas0 #085014_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 187
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74d1a683c4ea0dfc0800000000000000
+      internalID: -3472083670315426489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Husk Dandy - atlas0 #085014_19
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 149
+        width: 95
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ec66ee50a7870530800000000000000
+      internalID: 3821171931703831778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Husk Dandy - atlas0 #085014_20
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 92
+        width: 122
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9789c4df552667820800000000000000
+      internalID: 2915625930230372473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Husk Dandy - atlas0 #085014_21
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 92
+        width: 92
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 864ff4487cdcf8a00800000000000000
+      internalID: 761053118850921576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Husk Dandy - atlas0 #085014_22
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 124
+        width: 106
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a9fcf5b851992a40800000000000000
+      internalID: 5343962243048208809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Husk Dandy - atlas0 #085014_23
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 0
+        width: 92
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b20bb442b9eb5fa0800000000000000
+      internalID: -5810793942324936016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Husk Dandy - atlas0 #085014_24
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 0
+        width: 137
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78d10811e55c086f0800000000000000
+      internalID: -684330135549108857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Husk Dandy - atlas0 #085014_25
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 216
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 361bb885d1d18cd70800000000000000
+      internalID: 9063526261959930211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Husk Dandy - atlas0 #085014_26
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 0
+        width: 155
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aca1ea5bf0e72b010800000000000000
+      internalID: 1203162656399039178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Husk Dandy - atlas0 #085014_0: -6166839819158922282
+      Husk Dandy - atlas0 #085014_1: 8055248515177435211
+      Husk Dandy - atlas0 #085014_10: -71034175451332194
+      Husk Dandy - atlas0 #085014_11: -4101524217886979255
+      Husk Dandy - atlas0 #085014_12: 7819595756372932286
+      Husk Dandy - atlas0 #085014_13: 3074888700264403641
+      Husk Dandy - atlas0 #085014_14: 7175602959281538077
+      Husk Dandy - atlas0 #085014_15: -5530208787197779423
+      Husk Dandy - atlas0 #085014_16: -1951589275645411455
+      Husk Dandy - atlas0 #085014_17: -771523801119514102
+      Husk Dandy - atlas0 #085014_18: -3472083670315426489
+      Husk Dandy - atlas0 #085014_19: 3821171931703831778
+      Husk Dandy - atlas0 #085014_2: 5322889269586945716
+      Husk Dandy - atlas0 #085014_20: 2915625930230372473
+      Husk Dandy - atlas0 #085014_21: 761053118850921576
+      Husk Dandy - atlas0 #085014_22: 5343962243048208809
+      Husk Dandy - atlas0 #085014_23: -5810793942324936016
+      Husk Dandy - atlas0 #085014_24: -684330135549108857
+      Husk Dandy - atlas0 #085014_25: 9063526261959930211
+      Husk Dandy - atlas0 #085014_26: 1203162656399039178
+      Husk Dandy - atlas0 #085014_3: 3964726185121915271
+      Husk Dandy - atlas0 #085014_4: 7096551830718639628
+      Husk Dandy - atlas0 #085014_5: 8529078469581558455
+      Husk Dandy - atlas0 #085014_6: -6099975613544390565
+      Husk Dandy - atlas0 #085014_7: 5666031512348796312
+      Husk Dandy - atlas0 #085014_8: 7348044476367110533
+      Husk Dandy - atlas0 #085014_9: 5058428364418703067
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

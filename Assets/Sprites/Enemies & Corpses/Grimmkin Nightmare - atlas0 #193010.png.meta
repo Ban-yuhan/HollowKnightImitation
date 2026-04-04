@@ -1,0 +1,1378 @@
+fileFormatVersion: 2
+guid: e297a300d06d55748a977f8c194c56f8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1444597317958566626
+    second: Grimmkin Nightmare - atlas0 #193010_0
+  - first:
+      213: 6556080619236105371
+    second: Grimmkin Nightmare - atlas0 #193010_1
+  - first:
+      213: 6955363586089732681
+    second: Grimmkin Nightmare - atlas0 #193010_2
+  - first:
+      213: 8108908412932370576
+    second: Grimmkin Nightmare - atlas0 #193010_3
+  - first:
+      213: 8940918833689093041
+    second: Grimmkin Nightmare - atlas0 #193010_4
+  - first:
+      213: 5508598236249225971
+    second: Grimmkin Nightmare - atlas0 #193010_5
+  - first:
+      213: 7601998644479673531
+    second: Grimmkin Nightmare - atlas0 #193010_6
+  - first:
+      213: 3354654538261519273
+    second: Grimmkin Nightmare - atlas0 #193010_7
+  - first:
+      213: -6883586781315084325
+    second: Grimmkin Nightmare - atlas0 #193010_8
+  - first:
+      213: -4779793290024787710
+    second: Grimmkin Nightmare - atlas0 #193010_9
+  - first:
+      213: 8546341325552675916
+    second: Grimmkin Nightmare - atlas0 #193010_10
+  - first:
+      213: -6986392282663979421
+    second: Grimmkin Nightmare - atlas0 #193010_11
+  - first:
+      213: -424950198449666416
+    second: Grimmkin Nightmare - atlas0 #193010_12
+  - first:
+      213: 1273942569763962361
+    second: Grimmkin Nightmare - atlas0 #193010_13
+  - first:
+      213: 502058449418688056
+    second: Grimmkin Nightmare - atlas0 #193010_14
+  - first:
+      213: -1435781297839531847
+    second: Grimmkin Nightmare - atlas0 #193010_15
+  - first:
+      213: 1667864665367856824
+    second: Grimmkin Nightmare - atlas0 #193010_16
+  - first:
+      213: -4738138202859407732
+    second: Grimmkin Nightmare - atlas0 #193010_17
+  - first:
+      213: -8915097925247782655
+    second: Grimmkin Nightmare - atlas0 #193010_18
+  - first:
+      213: 2754831394154122127
+    second: Grimmkin Nightmare - atlas0 #193010_19
+  - first:
+      213: -1689671430900804464
+    second: Grimmkin Nightmare - atlas0 #193010_20
+  - first:
+      213: 4754895032044755451
+    second: Grimmkin Nightmare - atlas0 #193010_21
+  - first:
+      213: -8873259289788009445
+    second: Grimmkin Nightmare - atlas0 #193010_22
+  - first:
+      213: -5814498208066577726
+    second: Grimmkin Nightmare - atlas0 #193010_23
+  - first:
+      213: -887691518445193083
+    second: Grimmkin Nightmare - atlas0 #193010_24
+  - first:
+      213: -2299601908606511876
+    second: Grimmkin Nightmare - atlas0 #193010_25
+  - first:
+      213: -6505920783919416054
+    second: Grimmkin Nightmare - atlas0 #193010_26
+  - first:
+      213: 7828705240941797107
+    second: Grimmkin Nightmare - atlas0 #193010_27
+  - first:
+      213: -3889060325523024081
+    second: Grimmkin Nightmare - atlas0 #193010_28
+  - first:
+      213: 6288565656290673999
+    second: Grimmkin Nightmare - atlas0 #193010_29
+  - first:
+      213: -1856923998413508181
+    second: Grimmkin Nightmare - atlas0 #193010_30
+  - first:
+      213: 4079517854266865164
+    second: Grimmkin Nightmare - atlas0 #193010_31
+  - first:
+      213: -778059347013484361
+    second: Grimmkin Nightmare - atlas0 #193010_32
+  - first:
+      213: -7939557068489733772
+    second: Grimmkin Nightmare - atlas0 #193010_33
+  - first:
+      213: -2565566789619149327
+    second: Grimmkin Nightmare - atlas0 #193010_34
+  - first:
+      213: -9201395616250819674
+    second: Grimmkin Nightmare - atlas0 #193010_35
+  - first:
+      213: -1296640382122777568
+    second: Grimmkin Nightmare - atlas0 #193010_36
+  - first:
+      213: 4094886522407256398
+    second: Grimmkin Nightmare - atlas0 #193010_37
+  - first:
+      213: 4915169527946082642
+    second: Grimmkin Nightmare - atlas0 #193010_38
+  - first:
+      213: -4187334428158408831
+    second: Grimmkin Nightmare - atlas0 #193010_39
+  - first:
+      213: -4351378417295190469
+    second: Grimmkin Nightmare - atlas0 #193010_40
+  - first:
+      213: -1119093506015110322
+    second: Grimmkin Nightmare - atlas0 #193010_41
+  - first:
+      213: 738886300594253189
+    second: Grimmkin Nightmare - atlas0 #193010_42
+  - first:
+      213: 1001854555199121704
+    second: Grimmkin Nightmare - atlas0 #193010_43
+  - first:
+      213: 2361150570184301682
+    second: Grimmkin Nightmare - atlas0 #193010_44
+  - first:
+      213: -3693979087856144937
+    second: Grimmkin Nightmare - atlas0 #193010_45
+  - first:
+      213: -1142117209741798619
+    second: Grimmkin Nightmare - atlas0 #193010_46
+  - first:
+      213: -4758573708006056498
+    second: Grimmkin Nightmare - atlas0 #193010_47
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Grimmkin Nightmare - atlas0 #193010_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1830
+        width: 381
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e2076c5b9d3c0410800000000000000
+      internalID: 1444597317958566626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grimmkin Nightmare - atlas0 #193010_1
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 1956
+        width: 19
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9c146c6690ebfa50800000000000000
+      internalID: 6556080619236105371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grimmkin Nightmare - atlas0 #193010_2
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 1977
+        width: 6
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94ac098945a668060800000000000000
+      internalID: 6955363586089732681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grimmkin Nightmare - atlas0 #193010_3
+      rect:
+        serializedVersion: 2
+        x: 1744
+        y: 1723
+        width: 158
+        height: 322
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 090b20d1d31a88070800000000000000
+      internalID: 8108908412932370576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grimmkin Nightmare - atlas0 #193010_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1508
+        width: 155
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b363a7ee46841c70800000000000000
+      internalID: 8940918833689093041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grimmkin Nightmare - atlas0 #193010_5
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 1507
+        width: 369
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fa7af9f8e8727c40800000000000000
+      internalID: 5508598236249225971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grimmkin Nightmare - atlas0 #193010_6
+      rect:
+        serializedVersion: 2
+        x: 1309
+        y: 1708
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb446337d79bf7960800000000000000
+      internalID: 7601998644479673531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grimmkin Nightmare - atlas0 #193010_7
+      rect:
+        serializedVersion: 2
+        x: 1321
+        y: 1514
+        width: 273
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9abda3167802e8e20800000000000000
+      internalID: 3354654538261519273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grimmkin Nightmare - atlas0 #193010_8
+      rect:
+        serializedVersion: 2
+        x: 1592
+        y: 1499
+        width: 154
+        height: 333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdfc32f0b469870a0800000000000000
+      internalID: -6883586781315084325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grimmkin Nightmare - atlas0 #193010_9
+      rect:
+        serializedVersion: 2
+        x: 1745
+        y: 1298
+        width: 207
+        height: 427
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 201e640c353caadb0800000000000000
+      internalID: -4779793290024787710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grimmkin Nightmare - atlas0 #193010_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1125
+        width: 193
+        height: 385
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4ceec6b724ba9670800000000000000
+      internalID: 8546341325552675916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grimmkin Nightmare - atlas0 #193010_11
+      rect:
+        serializedVersion: 2
+        x: 982
+        y: 1489
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36678420c395b0f90800000000000000
+      internalID: -6986392282663979421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grimmkin Nightmare - atlas0 #193010_12
+      rect:
+        serializedVersion: 2
+        x: 1102
+        y: 1134
+        width: 209
+        height: 385
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0960d26cb064a1af0800000000000000
+      internalID: -424950198449666416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grimmkin Nightmare - atlas0 #193010_13
+      rect:
+        serializedVersion: 2
+        x: 1309
+        y: 1307
+        width: 363
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fd770f7404fda110800000000000000
+      internalID: 1273942569763962361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grimmkin Nightmare - atlas0 #193010_14
+      rect:
+        serializedVersion: 2
+        x: 1661
+        y: 1495
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 836951eef7ba7f600800000000000000
+      internalID: 502058449418688056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grimmkin Nightmare - atlas0 #193010_15
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 995
+        width: 205
+        height: 392
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b810274484131ce0800000000000000
+      internalID: -1435781297839531847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grimmkin Nightmare - atlas0 #193010_16
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 1087
+        width: 197
+        height: 392
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b64da09312752710800000000000000
+      internalID: 1667864665367856824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grimmkin Nightmare - atlas0 #193010_17
+      rect:
+        serializedVersion: 2
+        x: 1338
+        y: 1092
+        width: 383
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c867bd18860ce3eb0800000000000000
+      internalID: -4738138202859407732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grimmkin Nightmare - atlas0 #193010_18
+      rect:
+        serializedVersion: 2
+        x: 1770
+        y: 853
+        width: 207
+        height: 421
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 101b8c3dba5374480800000000000000
+      internalID: -8915097925247782655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grimmkin Nightmare - atlas0 #193010_19
+      rect:
+        serializedVersion: 2
+        x: 1802
+        y: 1273
+        width: 13
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8b86a8ae802b3620800000000000000
+      internalID: 2754831394154122127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grimmkin Nightmare - atlas0 #193010_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 712
+        width: 206
+        height: 415
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 094180e29c41d88e0800000000000000
+      internalID: -1689671430900804464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grimmkin Nightmare - atlas0 #193010_21
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 914
+        width: 408
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf91c41d6d7ccf140800000000000000
+      internalID: 4754895032044755451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grimmkin Nightmare - atlas0 #193010_22
+      rect:
+        serializedVersion: 2
+        x: 1158
+        y: 694
+        width: 182
+        height: 417
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b14304040b9dbd480800000000000000
+      internalID: -8873259289788009445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grimmkin Nightmare - atlas0 #193010_23
+      rect:
+        serializedVersion: 2
+        x: 1173
+        y: 1105
+        width: 14
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cadb01bfa0ce4fa0800000000000000
+      internalID: -5814498208066577726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grimmkin Nightmare - atlas0 #193010_24
+      rect:
+        serializedVersion: 2
+        x: 1723
+        y: 1103
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58872f464494ea3f0800000000000000
+      internalID: -887691518445193083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grimmkin Nightmare - atlas0 #193010_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 298
+        width: 210
+        height: 416
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf4d2b87f3c2610e0800000000000000
+      internalID: -2299601908606511876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grimmkin Nightmare - atlas0 #193010_26
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 705
+        width: 295
+        height: 292
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0df6a1548356b5a0800000000000000
+      internalID: -6505920783919416054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grimmkin Nightmare - atlas0 #193010_27
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 0
+        width: 342
+        height: 707
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fe139930f525ac60800000000000000
+      internalID: 7828705240941797107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grimmkin Nightmare - atlas0 #193010_28
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 694
+        width: 393
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2792233d38470ac0800000000000000
+      internalID: -3889060325523024081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grimmkin Nightmare - atlas0 #193010_29
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 667
+        width: 211
+        height: 422
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f454de96529754750800000000000000
+      internalID: 6288565656290673999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grimmkin Nightmare - atlas0 #193010_30
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 666
+        width: 212
+        height: 428
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba13aab3671ea36e0800000000000000
+      internalID: -1856923998413508181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grimmkin Nightmare - atlas0 #193010_31
+      rect:
+        serializedVersion: 2
+        x: 1570
+        y: 665
+        width: 202
+        height: 429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c06b07ecfdb5d9830800000000000000
+      internalID: 4079517854266865164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grimmkin Nightmare - atlas0 #193010_32
+      rect:
+        serializedVersion: 2
+        x: 1770
+        y: 435
+        width: 222
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b0c61f6527c335f0800000000000000
+      internalID: -778059347013484361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grimmkin Nightmare - atlas0 #193010_33
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 0
+        width: 346
+        height: 696
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4794aba69e601d190800000000000000
+      internalID: -7939557068489733772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grimmkin Nightmare - atlas0 #193010_34
+      rect:
+        serializedVersion: 2
+        x: 1227
+        y: 262
+        width: 125
+        height: 426
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f516390996456cd0800000000000000
+      internalID: -2565566789619149327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grimmkin Nightmare - atlas0 #193010_35
+      rect:
+        serializedVersion: 2
+        x: 1255
+        y: 684
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ab888720731e4080800000000000000
+      internalID: -9201395616250819674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grimmkin Nightmare - atlas0 #193010_36
+      rect:
+        serializedVersion: 2
+        x: 1267
+        y: 661
+        width: 14
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 024252e3178610ee0800000000000000
+      internalID: -1296640382122777568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grimmkin Nightmare - atlas0 #193010_37
+      rect:
+        serializedVersion: 2
+        x: 1210
+        y: 645
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e418e93b895f3d830800000000000000
+      internalID: 4094886522407256398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grimmkin Nightmare - atlas0 #193010_38
+      rect:
+        serializedVersion: 2
+        x: 1393
+        y: 645
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 259fc0cd4a0363440800000000000000
+      internalID: 4915169527946082642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grimmkin Nightmare - atlas0 #193010_39
+      rect:
+        serializedVersion: 2
+        x: 1570
+        y: 225
+        width: 202
+        height: 442
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 187cad5e58993e5c0800000000000000
+      internalID: -4187334428158408831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grimmkin Nightmare - atlas0 #193010_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 324
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3691d1526ccc93c0800000000000000
+      internalID: -4351378417295190469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grimmkin Nightmare - atlas0 #193010_41
+      rect:
+        serializedVersion: 2
+        x: 1006
+        y: 262
+        width: 219
+        height: 382
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4bd58fa26e2870f0800000000000000
+      internalID: -1119093506015110322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grimmkin Nightmare - atlas0 #193010_42
+      rect:
+        serializedVersion: 2
+        x: 1006
+        y: 0
+        width: 357
+        height: 264
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58da254fc2d014a00800000000000000
+      internalID: 738886300594253189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grimmkin Nightmare - atlas0 #193010_43
+      rect:
+        serializedVersion: 2
+        x: 1361
+        y: 225
+        width: 211
+        height: 413
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 829204fe86d47ed00800000000000000
+      internalID: 1001854555199121704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grimmkin Nightmare - atlas0 #193010_44
+      rect:
+        serializedVersion: 2
+        x: 1774
+        y: 0
+        width: 215
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27cdb050fed74c020800000000000000
+      internalID: 2361150570184301682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grimmkin Nightmare - atlas0 #193010_45
+      rect:
+        serializedVersion: 2
+        x: 1987
+        y: 0
+        width: 51
+        height: 433
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ddec9457995cbcc0800000000000000
+      internalID: -3693979087856144937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grimmkin Nightmare - atlas0 #193010_46
+      rect:
+        serializedVersion: 2
+        x: 1361
+        y: 0
+        width: 415
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 523da7de2726620f0800000000000000
+      internalID: -1142117209741798619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grimmkin Nightmare - atlas0 #193010_47
+      rect:
+        serializedVersion: 2
+        x: 2036
+        y: 0
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecd19c0bc6626fdb0800000000000000
+      internalID: -4758573708006056498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Grimmkin Nightmare - atlas0 #193010_0: 1444597317958566626
+      Grimmkin Nightmare - atlas0 #193010_1: 6556080619236105371
+      Grimmkin Nightmare - atlas0 #193010_10: 8546341325552675916
+      Grimmkin Nightmare - atlas0 #193010_11: -6986392282663979421
+      Grimmkin Nightmare - atlas0 #193010_12: -424950198449666416
+      Grimmkin Nightmare - atlas0 #193010_13: 1273942569763962361
+      Grimmkin Nightmare - atlas0 #193010_14: 502058449418688056
+      Grimmkin Nightmare - atlas0 #193010_15: -1435781297839531847
+      Grimmkin Nightmare - atlas0 #193010_16: 1667864665367856824
+      Grimmkin Nightmare - atlas0 #193010_17: -4738138202859407732
+      Grimmkin Nightmare - atlas0 #193010_18: -8915097925247782655
+      Grimmkin Nightmare - atlas0 #193010_19: 2754831394154122127
+      Grimmkin Nightmare - atlas0 #193010_2: 6955363586089732681
+      Grimmkin Nightmare - atlas0 #193010_20: -1689671430900804464
+      Grimmkin Nightmare - atlas0 #193010_21: 4754895032044755451
+      Grimmkin Nightmare - atlas0 #193010_22: -8873259289788009445
+      Grimmkin Nightmare - atlas0 #193010_23: -5814498208066577726
+      Grimmkin Nightmare - atlas0 #193010_24: -887691518445193083
+      Grimmkin Nightmare - atlas0 #193010_25: -2299601908606511876
+      Grimmkin Nightmare - atlas0 #193010_26: -6505920783919416054
+      Grimmkin Nightmare - atlas0 #193010_27: 7828705240941797107
+      Grimmkin Nightmare - atlas0 #193010_28: -3889060325523024081
+      Grimmkin Nightmare - atlas0 #193010_29: 6288565656290673999
+      Grimmkin Nightmare - atlas0 #193010_3: 8108908412932370576
+      Grimmkin Nightmare - atlas0 #193010_30: -1856923998413508181
+      Grimmkin Nightmare - atlas0 #193010_31: 4079517854266865164
+      Grimmkin Nightmare - atlas0 #193010_32: -778059347013484361
+      Grimmkin Nightmare - atlas0 #193010_33: -7939557068489733772
+      Grimmkin Nightmare - atlas0 #193010_34: -2565566789619149327
+      Grimmkin Nightmare - atlas0 #193010_35: -9201395616250819674
+      Grimmkin Nightmare - atlas0 #193010_36: -1296640382122777568
+      Grimmkin Nightmare - atlas0 #193010_37: 4094886522407256398
+      Grimmkin Nightmare - atlas0 #193010_38: 4915169527946082642
+      Grimmkin Nightmare - atlas0 #193010_39: -4187334428158408831
+      Grimmkin Nightmare - atlas0 #193010_4: 8940918833689093041
+      Grimmkin Nightmare - atlas0 #193010_40: -4351378417295190469
+      Grimmkin Nightmare - atlas0 #193010_41: -1119093506015110322
+      Grimmkin Nightmare - atlas0 #193010_42: 738886300594253189
+      Grimmkin Nightmare - atlas0 #193010_43: 1001854555199121704
+      Grimmkin Nightmare - atlas0 #193010_44: 2361150570184301682
+      Grimmkin Nightmare - atlas0 #193010_45: -3693979087856144937
+      Grimmkin Nightmare - atlas0 #193010_46: -1142117209741798619
+      Grimmkin Nightmare - atlas0 #193010_47: -4758573708006056498
+      Grimmkin Nightmare - atlas0 #193010_5: 5508598236249225971
+      Grimmkin Nightmare - atlas0 #193010_6: 7601998644479673531
+      Grimmkin Nightmare - atlas0 #193010_7: 3354654538261519273
+      Grimmkin Nightmare - atlas0 #193010_8: -6883586781315084325
+      Grimmkin Nightmare - atlas0 #193010_9: -4779793290024787710
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

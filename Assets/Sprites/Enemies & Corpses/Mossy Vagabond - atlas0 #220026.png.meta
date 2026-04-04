@@ -1,0 +1,1196 @@
+fileFormatVersion: 2
+guid: 75cfb3cc6076f7b429b44975771124f2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 9143990618317785239
+    second: Mossy Vagabond - atlas0 #220026_0
+  - first:
+      213: 681773044509535219
+    second: Mossy Vagabond - atlas0 #220026_1
+  - first:
+      213: -6345769451123417059
+    second: Mossy Vagabond - atlas0 #220026_2
+  - first:
+      213: 370636789540237924
+    second: Mossy Vagabond - atlas0 #220026_3
+  - first:
+      213: 8320843743277559767
+    second: Mossy Vagabond - atlas0 #220026_4
+  - first:
+      213: 6926318015338848223
+    second: Mossy Vagabond - atlas0 #220026_5
+  - first:
+      213: 62885385999551895
+    second: Mossy Vagabond - atlas0 #220026_6
+  - first:
+      213: 4536799267433865294
+    second: Mossy Vagabond - atlas0 #220026_7
+  - first:
+      213: 1219523883740679502
+    second: Mossy Vagabond - atlas0 #220026_8
+  - first:
+      213: -4762895117386761576
+    second: Mossy Vagabond - atlas0 #220026_9
+  - first:
+      213: 4176881375766699198
+    second: Mossy Vagabond - atlas0 #220026_10
+  - first:
+      213: -561357780907875874
+    second: Mossy Vagabond - atlas0 #220026_11
+  - first:
+      213: -6013080181831632445
+    second: Mossy Vagabond - atlas0 #220026_12
+  - first:
+      213: -3304382720389156429
+    second: Mossy Vagabond - atlas0 #220026_13
+  - first:
+      213: -241352874043410998
+    second: Mossy Vagabond - atlas0 #220026_14
+  - first:
+      213: 5353572085747307714
+    second: Mossy Vagabond - atlas0 #220026_15
+  - first:
+      213: -7094773366465989053
+    second: Mossy Vagabond - atlas0 #220026_16
+  - first:
+      213: -6188506283744111629
+    second: Mossy Vagabond - atlas0 #220026_17
+  - first:
+      213: 2384095206361266578
+    second: Mossy Vagabond - atlas0 #220026_18
+  - first:
+      213: -4934321849171723692
+    second: Mossy Vagabond - atlas0 #220026_19
+  - first:
+      213: -1092480625943854654
+    second: Mossy Vagabond - atlas0 #220026_20
+  - first:
+      213: -5374989357181713938
+    second: Mossy Vagabond - atlas0 #220026_21
+  - first:
+      213: -8328154923903363986
+    second: Mossy Vagabond - atlas0 #220026_22
+  - first:
+      213: 3092437240663630259
+    second: Mossy Vagabond - atlas0 #220026_23
+  - first:
+      213: 472489928812362035
+    second: Mossy Vagabond - atlas0 #220026_24
+  - first:
+      213: -6059588895377801130
+    second: Mossy Vagabond - atlas0 #220026_25
+  - first:
+      213: -1478450791498783617
+    second: Mossy Vagabond - atlas0 #220026_26
+  - first:
+      213: 2309668871153441797
+    second: Mossy Vagabond - atlas0 #220026_27
+  - first:
+      213: -6068919741993476255
+    second: Mossy Vagabond - atlas0 #220026_28
+  - first:
+      213: -7608968856850794128
+    second: Mossy Vagabond - atlas0 #220026_29
+  - first:
+      213: -2576397166174986397
+    second: Mossy Vagabond - atlas0 #220026_30
+  - first:
+      213: -4091034247254474996
+    second: Mossy Vagabond - atlas0 #220026_31
+  - first:
+      213: -6639747089913513461
+    second: Mossy Vagabond - atlas0 #220026_32
+  - first:
+      213: 341323796857563133
+    second: Mossy Vagabond - atlas0 #220026_33
+  - first:
+      213: -8594922337516429875
+    second: Mossy Vagabond - atlas0 #220026_34
+  - first:
+      213: 6386949730271547776
+    second: Mossy Vagabond - atlas0 #220026_35
+  - first:
+      213: -8809382803974429938
+    second: Mossy Vagabond - atlas0 #220026_36
+  - first:
+      213: -8385277098122761699
+    second: Mossy Vagabond - atlas0 #220026_37
+  - first:
+      213: 4465345030147292791
+    second: Mossy Vagabond - atlas0 #220026_38
+  - first:
+      213: 862589328670256957
+    second: Mossy Vagabond - atlas0 #220026_39
+  - first:
+      213: 6384662708965040861
+    second: Mossy Vagabond - atlas0 #220026_40
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Mossy Vagabond - atlas0 #220026_0
+      rect:
+        serializedVersion: 2
+        x: 1502
+        y: 1128
+        width: 291
+        height: 394
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 798065a350bf5ee70800000000000000
+      internalID: 9143990618317785239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mossy Vagabond - atlas0 #220026_1
+      rect:
+        serializedVersion: 2
+        x: 1773
+        y: 1425
+        width: 103
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fb6d67c8f4267900800000000000000
+      internalID: 681773044509535219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mossy Vagabond - atlas0 #220026_2
+      rect:
+        serializedVersion: 2
+        x: 1874
+        y: 1456
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1063473e4c4fe7a0800000000000000
+      internalID: -6345769451123417059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mossy Vagabond - atlas0 #220026_3
+      rect:
+        serializedVersion: 2
+        x: 1885
+        y: 1425
+        width: 110
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 462bc354234c42500800000000000000
+      internalID: 370636789540237924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mossy Vagabond - atlas0 #220026_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 964
+        width: 230
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7df279d7c43997370800000000000000
+      internalID: 8320843743277559767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mossy Vagabond - atlas0 #220026_5
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 969
+        width: 232
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdf19a9a9893f1060800000000000000
+      internalID: 6926318015338848223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mossy Vagabond - atlas0 #220026_6
+      rect:
+        serializedVersion: 2
+        x: 1258
+        y: 1184
+        width: 246
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79d0116ece96fd000800000000000000
+      internalID: 62885385999551895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mossy Vagabond - atlas0 #220026_7
+      rect:
+        serializedVersion: 2
+        x: 1327
+        y: 962
+        width: 234
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e40e5a095e2f5fe30800000000000000
+      internalID: 4536799267433865294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mossy Vagabond - atlas0 #220026_8
+      rect:
+        serializedVersion: 2
+        x: 1791
+        y: 962
+        width: 248
+        height: 465
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4dc77dc28e9ce010800000000000000
+      internalID: 1219523883740679502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mossy Vagabond - atlas0 #220026_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 728
+        width: 252
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89a38b9202cc6edb0800000000000000
+      internalID: -4762895117386761576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mossy Vagabond - atlas0 #220026_10
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 938
+        width: 258
+        height: 233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebcd48f2b7347f930800000000000000
+      internalID: 4176881375766699198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mossy Vagabond - atlas0 #220026_11
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 949
+        width: 232
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed1a51d8218a538f0800000000000000
+      internalID: -561357780907875874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mossy Vagabond - atlas0 #220026_12
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 717
+        width: 498
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c9fbfbee6f3d8ca0800000000000000
+      internalID: -6013080181831632445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mossy Vagabond - atlas0 #220026_13
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 948
+        width: 231
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b1f3455c697422d0800000000000000
+      internalID: -3304382720389156429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mossy Vagabond - atlas0 #220026_14
+      rect:
+        serializedVersion: 2
+        x: 1096
+        y: 743
+        width: 233
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac57f1df6da86acf0800000000000000
+      internalID: -241352874043410998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mossy Vagabond - atlas0 #220026_15
+      rect:
+        serializedVersion: 2
+        x: 1335
+        y: 729
+        width: 237
+        height: 235
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c45a629275bb4a40800000000000000
+      internalID: 5353572085747307714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mossy Vagabond - atlas0 #220026_16
+      rect:
+        serializedVersion: 2
+        x: 1570
+        y: 903
+        width: 244
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34674e1863d4a8d90800000000000000
+      internalID: -7094773366465989053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mossy Vagabond - atlas0 #220026_17
+      rect:
+        serializedVersion: 2
+        x: 1842
+        y: 718
+        width: 198
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f3d823b2520e1aa0800000000000000
+      internalID: -6188506283744111629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mossy Vagabond - atlas0 #220026_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 492
+        width: 261
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 299ffdd65f1061120800000000000000
+      internalID: 2384095206361266578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mossy Vagabond - atlas0 #220026_19
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 718
+        width: 277
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45abbacdb64c58bb0800000000000000
+      internalID: -4934321849171723692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mossy Vagabond - atlas0 #220026_20
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 486
+        width: 269
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c1ce9ea8aab6d0f0800000000000000
+      internalID: -1092480625943854654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mossy Vagabond - atlas0 #220026_21
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 245
+        width: 770
+        height: 565
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee1cda558a33865b0800000000000000
+      internalID: -5374989357181713938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mossy Vagabond - atlas0 #220026_22
+      rect:
+        serializedVersion: 2
+        x: 1351
+        y: 506
+        width: 256
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e64d15e98337c6c80800000000000000
+      internalID: -8328154923903363986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mossy Vagabond - atlas0 #220026_23
+      rect:
+        serializedVersion: 2
+        x: 1605
+        y: 667
+        width: 239
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b1e1f3394b8aea20800000000000000
+      internalID: 3092437240663630259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mossy Vagabond - atlas0 #220026_24
+      rect:
+        serializedVersion: 2
+        x: 1621
+        y: 444
+        width: 426
+        height: 276
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3397fce361f9e8600800000000000000
+      internalID: 472489928812362035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mossy Vagabond - atlas0 #220026_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 251
+        width: 269
+        height: 243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 650ca16310408eba0800000000000000
+      internalID: -6059588895377801130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mossy Vagabond - atlas0 #220026_26
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 248
+        width: 277
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f74e1da96dc7b7be0800000000000000
+      internalID: -1478450791498783617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mossy Vagabond - atlas0 #220026_27
+      rect:
+        serializedVersion: 2
+        x: 1124
+        y: 232
+        width: 229
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50cd0e5e9979d0020800000000000000
+      internalID: 2309668871153441797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mossy Vagabond - atlas0 #220026_28
+      rect:
+        serializedVersion: 2
+        x: 1394
+        y: 230
+        width: 229
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16f9f1036add6cba0800000000000000
+      internalID: -6068919741993476255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mossy Vagabond - atlas0 #220026_29
+      rect:
+        serializedVersion: 2
+        x: 1621
+        y: 233
+        width: 275
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 079f5648323876690800000000000000
+      internalID: -7608968856850794128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mossy Vagabond - atlas0 #220026_30
+      rect:
+        serializedVersion: 2
+        x: 1894
+        y: 362
+        width: 131
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36f11dd7d6cce3cd0800000000000000
+      internalID: -2576397166174986397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mossy Vagabond - atlas0 #220026_31
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 294
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0f7070070ab937c0800000000000000
+      internalID: -4091034247254474996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mossy Vagabond - atlas0 #220026_32
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 0
+        width: 286
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0a754b5331ead3a0800000000000000
+      internalID: -6639747089913513461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mossy Vagabond - atlas0 #220026_33
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 0
+        width: 286
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df725115f20acb400800000000000000
+      internalID: 341323796857563133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mossy Vagabond - atlas0 #220026_34
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 0
+        width: 266
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcd53400ca3b8b880800000000000000
+      internalID: -8594922337516429875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mossy Vagabond - atlas0 #220026_35
+      rect:
+        serializedVersion: 2
+        x: 1934
+        y: 243
+        width: 97
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 081dc1fa0f003a850800000000000000
+      internalID: 6386949730271547776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mossy Vagabond - atlas0 #220026_36
+      rect:
+        serializedVersion: 2
+        x: 1124
+        y: 0
+        width: 272
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e036bae8309ceb580800000000000000
+      internalID: -8809382803974429938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mossy Vagabond - atlas0 #220026_37
+      rect:
+        serializedVersion: 2
+        x: 1394
+        y: 0
+        width: 274
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1aac2708e281ab80800000000000000
+      internalID: -8385277098122761699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mossy Vagabond - atlas0 #220026_38
+      rect:
+        serializedVersion: 2
+        x: 1666
+        y: 0
+        width: 270
+        height: 235
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77e3c7185a718fd30800000000000000
+      internalID: 4465345030147292791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mossy Vagabond - atlas0 #220026_39
+      rect:
+        serializedVersion: 2
+        x: 1934
+        y: 109
+        width: 96
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3fee6a9c6888fb00800000000000000
+      internalID: 862589328670256957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mossy Vagabond - atlas0 #220026_40
+      rect:
+        serializedVersion: 2
+        x: 1934
+        y: 0
+        width: 114
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd26b8a08e0ea9850800000000000000
+      internalID: 6384662708965040861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Mossy Vagabond - atlas0 #220026_0: 9143990618317785239
+      Mossy Vagabond - atlas0 #220026_1: 681773044509535219
+      Mossy Vagabond - atlas0 #220026_10: 4176881375766699198
+      Mossy Vagabond - atlas0 #220026_11: -561357780907875874
+      Mossy Vagabond - atlas0 #220026_12: -6013080181831632445
+      Mossy Vagabond - atlas0 #220026_13: -3304382720389156429
+      Mossy Vagabond - atlas0 #220026_14: -241352874043410998
+      Mossy Vagabond - atlas0 #220026_15: 5353572085747307714
+      Mossy Vagabond - atlas0 #220026_16: -7094773366465989053
+      Mossy Vagabond - atlas0 #220026_17: -6188506283744111629
+      Mossy Vagabond - atlas0 #220026_18: 2384095206361266578
+      Mossy Vagabond - atlas0 #220026_19: -4934321849171723692
+      Mossy Vagabond - atlas0 #220026_2: -6345769451123417059
+      Mossy Vagabond - atlas0 #220026_20: -1092480625943854654
+      Mossy Vagabond - atlas0 #220026_21: -5374989357181713938
+      Mossy Vagabond - atlas0 #220026_22: -8328154923903363986
+      Mossy Vagabond - atlas0 #220026_23: 3092437240663630259
+      Mossy Vagabond - atlas0 #220026_24: 472489928812362035
+      Mossy Vagabond - atlas0 #220026_25: -6059588895377801130
+      Mossy Vagabond - atlas0 #220026_26: -1478450791498783617
+      Mossy Vagabond - atlas0 #220026_27: 2309668871153441797
+      Mossy Vagabond - atlas0 #220026_28: -6068919741993476255
+      Mossy Vagabond - atlas0 #220026_29: -7608968856850794128
+      Mossy Vagabond - atlas0 #220026_3: 370636789540237924
+      Mossy Vagabond - atlas0 #220026_30: -2576397166174986397
+      Mossy Vagabond - atlas0 #220026_31: -4091034247254474996
+      Mossy Vagabond - atlas0 #220026_32: -6639747089913513461
+      Mossy Vagabond - atlas0 #220026_33: 341323796857563133
+      Mossy Vagabond - atlas0 #220026_34: -8594922337516429875
+      Mossy Vagabond - atlas0 #220026_35: 6386949730271547776
+      Mossy Vagabond - atlas0 #220026_36: -8809382803974429938
+      Mossy Vagabond - atlas0 #220026_37: -8385277098122761699
+      Mossy Vagabond - atlas0 #220026_38: 4465345030147292791
+      Mossy Vagabond - atlas0 #220026_39: 862589328670256957
+      Mossy Vagabond - atlas0 #220026_4: 8320843743277559767
+      Mossy Vagabond - atlas0 #220026_40: 6384662708965040861
+      Mossy Vagabond - atlas0 #220026_5: 6926318015338848223
+      Mossy Vagabond - atlas0 #220026_6: 62885385999551895
+      Mossy Vagabond - atlas0 #220026_7: 4536799267433865294
+      Mossy Vagabond - atlas0 #220026_8: 1219523883740679502
+      Mossy Vagabond - atlas0 #220026_9: -4762895117386761576
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

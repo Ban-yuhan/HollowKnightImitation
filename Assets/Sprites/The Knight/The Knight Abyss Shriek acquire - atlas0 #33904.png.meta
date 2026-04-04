@@ -1,0 +1,520 @@
+fileFormatVersion: 2
+guid: 73598eca5c3254e4386c2e5c7eebfcd6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4341652418924681939
+    second: The Knight Abyss Shriek acquire - atlas0 #33904_0
+  - first:
+      213: 805009219779582026
+    second: The Knight Abyss Shriek acquire - atlas0 #33904_1
+  - first:
+      213: -2016653900433017067
+    second: The Knight Abyss Shriek acquire - atlas0 #33904_2
+  - first:
+      213: 436728219769622702
+    second: The Knight Abyss Shriek acquire - atlas0 #33904_3
+  - first:
+      213: 4390279163832476604
+    second: The Knight Abyss Shriek acquire - atlas0 #33904_4
+  - first:
+      213: -2014219890218166461
+    second: The Knight Abyss Shriek acquire - atlas0 #33904_5
+  - first:
+      213: -5277416102420572988
+    second: The Knight Abyss Shriek acquire - atlas0 #33904_6
+  - first:
+      213: -794776138268103723
+    second: The Knight Abyss Shriek acquire - atlas0 #33904_7
+  - first:
+      213: -1530598340769884719
+    second: The Knight Abyss Shriek acquire - atlas0 #33904_8
+  - first:
+      213: -7426520672513123621
+    second: The Knight Abyss Shriek acquire - atlas0 #33904_9
+  - first:
+      213: -6975618367941771080
+    second: The Knight Abyss Shriek acquire - atlas0 #33904_10
+  - first:
+      213: -4919538567145601151
+    second: The Knight Abyss Shriek acquire - atlas0 #33904_11
+  - first:
+      213: -3300206506255927791
+    second: The Knight Abyss Shriek acquire - atlas0 #33904_12
+  - first:
+      213: -4890926777949069939
+    second: The Knight Abyss Shriek acquire - atlas0 #33904_13
+  - first:
+      213: -742172640843702483
+    second: The Knight Abyss Shriek acquire - atlas0 #33904_14
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: The Knight Abyss Shriek acquire - atlas0 #33904_0
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 469
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3da98383fd5a04c30800000000000000
+      internalID: 4341652418924681939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight Abyss Shriek acquire - atlas0 #33904_1
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 421
+        width: 78
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4850e9ce97fb2b00800000000000000
+      internalID: 805009219779582026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight Abyss Shriek acquire - atlas0 #33904_2
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 421
+        width: 76
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 517b8c556f76304e0800000000000000
+      internalID: -2016653900433017067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight Abyss Shriek acquire - atlas0 #33904_3
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 340
+        width: 132
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea0d1c280029f0600800000000000000
+      internalID: 436728219769622702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight Abyss Shriek acquire - atlas0 #33904_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 374
+        width: 99
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb3a80983a76dec30800000000000000
+      internalID: 4390279163832476604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight Abyss Shriek acquire - atlas0 #33904_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 275
+        width: 117
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34715008ead0c04e0800000000000000
+      internalID: -2014219890218166461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight Abyss Shriek acquire - atlas0 #33904_6
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 341
+        width: 108
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c49b4b040ad2c6b0800000000000000
+      internalID: -5277416102420572988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight Abyss Shriek acquire - atlas0 #33904_7
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 340
+        width: 78
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dba29a205368f4f0800000000000000
+      internalID: -794776138268103723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight Abyss Shriek acquire - atlas0 #33904_8
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 340
+        width: 67
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d5db942be832cae0800000000000000
+      internalID: -1530598340769884719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight Abyss Shriek acquire - atlas0 #33904_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 158
+        width: 133
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bda92c5bbc2bfe890800000000000000
+      internalID: -7426520672513123621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight Abyss Shriek acquire - atlas0 #33904_10
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 231
+        width: 134
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b004228d00a13f90800000000000000
+      internalID: -6975618367941771080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight Abyss Shriek acquire - atlas0 #33904_11
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 114
+        width: 269
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 187c37eecb94abbb0800000000000000
+      internalID: -4919538567145601151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight Abyss Shriek acquire - atlas0 #33904_12
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 230
+        width: 134
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 116be25faaf4332d0800000000000000
+      internalID: -3300206506255927791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight Abyss Shriek acquire - atlas0 #33904_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 165
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8d56e93200ff1cb0800000000000000
+      internalID: -4890926777949069939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight Abyss Shriek acquire - atlas0 #33904_14
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 0
+        width: 270
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2f5f745ae543b5f0800000000000000
+      internalID: -742172640843702483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      The Knight Abyss Shriek acquire - atlas0 #33904_0: 4341652418924681939
+      The Knight Abyss Shriek acquire - atlas0 #33904_1: 805009219779582026
+      The Knight Abyss Shriek acquire - atlas0 #33904_10: -6975618367941771080
+      The Knight Abyss Shriek acquire - atlas0 #33904_11: -4919538567145601151
+      The Knight Abyss Shriek acquire - atlas0 #33904_12: -3300206506255927791
+      The Knight Abyss Shriek acquire - atlas0 #33904_13: -4890926777949069939
+      The Knight Abyss Shriek acquire - atlas0 #33904_14: -742172640843702483
+      The Knight Abyss Shriek acquire - atlas0 #33904_2: -2016653900433017067
+      The Knight Abyss Shriek acquire - atlas0 #33904_3: 436728219769622702
+      The Knight Abyss Shriek acquire - atlas0 #33904_4: 4390279163832476604
+      The Knight Abyss Shriek acquire - atlas0 #33904_5: -2014219890218166461
+      The Knight Abyss Shriek acquire - atlas0 #33904_6: -5277416102420572988
+      The Knight Abyss Shriek acquire - atlas0 #33904_7: -794776138268103723
+      The Knight Abyss Shriek acquire - atlas0 #33904_8: -1530598340769884719
+      The Knight Abyss Shriek acquire - atlas0 #33904_9: -7426520672513123621
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

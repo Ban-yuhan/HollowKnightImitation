@@ -1,0 +1,624 @@
+fileFormatVersion: 2
+guid: 654aaee64a824354cb3940bcce3db8af
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 422504924537023226
+    second: The Knight monarch wings acquire - atlas0 #34607_0
+  - first:
+      213: -6394760643062954005
+    second: The Knight monarch wings acquire - atlas0 #34607_1
+  - first:
+      213: 6533309841043185527
+    second: The Knight monarch wings acquire - atlas0 #34607_2
+  - first:
+      213: 951740161995539537
+    second: The Knight monarch wings acquire - atlas0 #34607_3
+  - first:
+      213: 1798908510921690089
+    second: The Knight monarch wings acquire - atlas0 #34607_4
+  - first:
+      213: -8354678357758063943
+    second: The Knight monarch wings acquire - atlas0 #34607_5
+  - first:
+      213: -6618725357654874880
+    second: The Knight monarch wings acquire - atlas0 #34607_6
+  - first:
+      213: -1797960007155808007
+    second: The Knight monarch wings acquire - atlas0 #34607_7
+  - first:
+      213: 6982814846703692076
+    second: The Knight monarch wings acquire - atlas0 #34607_8
+  - first:
+      213: 3554798489020612927
+    second: The Knight monarch wings acquire - atlas0 #34607_9
+  - first:
+      213: -6992699722806799296
+    second: The Knight monarch wings acquire - atlas0 #34607_10
+  - first:
+      213: 8198913875059943847
+    second: The Knight monarch wings acquire - atlas0 #34607_11
+  - first:
+      213: 8711069702297599431
+    second: The Knight monarch wings acquire - atlas0 #34607_12
+  - first:
+      213: -6493345974341543451
+    second: The Knight monarch wings acquire - atlas0 #34607_13
+  - first:
+      213: -8809366997904302787
+    second: The Knight monarch wings acquire - atlas0 #34607_14
+  - first:
+      213: 1516557936254226273
+    second: The Knight monarch wings acquire - atlas0 #34607_15
+  - first:
+      213: -9001683171596638200
+    second: The Knight monarch wings acquire - atlas0 #34607_16
+  - first:
+      213: -5756217543302301568
+    second: The Knight monarch wings acquire - atlas0 #34607_17
+  - first:
+      213: -5135305013009873269
+    second: The Knight monarch wings acquire - atlas0 #34607_18
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: The Knight monarch wings acquire - atlas0 #34607_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 860
+        width: 103
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afae1e68df90dd500800000000000000
+      internalID: 422504924537023226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight monarch wings acquire - atlas0 #34607_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 752
+        width: 141
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be78596731f3147a0800000000000000
+      internalID: -6394760643062954005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight monarch wings acquire - atlas0 #34607_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 627
+        width: 141
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77f51fa7faafaaa50800000000000000
+      internalID: 6533309841043185527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight monarch wings acquire - atlas0 #34607_3
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 627
+        width: 112
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 154873282a2453d00800000000000000
+      internalID: 951740161995539537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight monarch wings acquire - atlas0 #34607_4
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 742
+        width: 34
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9eb0ae872c107f810800000000000000
+      internalID: 1798908510921690089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight monarch wings acquire - atlas0 #34607_5
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 739
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bacf217c483e0c80800000000000000
+      internalID: -8354678357758063943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight monarch wings acquire - atlas0 #34607_6
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 719
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0056c1fca509524a0800000000000000
+      internalID: -6618725357654874880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight monarch wings acquire - atlas0 #34607_7
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 749
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f88e1546ec5c07e0800000000000000
+      internalID: -1797960007155808007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight monarch wings acquire - atlas0 #34607_8
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 713
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c29e8164b11f7e060800000000000000
+      internalID: 6982814846703692076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight monarch wings acquire - atlas0 #34607_9
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 718
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f314b22446e255130800000000000000
+      internalID: 3554798489020612927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight monarch wings acquire - atlas0 #34607_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 447
+        width: 282
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 044d029a6a0f4fe90800000000000000
+      internalID: -6992699722806799296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight monarch wings acquire - atlas0 #34607_11
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 481
+        width: 134
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a928facab468c170800000000000000
+      internalID: 8198913875059943847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight monarch wings acquire - atlas0 #34607_12
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 260
+        width: 122
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cdbd13bdbfe3e870800000000000000
+      internalID: 8711069702297599431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight monarch wings acquire - atlas0 #34607_13
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 250
+        width: 486
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e9d8a35d3003e5a0800000000000000
+      internalID: -6493345974341543451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight monarch wings acquire - atlas0 #34607_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 255
+        width: 360
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3d5dd1b367deb580800000000000000
+      internalID: -8809366997904302787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight monarch wings acquire - atlas0 #34607_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 477
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16f8bbf6865eb0510800000000000000
+      internalID: 1516557936254226273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight monarch wings acquire - atlas0 #34607_16
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 249
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 808ee5039d8931380800000000000000
+      internalID: -9001683171596638200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight monarch wings acquire - atlas0 #34607_17
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 0
+        width: 492
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 088389164aecd10b0800000000000000
+      internalID: -5756217543302301568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight monarch wings acquire - atlas0 #34607_18
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 244
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8683467c4bbbb8b0800000000000000
+      internalID: -5135305013009873269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      The Knight monarch wings acquire - atlas0 #34607_0: 422504924537023226
+      The Knight monarch wings acquire - atlas0 #34607_1: -6394760643062954005
+      The Knight monarch wings acquire - atlas0 #34607_10: -6992699722806799296
+      The Knight monarch wings acquire - atlas0 #34607_11: 8198913875059943847
+      The Knight monarch wings acquire - atlas0 #34607_12: 8711069702297599431
+      The Knight monarch wings acquire - atlas0 #34607_13: -6493345974341543451
+      The Knight monarch wings acquire - atlas0 #34607_14: -8809366997904302787
+      The Knight monarch wings acquire - atlas0 #34607_15: 1516557936254226273
+      The Knight monarch wings acquire - atlas0 #34607_16: -9001683171596638200
+      The Knight monarch wings acquire - atlas0 #34607_17: -5756217543302301568
+      The Knight monarch wings acquire - atlas0 #34607_18: -5135305013009873269
+      The Knight monarch wings acquire - atlas0 #34607_2: 6533309841043185527
+      The Knight monarch wings acquire - atlas0 #34607_3: 951740161995539537
+      The Knight monarch wings acquire - atlas0 #34607_4: 1798908510921690089
+      The Knight monarch wings acquire - atlas0 #34607_5: -8354678357758063943
+      The Knight monarch wings acquire - atlas0 #34607_6: -6618725357654874880
+      The Knight monarch wings acquire - atlas0 #34607_7: -1797960007155808007
+      The Knight monarch wings acquire - atlas0 #34607_8: 6982814846703692076
+      The Knight monarch wings acquire - atlas0 #34607_9: 3554798489020612927
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

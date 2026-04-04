@@ -1,0 +1,910 @@
+fileFormatVersion: 2
+guid: 1f751424097566c4e9bf30e0b4f5a1e5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7162954792987876118
+    second: Mantis Youth - atlas0 #177013_0
+  - first:
+      213: -1463361932733035026
+    second: Mantis Youth - atlas0 #177013_1
+  - first:
+      213: 911296730228378313
+    second: Mantis Youth - atlas0 #177013_2
+  - first:
+      213: -6193718180161280105
+    second: Mantis Youth - atlas0 #177013_3
+  - first:
+      213: 6412543830849831994
+    second: Mantis Youth - atlas0 #177013_4
+  - first:
+      213: 9197747371248554267
+    second: Mantis Youth - atlas0 #177013_5
+  - first:
+      213: 8342029785140801064
+    second: Mantis Youth - atlas0 #177013_6
+  - first:
+      213: -3301381171899951955
+    second: Mantis Youth - atlas0 #177013_7
+  - first:
+      213: -2442320259460756018
+    second: Mantis Youth - atlas0 #177013_8
+  - first:
+      213: 1550441077020950524
+    second: Mantis Youth - atlas0 #177013_9
+  - first:
+      213: -8310535473326058114
+    second: Mantis Youth - atlas0 #177013_10
+  - first:
+      213: -3958720104413297187
+    second: Mantis Youth - atlas0 #177013_11
+  - first:
+      213: -1072463509870786302
+    second: Mantis Youth - atlas0 #177013_12
+  - first:
+      213: -3253096938173710658
+    second: Mantis Youth - atlas0 #177013_13
+  - first:
+      213: -1350229584968860224
+    second: Mantis Youth - atlas0 #177013_14
+  - first:
+      213: -7007063809411125479
+    second: Mantis Youth - atlas0 #177013_15
+  - first:
+      213: -5020746572984588720
+    second: Mantis Youth - atlas0 #177013_16
+  - first:
+      213: -1411392706337614472
+    second: Mantis Youth - atlas0 #177013_17
+  - first:
+      213: 3105526348146386075
+    second: Mantis Youth - atlas0 #177013_18
+  - first:
+      213: 865181150950384354
+    second: Mantis Youth - atlas0 #177013_19
+  - first:
+      213: -8267732117355140835
+    second: Mantis Youth - atlas0 #177013_20
+  - first:
+      213: -4532494306322839480
+    second: Mantis Youth - atlas0 #177013_21
+  - first:
+      213: 2167410112578704800
+    second: Mantis Youth - atlas0 #177013_22
+  - first:
+      213: 344174864758886448
+    second: Mantis Youth - atlas0 #177013_23
+  - first:
+      213: -5716758492292938276
+    second: Mantis Youth - atlas0 #177013_24
+  - first:
+      213: -5601084752350637953
+    second: Mantis Youth - atlas0 #177013_25
+  - first:
+      213: -3577465593378395597
+    second: Mantis Youth - atlas0 #177013_26
+  - first:
+      213: -7490719276668775913
+    second: Mantis Youth - atlas0 #177013_27
+  - first:
+      213: -1261651347379205435
+    second: Mantis Youth - atlas0 #177013_28
+  - first:
+      213: 2138583171365985692
+    second: Mantis Youth - atlas0 #177013_29
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Mantis Youth - atlas0 #177013_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1245
+        width: 133
+        height: 284
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61b593aee6de76360800000000000000
+      internalID: 7162954792987876118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis Youth - atlas0 #177013_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 992
+        width: 151
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eed4e9d431811bbe0800000000000000
+      internalID: -1463361932733035026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis Youth - atlas0 #177013_2
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 1095
+        width: 133
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cacc324c8395ac00800000000000000
+      internalID: 911296730228378313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis Youth - atlas0 #177013_3
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 1216
+        width: 184
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 797ab90812e7b0aa0800000000000000
+      internalID: -6193718180161280105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis Youth - atlas0 #177013_4
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 1168
+        width: 286
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a344d6893aeedf850800000000000000
+      internalID: 6412543830849831994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis Youth - atlas0 #177013_5
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 910
+        width: 194
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b119d0d9086f4af70800000000000000
+      internalID: 9197747371248554267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis Youth - atlas0 #177013_6
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 1084
+        width: 289
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82eab0144e7d4c370800000000000000
+      internalID: 8342029785140801064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis Youth - atlas0 #177013_7
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 882
+        width: 204
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da49dbcc0532f22d0800000000000000
+      internalID: -3301381171899951955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis Youth - atlas0 #177013_8
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 1021
+        width: 269
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecd0a1bf9a22b1ed0800000000000000
+      internalID: -2442320259460756018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis Youth - atlas0 #177013_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 748
+        width: 178
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfff109e1f5448510800000000000000
+      internalID: 1550441077020950524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis Youth - atlas0 #177013_10
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 944
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e751e13a40c0bac80800000000000000
+      internalID: -8310535473326058114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis Youth - atlas0 #177013_11
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 910
+        width: 89
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd58f3b0a0dcf09c0800000000000000
+      internalID: -3958720104413297187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis Youth - atlas0 #177013_12
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 810
+        width: 229
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2094593be18dd11f0800000000000000
+      internalID: -1072463509870786302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis Youth - atlas0 #177013_13
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 724
+        width: 254
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebebe34029daad2d0800000000000000
+      internalID: -3253096938173710658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis Youth - atlas0 #177013_14
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 906
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cd35b6a855034de0800000000000000
+      internalID: -1350229584968860224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis Youth - atlas0 #177013_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 545
+        width: 232
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91fed812798e1ce90800000000000000
+      internalID: -7007063809411125479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis Youth - atlas0 #177013_16
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 519
+        width: 238
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0566ef9c799b25ab0800000000000000
+      internalID: -5020746572984588720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis Youth - atlas0 #177013_17
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 669
+        width: 228
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8755b2cbfc9b96ce0800000000000000
+      internalID: -1411392706337614472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis Youth - atlas0 #177013_18
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 457
+        width: 265
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b94a1e582cb091b20800000000000000
+      internalID: 3105526348146386075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis Youth - atlas0 #177013_19
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 552
+        width: 212
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e2e2c04cadb10c00800000000000000
+      internalID: 865181150950384354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis Youth - atlas0 #177013_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 287
+        width: 287
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1965fe817d134d80800000000000000
+      internalID: -8267732117355140835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis Youth - atlas0 #177013_21
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 295
+        width: 253
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 848852d41785911c0800000000000000
+      internalID: -4532494306322839480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis Youth - atlas0 #177013_22
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 380
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a5d7d29300341e10800000000000000
+      internalID: 2167410112578704800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis Youth - atlas0 #177013_23
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 289
+        width: 72
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 030529a4731c6c400800000000000000
+      internalID: 344174864758886448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis Youth - atlas0 #177013_24
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 217
+        width: 244
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd58e20a07ef9a0b0800000000000000
+      internalID: -5716758492292938276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis Youth - atlas0 #177013_25
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 280
+        width: 149
+        height: 274
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f709843f713f442b0800000000000000
+      internalID: -5601084752350637953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis Youth - atlas0 #177013_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 317
+        height: 289
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33aaf7e3ff94a5ec0800000000000000
+      internalID: -3577465593378395597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis Youth - atlas0 #177013_27
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 0
+        width: 293
+        height: 294
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7129cf1618e9b0890800000000000000
+      internalID: -7490719276668775913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis Youth - atlas0 #177013_28
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 0
+        width: 274
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cac119b8c6bd7ee0800000000000000
+      internalID: -1261651347379205435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis Youth - atlas0 #177013_29
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 0
+        width: 137
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9dd5eb4016cdad10800000000000000
+      internalID: 2138583171365985692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Mantis Youth - atlas0 #177013_0: 7162954792987876118
+      Mantis Youth - atlas0 #177013_1: -1463361932733035026
+      Mantis Youth - atlas0 #177013_10: -8310535473326058114
+      Mantis Youth - atlas0 #177013_11: -3958720104413297187
+      Mantis Youth - atlas0 #177013_12: -1072463509870786302
+      Mantis Youth - atlas0 #177013_13: -3253096938173710658
+      Mantis Youth - atlas0 #177013_14: -1350229584968860224
+      Mantis Youth - atlas0 #177013_15: -7007063809411125479
+      Mantis Youth - atlas0 #177013_16: -5020746572984588720
+      Mantis Youth - atlas0 #177013_17: -1411392706337614472
+      Mantis Youth - atlas0 #177013_18: 3105526348146386075
+      Mantis Youth - atlas0 #177013_19: 865181150950384354
+      Mantis Youth - atlas0 #177013_2: 911296730228378313
+      Mantis Youth - atlas0 #177013_20: -8267732117355140835
+      Mantis Youth - atlas0 #177013_21: -4532494306322839480
+      Mantis Youth - atlas0 #177013_22: 2167410112578704800
+      Mantis Youth - atlas0 #177013_23: 344174864758886448
+      Mantis Youth - atlas0 #177013_24: -5716758492292938276
+      Mantis Youth - atlas0 #177013_25: -5601084752350637953
+      Mantis Youth - atlas0 #177013_26: -3577465593378395597
+      Mantis Youth - atlas0 #177013_27: -7490719276668775913
+      Mantis Youth - atlas0 #177013_28: -1261651347379205435
+      Mantis Youth - atlas0 #177013_29: 2138583171365985692
+      Mantis Youth - atlas0 #177013_3: -6193718180161280105
+      Mantis Youth - atlas0 #177013_4: 6412543830849831994
+      Mantis Youth - atlas0 #177013_5: 9197747371248554267
+      Mantis Youth - atlas0 #177013_6: 8342029785140801064
+      Mantis Youth - atlas0 #177013_7: -3301381171899951955
+      Mantis Youth - atlas0 #177013_8: -2442320259460756018
+      Mantis Youth - atlas0 #177013_9: 1550441077020950524
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

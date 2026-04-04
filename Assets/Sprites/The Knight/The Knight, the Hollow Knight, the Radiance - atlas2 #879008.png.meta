@@ -1,0 +1,2366 @@
+fileFormatVersion: 2
+guid: 41097c013b2d4b144a6203cfeb19c25a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3314252995458438440
+    second: The Knight, the Hollow Knight, the Radiance - atlas2 #879008_0
+  - first:
+      213: 3169766136276551996
+    second: The Knight, the Hollow Knight, the Radiance - atlas2 #879008_1
+  - first:
+      213: 201408650238166053
+    second: The Knight, the Hollow Knight, the Radiance - atlas2 #879008_2
+  - first:
+      213: 2332352321996008431
+    second: The Knight, the Hollow Knight, the Radiance - atlas2 #879008_3
+  - first:
+      213: -2607020835560625539
+    second: The Knight, the Hollow Knight, the Radiance - atlas2 #879008_4
+  - first:
+      213: 496832503522232784
+    second: The Knight, the Hollow Knight, the Radiance - atlas2 #879008_5
+  - first:
+      213: -215321065608664905
+    second: The Knight, the Hollow Knight, the Radiance - atlas2 #879008_6
+  - first:
+      213: 6795918055233462088
+    second: The Knight, the Hollow Knight, the Radiance - atlas2 #879008_7
+  - first:
+      213: 8666250344256157619
+    second: The Knight, the Hollow Knight, the Radiance - atlas2 #879008_8
+  - first:
+      213: 3871541261670619469
+    second: The Knight, the Hollow Knight, the Radiance - atlas2 #879008_9
+  - first:
+      213: -4884040864684677491
+    second: The Knight, the Hollow Knight, the Radiance - atlas2 #879008_10
+  - first:
+      213: 7104272286808172450
+    second: The Knight, the Hollow Knight, the Radiance - atlas2 #879008_11
+  - first:
+      213: 1758771570812810083
+    second: The Knight, the Hollow Knight, the Radiance - atlas2 #879008_12
+  - first:
+      213: -2593639178135938007
+    second: The Knight, the Hollow Knight, the Radiance - atlas2 #879008_13
+  - first:
+      213: 6625657105774463042
+    second: The Knight, the Hollow Knight, the Radiance - atlas2 #879008_14
+  - first:
+      213: 2335838607082235765
+    second: The Knight, the Hollow Knight, the Radiance - atlas2 #879008_15
+  - first:
+      213: -8969924037988540983
+    second: The Knight, the Hollow Knight, the Radiance - atlas2 #879008_16
+  - first:
+      213: -3717164344176929560
+    second: The Knight, the Hollow Knight, the Radiance - atlas2 #879008_17
+  - first:
+      213: -3892985500266872556
+    second: The Knight, the Hollow Knight, the Radiance - atlas2 #879008_18
+  - first:
+      213: -6691568211970875762
+    second: The Knight, the Hollow Knight, the Radiance - atlas2 #879008_19
+  - first:
+      213: 2300291078394988587
+    second: The Knight, the Hollow Knight, the Radiance - atlas2 #879008_20
+  - first:
+      213: -5178110041436934418
+    second: The Knight, the Hollow Knight, the Radiance - atlas2 #879008_21
+  - first:
+      213: -2284359218007588473
+    second: The Knight, the Hollow Knight, the Radiance - atlas2 #879008_22
+  - first:
+      213: -4597145800857083381
+    second: The Knight, the Hollow Knight, the Radiance - atlas2 #879008_23
+  - first:
+      213: -6504992110007546125
+    second: The Knight, the Hollow Knight, the Radiance - atlas2 #879008_24
+  - first:
+      213: -8668711052336541295
+    second: The Knight, the Hollow Knight, the Radiance - atlas2 #879008_25
+  - first:
+      213: -2849626577904298741
+    second: The Knight, the Hollow Knight, the Radiance - atlas2 #879008_26
+  - first:
+      213: 8946936050057602212
+    second: The Knight, the Hollow Knight, the Radiance - atlas2 #879008_27
+  - first:
+      213: 6160795481416196237
+    second: The Knight, the Hollow Knight, the Radiance - atlas2 #879008_28
+  - first:
+      213: 384490284890798889
+    second: The Knight, the Hollow Knight, the Radiance - atlas2 #879008_29
+  - first:
+      213: -561804877896295314
+    second: The Knight, the Hollow Knight, the Radiance - atlas2 #879008_30
+  - first:
+      213: -7416726918391706138
+    second: The Knight, the Hollow Knight, the Radiance - atlas2 #879008_31
+  - first:
+      213: -6209181876576562217
+    second: The Knight, the Hollow Knight, the Radiance - atlas2 #879008_32
+  - first:
+      213: 6198746036679274135
+    second: The Knight, the Hollow Knight, the Radiance - atlas2 #879008_33
+  - first:
+      213: 1162259104762603403
+    second: The Knight, the Hollow Knight, the Radiance - atlas2 #879008_34
+  - first:
+      213: 2137636881648196124
+    second: The Knight, the Hollow Knight, the Radiance - atlas2 #879008_35
+  - first:
+      213: 4407180397956056606
+    second: The Knight, the Hollow Knight, the Radiance - atlas2 #879008_36
+  - first:
+      213: 5980973754826214118
+    second: The Knight, the Hollow Knight, the Radiance - atlas2 #879008_37
+  - first:
+      213: -3053803230243805753
+    second: The Knight, the Hollow Knight, the Radiance - atlas2 #879008_38
+  - first:
+      213: 8843636090682594366
+    second: The Knight, the Hollow Knight, the Radiance - atlas2 #879008_39
+  - first:
+      213: -3308230283033361811
+    second: The Knight, the Hollow Knight, the Radiance - atlas2 #879008_40
+  - first:
+      213: 2720280405721188
+    second: The Knight, the Hollow Knight, the Radiance - atlas2 #879008_41
+  - first:
+      213: -8854532255190949909
+    second: The Knight, the Hollow Knight, the Radiance - atlas2 #879008_42
+  - first:
+      213: 2760808044064490628
+    second: The Knight, the Hollow Knight, the Radiance - atlas2 #879008_43
+  - first:
+      213: -1888542345482703810
+    second: The Knight, the Hollow Knight, the Radiance - atlas2 #879008_44
+  - first:
+      213: -7949862540808776213
+    second: The Knight, the Hollow Knight, the Radiance - atlas2 #879008_45
+  - first:
+      213: -2618004901902850920
+    second: The Knight, the Hollow Knight, the Radiance - atlas2 #879008_46
+  - first:
+      213: 2035706790316175827
+    second: The Knight, the Hollow Knight, the Radiance - atlas2 #879008_47
+  - first:
+      213: 2845496770185853836
+    second: The Knight, the Hollow Knight, the Radiance - atlas2 #879008_48
+  - first:
+      213: -2331057253446688886
+    second: The Knight, the Hollow Knight, the Radiance - atlas2 #879008_49
+  - first:
+      213: -668319536454156530
+    second: The Knight, the Hollow Knight, the Radiance - atlas2 #879008_50
+  - first:
+      213: 1540883624493525626
+    second: The Knight, the Hollow Knight, the Radiance - atlas2 #879008_51
+  - first:
+      213: -1530110928159323649
+    second: The Knight, the Hollow Knight, the Radiance - atlas2 #879008_52
+  - first:
+      213: -154068469666916535
+    second: The Knight, the Hollow Knight, the Radiance - atlas2 #879008_53
+  - first:
+      213: -4473402142266581726
+    second: The Knight, the Hollow Knight, the Radiance - atlas2 #879008_54
+  - first:
+      213: 3007316534539139866
+    second: The Knight, the Hollow Knight, the Radiance - atlas2 #879008_55
+  - first:
+      213: -988801480611154603
+    second: The Knight, the Hollow Knight, the Radiance - atlas2 #879008_56
+  - first:
+      213: 6098401229860449135
+    second: The Knight, the Hollow Knight, the Radiance - atlas2 #879008_57
+  - first:
+      213: 6985226449427586743
+    second: The Knight, the Hollow Knight, the Radiance - atlas2 #879008_58
+  - first:
+      213: 8720333334468549400
+    second: The Knight, the Hollow Knight, the Radiance - atlas2 #879008_59
+  - first:
+      213: 5601630109370728398
+    second: The Knight, the Hollow Knight, the Radiance - atlas2 #879008_60
+  - first:
+      213: 6838462537679699057
+    second: The Knight, the Hollow Knight, the Radiance - atlas2 #879008_61
+  - first:
+      213: 5946518311446668765
+    second: The Knight, the Hollow Knight, the Radiance - atlas2 #879008_62
+  - first:
+      213: 3989934286789404877
+    second: The Knight, the Hollow Knight, the Radiance - atlas2 #879008_63
+  - first:
+      213: 7447087127088628131
+    second: The Knight, the Hollow Knight, the Radiance - atlas2 #879008_64
+  - first:
+      213: -6546410180593980021
+    second: The Knight, the Hollow Knight, the Radiance - atlas2 #879008_65
+  - first:
+      213: -3125023755101619548
+    second: The Knight, the Hollow Knight, the Radiance - atlas2 #879008_66
+  - first:
+      213: 2578880623087796496
+    second: The Knight, the Hollow Knight, the Radiance - atlas2 #879008_67
+  - first:
+      213: 4816157764568815092
+    second: The Knight, the Hollow Knight, the Radiance - atlas2 #879008_68
+  - first:
+      213: -2330289447705699839
+    second: The Knight, the Hollow Knight, the Radiance - atlas2 #879008_69
+  - first:
+      213: -2567034682680101204
+    second: The Knight, the Hollow Knight, the Radiance - atlas2 #879008_70
+  - first:
+      213: -5844866853743005887
+    second: The Knight, the Hollow Knight, the Radiance - atlas2 #879008_71
+  - first:
+      213: 7626771196914826989
+    second: The Knight, the Hollow Knight, the Radiance - atlas2 #879008_72
+  - first:
+      213: -1830877689077366451
+    second: The Knight, the Hollow Knight, the Radiance - atlas2 #879008_73
+  - first:
+      213: -6091998266847662556
+    second: The Knight, the Hollow Knight, the Radiance - atlas2 #879008_74
+  - first:
+      213: -4962823016673609424
+    second: The Knight, the Hollow Knight, the Radiance - atlas2 #879008_75
+  - first:
+      213: -4630735831607799580
+    second: The Knight, the Hollow Knight, the Radiance - atlas2 #879008_76
+  - first:
+      213: 5107581164693236752
+    second: The Knight, the Hollow Knight, the Radiance - atlas2 #879008_77
+  - first:
+      213: 7774745682635503187
+    second: The Knight, the Hollow Knight, the Radiance - atlas2 #879008_78
+  - first:
+      213: 4062921672275762100
+    second: The Knight, the Hollow Knight, the Radiance - atlas2 #879008_79
+  - first:
+      213: -6454116683930350192
+    second: The Knight, the Hollow Knight, the Radiance - atlas2 #879008_80
+  - first:
+      213: 8536187271445250979
+    second: The Knight, the Hollow Knight, the Radiance - atlas2 #879008_81
+  - first:
+      213: 1461439972692703711
+    second: The Knight, the Hollow Knight, the Radiance - atlas2 #879008_82
+  - first:
+      213: 8567031579437513300
+    second: The Knight, the Hollow Knight, the Radiance - atlas2 #879008_83
+  - first:
+      213: -3679624031351177344
+    second: The Knight, the Hollow Knight, the Radiance - atlas2 #879008_84
+  - first:
+      213: -8013528807320189153
+    second: The Knight, the Hollow Knight, the Radiance - atlas2 #879008_85
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: The Knight, the Hollow Knight, the Radiance - atlas2 #879008_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1528
+        width: 291
+        height: 487
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 825131a2a879efd20800000000000000
+      internalID: 3314252995458438440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight, the Hollow Knight, the Radiance - atlas2 #879008_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 815
+        width: 495
+        height: 715
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3983ddb1854dfb20800000000000000
+      internalID: 3169766136276551996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight, the Hollow Knight, the Radiance - atlas2 #879008_2
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 1528
+        width: 326
+        height: 419
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 524032ca91c8bc200800000000000000
+      internalID: 201408650238166053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight, the Hollow Knight, the Radiance - atlas2 #879008_3
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 1033
+        width: 305
+        height: 421
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: feb21ab541e2e5020800000000000000
+      internalID: 2332352321996008431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight, the Hollow Knight, the Radiance - atlas2 #879008_4
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 1203
+        width: 217
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7aed56dc5002dbd0800000000000000
+      internalID: -2607020835560625539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight, the Hollow Knight, the Radiance - atlas2 #879008_5
+      rect:
+        serializedVersion: 2
+        x: 1061
+        y: 1137
+        width: 217
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d98f45978a15e600800000000000000
+      internalID: 496832503522232784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight, the Hollow Knight, the Radiance - atlas2 #879008_6
+      rect:
+        serializedVersion: 2
+        x: 1276
+        y: 1250
+        width: 217
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b8acb3b1a6030df0800000000000000
+      internalID: -215321065608664905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight, the Hollow Knight, the Radiance - atlas2 #879008_7
+      rect:
+        serializedVersion: 2
+        x: 1277
+        y: 1056
+        width: 218
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84f9ad40773ff4e50800000000000000
+      internalID: 6795918055233462088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight, the Hollow Knight, the Radiance - atlas2 #879008_8
+      rect:
+        serializedVersion: 2
+        x: 1614
+        y: 748
+        width: 120
+        height: 532
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b7bef7b5c4b44870800000000000000
+      internalID: 8666250344256157619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight, the Hollow Knight, the Radiance - atlas2 #879008_9
+      rect:
+        serializedVersion: 2
+        x: 1732
+        y: 1113
+        width: 272
+        height: 276
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d491523e34a7ab530800000000000000
+      internalID: 3871541261670619469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight, the Hollow Knight, the Radiance - atlas2 #879008_10
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 943
+        width: 267
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d866af7d5b6683cb0800000000000000
+      internalID: -4884040864684677491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight, the Hollow Knight, the Radiance - atlas2 #879008_11
+      rect:
+        serializedVersion: 2
+        x: 1061
+        y: 943
+        width: 218
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a76ada3102779260800000000000000
+      internalID: 7104272286808172450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight, the Hollow Knight, the Radiance - atlas2 #879008_12
+      rect:
+        serializedVersion: 2
+        x: 2003
+        y: 1112
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3637a5fdc69686810800000000000000
+      internalID: 1758771570812810083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight, the Hollow Knight, the Radiance - atlas2 #879008_13
+      rect:
+        serializedVersion: 2
+        x: 2017
+        y: 1104
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92cdbafb8ea810cd0800000000000000
+      internalID: -2593639178135938007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight, the Hollow Knight, the Radiance - atlas2 #879008_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 797
+        width: 239
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 248ca31980013fb50800000000000000
+      internalID: 6625657105774463042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight, the Hollow Knight, the Radiance - atlas2 #879008_15
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 534
+        width: 278
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 577a7cb56d09a6020800000000000000
+      internalID: 2335838607082235765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight, the Hollow Knight, the Radiance - atlas2 #879008_16
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 897
+        width: 9
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cd9475bc9d648380800000000000000
+      internalID: -8969924037988540983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight, the Hollow Knight, the Radiance - atlas2 #879008_17
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 812
+        width: 570
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e4169d29baf96cc0800000000000000
+      internalID: -3717164344176929560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight, the Hollow Knight, the Radiance - atlas2 #879008_18
+      rect:
+        serializedVersion: 2
+        x: 1341
+        y: 788
+        width: 273
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 411c8dc305659f9c0800000000000000
+      internalID: -3892985500266872556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight, the Hollow Knight, the Radiance - atlas2 #879008_19
+      rect:
+        serializedVersion: 2
+        x: 1917
+        y: 551
+        width: 89
+        height: 555
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8e1e272a26c223a0800000000000000
+      internalID: -6691568211970875762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight, the Hollow Knight, the Radiance - atlas2 #879008_20
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 780
+        width: 113
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b28cbbf5c864cef10800000000000000
+      internalID: 2300291078394988587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight, the Hollow Knight, the Radiance - atlas2 #879008_21
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 794
+        width: 48
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eeea4442a58a328b0800000000000000
+      internalID: -5178110041436934418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight, the Hollow Knight, the Radiance - atlas2 #879008_22
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 799
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 781c44fe4635c40e0800000000000000
+      internalID: -2284359218007588473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight, the Hollow Knight, the Radiance - atlas2 #879008_23
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 783
+        width: 54
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b022c373048a330c0800000000000000
+      internalID: -4597145800857083381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight, the Hollow Knight, the Radiance - atlas2 #879008_24
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 794
+        width: 110
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fe08401420a9b5a0800000000000000
+      internalID: -6504992110007546125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight, the Hollow Knight, the Radiance - atlas2 #879008_25
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 495
+        width: 309
+        height: 311
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1915af80a3d82b780800000000000000
+      internalID: -8668711052336541295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight, the Hollow Knight, the Radiance - atlas2 #879008_26
+      rect:
+        serializedVersion: 2
+        x: 1799
+        y: 276
+        width: 115
+        height: 568
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b059081b9b71478d0800000000000000
+      internalID: -2849626577904298741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight, the Hollow Knight, the Radiance - atlas2 #879008_27
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 765
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a4e1d34fe6e92c70800000000000000
+      internalID: 8946936050057602212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight, the Hollow Knight, the Radiance - atlas2 #879008_28
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 707
+        width: 138
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d80e4ab59da8f7550800000000000000
+      internalID: 6160795481416196237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight, the Hollow Knight, the Radiance - atlas2 #879008_29
+      rect:
+        serializedVersion: 2
+        x: 1201
+        y: 775
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92b318280ebf55500800000000000000
+      internalID: 384490284890798889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight, the Hollow Knight, the Radiance - atlas2 #879008_30
+      rect:
+        serializedVersion: 2
+        x: 1209
+        y: 777
+        width: 19
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6cd8eba0711438f0800000000000000
+      internalID: -561804877896295314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight, the Hollow Knight, the Radiance - atlas2 #879008_31
+      rect:
+        serializedVersion: 2
+        x: 1211
+        y: 784
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ed4f29c92e721990800000000000000
+      internalID: -7416726918391706138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight, the Hollow Knight, the Radiance - atlas2 #879008_32
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 746
+        width: 121
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d35cdc1bfd84d9a0800000000000000
+      internalID: -6209181876576562217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight, the Hollow Knight, the Radiance - atlas2 #879008_33
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 722
+        width: 35
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79ee0219dae560650800000000000000
+      internalID: 6198746036679274135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight, the Hollow Knight, the Radiance - atlas2 #879008_34
+      rect:
+        serializedVersion: 2
+        x: 1083
+        y: 498
+        width: 274
+        height: 279
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b87a6547f7c212010800000000000000
+      internalID: 1162259104762603403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight, the Hollow Knight, the Radiance - atlas2 #879008_35
+      rect:
+        serializedVersion: 2
+        x: 1355
+        y: 498
+        width: 266
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1a1a6d0b696aad10800000000000000
+      internalID: 2137636881648196124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight, the Hollow Knight, the Radiance - atlas2 #879008_36
+      rect:
+        serializedVersion: 2
+        x: 1619
+        y: 469
+        width: 141
+        height: 279
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e164c31c833792d30800000000000000
+      internalID: 4407180397956056606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight, the Hollow Knight, the Radiance - atlas2 #879008_37
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 534
+        width: 91
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6eac95301ffa00350800000000000000
+      internalID: 5980973754826214118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight, the Hollow Knight, the Radiance - atlas2 #879008_38
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 679
+        width: 107
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c5a06f4426be95d0800000000000000
+      internalID: -3053803230243805753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight, the Hollow Knight, the Radiance - atlas2 #879008_39
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 560
+        width: 27
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e34d5fb3b28eaba70800000000000000
+      internalID: 8843636090682594366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight, the Hollow Knight, the Radiance - atlas2 #879008_40
+      rect:
+        serializedVersion: 2
+        x: 1912
+        y: 611
+        width: 6
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d624b98d51ec612d0800000000000000
+      internalID: -3308230283033361811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight, the Hollow Knight, the Radiance - atlas2 #879008_41
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 535
+        height: 536
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 460c543a41aa90000800000000000000
+      internalID: 2720280405721188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight, the Hollow Knight, the Radiance - atlas2 #879008_42
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 204
+        width: 1276
+        height: 296
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: befda15c3d16e1580800000000000000
+      internalID: -8854532255190949909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight, the Hollow Knight, the Radiance - atlas2 #879008_43
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 0
+        width: 277
+        height: 311
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4844187e94c505620800000000000000
+      internalID: 2760808044064490628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight, the Hollow Knight, the Radiance - atlas2 #879008_44
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 198
+        width: 23
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3c68322ebc8ac5e0800000000000000
+      internalID: -1888542345482703810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight, the Hollow Knight, the Radiance - atlas2 #879008_45
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 264
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be598e9a32a6ca190800000000000000
+      internalID: -7949862540808776213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight, the Hollow Knight, the Radiance - atlas2 #879008_46
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 220
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89469d9996afaabd0800000000000000
+      internalID: -2618004901902850920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight, the Hollow Knight, the Radiance - atlas2 #879008_47
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 290
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d175a74a88404c10800000000000000
+      internalID: 2035706790316175827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight, the Hollow Knight, the Radiance - atlas2 #879008_48
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 241
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8bf2748c3c3d7720800000000000000
+      internalID: 2845496770185853836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight, the Hollow Knight, the Radiance - atlas2 #879008_49
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 278
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8f563947cb66afd0800000000000000
+      internalID: -2331057253446688886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight, the Hollow Knight, the Radiance - atlas2 #879008_50
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 302
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0f32392ce6a9b6f0800000000000000
+      internalID: -668319536454156530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight, the Hollow Knight, the Radiance - atlas2 #879008_51
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 331
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7a27261e71526510800000000000000
+      internalID: 1540883624493525626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight, the Hollow Knight, the Radiance - atlas2 #879008_52
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 300
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff9ce1cb734f3cae0800000000000000
+      internalID: -1530110928159323649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight, the Hollow Knight, the Radiance - atlas2 #879008_53
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 323
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9475a6a0b83acddf0800000000000000
+      internalID: -154068469666916535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight, the Hollow Knight, the Radiance - atlas2 #879008_54
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 323
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22d9ab4e3784be1c0800000000000000
+      internalID: -4473402142266581726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight, the Hollow Knight, the Radiance - atlas2 #879008_55
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 316
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1b3d5864722cb920800000000000000
+      internalID: 3007316534539139866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight, the Hollow Knight, the Radiance - atlas2 #879008_56
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 325
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 555bac2da421742f0800000000000000
+      internalID: -988801480611154603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight, the Hollow Knight, the Radiance - atlas2 #879008_57
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 319
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6b23ab9b9fd1a450800000000000000
+      internalID: 6098401229860449135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight, the Hollow Knight, the Radiance - atlas2 #879008_58
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 303
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7be5bc9427280f060800000000000000
+      internalID: 6985226449427586743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight, the Hollow Knight, the Radiance - atlas2 #879008_59
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 322
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81bdef327f8d40970800000000000000
+      internalID: 8720333334468549400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight, the Hollow Knight, the Radiance - atlas2 #879008_60
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 315
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecfbc20e7ecfcbd40800000000000000
+      internalID: 5601630109370728398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight, the Hollow Knight, the Radiance - atlas2 #879008_61
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 316
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17cf630427917ee50800000000000000
+      internalID: 6838462537679699057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight, the Hollow Knight, the Radiance - atlas2 #879008_62
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 0
+        width: 306
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd56224f5e6468250800000000000000
+      internalID: 5946518311446668765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight, the Hollow Knight, the Radiance - atlas2 #879008_63
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 191
+        width: 7
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc8eb3128181f5730800000000000000
+      internalID: 3989934286789404877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight, the Hollow Knight, the Radiance - atlas2 #879008_64
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 277
+        width: 31
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a18085294e595760800000000000000
+      internalID: 7447087127088628131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight, the Hollow Knight, the Radiance - atlas2 #879008_65
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 0
+        width: 269
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8de1b700aa7625a0800000000000000
+      internalID: -6546410180593980021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight, the Hollow Knight, the Radiance - atlas2 #879008_66
+      rect:
+        serializedVersion: 2
+        x: 1220
+        y: 310
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4aab28aa37fa1a4d0800000000000000
+      internalID: -3125023755101619548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight, the Hollow Knight, the Radiance - atlas2 #879008_67
+      rect:
+        serializedVersion: 2
+        x: 1391
+        y: 0
+        width: 257
+        height: 296
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 011494163460ac320800000000000000
+      internalID: 2578880623087796496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight, the Hollow Knight, the Radiance - atlas2 #879008_68
+      rect:
+        serializedVersion: 2
+        x: 1643
+        y: 0
+        width: 271
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f51d5348fd66d240800000000000000
+      internalID: 4816157764568815092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight, the Hollow Knight, the Radiance - atlas2 #879008_69
+      rect:
+        serializedVersion: 2
+        x: 1776
+        y: 272
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10a19adf71629afd0800000000000000
+      internalID: -2330289447705699839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight, the Hollow Knight, the Radiance - atlas2 #879008_70
+      rect:
+        serializedVersion: 2
+        x: 1912
+        y: 0
+        width: 122
+        height: 553
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca6bebc8e8f006cd0800000000000000
+      internalID: -2567034682680101204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight, the Hollow Knight, the Radiance - atlas2 #879008_71
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 167
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14f613f509cd2eea0800000000000000
+      internalID: -5844866853743005887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight, the Hollow Knight, the Radiance - atlas2 #879008_72
+      rect:
+        serializedVersion: 2
+        x: 1115
+        y: 184
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: deef947cefbb7d960800000000000000
+      internalID: 7626771196914826989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight, the Hollow Knight, the Radiance - atlas2 #879008_73
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 135
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d410b53317a6796e0800000000000000
+      internalID: -1830877689077366451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight, the Hollow Knight, the Radiance - atlas2 #879008_74
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 107
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42eef346adfd47ba0800000000000000
+      internalID: -6091998266847662556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight, the Hollow Knight, the Radiance - atlas2 #879008_75
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 81
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0397900b2c2802bb0800000000000000
+      internalID: -4962823016673609424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight, the Hollow Knight, the Radiance - atlas2 #879008_76
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 85
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e0185cbb425cbfb0800000000000000
+      internalID: -4630735831607799580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight, the Hollow Knight, the Radiance - atlas2 #879008_77
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 83
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01c24071206c1e640800000000000000
+      internalID: 5107581164693236752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight, the Hollow Knight, the Radiance - atlas2 #879008_78
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 44
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 356bd78810275eb60800000000000000
+      internalID: 7774745682635503187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight, the Hollow Knight, the Radiance - atlas2 #879008_79
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 47
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bb9b321cb5626830800000000000000
+      internalID: 4062921672275762100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight, the Hollow Knight, the Radiance - atlas2 #879008_80
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 46
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09dc863421f5e66a0800000000000000
+      internalID: -6454116683930350192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight, the Hollow Knight, the Radiance - atlas2 #879008_81
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 34
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a384b2c811a67670800000000000000
+      internalID: 8536187271445250979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight, the Hollow Knight, the Radiance - atlas2 #879008_82
+      rect:
+        serializedVersion: 2
+        x: 1185
+        y: 27
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd9b7e089e3184410800000000000000
+      internalID: 1461439972692703711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight, the Hollow Knight, the Radiance - atlas2 #879008_83
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 14
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45a3de7d4d534e670800000000000000
+      internalID: 8567031579437513300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight, the Hollow Knight, the Radiance - atlas2 #879008_84
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 7
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08f725060795fecc0800000000000000
+      internalID: -3679624031351177344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Knight, the Hollow Knight, the Radiance - atlas2 #879008_85
+      rect:
+        serializedVersion: 2
+        x: 877
+        y: 5
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f17025ad10a3ac090800000000000000
+      internalID: -8013528807320189153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      The Knight, the Hollow Knight, the Radiance - atlas2 #879008_0: 3314252995458438440
+      The Knight, the Hollow Knight, the Radiance - atlas2 #879008_1: 3169766136276551996
+      The Knight, the Hollow Knight, the Radiance - atlas2 #879008_10: -4884040864684677491
+      The Knight, the Hollow Knight, the Radiance - atlas2 #879008_11: 7104272286808172450
+      The Knight, the Hollow Knight, the Radiance - atlas2 #879008_12: 1758771570812810083
+      The Knight, the Hollow Knight, the Radiance - atlas2 #879008_13: -2593639178135938007
+      The Knight, the Hollow Knight, the Radiance - atlas2 #879008_14: 6625657105774463042
+      The Knight, the Hollow Knight, the Radiance - atlas2 #879008_15: 2335838607082235765
+      The Knight, the Hollow Knight, the Radiance - atlas2 #879008_16: -8969924037988540983
+      The Knight, the Hollow Knight, the Radiance - atlas2 #879008_17: -3717164344176929560
+      The Knight, the Hollow Knight, the Radiance - atlas2 #879008_18: -3892985500266872556
+      The Knight, the Hollow Knight, the Radiance - atlas2 #879008_19: -6691568211970875762
+      The Knight, the Hollow Knight, the Radiance - atlas2 #879008_2: 201408650238166053
+      The Knight, the Hollow Knight, the Radiance - atlas2 #879008_20: 2300291078394988587
+      The Knight, the Hollow Knight, the Radiance - atlas2 #879008_21: -5178110041436934418
+      The Knight, the Hollow Knight, the Radiance - atlas2 #879008_22: -2284359218007588473
+      The Knight, the Hollow Knight, the Radiance - atlas2 #879008_23: -4597145800857083381
+      The Knight, the Hollow Knight, the Radiance - atlas2 #879008_24: -6504992110007546125
+      The Knight, the Hollow Knight, the Radiance - atlas2 #879008_25: -8668711052336541295
+      The Knight, the Hollow Knight, the Radiance - atlas2 #879008_26: -2849626577904298741
+      The Knight, the Hollow Knight, the Radiance - atlas2 #879008_27: 8946936050057602212
+      The Knight, the Hollow Knight, the Radiance - atlas2 #879008_28: 6160795481416196237
+      The Knight, the Hollow Knight, the Radiance - atlas2 #879008_29: 384490284890798889
+      The Knight, the Hollow Knight, the Radiance - atlas2 #879008_3: 2332352321996008431
+      The Knight, the Hollow Knight, the Radiance - atlas2 #879008_30: -561804877896295314
+      The Knight, the Hollow Knight, the Radiance - atlas2 #879008_31: -7416726918391706138
+      The Knight, the Hollow Knight, the Radiance - atlas2 #879008_32: -6209181876576562217
+      The Knight, the Hollow Knight, the Radiance - atlas2 #879008_33: 6198746036679274135
+      The Knight, the Hollow Knight, the Radiance - atlas2 #879008_34: 1162259104762603403
+      The Knight, the Hollow Knight, the Radiance - atlas2 #879008_35: 2137636881648196124
+      The Knight, the Hollow Knight, the Radiance - atlas2 #879008_36: 4407180397956056606
+      The Knight, the Hollow Knight, the Radiance - atlas2 #879008_37: 5980973754826214118
+      The Knight, the Hollow Knight, the Radiance - atlas2 #879008_38: -3053803230243805753
+      The Knight, the Hollow Knight, the Radiance - atlas2 #879008_39: 8843636090682594366
+      The Knight, the Hollow Knight, the Radiance - atlas2 #879008_4: -2607020835560625539
+      The Knight, the Hollow Knight, the Radiance - atlas2 #879008_40: -3308230283033361811
+      The Knight, the Hollow Knight, the Radiance - atlas2 #879008_41: 2720280405721188
+      The Knight, the Hollow Knight, the Radiance - atlas2 #879008_42: -8854532255190949909
+      The Knight, the Hollow Knight, the Radiance - atlas2 #879008_43: 2760808044064490628
+      The Knight, the Hollow Knight, the Radiance - atlas2 #879008_44: -1888542345482703810
+      The Knight, the Hollow Knight, the Radiance - atlas2 #879008_45: -7949862540808776213
+      The Knight, the Hollow Knight, the Radiance - atlas2 #879008_46: -2618004901902850920
+      The Knight, the Hollow Knight, the Radiance - atlas2 #879008_47: 2035706790316175827
+      The Knight, the Hollow Knight, the Radiance - atlas2 #879008_48: 2845496770185853836
+      The Knight, the Hollow Knight, the Radiance - atlas2 #879008_49: -2331057253446688886
+      The Knight, the Hollow Knight, the Radiance - atlas2 #879008_5: 496832503522232784
+      The Knight, the Hollow Knight, the Radiance - atlas2 #879008_50: -668319536454156530
+      The Knight, the Hollow Knight, the Radiance - atlas2 #879008_51: 1540883624493525626
+      The Knight, the Hollow Knight, the Radiance - atlas2 #879008_52: -1530110928159323649
+      The Knight, the Hollow Knight, the Radiance - atlas2 #879008_53: -154068469666916535
+      The Knight, the Hollow Knight, the Radiance - atlas2 #879008_54: -4473402142266581726
+      The Knight, the Hollow Knight, the Radiance - atlas2 #879008_55: 3007316534539139866
+      The Knight, the Hollow Knight, the Radiance - atlas2 #879008_56: -988801480611154603
+      The Knight, the Hollow Knight, the Radiance - atlas2 #879008_57: 6098401229860449135
+      The Knight, the Hollow Knight, the Radiance - atlas2 #879008_58: 6985226449427586743
+      The Knight, the Hollow Knight, the Radiance - atlas2 #879008_59: 8720333334468549400
+      The Knight, the Hollow Knight, the Radiance - atlas2 #879008_6: -215321065608664905
+      The Knight, the Hollow Knight, the Radiance - atlas2 #879008_60: 5601630109370728398
+      The Knight, the Hollow Knight, the Radiance - atlas2 #879008_61: 6838462537679699057
+      The Knight, the Hollow Knight, the Radiance - atlas2 #879008_62: 5946518311446668765
+      The Knight, the Hollow Knight, the Radiance - atlas2 #879008_63: 3989934286789404877
+      The Knight, the Hollow Knight, the Radiance - atlas2 #879008_64: 7447087127088628131
+      The Knight, the Hollow Knight, the Radiance - atlas2 #879008_65: -6546410180593980021
+      The Knight, the Hollow Knight, the Radiance - atlas2 #879008_66: -3125023755101619548
+      The Knight, the Hollow Knight, the Radiance - atlas2 #879008_67: 2578880623087796496
+      The Knight, the Hollow Knight, the Radiance - atlas2 #879008_68: 4816157764568815092
+      The Knight, the Hollow Knight, the Radiance - atlas2 #879008_69: -2330289447705699839
+      The Knight, the Hollow Knight, the Radiance - atlas2 #879008_7: 6795918055233462088
+      The Knight, the Hollow Knight, the Radiance - atlas2 #879008_70: -2567034682680101204
+      The Knight, the Hollow Knight, the Radiance - atlas2 #879008_71: -5844866853743005887
+      The Knight, the Hollow Knight, the Radiance - atlas2 #879008_72: 7626771196914826989
+      The Knight, the Hollow Knight, the Radiance - atlas2 #879008_73: -1830877689077366451
+      The Knight, the Hollow Knight, the Radiance - atlas2 #879008_74: -6091998266847662556
+      The Knight, the Hollow Knight, the Radiance - atlas2 #879008_75: -4962823016673609424
+      The Knight, the Hollow Knight, the Radiance - atlas2 #879008_76: -4630735831607799580
+      The Knight, the Hollow Knight, the Radiance - atlas2 #879008_77: 5107581164693236752
+      The Knight, the Hollow Knight, the Radiance - atlas2 #879008_78: 7774745682635503187
+      The Knight, the Hollow Knight, the Radiance - atlas2 #879008_79: 4062921672275762100
+      The Knight, the Hollow Knight, the Radiance - atlas2 #879008_8: 8666250344256157619
+      The Knight, the Hollow Knight, the Radiance - atlas2 #879008_80: -6454116683930350192
+      The Knight, the Hollow Knight, the Radiance - atlas2 #879008_81: 8536187271445250979
+      The Knight, the Hollow Knight, the Radiance - atlas2 #879008_82: 1461439972692703711
+      The Knight, the Hollow Knight, the Radiance - atlas2 #879008_83: 8567031579437513300
+      The Knight, the Hollow Knight, the Radiance - atlas2 #879008_84: -3679624031351177344
+      The Knight, the Hollow Knight, the Radiance - atlas2 #879008_85: -8013528807320189153
+      The Knight, the Hollow Knight, the Radiance - atlas2 #879008_9: 3871541261670619469
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

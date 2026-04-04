@@ -1,0 +1,520 @@
+fileFormatVersion: 2
+guid: c8977424e9d951847ba6db0ba7a23172
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6640951188648560507
+    second: Violent Husk - atlas0 #0340013_0
+  - first:
+      213: 3912191582049874750
+    second: Violent Husk - atlas0 #0340013_1
+  - first:
+      213: -3693067111051543231
+    second: Violent Husk - atlas0 #0340013_2
+  - first:
+      213: -1196262324822796735
+    second: Violent Husk - atlas0 #0340013_3
+  - first:
+      213: 4223619086605650645
+    second: Violent Husk - atlas0 #0340013_4
+  - first:
+      213: -3098042261386435010
+    second: Violent Husk - atlas0 #0340013_5
+  - first:
+      213: -567285894137458012
+    second: Violent Husk - atlas0 #0340013_6
+  - first:
+      213: -7207126627402193198
+    second: Violent Husk - atlas0 #0340013_7
+  - first:
+      213: 5964707028355043881
+    second: Violent Husk - atlas0 #0340013_8
+  - first:
+      213: 7110592734454706201
+    second: Violent Husk - atlas0 #0340013_9
+  - first:
+      213: -3137935186338972441
+    second: Violent Husk - atlas0 #0340013_10
+  - first:
+      213: -7433446816806091538
+    second: Violent Husk - atlas0 #0340013_11
+  - first:
+      213: -2116825837515197566
+    second: Violent Husk - atlas0 #0340013_12
+  - first:
+      213: 2089694643230821058
+    second: Violent Husk - atlas0 #0340013_13
+  - first:
+      213: -5598241503411276935
+    second: Violent Husk - atlas0 #0340013_14
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Violent Husk - atlas0 #0340013_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 507
+        width: 134
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b770b1abbe5692c50800000000000000
+      internalID: 6640951188648560507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Violent Husk - atlas0 #0340013_1
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 423
+        width: 120
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e333b552485ea4630800000000000000
+      internalID: 3912191582049874750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Violent Husk - atlas0 #0340013_2
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 419
+        width: 134
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14d381a77079fbcc0800000000000000
+      internalID: -3693067111051543231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Violent Husk - atlas0 #0340013_3
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 245
+        width: 608
+        height: 384
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14611cee0c5066fe0800000000000000
+      internalID: -1196262324822796735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Violent Husk - atlas0 #0340013_4
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 519
+        width: 137
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5da80bb7e2f4d9a30800000000000000
+      internalID: 4223619086605650645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Violent Husk - atlas0 #0340013_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 258
+        width: 144
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e36e9e63afa8105d0800000000000000
+      internalID: -3098042261386435010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Violent Husk - atlas0 #0340013_6
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 136
+        width: 129
+        height: 289
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a2d8d12c789028f0800000000000000
+      internalID: -567285894137458012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Violent Husk - atlas0 #0340013_7
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 276
+        width: 126
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d6ee6274842bfb90800000000000000
+      internalID: -7207126627402193198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Violent Husk - atlas0 #0340013_8
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 123
+        width: 123
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 922d06e9075e6c250800000000000000
+      internalID: 5964707028355043881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Violent Husk - atlas0 #0340013_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 147
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91075af1b66eda260800000000000000
+      internalID: 7110592734454706201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Violent Husk - atlas0 #0340013_10
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 0
+        width: 132
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ecf012d290d374d0800000000000000
+      internalID: -3137935186338972441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Violent Husk - atlas0 #0340013_11
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 0
+        width: 154
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee4c383118717d890800000000000000
+      internalID: -7433446816806091538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Violent Husk - atlas0 #0340013_12
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 0
+        width: 295
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 283b98fbd168f92e0800000000000000
+      internalID: -2116825837515197566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Violent Husk - atlas0 #0340013_13
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 0
+        width: 156
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ca4fc2d436100d10800000000000000
+      internalID: 2089694643230821058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Violent Husk - atlas0 #0340013_14
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 0
+        width: 301
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 973725e630d0f42b0800000000000000
+      internalID: -5598241503411276935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Violent Husk - atlas0 #0340013_0: 6640951188648560507
+      Violent Husk - atlas0 #0340013_1: 3912191582049874750
+      Violent Husk - atlas0 #0340013_10: -3137935186338972441
+      Violent Husk - atlas0 #0340013_11: -7433446816806091538
+      Violent Husk - atlas0 #0340013_12: -2116825837515197566
+      Violent Husk - atlas0 #0340013_13: 2089694643230821058
+      Violent Husk - atlas0 #0340013_14: -5598241503411276935
+      Violent Husk - atlas0 #0340013_2: -3693067111051543231
+      Violent Husk - atlas0 #0340013_3: -1196262324822796735
+      Violent Husk - atlas0 #0340013_4: 4223619086605650645
+      Violent Husk - atlas0 #0340013_5: -3098042261386435010
+      Violent Husk - atlas0 #0340013_6: -567285894137458012
+      Violent Husk - atlas0 #0340013_7: -7207126627402193198
+      Violent Husk - atlas0 #0340013_8: 5964707028355043881
+      Violent Husk - atlas0 #0340013_9: 7110592734454706201
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

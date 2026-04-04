@@ -1,0 +1,806 @@
+fileFormatVersion: 2
+guid: 64d91c85714f9494fb8348372a44fb04
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8542277015114138873
+    second: Crystallised Husk - atlas0 #074008_0
+  - first:
+      213: -7970989659553675378
+    second: Crystallised Husk - atlas0 #074008_1
+  - first:
+      213: -3264919946386913883
+    second: Crystallised Husk - atlas0 #074008_2
+  - first:
+      213: -5760385098290544323
+    second: Crystallised Husk - atlas0 #074008_3
+  - first:
+      213: -2854920565713271385
+    second: Crystallised Husk - atlas0 #074008_4
+  - first:
+      213: -2558250952576766677
+    second: Crystallised Husk - atlas0 #074008_5
+  - first:
+      213: 876005344670934083
+    second: Crystallised Husk - atlas0 #074008_6
+  - first:
+      213: 4549114061489185116
+    second: Crystallised Husk - atlas0 #074008_7
+  - first:
+      213: -5106794592103092404
+    second: Crystallised Husk - atlas0 #074008_8
+  - first:
+      213: 5070699575720000113
+    second: Crystallised Husk - atlas0 #074008_9
+  - first:
+      213: -3825487083034073689
+    second: Crystallised Husk - atlas0 #074008_10
+  - first:
+      213: 8795536551149859618
+    second: Crystallised Husk - atlas0 #074008_11
+  - first:
+      213: 7033766844076781255
+    second: Crystallised Husk - atlas0 #074008_12
+  - first:
+      213: -2475909211404550026
+    second: Crystallised Husk - atlas0 #074008_13
+  - first:
+      213: 308713613357569931
+    second: Crystallised Husk - atlas0 #074008_14
+  - first:
+      213: 1235176822355461341
+    second: Crystallised Husk - atlas0 #074008_15
+  - first:
+      213: -7077233001860318491
+    second: Crystallised Husk - atlas0 #074008_16
+  - first:
+      213: 2450145696646911920
+    second: Crystallised Husk - atlas0 #074008_17
+  - first:
+      213: 7968993515560255593
+    second: Crystallised Husk - atlas0 #074008_18
+  - first:
+      213: 540253359118782025
+    second: Crystallised Husk - atlas0 #074008_19
+  - first:
+      213: 5147085440718702914
+    second: Crystallised Husk - atlas0 #074008_20
+  - first:
+      213: -4388637550363791278
+    second: Crystallised Husk - atlas0 #074008_21
+  - first:
+      213: 6700973570665415138
+    second: Crystallised Husk - atlas0 #074008_22
+  - first:
+      213: -4958150053031053204
+    second: Crystallised Husk - atlas0 #074008_23
+  - first:
+      213: 895230434524700286
+    second: Crystallised Husk - atlas0 #074008_24
+  - first:
+      213: 4069150458430081410
+    second: Crystallised Husk - atlas0 #074008_25
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Crystallised Husk - atlas0 #074008_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 842
+        width: 123
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70b332d405cb37980800000000000000
+      internalID: -8542277015114138873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crystallised Husk - atlas0 #074008_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 687
+        width: 148
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e87cdf1032b516190800000000000000
+      internalID: -7970989659553675378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crystallised Husk - atlas0 #074008_2
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 801
+        width: 277
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a545876b9ca0b2d0800000000000000
+      internalID: -3264919946386913883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crystallised Husk - atlas0 #074008_3
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 790
+        width: 161
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3140fed5400f00b0800000000000000
+      internalID: -5760385098290544323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crystallised Husk - atlas0 #074008_4
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 783
+        width: 156
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a504ba1fd84168d0800000000000000
+      internalID: -2854920565713271385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crystallised Husk - atlas0 #074008_5
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 782
+        width: 158
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2d6b5510544f7cd0800000000000000
+      internalID: -2558250952576766677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crystallised Husk - atlas0 #074008_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 347
+        width: 148
+        height: 342
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 344647e3832382c00800000000000000
+      internalID: 876005344670934083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crystallised Husk - atlas0 #074008_7
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 636
+        width: 154
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c512ccdf223b12f30800000000000000
+      internalID: 4549114061489185116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crystallised Husk - atlas0 #074008_8
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 508
+        width: 180
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4f2fcc10650129b0800000000000000
+      internalID: -5106794592103092404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crystallised Husk - atlas0 #074008_9
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 642
+        width: 157
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17ab38df56ebe5640800000000000000
+      internalID: 5070699575720000113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crystallised Husk - atlas0 #074008_10
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 326
+        width: 226
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a5a8ea24c329eac0800000000000000
+      internalID: -3825487083034073689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crystallised Husk - atlas0 #074008_11
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 634
+        width: 165
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 223704c74e5001a70800000000000000
+      internalID: 8795536551149859618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crystallised Husk - atlas0 #074008_12
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 634
+        width: 174
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ceed1e9da5fc9160800000000000000
+      internalID: 7033766844076781255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crystallised Husk - atlas0 #074008_13
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 479
+        width: 166
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6704d1ea0bdc3add0800000000000000
+      internalID: -2475909211404550026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crystallised Husk - atlas0 #074008_14
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 351
+        width: 166
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b87518d4565c84400800000000000000
+      internalID: 308713613357569931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crystallised Husk - atlas0 #074008_15
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 487
+        width: 189
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd40b4396ca342110800000000000000
+      internalID: 1235176822355461341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crystallised Husk - atlas0 #074008_16
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 321
+        width: 170
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5eab173e41e98cd90800000000000000
+      internalID: -7077233001860318491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crystallised Husk - atlas0 #074008_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 406
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b75798978aa00220800000000000000
+      internalID: 2450145696646911920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crystallised Husk - atlas0 #074008_18
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 332
+        width: 188
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9604c50816d879e60800000000000000
+      internalID: 7968993515560255593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crystallised Husk - atlas0 #074008_19
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 184
+        width: 170
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94e8cf6519d5f7700800000000000000
+      internalID: 540253359118782025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crystallised Husk - atlas0 #074008_20
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 0
+        width: 189
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2498f9a10fe1e6740800000000000000
+      internalID: 5147085440718702914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crystallised Husk - atlas0 #074008_21
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 159
+        width: 171
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25030a2666d6813c0800000000000000
+      internalID: -4388637550363791278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crystallised Husk - atlas0 #074008_22
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 0
+        width: 188
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e10bc095f3aefc50800000000000000
+      internalID: 6700973570665415138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crystallised Husk - atlas0 #074008_23
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 157
+        width: 176
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c68fff1dbcc113bb0800000000000000
+      internalID: -4958150053031053204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crystallised Husk - atlas0 #074008_24
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 0
+        width: 185
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7e96f9465f7c6c00800000000000000
+      internalID: 895230434524700286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crystallised Husk - atlas0 #074008_25
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 0
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 289c75c58c6887830800000000000000
+      internalID: 4069150458430081410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Crystallised Husk - atlas0 #074008_0: -8542277015114138873
+      Crystallised Husk - atlas0 #074008_1: -7970989659553675378
+      Crystallised Husk - atlas0 #074008_10: -3825487083034073689
+      Crystallised Husk - atlas0 #074008_11: 8795536551149859618
+      Crystallised Husk - atlas0 #074008_12: 7033766844076781255
+      Crystallised Husk - atlas0 #074008_13: -2475909211404550026
+      Crystallised Husk - atlas0 #074008_14: 308713613357569931
+      Crystallised Husk - atlas0 #074008_15: 1235176822355461341
+      Crystallised Husk - atlas0 #074008_16: -7077233001860318491
+      Crystallised Husk - atlas0 #074008_17: 2450145696646911920
+      Crystallised Husk - atlas0 #074008_18: 7968993515560255593
+      Crystallised Husk - atlas0 #074008_19: 540253359118782025
+      Crystallised Husk - atlas0 #074008_2: -3264919946386913883
+      Crystallised Husk - atlas0 #074008_20: 5147085440718702914
+      Crystallised Husk - atlas0 #074008_21: -4388637550363791278
+      Crystallised Husk - atlas0 #074008_22: 6700973570665415138
+      Crystallised Husk - atlas0 #074008_23: -4958150053031053204
+      Crystallised Husk - atlas0 #074008_24: 895230434524700286
+      Crystallised Husk - atlas0 #074008_25: 4069150458430081410
+      Crystallised Husk - atlas0 #074008_3: -5760385098290544323
+      Crystallised Husk - atlas0 #074008_4: -2854920565713271385
+      Crystallised Husk - atlas0 #074008_5: -2558250952576766677
+      Crystallised Husk - atlas0 #074008_6: 876005344670934083
+      Crystallised Husk - atlas0 #074008_7: 4549114061489185116
+      Crystallised Husk - atlas0 #074008_8: -5106794592103092404
+      Crystallised Husk - atlas0 #074008_9: 5070699575720000113
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1508 @@
+fileFormatVersion: 2
+guid: d0a767b037147624baccf656ff008406
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2465392266276174139
+    second: Lance Sentry - atlas0 #09605_0
+  - first:
+      213: -1831763213819210946
+    second: Lance Sentry - atlas0 #09605_1
+  - first:
+      213: 2805548773630784531
+    second: Lance Sentry - atlas0 #09605_2
+  - first:
+      213: 943593376924632162
+    second: Lance Sentry - atlas0 #09605_3
+  - first:
+      213: 2454431113283635724
+    second: Lance Sentry - atlas0 #09605_4
+  - first:
+      213: 8102734176155885212
+    second: Lance Sentry - atlas0 #09605_5
+  - first:
+      213: 7703422795349327157
+    second: Lance Sentry - atlas0 #09605_6
+  - first:
+      213: 2597307136931691530
+    second: Lance Sentry - atlas0 #09605_7
+  - first:
+      213: -6532195974246001602
+    second: Lance Sentry - atlas0 #09605_8
+  - first:
+      213: -6934999840005802384
+    second: Lance Sentry - atlas0 #09605_9
+  - first:
+      213: -3004905006945753124
+    second: Lance Sentry - atlas0 #09605_10
+  - first:
+      213: -2751240848891426298
+    second: Lance Sentry - atlas0 #09605_11
+  - first:
+      213: 8695967402340505544
+    second: Lance Sentry - atlas0 #09605_12
+  - first:
+      213: 5303327973533134258
+    second: Lance Sentry - atlas0 #09605_13
+  - first:
+      213: -3338179468892716180
+    second: Lance Sentry - atlas0 #09605_14
+  - first:
+      213: 9178427061097674428
+    second: Lance Sentry - atlas0 #09605_15
+  - first:
+      213: -9002301079673758799
+    second: Lance Sentry - atlas0 #09605_16
+  - first:
+      213: -6683488317274398276
+    second: Lance Sentry - atlas0 #09605_17
+  - first:
+      213: -4937283876172166782
+    second: Lance Sentry - atlas0 #09605_18
+  - first:
+      213: 2038128374564529014
+    second: Lance Sentry - atlas0 #09605_19
+  - first:
+      213: -7062175084078083983
+    second: Lance Sentry - atlas0 #09605_20
+  - first:
+      213: -8330751494984001628
+    second: Lance Sentry - atlas0 #09605_21
+  - first:
+      213: 4486822566588672506
+    second: Lance Sentry - atlas0 #09605_22
+  - first:
+      213: 904078406424762150
+    second: Lance Sentry - atlas0 #09605_23
+  - first:
+      213: 1693131315419770245
+    second: Lance Sentry - atlas0 #09605_24
+  - first:
+      213: 6346908435076827812
+    second: Lance Sentry - atlas0 #09605_25
+  - first:
+      213: 2349012503592983632
+    second: Lance Sentry - atlas0 #09605_26
+  - first:
+      213: 1850185596100029035
+    second: Lance Sentry - atlas0 #09605_27
+  - first:
+      213: -5426608939598685213
+    second: Lance Sentry - atlas0 #09605_28
+  - first:
+      213: -7489438349734392690
+    second: Lance Sentry - atlas0 #09605_29
+  - first:
+      213: -2904017340322480845
+    second: Lance Sentry - atlas0 #09605_30
+  - first:
+      213: -6896913896491962464
+    second: Lance Sentry - atlas0 #09605_31
+  - first:
+      213: -6300278496230888711
+    second: Lance Sentry - atlas0 #09605_32
+  - first:
+      213: 5652779396999019608
+    second: Lance Sentry - atlas0 #09605_33
+  - first:
+      213: -5124272431659796611
+    second: Lance Sentry - atlas0 #09605_34
+  - first:
+      213: -725487299207562900
+    second: Lance Sentry - atlas0 #09605_35
+  - first:
+      213: 6876698528038787128
+    second: Lance Sentry - atlas0 #09605_36
+  - first:
+      213: -6349880654633874475
+    second: Lance Sentry - atlas0 #09605_37
+  - first:
+      213: -1889814228877084871
+    second: Lance Sentry - atlas0 #09605_38
+  - first:
+      213: 4333526665434714426
+    second: Lance Sentry - atlas0 #09605_39
+  - first:
+      213: 4049436063187144669
+    second: Lance Sentry - atlas0 #09605_40
+  - first:
+      213: 7260083254480366851
+    second: Lance Sentry - atlas0 #09605_41
+  - first:
+      213: -3053955675977518019
+    second: Lance Sentry - atlas0 #09605_42
+  - first:
+      213: -16629455679944795
+    second: Lance Sentry - atlas0 #09605_43
+  - first:
+      213: -4470721218151128510
+    second: Lance Sentry - atlas0 #09605_44
+  - first:
+      213: -8383343230284306025
+    second: Lance Sentry - atlas0 #09605_45
+  - first:
+      213: -7703178435938940524
+    second: Lance Sentry - atlas0 #09605_46
+  - first:
+      213: 2855508250751191509
+    second: Lance Sentry - atlas0 #09605_47
+  - first:
+      213: -6097076566070890806
+    second: Lance Sentry - atlas0 #09605_48
+  - first:
+      213: -1628099941774746568
+    second: Lance Sentry - atlas0 #09605_49
+  - first:
+      213: -7425573091361149575
+    second: Lance Sentry - atlas0 #09605_50
+  - first:
+      213: 1301696253588289113
+    second: Lance Sentry - atlas0 #09605_51
+  - first:
+      213: 1867232785128675809
+    second: Lance Sentry - atlas0 #09605_52
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Lance Sentry - atlas0 #09605_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 936
+        width: 157
+        height: 394
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c60d98cbca29cdd0800000000000000
+      internalID: -2465392266276174139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lance Sentry - atlas0 #09605_1
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 1112
+        width: 193
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e339da7ef054496e0800000000000000
+      internalID: -1831763213819210946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lance Sentry - atlas0 #09605_2
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 1034
+        width: 214
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 314bb44cebf4fe620800000000000000
+      internalID: 2805548773630784531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lance Sentry - atlas0 #09605_3
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 1015
+        width: 150
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 264010c4d21581d00800000000000000
+      internalID: 943593376924632162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lance Sentry - atlas0 #09605_4
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 1129
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0a00f8e714ef0220800000000000000
+      internalID: 2454431113283635724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lance Sentry - atlas0 #09605_5
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 988
+        width: 158
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9e50379dc1b27070800000000000000
+      internalID: 8102734176155885212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lance Sentry - atlas0 #09605_6
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 1008
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53d7177c73e08ea60800000000000000
+      internalID: 7703422795349327157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lance Sentry - atlas0 #09605_7
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 938
+        width: 108
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0c7665741d7b0420800000000000000
+      internalID: 2597307136931691530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lance Sentry - atlas0 #09605_8
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 758
+        width: 185
+        height: 356
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3494d7de5af855a0800000000000000
+      internalID: -6532195974246001602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lance Sentry - atlas0 #09605_9
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 839
+        width: 230
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0763013836ee1cf90800000000000000
+      internalID: -6934999840005802384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lance Sentry - atlas0 #09605_10
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 1008
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd7a43d11de6c46d0800000000000000
+      internalID: -3004905006945753124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lance Sentry - atlas0 #09605_11
+      rect:
+        serializedVersion: 2
+        x: 881
+        y: 1002
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60a484e4601a1d9d0800000000000000
+      internalID: -2751240848891426298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lance Sentry - atlas0 #09605_12
+      rect:
+        serializedVersion: 2
+        x: 1654
+        y: 821
+        width: 200
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c7d1ea77484ea870800000000000000
+      internalID: 8695967402340505544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lance Sentry - atlas0 #09605_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 579
+        width: 188
+        height: 359
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bda5d591b4399940800000000000000
+      internalID: 5303327973533134258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lance Sentry - atlas0 #09605_14
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 597
+        width: 125
+        height: 345
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c63c520a5776ca1d0800000000000000
+      internalID: -3338179468892716180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lance Sentry - atlas0 #09605_15
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 630
+        width: 262
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb63f8d58c2506f70800000000000000
+      internalID: 9178427061097674428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lance Sentry - atlas0 #09605_16
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 835
+        width: 156
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bb1ee04dd6611380800000000000000
+      internalID: -9002301079673758799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lance Sentry - atlas0 #09605_17
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 816
+        width: 6
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb1e26c39ca7f33a0800000000000000
+      internalID: -6683488317274398276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lance Sentry - atlas0 #09605_18
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 683
+        width: 165
+        height: 307
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2898e75397e3b7bb0800000000000000
+      internalID: -4937283876172166782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lance Sentry - atlas0 #09605_19
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 806
+        width: 223
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 673209c45f2e84c10800000000000000
+      internalID: 2038128374564529014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lance Sentry - atlas0 #09605_20
+      rect:
+        serializedVersion: 2
+        x: 1439
+        y: 720
+        width: 217
+        height: 211
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17059e39d2d1efd90800000000000000
+      internalID: -7062175084078083983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lance Sentry - atlas0 #09605_21
+      rect:
+        serializedVersion: 2
+        x: 1215
+        y: 795
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a79c6d47a9336c80800000000000000
+      internalID: -8330751494984001628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lance Sentry - atlas0 #09605_22
+      rect:
+        serializedVersion: 2
+        x: 1778
+        y: 508
+        width: 176
+        height: 315
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af969b32a55644e30800000000000000
+      internalID: 4486822566588672506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lance Sentry - atlas0 #09605_23
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 416
+        width: 203
+        height: 332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6279c08458eeb8c00800000000000000
+      internalID: 904078406424762150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lance Sentry - atlas0 #09605_24
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 711
+        width: 40
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58d6fa5f5f53f7710800000000000000
+      internalID: 1693131315419770245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lance Sentry - atlas0 #09605_25
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 416
+        width: 117
+        height: 378
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4aa4fa6289fb41850800000000000000
+      internalID: 6346908435076827812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lance Sentry - atlas0 #09605_26
+      rect:
+        serializedVersion: 2
+        x: 1169
+        y: 611
+        width: 272
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05c5c992d6e599020800000000000000
+      internalID: 2349012503592983632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lance Sentry - atlas0 #09605_27
+      rect:
+        serializedVersion: 2
+        x: 1531
+        y: 508
+        width: 248
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6a26183ffd2da910800000000000000
+      internalID: 1850185596100029035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lance Sentry - atlas0 #09605_28
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 584
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ebd24cbbefc0b4b0800000000000000
+      internalID: -5426608939598685213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lance Sentry - atlas0 #09605_29
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 434
+        width: 299
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8cc4ec608b201890800000000000000
+      internalID: -7489438349734392690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lance Sentry - atlas0 #09605_30
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 462
+        width: 236
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33df0887d9bd2b7d0800000000000000
+      internalID: -2904017340322480845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lance Sentry - atlas0 #09605_31
+      rect:
+        serializedVersion: 2
+        x: 1232
+        y: 422
+        width: 301
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0af24214a5d3940a0800000000000000
+      internalID: -6896913896491962464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lance Sentry - atlas0 #09605_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 257
+        width: 217
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fa2026861ae098a0800000000000000
+      internalID: -6300278496230888711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lance Sentry - atlas0 #09605_33
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 454
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85cf5cf69e4b27e40800000000000000
+      internalID: 5652779396999019608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lance Sentry - atlas0 #09605_34
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 218
+        width: 286
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d77379a7f5de2e8b0800000000000000
+      internalID: -5124272431659796611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lance Sentry - atlas0 #09605_35
+      rect:
+        serializedVersion: 2
+        x: 1651
+        y: 360
+        width: 394
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c69fca9252d8ee5f0800000000000000
+      internalID: -725487299207562900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lance Sentry - atlas0 #09605_36
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 350
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 838143f70e0fe6f50800000000000000
+      internalID: 6876698528038787128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lance Sentry - atlas0 #09605_37
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 275
+        width: 87
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5db4c6e0031b0e7a0800000000000000
+      internalID: -6349880654633874475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lance Sentry - atlas0 #09605_38
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 201
+        width: 322
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9377d44b8f706c5e0800000000000000
+      internalID: -1889814228877084871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lance Sentry - atlas0 #09605_39
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 224
+        width: 317
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a315bedca87c32c30800000000000000
+      internalID: 4333526665434714426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lance Sentry - atlas0 #09605_40
+      rect:
+        serializedVersion: 2
+        x: 1235
+        y: 218
+        width: 97
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddf0de605ac723830800000000000000
+      internalID: 4049436063187144669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lance Sentry - atlas0 #09605_41
+      rect:
+        serializedVersion: 2
+        x: 1346
+        y: 202
+        width: 307
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30d601f114ff0c460800000000000000
+      internalID: 7260083254480366851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lance Sentry - atlas0 #09605_42
+      rect:
+        serializedVersion: 2
+        x: 1651
+        y: 209
+        width: 394
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3472954e7b2e95d0800000000000000
+      internalID: -3053955675977518019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lance Sentry - atlas0 #09605_43
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 322
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a78361299be4cff0800000000000000
+      internalID: -16629455679944795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lance Sentry - atlas0 #09605_44
+      rect:
+        serializedVersion: 2
+        x: 1232
+        y: 269
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 242ec4e2dbec4f1c0800000000000000
+      internalID: -4470721218151128510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lance Sentry - atlas0 #09605_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 308
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7996ab8bfb168ab80800000000000000
+      internalID: -8383343230284306025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lance Sentry - atlas0 #09605_46
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 3
+        width: 329
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49909649600d81590800000000000000
+      internalID: -7703178435938940524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lance Sentry - atlas0 #09605_47
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 216
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d9c83bff9dc0a720800000000000000
+      internalID: 2855508250751191509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lance Sentry - atlas0 #09605_48
+      rect:
+        serializedVersion: 2
+        x: 1023
+        y: 0
+        width: 318
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ace6cf6ba25d26ba0800000000000000
+      internalID: -6097076566070890806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lance Sentry - atlas0 #09605_49
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 0
+        width: 376
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83c9eaf9ab3d769e0800000000000000
+      internalID: -1628099941774746568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lance Sentry - atlas0 #09605_50
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 0
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97d28b3ad9013f890800000000000000
+      internalID: -7425573091361149575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lance Sentry - atlas0 #09605_51
+      rect:
+        serializedVersion: 2
+        x: 1342
+        y: 0
+        width: 325
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 956369098dd801210800000000000000
+      internalID: 1301696253588289113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lance Sentry - atlas0 #09605_52
+      rect:
+        serializedVersion: 2
+        x: 1668
+        y: 0
+        width: 326
+        height: 211
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e9de86335eb9e910800000000000000
+      internalID: 1867232785128675809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Lance Sentry - atlas0 #09605_0: -2465392266276174139
+      Lance Sentry - atlas0 #09605_1: -1831763213819210946
+      Lance Sentry - atlas0 #09605_10: -3004905006945753124
+      Lance Sentry - atlas0 #09605_11: -2751240848891426298
+      Lance Sentry - atlas0 #09605_12: 8695967402340505544
+      Lance Sentry - atlas0 #09605_13: 5303327973533134258
+      Lance Sentry - atlas0 #09605_14: -3338179468892716180
+      Lance Sentry - atlas0 #09605_15: 9178427061097674428
+      Lance Sentry - atlas0 #09605_16: -9002301079673758799
+      Lance Sentry - atlas0 #09605_17: -6683488317274398276
+      Lance Sentry - atlas0 #09605_18: -4937283876172166782
+      Lance Sentry - atlas0 #09605_19: 2038128374564529014
+      Lance Sentry - atlas0 #09605_2: 2805548773630784531
+      Lance Sentry - atlas0 #09605_20: -7062175084078083983
+      Lance Sentry - atlas0 #09605_21: -8330751494984001628
+      Lance Sentry - atlas0 #09605_22: 4486822566588672506
+      Lance Sentry - atlas0 #09605_23: 904078406424762150
+      Lance Sentry - atlas0 #09605_24: 1693131315419770245
+      Lance Sentry - atlas0 #09605_25: 6346908435076827812
+      Lance Sentry - atlas0 #09605_26: 2349012503592983632
+      Lance Sentry - atlas0 #09605_27: 1850185596100029035
+      Lance Sentry - atlas0 #09605_28: -5426608939598685213
+      Lance Sentry - atlas0 #09605_29: -7489438349734392690
+      Lance Sentry - atlas0 #09605_3: 943593376924632162
+      Lance Sentry - atlas0 #09605_30: -2904017340322480845
+      Lance Sentry - atlas0 #09605_31: -6896913896491962464
+      Lance Sentry - atlas0 #09605_32: -6300278496230888711
+      Lance Sentry - atlas0 #09605_33: 5652779396999019608
+      Lance Sentry - atlas0 #09605_34: -5124272431659796611
+      Lance Sentry - atlas0 #09605_35: -725487299207562900
+      Lance Sentry - atlas0 #09605_36: 6876698528038787128
+      Lance Sentry - atlas0 #09605_37: -6349880654633874475
+      Lance Sentry - atlas0 #09605_38: -1889814228877084871
+      Lance Sentry - atlas0 #09605_39: 4333526665434714426
+      Lance Sentry - atlas0 #09605_4: 2454431113283635724
+      Lance Sentry - atlas0 #09605_40: 4049436063187144669
+      Lance Sentry - atlas0 #09605_41: 7260083254480366851
+      Lance Sentry - atlas0 #09605_42: -3053955675977518019
+      Lance Sentry - atlas0 #09605_43: -16629455679944795
+      Lance Sentry - atlas0 #09605_44: -4470721218151128510
+      Lance Sentry - atlas0 #09605_45: -8383343230284306025
+      Lance Sentry - atlas0 #09605_46: -7703178435938940524
+      Lance Sentry - atlas0 #09605_47: 2855508250751191509
+      Lance Sentry - atlas0 #09605_48: -6097076566070890806
+      Lance Sentry - atlas0 #09605_49: -1628099941774746568
+      Lance Sentry - atlas0 #09605_5: 8102734176155885212
+      Lance Sentry - atlas0 #09605_50: -7425573091361149575
+      Lance Sentry - atlas0 #09605_51: 1301696253588289113
+      Lance Sentry - atlas0 #09605_52: 1867232785128675809
+      Lance Sentry - atlas0 #09605_6: 7703422795349327157
+      Lance Sentry - atlas0 #09605_7: 2597307136931691530
+      Lance Sentry - atlas0 #09605_8: -6532195974246001602
+      Lance Sentry - atlas0 #09605_9: -6934999840005802384
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

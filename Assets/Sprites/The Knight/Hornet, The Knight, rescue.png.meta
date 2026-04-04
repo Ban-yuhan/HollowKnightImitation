@@ -1,0 +1,1248 @@
+fileFormatVersion: 2
+guid: 88c05e999b004bb40a7a53f87a880d58
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1219565457873701201
+    second: Hornet, The Knight, rescue_0
+  - first:
+      213: -556583617647198879
+    second: Hornet, The Knight, rescue_1
+  - first:
+      213: -3282958520150922376
+    second: Hornet, The Knight, rescue_2
+  - first:
+      213: -1499009852843608670
+    second: Hornet, The Knight, rescue_3
+  - first:
+      213: 2121059707147042942
+    second: Hornet, The Knight, rescue_4
+  - first:
+      213: -801973135123988187
+    second: Hornet, The Knight, rescue_5
+  - first:
+      213: -3054933675318695900
+    second: Hornet, The Knight, rescue_6
+  - first:
+      213: -7446611414513407664
+    second: Hornet, The Knight, rescue_7
+  - first:
+      213: -8008241205439808785
+    second: Hornet, The Knight, rescue_8
+  - first:
+      213: 8805545333601295903
+    second: Hornet, The Knight, rescue_9
+  - first:
+      213: 7449110297936031112
+    second: Hornet, The Knight, rescue_10
+  - first:
+      213: 7885286989129202903
+    second: Hornet, The Knight, rescue_11
+  - first:
+      213: 6370631951166161240
+    second: Hornet, The Knight, rescue_12
+  - first:
+      213: 4082506332547832548
+    second: Hornet, The Knight, rescue_13
+  - first:
+      213: -438047604870365247
+    second: Hornet, The Knight, rescue_14
+  - first:
+      213: 2218808646309401570
+    second: Hornet, The Knight, rescue_15
+  - first:
+      213: 8228868453936135300
+    second: Hornet, The Knight, rescue_16
+  - first:
+      213: 8266816310995887104
+    second: Hornet, The Knight, rescue_17
+  - first:
+      213: 8705432449101497831
+    second: Hornet, The Knight, rescue_18
+  - first:
+      213: 3578100884187972338
+    second: Hornet, The Knight, rescue_19
+  - first:
+      213: 2557599918823583539
+    second: Hornet, The Knight, rescue_20
+  - first:
+      213: 9019423864179594427
+    second: Hornet, The Knight, rescue_21
+  - first:
+      213: -1777176708160058611
+    second: Hornet, The Knight, rescue_22
+  - first:
+      213: 8977943352888717107
+    second: Hornet, The Knight, rescue_23
+  - first:
+      213: 1523294291669162203
+    second: Hornet, The Knight, rescue_24
+  - first:
+      213: -4389481117732691388
+    second: Hornet, The Knight, rescue_25
+  - first:
+      213: 7021010275600553704
+    second: Hornet, The Knight, rescue_26
+  - first:
+      213: 8965150697265374128
+    second: Hornet, The Knight, rescue_27
+  - first:
+      213: 7364450430692849188
+    second: Hornet, The Knight, rescue_28
+  - first:
+      213: -824840960972231965
+    second: Hornet, The Knight, rescue_29
+  - first:
+      213: 5037332252929676332
+    second: Hornet, The Knight, rescue_30
+  - first:
+      213: -8167342584639740632
+    second: Hornet, The Knight, rescue_31
+  - first:
+      213: -2976096143892371324
+    second: Hornet, The Knight, rescue_32
+  - first:
+      213: -272758203665105911
+    second: Hornet, The Knight, rescue_33
+  - first:
+      213: -6829261880005594162
+    second: Hornet, The Knight, rescue_34
+  - first:
+      213: 7091735689686192646
+    second: Hornet, The Knight, rescue_35
+  - first:
+      213: -9149483677681870002
+    second: Hornet, The Knight, rescue_36
+  - first:
+      213: -6176953073810532070
+    second: Hornet, The Knight, rescue_37
+  - first:
+      213: 3881330967577181669
+    second: Hornet, The Knight, rescue_38
+  - first:
+      213: 8431655752675624941
+    second: Hornet, The Knight, rescue_39
+  - first:
+      213: 4282396131236590301
+    second: Hornet, The Knight, rescue_40
+  - first:
+      213: 7849677558241171544
+    second: Hornet, The Knight, rescue_41
+  - first:
+      213: -8099402435762420316
+    second: Hornet, The Knight, rescue_42
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Hornet, The Knight, rescue_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 743
+        width: 222
+        height: 395
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15906e88254cce010800000000000000
+      internalID: 1219565457873701201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hornet, The Knight, rescue_1
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 940
+        width: 205
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16d365e062e9648f0800000000000000
+      internalID: -556583617647198879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hornet, The Knight, rescue_2
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 743
+        width: 223
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87bef0aae969072d0800000000000000
+      internalID: -3282958520150922376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hornet, The Knight, rescue_3
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 765
+        width: 165
+        height: 211
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a5327e1b72723be0800000000000000
+      internalID: -1499009852843608670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hornet, The Knight, rescue_4
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 800
+        width: 178
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e70c4e7d0948f6d10800000000000000
+      internalID: 2121059707147042942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hornet, The Knight, rescue_5
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 792
+        width: 177
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5214781cea1ded4f0800000000000000
+      internalID: -801973135123988187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hornet, The Knight, rescue_6
+      rect:
+        serializedVersion: 2
+        x: 1016
+        y: 937
+        width: 177
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 428204e0202ba95d0800000000000000
+      internalID: -3054933675318695900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hornet, The Knight, rescue_7
+      rect:
+        serializedVersion: 2
+        x: 1267
+        y: 934
+        width: 179
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0592f815f5258a890800000000000000
+      internalID: -7446611414513407664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hornet, The Knight, rescue_8
+      rect:
+        serializedVersion: 2
+        x: 1460
+        y: 811
+        width: 168
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fea3d1a9d030dd090800000000000000
+      internalID: -8008241205439808785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hornet, The Knight, rescue_9
+      rect:
+        serializedVersion: 2
+        x: 1644
+        y: 823
+        width: 66
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1e57eeb3d4933a70800000000000000
+      internalID: 8805545333601295903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hornet, The Knight, rescue_10
+      rect:
+        serializedVersion: 2
+        x: 1674
+        y: 877
+        width: 176
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88d6e21595e806760800000000000000
+      internalID: 7449110297936031112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hornet, The Knight, rescue_11
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 603
+        width: 222
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dc3e031dba2e6d60800000000000000
+      internalID: 7885286989129202903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hornet, The Knight, rescue_12
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 603
+        width: 225
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 851430ca108096850800000000000000
+      internalID: 6370631951166161240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hornet, The Knight, rescue_13
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 773
+        width: 205
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4eadbc021e9f7a830800000000000000
+      internalID: 4082506332547832548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hornet, The Knight, rescue_14
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 606
+        width: 208
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cfbdf4360ebbe9f0800000000000000
+      internalID: -438047604870365247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hornet, The Knight, rescue_15
+      rect:
+        serializedVersion: 2
+        x: 1267
+        y: 773
+        width: 195
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e356d345bacace10800000000000000
+      internalID: 2218808646309401570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hornet, The Knight, rescue_16
+      rect:
+        serializedVersion: 2
+        x: 1270
+        y: 606
+        width: 207
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48cf74ca240d23270800000000000000
+      internalID: 8228868453936135300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hornet, The Knight, rescue_17
+      rect:
+        serializedVersion: 2
+        x: 1475
+        y: 606
+        width: 167
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 004a058a2a1a9b270800000000000000
+      internalID: 8266816310995887104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hornet, The Knight, rescue_18
+      rect:
+        serializedVersion: 2
+        x: 1805
+        y: 530
+        width: 130
+        height: 319
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e58ad860b8efc870800000000000000
+      internalID: 8705432449101497831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hornet, The Knight, rescue_19
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 545
+        width: 222
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f2098cebc7f7a130800000000000000
+      internalID: 3578100884187972338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hornet, The Knight, rescue_20
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 545
+        width: 223
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33f2c0f439b6e7320800000000000000
+      internalID: 2557599918823583539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hornet, The Knight, rescue_21
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 559
+        width: 182
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb41b1fa73e6b2d70800000000000000
+      internalID: 9019423864179594427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hornet, The Knight, rescue_22
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 347
+        width: 177
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0b850723333657e0800000000000000
+      internalID: -1777176708160058611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hornet, The Knight, rescue_23
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 483
+        width: 277
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33fe28a89ef089c70800000000000000
+      internalID: 8977943352888717107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hornet, The Knight, rescue_24
+      rect:
+        serializedVersion: 2
+        x: 1178
+        y: 486
+        width: 333
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd812576614d32510800000000000000
+      internalID: 1523294291669162203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hornet, The Knight, rescue_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 347
+        width: 227
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 442224d0e2e6513c0800000000000000
+      internalID: -4389481117732691388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hornet, The Knight, rescue_26
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 347
+        width: 225
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e6d98195a3af6160800000000000000
+      internalID: 7021010275600553704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hornet, The Knight, rescue_27
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 326
+        width: 135
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b3295c4f0d9a6c70800000000000000
+      internalID: 8965150697265374128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hornet, The Knight, rescue_28
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 365
+        width: 117
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4267b6fe5a8c33660800000000000000
+      internalID: 7364450430692849188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hornet, The Knight, rescue_29
+      rect:
+        serializedVersion: 2
+        x: 1482
+        y: 323
+        width: 135
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3eaee0524839d84f0800000000000000
+      internalID: -824840960972231965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hornet, The Knight, rescue_30
+      rect:
+        serializedVersion: 2
+        x: 1534
+        y: 358
+        width: 112
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c24dd7fbef238e540800000000000000
+      internalID: 5037332252929676332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hornet, The Knight, rescue_31
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 373
+        width: 207
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 825a0a31135c7ae80800000000000000
+      internalID: -8167342584639740632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hornet, The Knight, rescue_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 126
+        width: 526
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 488a2ed3358c2b6d0800000000000000
+      internalID: -2976096143892371324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hornet, The Knight, rescue_33
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 296
+        width: 51
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90cb7f0ebd7f63cf0800000000000000
+      internalID: -272758203665105911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hornet, The Knight, rescue_34
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 272
+        width: 70
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec3762cc0869931a0800000000000000
+      internalID: -6829261880005594162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hornet, The Knight, rescue_35
+      rect:
+        serializedVersion: 2
+        x: 1178
+        y: 168
+        width: 388
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60294b04908ea6260800000000000000
+      internalID: 7091735689686192646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hornet, The Knight, rescue_36
+      rect:
+        serializedVersion: 2
+        x: 1918
+        y: 176
+        width: 62
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4b99893211860180800000000000000
+      internalID: -9149483677681870002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hornet, The Knight, rescue_37
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 241
+        width: 49
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a19144108ed074aa0800000000000000
+      internalID: -6176953073810532070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hornet, The Knight, rescue_38
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 204
+        width: 66
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ed392a63f14dd530800000000000000
+      internalID: 3881330967577181669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hornet, The Knight, rescue_39
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 0
+        width: 193
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de70c96fb32430570800000000000000
+      internalID: 8431655752675624941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hornet, The Knight, rescue_40
+      rect:
+        serializedVersion: 2
+        x: 1568
+        y: 0
+        width: 162
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd23ddd97902e6b30800000000000000
+      internalID: 4282396131236590301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hornet, The Knight, rescue_41
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 0
+        width: 144
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 858125c5628afec60800000000000000
+      internalID: 7849677558241171544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hornet, The Knight, rescue_42
+      rect:
+        serializedVersion: 2
+        x: 1990
+        y: 0
+        width: 58
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a5827ba564299f80800000000000000
+      internalID: -8099402435762420316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Hornet, The Knight, rescue_0: 1219565457873701201
+      Hornet, The Knight, rescue_1: -556583617647198879
+      Hornet, The Knight, rescue_10: 7449110297936031112
+      Hornet, The Knight, rescue_11: 7885286989129202903
+      Hornet, The Knight, rescue_12: 6370631951166161240
+      Hornet, The Knight, rescue_13: 4082506332547832548
+      Hornet, The Knight, rescue_14: -438047604870365247
+      Hornet, The Knight, rescue_15: 2218808646309401570
+      Hornet, The Knight, rescue_16: 8228868453936135300
+      Hornet, The Knight, rescue_17: 8266816310995887104
+      Hornet, The Knight, rescue_18: 8705432449101497831
+      Hornet, The Knight, rescue_19: 3578100884187972338
+      Hornet, The Knight, rescue_2: -3282958520150922376
+      Hornet, The Knight, rescue_20: 2557599918823583539
+      Hornet, The Knight, rescue_21: 9019423864179594427
+      Hornet, The Knight, rescue_22: -1777176708160058611
+      Hornet, The Knight, rescue_23: 8977943352888717107
+      Hornet, The Knight, rescue_24: 1523294291669162203
+      Hornet, The Knight, rescue_25: -4389481117732691388
+      Hornet, The Knight, rescue_26: 7021010275600553704
+      Hornet, The Knight, rescue_27: 8965150697265374128
+      Hornet, The Knight, rescue_28: 7364450430692849188
+      Hornet, The Knight, rescue_29: -824840960972231965
+      Hornet, The Knight, rescue_3: -1499009852843608670
+      Hornet, The Knight, rescue_30: 5037332252929676332
+      Hornet, The Knight, rescue_31: -8167342584639740632
+      Hornet, The Knight, rescue_32: -2976096143892371324
+      Hornet, The Knight, rescue_33: -272758203665105911
+      Hornet, The Knight, rescue_34: -6829261880005594162
+      Hornet, The Knight, rescue_35: 7091735689686192646
+      Hornet, The Knight, rescue_36: -9149483677681870002
+      Hornet, The Knight, rescue_37: -6176953073810532070
+      Hornet, The Knight, rescue_38: 3881330967577181669
+      Hornet, The Knight, rescue_39: 8431655752675624941
+      Hornet, The Knight, rescue_4: 2121059707147042942
+      Hornet, The Knight, rescue_40: 4282396131236590301
+      Hornet, The Knight, rescue_41: 7849677558241171544
+      Hornet, The Knight, rescue_42: -8099402435762420316
+      Hornet, The Knight, rescue_5: -801973135123988187
+      Hornet, The Knight, rescue_6: -3054933675318695900
+      Hornet, The Knight, rescue_7: -7446611414513407664
+      Hornet, The Knight, rescue_8: -8008241205439808785
+      Hornet, The Knight, rescue_9: 8805545333601295903
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

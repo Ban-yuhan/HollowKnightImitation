@@ -1,0 +1,962 @@
+fileFormatVersion: 2
+guid: 4b3a314fb98fc3f4ba797b402bfcf22d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5402035297933613348
+    second: Entombed Husk - atlas0 #23804_0
+  - first:
+      213: 7524065740623802692
+    second: Entombed Husk - atlas0 #23804_1
+  - first:
+      213: 8097430032863005630
+    second: Entombed Husk - atlas0 #23804_2
+  - first:
+      213: -7753195296650996362
+    second: Entombed Husk - atlas0 #23804_3
+  - first:
+      213: -5939498485549702177
+    second: Entombed Husk - atlas0 #23804_4
+  - first:
+      213: 776491898613317569
+    second: Entombed Husk - atlas0 #23804_5
+  - first:
+      213: -7209331301217954245
+    second: Entombed Husk - atlas0 #23804_6
+  - first:
+      213: 349120618320371427
+    second: Entombed Husk - atlas0 #23804_7
+  - first:
+      213: 4512820260114356852
+    second: Entombed Husk - atlas0 #23804_8
+  - first:
+      213: 8233669503407292105
+    second: Entombed Husk - atlas0 #23804_9
+  - first:
+      213: 4616172841142060537
+    second: Entombed Husk - atlas0 #23804_10
+  - first:
+      213: -8221264009290779691
+    second: Entombed Husk - atlas0 #23804_11
+  - first:
+      213: -7413648439164642503
+    second: Entombed Husk - atlas0 #23804_12
+  - first:
+      213: -5574880646969141555
+    second: Entombed Husk - atlas0 #23804_13
+  - first:
+      213: -5594679337690357836
+    second: Entombed Husk - atlas0 #23804_14
+  - first:
+      213: 1086694490664452319
+    second: Entombed Husk - atlas0 #23804_15
+  - first:
+      213: 2082091454628184183
+    second: Entombed Husk - atlas0 #23804_16
+  - first:
+      213: -6225951536607433293
+    second: Entombed Husk - atlas0 #23804_17
+  - first:
+      213: -7657691973729038122
+    second: Entombed Husk - atlas0 #23804_18
+  - first:
+      213: -944340563035388656
+    second: Entombed Husk - atlas0 #23804_19
+  - first:
+      213: -2854288950793934633
+    second: Entombed Husk - atlas0 #23804_20
+  - first:
+      213: -1728892991399780792
+    second: Entombed Husk - atlas0 #23804_21
+  - first:
+      213: -8362658169265633900
+    second: Entombed Husk - atlas0 #23804_22
+  - first:
+      213: -3969853483653397032
+    second: Entombed Husk - atlas0 #23804_23
+  - first:
+      213: 2961717341655542969
+    second: Entombed Husk - atlas0 #23804_24
+  - first:
+      213: 1821811485944172605
+    second: Entombed Husk - atlas0 #23804_25
+  - first:
+      213: 6952655168717970222
+    second: Entombed Husk - atlas0 #23804_26
+  - first:
+      213: -3864558178498566382
+    second: Entombed Husk - atlas0 #23804_27
+  - first:
+      213: -7035387303706711595
+    second: Entombed Husk - atlas0 #23804_28
+  - first:
+      213: 5414381514129431384
+    second: Entombed Husk - atlas0 #23804_29
+  - first:
+      213: 8174967604739004664
+    second: Entombed Husk - atlas0 #23804_30
+  - first:
+      213: 9210503004271549130
+    second: Entombed Husk - atlas0 #23804_31
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Entombed Husk - atlas0 #23804_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1508
+        width: 268
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd6ab8a848d1805b0800000000000000
+      internalID: -5402035297933613348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entombed Husk - atlas0 #23804_1
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 1293
+        width: 276
+        height: 484
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44171984de9da6860800000000000000
+      internalID: 7524065740623802692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entombed Husk - atlas0 #23804_2
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 1252
+        width: 216
+        height: 273
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebb016e76b9df5070800000000000000
+      internalID: 8097430032863005630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entombed Husk - atlas0 #23804_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1110
+        width: 206
+        height: 267
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67553e4b4fd176490800000000000000
+      internalID: -7753195296650996362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entombed Husk - atlas0 #23804_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 431
+        width: 335
+        height: 681
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd3e6d0a899a29da0800000000000000
+      internalID: -5939498485549702177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entombed Husk - atlas0 #23804_5
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 867
+        width: 298
+        height: 428
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cfb0db8447a6ca00800000000000000
+      internalID: 776491898613317569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entombed Husk - atlas0 #23804_6
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 961
+        width: 215
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b369cc2d06f43fb90800000000000000
+      internalID: -7209331301217954245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entombed Husk - atlas0 #23804_7
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 1084
+        width: 266
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ee10c64a5358d400800000000000000
+      internalID: 349120618320371427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entombed Husk - atlas0 #23804_8
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 654
+        width: 160
+        height: 309
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47a5d4bdd12c0ae30800000000000000
+      internalID: 4512820260114356852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entombed Husk - atlas0 #23804_9
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 903
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cefe8c1aced34270800000000000000
+      internalID: 8233669503407292105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entombed Husk - atlas0 #23804_10
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 872
+        width: 278
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f50412ddb0ff0040800000000000000
+      internalID: 4616172841142060537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entombed Husk - atlas0 #23804_11
+      rect:
+        serializedVersion: 2
+        x: 1078
+        y: 520
+        width: 224
+        height: 585
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d3f48111f338ed80800000000000000
+      internalID: -8221264009290779691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entombed Husk - atlas0 #23804_12
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 654
+        width: 297
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93b56f5160e6d1990800000000000000
+      internalID: -7413648439164642503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entombed Husk - atlas0 #23804_13
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 205
+        width: 343
+        height: 451
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc6543ca69b02a2b0800000000000000
+      internalID: -5574880646969141555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entombed Husk - atlas0 #23804_14
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 445
+        width: 303
+        height: 429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bf9fb4c8c4bb52b0800000000000000
+      internalID: -5594679337690357836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entombed Husk - atlas0 #23804_15
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 647
+        width: 296
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd0cd67b1e6b41f00800000000000000
+      internalID: 1086694490664452319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entombed Husk - atlas0 #23804_16
+      rect:
+        serializedVersion: 2
+        x: 1642
+        y: 512
+        width: 295
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7704df6852315ec10800000000000000
+      internalID: 2082091454628184183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entombed Husk - atlas0 #23804_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 207
+        width: 323
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bd67bf501af899a0800000000000000
+      internalID: -6225951536607433293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entombed Husk - atlas0 #23804_18
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 207
+        width: 38
+        height: 317
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d0558ad8b96ab590800000000000000
+      internalID: -7657691973729038122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entombed Husk - atlas0 #23804_19
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 207
+        width: 37
+        height: 319
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0158841e24705e2f0800000000000000
+      internalID: -944340563035388656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entombed Husk - atlas0 #23804_20
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 205
+        width: 61
+        height: 309
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d8ea9962578368d0800000000000000
+      internalID: -2854288950793934633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entombed Husk - atlas0 #23804_21
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 228
+        width: 292
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84e14f00cfcb108e0800000000000000
+      internalID: -1728892991399780792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entombed Husk - atlas0 #23804_22
+      rect:
+        serializedVersion: 2
+        x: 1145
+        y: 217
+        width: 207
+        height: 289
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49547eac3bed1fb80800000000000000
+      internalID: -8362658169265633900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entombed Husk - atlas0 #23804_23
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 433
+        width: 294
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d50e703a4f38e8c0800000000000000
+      internalID: -3969853483653397032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entombed Husk - atlas0 #23804_24
+      rect:
+        serializedVersion: 2
+        x: 1449
+        y: 215
+        width: 303
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bc2e7afa322a1920800000000000000
+      internalID: 2961717341655542969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entombed Husk - atlas0 #23804_25
+      rect:
+        serializedVersion: 2
+        x: 1750
+        y: 296
+        width: 298
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d30dd63e4ef584910800000000000000
+      internalID: 1821811485944172605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entombed Husk - atlas0 #23804_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 414
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2bd7390a0bcc7060800000000000000
+      internalID: 6952655168717970222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entombed Husk - atlas0 #23804_27
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 0
+        width: 391
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21723ccdfc45e5ac0800000000000000
+      internalID: -3864558178498566382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entombed Husk - atlas0 #23804_28
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 0
+        width: 330
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d9a449b5884d5e90800000000000000
+      internalID: -7035387303706711595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entombed Husk - atlas0 #23804_29
+      rect:
+        serializedVersion: 2
+        x: 1145
+        y: 0
+        width: 306
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85b502cec4fb32b40800000000000000
+      internalID: 5414381514129431384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entombed Husk - atlas0 #23804_30
+      rect:
+        serializedVersion: 2
+        x: 1449
+        y: 0
+        width: 308
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f85bc249b1537170800000000000000
+      internalID: 8174967604739004664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Entombed Husk - atlas0 #23804_31
+      rect:
+        serializedVersion: 2
+        x: 1755
+        y: 0
+        width: 223
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aca164cdea742df70800000000000000
+      internalID: 9210503004271549130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Entombed Husk - atlas0 #23804_0: -5402035297933613348
+      Entombed Husk - atlas0 #23804_1: 7524065740623802692
+      Entombed Husk - atlas0 #23804_10: 4616172841142060537
+      Entombed Husk - atlas0 #23804_11: -8221264009290779691
+      Entombed Husk - atlas0 #23804_12: -7413648439164642503
+      Entombed Husk - atlas0 #23804_13: -5574880646969141555
+      Entombed Husk - atlas0 #23804_14: -5594679337690357836
+      Entombed Husk - atlas0 #23804_15: 1086694490664452319
+      Entombed Husk - atlas0 #23804_16: 2082091454628184183
+      Entombed Husk - atlas0 #23804_17: -6225951536607433293
+      Entombed Husk - atlas0 #23804_18: -7657691973729038122
+      Entombed Husk - atlas0 #23804_19: -944340563035388656
+      Entombed Husk - atlas0 #23804_2: 8097430032863005630
+      Entombed Husk - atlas0 #23804_20: -2854288950793934633
+      Entombed Husk - atlas0 #23804_21: -1728892991399780792
+      Entombed Husk - atlas0 #23804_22: -8362658169265633900
+      Entombed Husk - atlas0 #23804_23: -3969853483653397032
+      Entombed Husk - atlas0 #23804_24: 2961717341655542969
+      Entombed Husk - atlas0 #23804_25: 1821811485944172605
+      Entombed Husk - atlas0 #23804_26: 6952655168717970222
+      Entombed Husk - atlas0 #23804_27: -3864558178498566382
+      Entombed Husk - atlas0 #23804_28: -7035387303706711595
+      Entombed Husk - atlas0 #23804_29: 5414381514129431384
+      Entombed Husk - atlas0 #23804_3: -7753195296650996362
+      Entombed Husk - atlas0 #23804_30: 8174967604739004664
+      Entombed Husk - atlas0 #23804_31: 9210503004271549130
+      Entombed Husk - atlas0 #23804_4: -5939498485549702177
+      Entombed Husk - atlas0 #23804_5: 776491898613317569
+      Entombed Husk - atlas0 #23804_6: -7209331301217954245
+      Entombed Husk - atlas0 #23804_7: 349120618320371427
+      Entombed Husk - atlas0 #23804_8: 4512820260114356852
+      Entombed Husk - atlas0 #23804_9: 8233669503407292105
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1430 @@
+fileFormatVersion: 2
+guid: 937bbfff07adea0419585bd1c07ece15
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4016970436754597917
+    second: Sibling - atlas0 #335006_0
+  - first:
+      213: 8681444241124658116
+    second: Sibling - atlas0 #335006_1
+  - first:
+      213: -2408640789980704884
+    second: Sibling - atlas0 #335006_2
+  - first:
+      213: 8636070723639676794
+    second: Sibling - atlas0 #335006_3
+  - first:
+      213: 1262459923514646570
+    second: Sibling - atlas0 #335006_4
+  - first:
+      213: -7654726035887369573
+    second: Sibling - atlas0 #335006_5
+  - first:
+      213: 6760509041449791206
+    second: Sibling - atlas0 #335006_6
+  - first:
+      213: -1308434785910388260
+    second: Sibling - atlas0 #335006_7
+  - first:
+      213: -2838837889833946869
+    second: Sibling - atlas0 #335006_8
+  - first:
+      213: -1187208673334228464
+    second: Sibling - atlas0 #335006_9
+  - first:
+      213: -4989044515078497243
+    second: Sibling - atlas0 #335006_10
+  - first:
+      213: 6781814533478745213
+    second: Sibling - atlas0 #335006_11
+  - first:
+      213: -5541477084569574538
+    second: Sibling - atlas0 #335006_12
+  - first:
+      213: 5249586120716905472
+    second: Sibling - atlas0 #335006_13
+  - first:
+      213: -7410527726135830707
+    second: Sibling - atlas0 #335006_14
+  - first:
+      213: 4909817558125761970
+    second: Sibling - atlas0 #335006_15
+  - first:
+      213: -3061081263051960361
+    second: Sibling - atlas0 #335006_16
+  - first:
+      213: 1918430494082229954
+    second: Sibling - atlas0 #335006_17
+  - first:
+      213: 2480780880618969499
+    second: Sibling - atlas0 #335006_18
+  - first:
+      213: 776398601031361201
+    second: Sibling - atlas0 #335006_19
+  - first:
+      213: -264175100302293959
+    second: Sibling - atlas0 #335006_20
+  - first:
+      213: 3761573229955729221
+    second: Sibling - atlas0 #335006_21
+  - first:
+      213: -5475057332676690198
+    second: Sibling - atlas0 #335006_22
+  - first:
+      213: 5433145246635954811
+    second: Sibling - atlas0 #335006_23
+  - first:
+      213: 6531492386626127368
+    second: Sibling - atlas0 #335006_24
+  - first:
+      213: 5019319230945874053
+    second: Sibling - atlas0 #335006_25
+  - first:
+      213: -1567491100837172740
+    second: Sibling - atlas0 #335006_26
+  - first:
+      213: 8113792934239203798
+    second: Sibling - atlas0 #335006_27
+  - first:
+      213: 2199759506158896271
+    second: Sibling - atlas0 #335006_28
+  - first:
+      213: -3329787842630598820
+    second: Sibling - atlas0 #335006_29
+  - first:
+      213: -7765807624027714238
+    second: Sibling - atlas0 #335006_30
+  - first:
+      213: 4297821000873264500
+    second: Sibling - atlas0 #335006_31
+  - first:
+      213: -4542230937164029443
+    second: Sibling - atlas0 #335006_32
+  - first:
+      213: 7921271820176230102
+    second: Sibling - atlas0 #335006_33
+  - first:
+      213: 5949335790365023208
+    second: Sibling - atlas0 #335006_34
+  - first:
+      213: 2988287323662872885
+    second: Sibling - atlas0 #335006_35
+  - first:
+      213: -3118419857639097325
+    second: Sibling - atlas0 #335006_36
+  - first:
+      213: 4137647006372394070
+    second: Sibling - atlas0 #335006_37
+  - first:
+      213: -4310879016257893891
+    second: Sibling - atlas0 #335006_38
+  - first:
+      213: -321518538965848466
+    second: Sibling - atlas0 #335006_39
+  - first:
+      213: 4147033874859800001
+    second: Sibling - atlas0 #335006_40
+  - first:
+      213: -8281182006346158943
+    second: Sibling - atlas0 #335006_41
+  - first:
+      213: 6888485341977667957
+    second: Sibling - atlas0 #335006_42
+  - first:
+      213: 4680215662272584055
+    second: Sibling - atlas0 #335006_43
+  - first:
+      213: -4943078287776329958
+    second: Sibling - atlas0 #335006_44
+  - first:
+      213: 8065915603038183250
+    second: Sibling - atlas0 #335006_45
+  - first:
+      213: -8148785417176018910
+    second: Sibling - atlas0 #335006_46
+  - first:
+      213: 4798691790823716600
+    second: Sibling - atlas0 #335006_47
+  - first:
+      213: 7513087131980045089
+    second: Sibling - atlas0 #335006_48
+  - first:
+      213: -8081724457322975266
+    second: Sibling - atlas0 #335006_49
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Sibling - atlas0 #335006_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 905
+        width: 154
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d18e00454552fb730800000000000000
+      internalID: 4016970436754597917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sibling - atlas0 #335006_1
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 861
+        width: 110
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cb88918a8faa7870800000000000000
+      internalID: 8681444241124658116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sibling - atlas0 #335006_2
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 960
+        width: 132
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8f0fa986f9c29ed0800000000000000
+      internalID: -2408640789980704884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sibling - atlas0 #335006_3
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 1004
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7f81b9319c79d770800000000000000
+      internalID: 8636070723639676794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sibling - atlas0 #335006_4
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 921
+        width: 152
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a20e1449c98258110800000000000000
+      internalID: 1262459923514646570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sibling - atlas0 #335006_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 605
+        width: 128
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b92dff11a33f4c590800000000000000
+      internalID: -7654726035887369573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sibling - atlas0 #335006_6
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 886
+        width: 155
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ee6e6c872722dd50800000000000000
+      internalID: 6760509041449791206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sibling - atlas0 #335006_7
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 877
+        width: 150
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd90c0e9e7187dde0800000000000000
+      internalID: -1308434785910388260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sibling - atlas0 #335006_8
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 815
+        width: 109
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b013781eafb6a98d0800000000000000
+      internalID: -2838837889833946869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sibling - atlas0 #335006_9
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 765
+        width: 101
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01a86af6000368fe0800000000000000
+      internalID: -1187208673334228464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sibling - atlas0 #335006_10
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 749
+        width: 126
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52c9226527a53cab0800000000000000
+      internalID: -4989044515078497243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sibling - atlas0 #335006_11
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 724
+        width: 113
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d740598f268dd1e50800000000000000
+      internalID: 6781814533478745213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sibling - atlas0 #335006_12
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 721
+        width: 118
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 673634b93f7b813b0800000000000000
+      internalID: -5541477084569574538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sibling - atlas0 #335006_13
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 671
+        width: 110
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00ce62763c64ad840800000000000000
+      internalID: 5249586120716905472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sibling - atlas0 #335006_14
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 671
+        width: 167
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d479d75bb44882990800000000000000
+      internalID: -7410527726135830707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sibling - atlas0 #335006_15
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 671
+        width: 91
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b5df084e0d232440800000000000000
+      internalID: 4909817558125761970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sibling - atlas0 #335006_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 410
+        width: 393
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7df0f2f3fcad485d0800000000000000
+      internalID: -3061081263051960361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sibling - atlas0 #335006_17
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 572
+        width: 114
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c66c0ebe52af9a10800000000000000
+      internalID: 1918430494082229954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sibling - atlas0 #335006_18
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 572
+        width: 114
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b99dfd231118d6220800000000000000
+      internalID: 2480780880618969499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sibling - atlas0 #335006_19
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 554
+        width: 111
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b2a5920a6256ca00800000000000000
+      internalID: 776398601031361201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sibling - atlas0 #335006_20
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 530
+        width: 115
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9348afb5526755cf0800000000000000
+      internalID: -264175100302293959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sibling - atlas0 #335006_21
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 494
+        width: 110
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54741284ceac33430800000000000000
+      internalID: 3761573229955729221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sibling - atlas0 #335006_22
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 456
+        width: 173
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aee78e03d50b404b0800000000000000
+      internalID: -5475057332676690198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sibling - atlas0 #335006_23
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 443
+        width: 136
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7296d6d0d8666b40800000000000000
+      internalID: 5433145246635954811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sibling - atlas0 #335006_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 317
+        width: 136
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 806c40668b584aa50800000000000000
+      internalID: 6531492386626127368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sibling - atlas0 #335006_25
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 298
+        width: 163
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 580d0de3f3438a540800000000000000
+      internalID: 5019319230945874053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sibling - atlas0 #335006_26
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 294
+        width: 153
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf9a30216272f3ae0800000000000000
+      internalID: -1567491100837172740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sibling - atlas0 #335006_27
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 398
+        width: 118
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d1f66a5fabf99070800000000000000
+      internalID: 8113792934239203798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sibling - atlas0 #335006_28
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 371
+        width: 117
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f84c3e3bd9d178e10800000000000000
+      internalID: 2199759506158896271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sibling - atlas0 #335006_29
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 334
+        width: 111
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5fb69e59973ac1d0800000000000000
+      internalID: -3329787842630598820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sibling - atlas0 #335006_30
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 328
+        width: 105
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24dcec76c1f4a3490800000000000000
+      internalID: -7765807624027714238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sibling - atlas0 #335006_31
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 156
+        width: 256
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 475c341fd6de4ab30800000000000000
+      internalID: 4297821000873264500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sibling - atlas0 #335006_32
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 245
+        width: 64
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df16c864701c6f0c0800000000000000
+      internalID: -4542230937164029443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sibling - atlas0 #335006_33
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 237
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d68ae270c20eed60800000000000000
+      internalID: 7921271820176230102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sibling - atlas0 #335006_34
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 241
+        width: 117
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8eb99326169409250800000000000000
+      internalID: 5949335790365023208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sibling - atlas0 #335006_35
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 213
+        width: 117
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5317abdfc77887920800000000000000
+      internalID: 2988287323662872885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sibling - atlas0 #335006_36
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 194
+        width: 155
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31cb5ec59a529b4d0800000000000000
+      internalID: -3118419857639097325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sibling - atlas0 #335006_37
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 132
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 654f8c4b700eb6930800000000000000
+      internalID: 4137647006372394070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sibling - atlas0 #335006_38
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 108
+        width: 133
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df9434eef5eac24c0800000000000000
+      internalID: -4310879016257893891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sibling - atlas0 #335006_39
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 108
+        width: 116
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6eec30a79cb98bf0800000000000000
+      internalID: -321518538965848466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sibling - atlas0 #335006_40
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 106
+        width: 140
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c5b78656593d8930800000000000000
+      internalID: 4147033874859800001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sibling - atlas0 #335006_41
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 99
+        width: 147
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ac616f37d4531d80800000000000000
+      internalID: -8281182006346158943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sibling - atlas0 #335006_42
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 94
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5796019fbe0d89f50800000000000000
+      internalID: 6888485341977667957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sibling - atlas0 #335006_43
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 152
+        width: 57
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7791af5195773f040800000000000000
+      internalID: 4680215662272584055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sibling - atlas0 #335006_44
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 0
+        width: 172
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1f4520ac78a66bb0800000000000000
+      internalID: -4943078287776329958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sibling - atlas0 #335006_45
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 0
+        width: 163
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25f1f538183efef60800000000000000
+      internalID: 8065915603038183250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sibling - atlas0 #335006_46
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 0
+        width: 142
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 220175256d2b9ee80800000000000000
+      internalID: -8148785417176018910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sibling - atlas0 #335006_47
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 0
+        width: 136
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f671aa52c0689240800000000000000
+      internalID: 4798691790823716600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sibling - atlas0 #335006_48
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 63
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12b9a34c0f8d34860800000000000000
+      internalID: 7513087131980045089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sibling - atlas0 #335006_49
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 0
+        width: 141
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edf6da4cc62f7df80800000000000000
+      internalID: -8081724457322975266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Sibling - atlas0 #335006_0: 4016970436754597917
+      Sibling - atlas0 #335006_1: 8681444241124658116
+      Sibling - atlas0 #335006_10: -4989044515078497243
+      Sibling - atlas0 #335006_11: 6781814533478745213
+      Sibling - atlas0 #335006_12: -5541477084569574538
+      Sibling - atlas0 #335006_13: 5249586120716905472
+      Sibling - atlas0 #335006_14: -7410527726135830707
+      Sibling - atlas0 #335006_15: 4909817558125761970
+      Sibling - atlas0 #335006_16: -3061081263051960361
+      Sibling - atlas0 #335006_17: 1918430494082229954
+      Sibling - atlas0 #335006_18: 2480780880618969499
+      Sibling - atlas0 #335006_19: 776398601031361201
+      Sibling - atlas0 #335006_2: -2408640789980704884
+      Sibling - atlas0 #335006_20: -264175100302293959
+      Sibling - atlas0 #335006_21: 3761573229955729221
+      Sibling - atlas0 #335006_22: -5475057332676690198
+      Sibling - atlas0 #335006_23: 5433145246635954811
+      Sibling - atlas0 #335006_24: 6531492386626127368
+      Sibling - atlas0 #335006_25: 5019319230945874053
+      Sibling - atlas0 #335006_26: -1567491100837172740
+      Sibling - atlas0 #335006_27: 8113792934239203798
+      Sibling - atlas0 #335006_28: 2199759506158896271
+      Sibling - atlas0 #335006_29: -3329787842630598820
+      Sibling - atlas0 #335006_3: 8636070723639676794
+      Sibling - atlas0 #335006_30: -7765807624027714238
+      Sibling - atlas0 #335006_31: 4297821000873264500
+      Sibling - atlas0 #335006_32: -4542230937164029443
+      Sibling - atlas0 #335006_33: 7921271820176230102
+      Sibling - atlas0 #335006_34: 5949335790365023208
+      Sibling - atlas0 #335006_35: 2988287323662872885
+      Sibling - atlas0 #335006_36: -3118419857639097325
+      Sibling - atlas0 #335006_37: 4137647006372394070
+      Sibling - atlas0 #335006_38: -4310879016257893891
+      Sibling - atlas0 #335006_39: -321518538965848466
+      Sibling - atlas0 #335006_4: 1262459923514646570
+      Sibling - atlas0 #335006_40: 4147033874859800001
+      Sibling - atlas0 #335006_41: -8281182006346158943
+      Sibling - atlas0 #335006_42: 6888485341977667957
+      Sibling - atlas0 #335006_43: 4680215662272584055
+      Sibling - atlas0 #335006_44: -4943078287776329958
+      Sibling - atlas0 #335006_45: 8065915603038183250
+      Sibling - atlas0 #335006_46: -8148785417176018910
+      Sibling - atlas0 #335006_47: 4798691790823716600
+      Sibling - atlas0 #335006_48: 7513087131980045089
+      Sibling - atlas0 #335006_49: -8081724457322975266
+      Sibling - atlas0 #335006_5: -7654726035887369573
+      Sibling - atlas0 #335006_6: 6760509041449791206
+      Sibling - atlas0 #335006_7: -1308434785910388260
+      Sibling - atlas0 #335006_8: -2838837889833946869
+      Sibling - atlas0 #335006_9: -1187208673334228464
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

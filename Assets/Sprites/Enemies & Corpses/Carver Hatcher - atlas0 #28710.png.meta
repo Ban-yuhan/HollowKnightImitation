@@ -1,0 +1,780 @@
+fileFormatVersion: 2
+guid: 9c00dd6e303a3b74795225263bc2ca61
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 123147641546153116
+    second: Carver Hatcher - atlas0 #28710_0
+  - first:
+      213: -7360603720432768784
+    second: Carver Hatcher - atlas0 #28710_1
+  - first:
+      213: 1145233717183404737
+    second: Carver Hatcher - atlas0 #28710_2
+  - first:
+      213: 7284608991484254922
+    second: Carver Hatcher - atlas0 #28710_3
+  - first:
+      213: 8980612615930473784
+    second: Carver Hatcher - atlas0 #28710_4
+  - first:
+      213: 2661891865760064053
+    second: Carver Hatcher - atlas0 #28710_5
+  - first:
+      213: -1143284046454712372
+    second: Carver Hatcher - atlas0 #28710_6
+  - first:
+      213: -4749532657445012279
+    second: Carver Hatcher - atlas0 #28710_7
+  - first:
+      213: 593606303915529549
+    second: Carver Hatcher - atlas0 #28710_8
+  - first:
+      213: -2862755198558746601
+    second: Carver Hatcher - atlas0 #28710_9
+  - first:
+      213: 2025682777307072964
+    second: Carver Hatcher - atlas0 #28710_10
+  - first:
+      213: 8699494743854288664
+    second: Carver Hatcher - atlas0 #28710_11
+  - first:
+      213: 5457003487861870756
+    second: Carver Hatcher - atlas0 #28710_12
+  - first:
+      213: 3154059559320262197
+    second: Carver Hatcher - atlas0 #28710_13
+  - first:
+      213: -1423811465384197055
+    second: Carver Hatcher - atlas0 #28710_14
+  - first:
+      213: -4997855558849575671
+    second: Carver Hatcher - atlas0 #28710_15
+  - first:
+      213: 2967432326453021506
+    second: Carver Hatcher - atlas0 #28710_16
+  - first:
+      213: 2521100422717417000
+    second: Carver Hatcher - atlas0 #28710_17
+  - first:
+      213: -2692731516412597373
+    second: Carver Hatcher - atlas0 #28710_18
+  - first:
+      213: -8481036692971957962
+    second: Carver Hatcher - atlas0 #28710_19
+  - first:
+      213: 1062201730915210823
+    second: Carver Hatcher - atlas0 #28710_20
+  - first:
+      213: 941015267891658080
+    second: Carver Hatcher - atlas0 #28710_21
+  - first:
+      213: -8057628724935089866
+    second: Carver Hatcher - atlas0 #28710_22
+  - first:
+      213: -4613356940444483936
+    second: Carver Hatcher - atlas0 #28710_23
+  - first:
+      213: -4663340263831994848
+    second: Carver Hatcher - atlas0 #28710_24
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Carver Hatcher - atlas0 #28710_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1462
+        width: 178
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9c1945a02285b100800000000000000
+      internalID: 123147641546153116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carver Hatcher - atlas0 #28710_1
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 1328
+        width: 259
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f8af271ae1e9d990800000000000000
+      internalID: -7360603720432768784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carver Hatcher - atlas0 #28710_2
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 1492
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ca54818fffa4ef00800000000000000
+      internalID: 1145233717183404737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carver Hatcher - atlas0 #28710_3
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 1493
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aca19014841281560800000000000000
+      internalID: 7284608991484254922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carver Hatcher - atlas0 #28710_4
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 1483
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83d6de5c79b81ac70800000000000000
+      internalID: 8980612615930473784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carver Hatcher - atlas0 #28710_5
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 1291
+        width: 226
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53261217c80f0f420800000000000000
+      internalID: 2661891865760064053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carver Hatcher - atlas0 #28710_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1200
+        width: 220
+        height: 264
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc712b5973d3220f0800000000000000
+      internalID: -1143284046454712372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carver Hatcher - atlas0 #28710_7
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 1069
+        width: 265
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cc7fdf4635461eb0800000000000000
+      internalID: -4749532657445012279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carver Hatcher - atlas0 #28710_8
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 1255
+        width: 254
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d455151d9c9ec3800800000000000000
+      internalID: 593606303915529549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carver Hatcher - atlas0 #28710_9
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 1024
+        width: 506
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 718c00f70537548d0800000000000000
+      internalID: -2862755198558746601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carver Hatcher - atlas0 #28710_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 912
+        width: 227
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c9c301e0cbac1c10800000000000000
+      internalID: 2025682777307072964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carver Hatcher - atlas0 #28710_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 595
+        width: 228
+        height: 319
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81f00dca060dab870800000000000000
+      internalID: 8699494743854288664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carver Hatcher - atlas0 #28710_12
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 823
+        width: 293
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a0131082cb2bbb40800000000000000
+      internalID: 5457003487861870756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carver Hatcher - atlas0 #28710_13
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 763
+        width: 278
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53695b1557875cb20800000000000000
+      internalID: 3154059559320262197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carver Hatcher - atlas0 #28710_14
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 569
+        width: 282
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14485a2140b9d3ce0800000000000000
+      internalID: -1423811465384197055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carver Hatcher - atlas0 #28710_15
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 257
+        width: 331
+        height: 506
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9054f0859dc04aab0800000000000000
+      internalID: -4997855558849575671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carver Hatcher - atlas0 #28710_16
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 760
+        width: 146
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24b4e319aff6e2920800000000000000
+      internalID: 2967432326453021506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carver Hatcher - atlas0 #28710_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 284
+        width: 315
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 826a8232a7fbcf220800000000000000
+      internalID: 2521100422717417000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carver Hatcher - atlas0 #28710_18
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 306
+        width: 301
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38b6ab8d3fe71aad0800000000000000
+      internalID: -2692731516412597373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carver Hatcher - atlas0 #28710_19
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 0
+        width: 326
+        height: 308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6315a5cef0e4d4a80800000000000000
+      internalID: -8481036692971957962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carver Hatcher - atlas0 #28710_20
+      rect:
+        serializedVersion: 2
+        x: 941
+        y: 257
+        width: 78
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7469103b8d2bdbe00800000000000000
+      internalID: 1062201730915210823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carver Hatcher - atlas0 #28710_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 315
+        height: 286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06db6e286682f0d00800000000000000
+      internalID: 941015267891658080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carver Hatcher - atlas0 #28710_22
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 219
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 631a246ad5d8d2090800000000000000
+      internalID: -8057628724935089866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carver Hatcher - atlas0 #28710_23
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 0
+        width: 316
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ae39b62e401affb0800000000000000
+      internalID: -4613356940444483936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Carver Hatcher - atlas0 #28710_24
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 0
+        width: 72
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02e748bccbc784fb0800000000000000
+      internalID: -4663340263831994848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Carver Hatcher - atlas0 #28710_0: 123147641546153116
+      Carver Hatcher - atlas0 #28710_1: -7360603720432768784
+      Carver Hatcher - atlas0 #28710_10: 2025682777307072964
+      Carver Hatcher - atlas0 #28710_11: 8699494743854288664
+      Carver Hatcher - atlas0 #28710_12: 5457003487861870756
+      Carver Hatcher - atlas0 #28710_13: 3154059559320262197
+      Carver Hatcher - atlas0 #28710_14: -1423811465384197055
+      Carver Hatcher - atlas0 #28710_15: -4997855558849575671
+      Carver Hatcher - atlas0 #28710_16: 2967432326453021506
+      Carver Hatcher - atlas0 #28710_17: 2521100422717417000
+      Carver Hatcher - atlas0 #28710_18: -2692731516412597373
+      Carver Hatcher - atlas0 #28710_19: -8481036692971957962
+      Carver Hatcher - atlas0 #28710_2: 1145233717183404737
+      Carver Hatcher - atlas0 #28710_20: 1062201730915210823
+      Carver Hatcher - atlas0 #28710_21: 941015267891658080
+      Carver Hatcher - atlas0 #28710_22: -8057628724935089866
+      Carver Hatcher - atlas0 #28710_23: -4613356940444483936
+      Carver Hatcher - atlas0 #28710_24: -4663340263831994848
+      Carver Hatcher - atlas0 #28710_3: 7284608991484254922
+      Carver Hatcher - atlas0 #28710_4: 8980612615930473784
+      Carver Hatcher - atlas0 #28710_5: 2661891865760064053
+      Carver Hatcher - atlas0 #28710_6: -1143284046454712372
+      Carver Hatcher - atlas0 #28710_7: -4749532657445012279
+      Carver Hatcher - atlas0 #28710_8: 593606303915529549
+      Carver Hatcher - atlas0 #28710_9: -2862755198558746601
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

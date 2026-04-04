@@ -1,0 +1,702 @@
+fileFormatVersion: 2
+guid: b189a8f9e81c70e44a3bd7d0270676ef
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4396191852675370381
+    second: Hive Guardian - atlas0 #38602_0
+  - first:
+      213: 864192179652105497
+    second: Hive Guardian - atlas0 #38602_1
+  - first:
+      213: 5597368690873121451
+    second: Hive Guardian - atlas0 #38602_2
+  - first:
+      213: 6034385831070635031
+    second: Hive Guardian - atlas0 #38602_3
+  - first:
+      213: -5367500536303709670
+    second: Hive Guardian - atlas0 #38602_4
+  - first:
+      213: -4956844856804117103
+    second: Hive Guardian - atlas0 #38602_5
+  - first:
+      213: 945727390080010157
+    second: Hive Guardian - atlas0 #38602_6
+  - first:
+      213: 2393866239167183139
+    second: Hive Guardian - atlas0 #38602_7
+  - first:
+      213: -1014849643408804828
+    second: Hive Guardian - atlas0 #38602_8
+  - first:
+      213: 1567471412303591714
+    second: Hive Guardian - atlas0 #38602_9
+  - first:
+      213: 3795127030088320131
+    second: Hive Guardian - atlas0 #38602_10
+  - first:
+      213: -4876676644208851529
+    second: Hive Guardian - atlas0 #38602_11
+  - first:
+      213: -3504684973121843233
+    second: Hive Guardian - atlas0 #38602_12
+  - first:
+      213: -1009717580210171637
+    second: Hive Guardian - atlas0 #38602_13
+  - first:
+      213: 5165000937405176575
+    second: Hive Guardian - atlas0 #38602_14
+  - first:
+      213: 2819582588817064984
+    second: Hive Guardian - atlas0 #38602_15
+  - first:
+      213: -6934720124042005411
+    second: Hive Guardian - atlas0 #38602_16
+  - first:
+      213: 3782347347310178103
+    second: Hive Guardian - atlas0 #38602_17
+  - first:
+      213: -4121187472087834771
+    second: Hive Guardian - atlas0 #38602_18
+  - first:
+      213: -5228458147509531426
+    second: Hive Guardian - atlas0 #38602_19
+  - first:
+      213: 7757160242572870336
+    second: Hive Guardian - atlas0 #38602_20
+  - first:
+      213: -7050669879078138333
+    second: Hive Guardian - atlas0 #38602_21
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Hive Guardian - atlas0 #38602_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1409
+        width: 222
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37271d05dc69df2c0800000000000000
+      internalID: -4396191852675370381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hive Guardian - atlas0 #38602_1
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 1449
+        width: 211
+        height: 233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91595dd653a3efb00800000000000000
+      internalID: 864192179652105497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hive Guardian - atlas0 #38602_2
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 1631
+        width: 231
+        height: 229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: baab2601b29ddad40800000000000000
+      internalID: 5597368690873121451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hive Guardian - atlas0 #38602_3
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 1399
+        width: 246
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7149d9a11f17eb350800000000000000
+      internalID: 6034385831070635031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hive Guardian - atlas0 #38602_4
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 1521
+        width: 233
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1216e153bec285b0800000000000000
+      internalID: -5367500536303709670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hive Guardian - atlas0 #38602_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1122
+        width: 226
+        height: 289
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 195f77f7ddfb53bb0800000000000000
+      internalID: -4956844856804117103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hive Guardian - atlas0 #38602_6
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 1173
+        width: 220
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da78314fc06ef1d00800000000000000
+      internalID: 945727390080010157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hive Guardian - atlas0 #38602_7
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 1163
+        width: 265
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3293c5949a8b83120800000000000000
+      internalID: 2393866239167183139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hive Guardian - atlas0 #38602_8
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 1291
+        width: 249
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 424bf2050a78ae1f0800000000000000
+      internalID: -1014849643408804828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hive Guardian - atlas0 #38602_9
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 1006
+        width: 220
+        height: 287
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2297fe5d1f6c0c510800000000000000
+      internalID: 1567471412303591714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hive Guardian - atlas0 #38602_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 816
+        width: 231
+        height: 308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 384c5e92deffaa430800000000000000
+      internalID: 3795127030088320131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hive Guardian - atlas0 #38602_11
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 876
+        width: 230
+        height: 299
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b5cc790e60925cb0800000000000000
+      internalID: -4876676644208851529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hive Guardian - atlas0 #38602_12
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 571
+        width: 235
+        height: 307
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdf4c67e59bdc5fc0800000000000000
+      internalID: -3504684973121843233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hive Guardian - atlas0 #38602_13
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 504
+        width: 402
+        height: 661
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b011b14e533ccf1f0800000000000000
+      internalID: -1009717580210171637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hive Guardian - atlas0 #38602_14
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 728
+        width: 229
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffa589abcf4cda740800000000000000
+      internalID: 5165000937405176575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hive Guardian - atlas0 #38602_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 511
+        width: 237
+        height: 307
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 814415dfc6b212720800000000000000
+      internalID: 2819582588817064984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hive Guardian - atlas0 #38602_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 265
+        width: 297
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5439b5f9cce2cf90800000000000000
+      internalID: -6934720124042005411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hive Guardian - atlas0 #38602_17
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 265
+        width: 243
+        height: 308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73f60956fd89d7430800000000000000
+      internalID: 3782347347310178103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hive Guardian - atlas0 #38602_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 285
+        height: 267
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6f1a6144d99ec6c0800000000000000
+      internalID: -4121187472087834771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hive Guardian - atlas0 #38602_19
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 0
+        width: 585
+        height: 267
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edc82b23409c077b0800000000000000
+      internalID: -5228458147509531426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hive Guardian - atlas0 #38602_20
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 247
+        width: 290
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c2c6543428f6ab60800000000000000
+      internalID: 7757160242572870336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hive Guardian - atlas0 #38602_21
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 0
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32e400dd91df62e90800000000000000
+      internalID: -7050669879078138333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Hive Guardian - atlas0 #38602_0: -4396191852675370381
+      Hive Guardian - atlas0 #38602_1: 864192179652105497
+      Hive Guardian - atlas0 #38602_10: 3795127030088320131
+      Hive Guardian - atlas0 #38602_11: -4876676644208851529
+      Hive Guardian - atlas0 #38602_12: -3504684973121843233
+      Hive Guardian - atlas0 #38602_13: -1009717580210171637
+      Hive Guardian - atlas0 #38602_14: 5165000937405176575
+      Hive Guardian - atlas0 #38602_15: 2819582588817064984
+      Hive Guardian - atlas0 #38602_16: -6934720124042005411
+      Hive Guardian - atlas0 #38602_17: 3782347347310178103
+      Hive Guardian - atlas0 #38602_18: -4121187472087834771
+      Hive Guardian - atlas0 #38602_19: -5228458147509531426
+      Hive Guardian - atlas0 #38602_2: 5597368690873121451
+      Hive Guardian - atlas0 #38602_20: 7757160242572870336
+      Hive Guardian - atlas0 #38602_21: -7050669879078138333
+      Hive Guardian - atlas0 #38602_3: 6034385831070635031
+      Hive Guardian - atlas0 #38602_4: -5367500536303709670
+      Hive Guardian - atlas0 #38602_5: -4956844856804117103
+      Hive Guardian - atlas0 #38602_6: 945727390080010157
+      Hive Guardian - atlas0 #38602_7: 2393866239167183139
+      Hive Guardian - atlas0 #38602_8: -1014849643408804828
+      Hive Guardian - atlas0 #38602_9: 1567471412303591714
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

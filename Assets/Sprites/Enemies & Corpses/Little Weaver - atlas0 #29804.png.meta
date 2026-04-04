@@ -1,0 +1,1222 @@
+fileFormatVersion: 2
+guid: 76c78eceb4222be4f81caa8496599889
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 824448423136665321
+    second: Little Weaver - atlas0 #29804_0
+  - first:
+      213: -2705827012838466298
+    second: Little Weaver - atlas0 #29804_1
+  - first:
+      213: -7823404499851801035
+    second: Little Weaver - atlas0 #29804_2
+  - first:
+      213: -2323681573287674089
+    second: Little Weaver - atlas0 #29804_3
+  - first:
+      213: -5921458964339938440
+    second: Little Weaver - atlas0 #29804_4
+  - first:
+      213: -3116908807442393017
+    second: Little Weaver - atlas0 #29804_5
+  - first:
+      213: 2049195784725766606
+    second: Little Weaver - atlas0 #29804_6
+  - first:
+      213: -959099074835101015
+    second: Little Weaver - atlas0 #29804_7
+  - first:
+      213: 8242810428183078955
+    second: Little Weaver - atlas0 #29804_8
+  - first:
+      213: -672923595508767753
+    second: Little Weaver - atlas0 #29804_9
+  - first:
+      213: 344124209770001351
+    second: Little Weaver - atlas0 #29804_10
+  - first:
+      213: -4442714266972849073
+    second: Little Weaver - atlas0 #29804_11
+  - first:
+      213: 8734725565446135516
+    second: Little Weaver - atlas0 #29804_12
+  - first:
+      213: 1612356680302122254
+    second: Little Weaver - atlas0 #29804_13
+  - first:
+      213: -2308301057282324446
+    second: Little Weaver - atlas0 #29804_14
+  - first:
+      213: 4231857993802396921
+    second: Little Weaver - atlas0 #29804_15
+  - first:
+      213: -6761455160955738426
+    second: Little Weaver - atlas0 #29804_16
+  - first:
+      213: 3490007914099647737
+    second: Little Weaver - atlas0 #29804_17
+  - first:
+      213: 2278221877623461776
+    second: Little Weaver - atlas0 #29804_18
+  - first:
+      213: -7771926262287649469
+    second: Little Weaver - atlas0 #29804_19
+  - first:
+      213: 7142499887830422547
+    second: Little Weaver - atlas0 #29804_20
+  - first:
+      213: 1605149304437148633
+    second: Little Weaver - atlas0 #29804_21
+  - first:
+      213: -1384768543931874293
+    second: Little Weaver - atlas0 #29804_22
+  - first:
+      213: -5999627748420354946
+    second: Little Weaver - atlas0 #29804_23
+  - first:
+      213: 5845415374257865810
+    second: Little Weaver - atlas0 #29804_24
+  - first:
+      213: -7405696477972539392
+    second: Little Weaver - atlas0 #29804_25
+  - first:
+      213: 5759322238131592845
+    second: Little Weaver - atlas0 #29804_26
+  - first:
+      213: -2600505115654594986
+    second: Little Weaver - atlas0 #29804_27
+  - first:
+      213: -7199563295171881744
+    second: Little Weaver - atlas0 #29804_28
+  - first:
+      213: 1820427696943114234
+    second: Little Weaver - atlas0 #29804_29
+  - first:
+      213: 4824114534033122527
+    second: Little Weaver - atlas0 #29804_30
+  - first:
+      213: 1309180393829167324
+    second: Little Weaver - atlas0 #29804_31
+  - first:
+      213: 8691768834008680856
+    second: Little Weaver - atlas0 #29804_32
+  - first:
+      213: 6527699276658964089
+    second: Little Weaver - atlas0 #29804_33
+  - first:
+      213: -1303399726862173989
+    second: Little Weaver - atlas0 #29804_34
+  - first:
+      213: -6088131907369288404
+    second: Little Weaver - atlas0 #29804_35
+  - first:
+      213: -4250979512123126898
+    second: Little Weaver - atlas0 #29804_36
+  - first:
+      213: -6802801687685770055
+    second: Little Weaver - atlas0 #29804_37
+  - first:
+      213: 7107554506560013739
+    second: Little Weaver - atlas0 #29804_38
+  - first:
+      213: 678923705202122268
+    second: Little Weaver - atlas0 #29804_39
+  - first:
+      213: 9053295838489731558
+    second: Little Weaver - atlas0 #29804_40
+  - first:
+      213: 8250770866098349593
+    second: Little Weaver - atlas0 #29804_41
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Little Weaver - atlas0 #29804_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1286
+        width: 159
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ee11b40977017b00800000000000000
+      internalID: 824448423136665321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Weaver - atlas0 #29804_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 977
+        width: 161
+        height: 311
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60d5b1cfaa8f27ad0800000000000000
+      internalID: -2705827012838466298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Weaver - atlas0 #29804_2
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 1152
+        width: 156
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53e042cbe0fad6390800000000000000
+      internalID: -7823404499851801035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Weaver - atlas0 #29804_3
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 1085
+        width: 197
+        height: 268
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71f3115abef90cfd0800000000000000
+      internalID: -2323681573287674089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Weaver - atlas0 #29804_4
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 1032
+        width: 56
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87b2776f170c2dda0800000000000000
+      internalID: -5921458964339938440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Weaver - atlas0 #29804_5
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 1017
+        width: 62
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7481c1724f38eb4d0800000000000000
+      internalID: -3116908807442393017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Weaver - atlas0 #29804_6
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 758
+        width: 168
+        height: 329
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec1aec785b4307c10800000000000000
+      internalID: 2049195784725766606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Weaver - atlas0 #29804_7
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 564
+        width: 256
+        height: 525
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9aa4c04197890b2f0800000000000000
+      internalID: -959099074835101015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Weaver - atlas0 #29804_8
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 1077
+        width: 122
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b28ecb28968546270800000000000000
+      internalID: 8242810428183078955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Weaver - atlas0 #29804_9
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 931
+        width: 171
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f3a8b02e8b49a6f0800000000000000
+      internalID: -672923595508767753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Weaver - atlas0 #29804_10
+      rect:
+        serializedVersion: 2
+        x: 1021
+        y: 870
+        width: 181
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c3f3f1452396c400800000000000000
+      internalID: 344124209770001351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Weaver - atlas0 #29804_11
+      rect:
+        serializedVersion: 2
+        x: 1968
+        y: 1012
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4cf586a9ee4852c0800000000000000
+      internalID: -4442714266972849073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Weaver - atlas0 #29804_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 665
+        width: 182
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cde90fa8f9af73970800000000000000
+      internalID: 8734725565446135516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Weaver - atlas0 #29804_13
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 812
+        width: 151
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e05d2acabdd306610800000000000000
+      internalID: 1612356680302122254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Weaver - atlas0 #29804_14
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 762
+        width: 181
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22847061b6447ffd0800000000000000
+      internalID: -2308301057282324446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Weaver - atlas0 #29804_15
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 703
+        width: 190
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f43d7c8c649aba30800000000000000
+      internalID: 4231857993802396921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Weaver - atlas0 #29804_16
+      rect:
+        serializedVersion: 2
+        x: 1217
+        y: 703
+        width: 153
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c66086da5c7a22a0800000000000000
+      internalID: -6761455160955738426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Weaver - atlas0 #29804_17
+      rect:
+        serializedVersion: 2
+        x: 1368
+        y: 726
+        width: 130
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f4263ff4bffe6030800000000000000
+      internalID: 3490007914099647737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Weaver - atlas0 #29804_18
+      rect:
+        serializedVersion: 2
+        x: 1502
+        y: 659
+        width: 200
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09715472abedd9f10800000000000000
+      internalID: 2278221877623461776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Weaver - atlas0 #29804_19
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 828
+        width: 190
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 345b0dbed32942490800000000000000
+      internalID: -7771926262287649469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Weaver - atlas0 #29804_20
+      rect:
+        serializedVersion: 2
+        x: 1729
+        y: 655
+        width: 206
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 314566e2ec14f1360800000000000000
+      internalID: 7142499887830422547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Weaver - atlas0 #29804_21
+      rect:
+        serializedVersion: 2
+        x: 1888
+        y: 828
+        width: 151
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9db0176b9c2a64610800000000000000
+      internalID: 1605149304437148633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Weaver - atlas0 #29804_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 428
+        width: 271
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b044eca985058cce0800000000000000
+      internalID: -1384768543931874293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Weaver - atlas0 #29804_23
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 428
+        width: 155
+        height: 386
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7cf3d6a95a0dbca0800000000000000
+      internalID: -5999627748420354946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Weaver - atlas0 #29804_24
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 567
+        width: 270
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2544f3300561f1150800000000000000
+      internalID: 5845415374257865810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Weaver - atlas0 #29804_25
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 593
+        width: 189
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 008d5145a4ea93990800000000000000
+      internalID: -7405696477972539392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Weaver - atlas0 #29804_26
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 346
+        width: 275
+        height: 249
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8e57d6bf093def40800000000000000
+      internalID: 5759322238131592845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Weaver - atlas0 #29804_27
+      rect:
+        serializedVersion: 2
+        x: 1126
+        y: 566
+        width: 254
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65e52d8106629ebd0800000000000000
+      internalID: -2600505115654594986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Weaver - atlas0 #29804_28
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 571
+        width: 126
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f4d655f353061c90800000000000000
+      internalID: -7199563295171881744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Weaver - atlas0 #29804_29
+      rect:
+        serializedVersion: 2
+        x: 1525
+        y: 474
+        width: 206
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af7a3976855734910800000000000000
+      internalID: 1820427696943114234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Weaver - atlas0 #29804_30
+      rect:
+        serializedVersion: 2
+        x: 1729
+        y: 474
+        width: 205
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd4e7d40c92b2f240800000000000000
+      internalID: 4824114534033122527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Weaver - atlas0 #29804_31
+      rect:
+        serializedVersion: 2
+        x: 1932
+        y: 474
+        width: 105
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd0f711c1a42b2210800000000000000
+      internalID: 1309180393829167324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Weaver - atlas0 #29804_32
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 354
+        width: 320
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89906ec14bd5f9870800000000000000
+      internalID: 8691768834008680856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Weaver - atlas0 #29804_33
+      rect:
+        serializedVersion: 2
+        x: 1227
+        y: 303
+        width: 300
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 976f4d928eb079a50800000000000000
+      internalID: 6527699276658964089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Weaver - atlas0 #29804_34
+      rect:
+        serializedVersion: 2
+        x: 1455
+        y: 566
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd8f908aad469ede0800000000000000
+      internalID: -1303399726862173989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Weaver - atlas0 #29804_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 481
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2d388b594c928ba0800000000000000
+      internalID: -6088131907369288404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Weaver - atlas0 #29804_36
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 0
+        width: 376
+        height: 356
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8b007808ac7105c0800000000000000
+      internalID: -4250979512123126898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Weaver - atlas0 #29804_37
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 0
+        width: 376
+        height: 348
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b4df0868e79791a0800000000000000
+      internalID: -6802801687685770055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Weaver - atlas0 #29804_38
+      rect:
+        serializedVersion: 2
+        x: 1227
+        y: 0
+        width: 398
+        height: 305
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba58c319a2b13a260800000000000000
+      internalID: 7107554506560013739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Weaver - atlas0 #29804_39
+      rect:
+        serializedVersion: 2
+        x: 1623
+        y: 232
+        width: 328
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1e1a2643850c6900800000000000000
+      internalID: 678923705202122268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Weaver - atlas0 #29804_40
+      rect:
+        serializedVersion: 2
+        x: 1648
+        y: 0
+        width: 358
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e1e3b34994c3ad70800000000000000
+      internalID: 9053295838489731558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little Weaver - atlas0 #29804_41
+      rect:
+        serializedVersion: 2
+        x: 1623
+        y: 153
+        width: 44
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9162fe46360a08270800000000000000
+      internalID: 8250770866098349593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Little Weaver - atlas0 #29804_0: 824448423136665321
+      Little Weaver - atlas0 #29804_1: -2705827012838466298
+      Little Weaver - atlas0 #29804_10: 344124209770001351
+      Little Weaver - atlas0 #29804_11: -4442714266972849073
+      Little Weaver - atlas0 #29804_12: 8734725565446135516
+      Little Weaver - atlas0 #29804_13: 1612356680302122254
+      Little Weaver - atlas0 #29804_14: -2308301057282324446
+      Little Weaver - atlas0 #29804_15: 4231857993802396921
+      Little Weaver - atlas0 #29804_16: -6761455160955738426
+      Little Weaver - atlas0 #29804_17: 3490007914099647737
+      Little Weaver - atlas0 #29804_18: 2278221877623461776
+      Little Weaver - atlas0 #29804_19: -7771926262287649469
+      Little Weaver - atlas0 #29804_2: -7823404499851801035
+      Little Weaver - atlas0 #29804_20: 7142499887830422547
+      Little Weaver - atlas0 #29804_21: 1605149304437148633
+      Little Weaver - atlas0 #29804_22: -1384768543931874293
+      Little Weaver - atlas0 #29804_23: -5999627748420354946
+      Little Weaver - atlas0 #29804_24: 5845415374257865810
+      Little Weaver - atlas0 #29804_25: -7405696477972539392
+      Little Weaver - atlas0 #29804_26: 5759322238131592845
+      Little Weaver - atlas0 #29804_27: -2600505115654594986
+      Little Weaver - atlas0 #29804_28: -7199563295171881744
+      Little Weaver - atlas0 #29804_29: 1820427696943114234
+      Little Weaver - atlas0 #29804_3: -2323681573287674089
+      Little Weaver - atlas0 #29804_30: 4824114534033122527
+      Little Weaver - atlas0 #29804_31: 1309180393829167324
+      Little Weaver - atlas0 #29804_32: 8691768834008680856
+      Little Weaver - atlas0 #29804_33: 6527699276658964089
+      Little Weaver - atlas0 #29804_34: -1303399726862173989
+      Little Weaver - atlas0 #29804_35: -6088131907369288404
+      Little Weaver - atlas0 #29804_36: -4250979512123126898
+      Little Weaver - atlas0 #29804_37: -6802801687685770055
+      Little Weaver - atlas0 #29804_38: 7107554506560013739
+      Little Weaver - atlas0 #29804_39: 678923705202122268
+      Little Weaver - atlas0 #29804_4: -5921458964339938440
+      Little Weaver - atlas0 #29804_40: 9053295838489731558
+      Little Weaver - atlas0 #29804_41: 8250770866098349593
+      Little Weaver - atlas0 #29804_5: -3116908807442393017
+      Little Weaver - atlas0 #29804_6: 2049195784725766606
+      Little Weaver - atlas0 #29804_7: -959099074835101015
+      Little Weaver - atlas0 #29804_8: 8242810428183078955
+      Little Weaver - atlas0 #29804_9: -672923595508767753
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
