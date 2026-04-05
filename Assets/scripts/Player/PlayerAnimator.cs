@@ -47,7 +47,8 @@ public class PlayerAnimator : MonoBehaviour
     [SerializeField]
     private bool Falling = false;
 
-    private KeyCode AttackKey = KeyCode.Q;
+
+    private KeyCode AttackKey = KeyCode.X;
 
     [SerializeField]
     private float AttackCooldown = 0.5f;
@@ -58,6 +59,9 @@ public class PlayerAnimator : MonoBehaviour
 
     [SerializeField]
     private bool isUpAttacking = false;
+
+    [SerializeField]
+    private PlayerSkill skill;
 
 
     private void Awake()
@@ -76,6 +80,11 @@ public class PlayerAnimator : MonoBehaviour
         {
             movement = GetComponent<PlayerMovement>();
         }   
+
+        if( skill == null)
+        {
+            skill = GetComponent<PlayerSkill>();
+        }
     }
 
 
@@ -123,6 +132,11 @@ public class PlayerAnimator : MonoBehaviour
 
         if (Input.GetKeyDown(AttackKey) && canAttack)
         {
+            if (skill.isDash)
+            {
+                return;
+            }
+
             isAttacking = true;
             lastAttackTime = Time.time;
 

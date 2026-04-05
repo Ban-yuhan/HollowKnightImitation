@@ -25,7 +25,7 @@ public class PlayerMovement : MonoBehaviour
     private LayerMask groundMask;
 
     [SerializeField]
-    private KeyCode JumpKey = KeyCode.Space;
+    private KeyCode JumpKey = KeyCode.Z;
 
     [SerializeField]
     private GameObject NormalattackEffectPrefab;
@@ -67,6 +67,10 @@ public class PlayerMovement : MonoBehaviour
 
     [SerializeField]
     private PlayerAnimator animator;
+
+    [SerializeField]
+    private PlayerSkill skill;
+
 
     private void Start()
     {
@@ -121,6 +125,7 @@ public class PlayerMovement : MonoBehaviour
         }
     }
 
+
     private void FixedUpdate()
     {
         if(playerHealth.GetisAlive() == false)
@@ -132,10 +137,10 @@ public class PlayerMovement : MonoBehaviour
 
         float x = Input.GetAxisRaw("Horizontal");
 
-        if(isKnockbacked || HitSucess)
+        if (isKnockbacked || HitSucess)
         {
 
-            float damp = Mathf.Exp(- knockbackdamp * Time.fixedDeltaTime);
+            float damp = Mathf.Exp(-knockbackdamp * Time.fixedDeltaTime);
             knockbackVel *= damp;
 
             x = knockbackVel;
@@ -150,17 +155,19 @@ public class PlayerMovement : MonoBehaviour
 
             return;
         }
-
-        rb.linearVelocity = new Vector2(MoveSpeed * x, rb.linearVelocity.y);
-
-        if (!isKnockbacked)
+        else if (!skill.isDash && !skill.isFired && !skill.isFallAttacking)
         {
-            PlayerHead();
+            rb.linearVelocity = new Vector2(MoveSpeed * x, rb.linearVelocity.y);
+
+            if (!isKnockbacked)
+            {
+                PlayerHead();
+            }
+
+            Vector2 velocity = rb.linearVelocity;
+
+            velocity.y = Mathf.Max(velocity.y, maxFallSpeed);
         }
-
-        Vector2 velocity = rb.linearVelocity;
-
-        velocity.y = Mathf.Max(velocity.y, maxFallSpeed);
     }
 
     private void Jump()

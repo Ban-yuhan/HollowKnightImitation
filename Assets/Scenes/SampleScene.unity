@@ -704,6 +704,7 @@ GameObject:
   - component: {fileID: 2013377920}
   - component: {fileID: 2013377922}
   - component: {fileID: 2013377921}
+  - component: {fileID: 2013377923}
   m_Layer: 0
   m_Name: TheKnight
   m_TagString: Player
@@ -730,7 +731,7 @@ MonoBehaviour:
   groundMask:
     serializedVersion: 2
     m_Bits: 64
-  JumpKey: 32
+  JumpKey: 122
   NormalattackEffectPrefab: {fileID: 5677410115255107838, guid: 050289ec55afbe4499eae8cb81663f06, type: 3}
   VerticalattackEffectPrefab: {fileID: 631072266398661264, guid: bf20e9d28c9cf46439246897d6d8440d, type: 3}
   isKnockbacked: 0
@@ -739,6 +740,7 @@ MonoBehaviour:
   isDownAttack: 0
   HitSucess: 0
   animator: {fileID: 2013377922}
+  skill: {fileID: 2013377923}
 --- !u!50 &2013377916
 Rigidbody2D:
   serializedVersion: 5
@@ -947,7 +949,48 @@ MonoBehaviour:
   Falling: 0
   AttackCooldown: 0.3
   isUpAttacking: 0
-  UpAttackDuration: 0.2
+  skill: {fileID: 0}
+--- !u!114 &2013377923
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2013377913}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 29f800e86aa23114c806d1364dc01187, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  UnlockSpinSlash: 0
+  UnlockDashAttack: 0
+  UnlockChargeAttack: 0
+  UnlockFocus: 0
+  UnlockFireSpirits: 1
+  UnlockFallAttack: 1
+  UnlockExplodeAttack: 0
+  UnlockDash: 1
+  UnlockWallJump: 0
+  UnlockDoubleJump: 0
+  movement: {fileID: 2013377914}
+  rb: {fileID: 2013377916}
+  sr: {fileID: 2013377917}
+  JumpPower: 0
+  ChargeThreshould: 0.5
+  isCharging: 0
+  SpinSlashPrefab: {fileID: 0}
+  DashSpeed: 40
+  DashKey: 99
+  isDash: 0
+  DashCoolDown: 1
+  CanDash: 1
+  FireSpiritPrefab: {fileID: 7159019771225267659, guid: 0261f170c60dc4945b178acc333687f5, type: 3}
+  SoulKey: 32
+  FireCoolDown: 0.5
+  isFired: 0
+  isFallAttacking: 0
+  FallAttackPrefab: {fileID: 3529395667691009792, guid: addcd59dec33abb46b7f1c52e9d3e9ec, type: 3}
+  fallSpeed: 0
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0
