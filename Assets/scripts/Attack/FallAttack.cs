@@ -22,11 +22,14 @@ public class FallAttack : MonoBehaviour
             return;
         }
 
-        IDamageable damageable = collision.GetComponent<IDamageable>();
-
-        if (damageable != null)
+        if (collision.CompareTag("Enemy"))
         {
-            damageable.TakeDamage(damage);
+            IDamageable damageable = collision.GetComponent<IDamageable>();
+
+            if (damageable != null)
+            {
+                damageable.TakeDamage(damage);
+            }
         }
     }
 }

@@ -586,13 +586,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: The Knight Soul spells - atlas0_8
+      name: fallingAttack
       rect:
         serializedVersion: 2
-        x: 0
+        x: 250
         y: 1427
-        width: 772
-        height: 446
+        width: 520
+        height: 135
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2701,7 +2701,7 @@ TextureImporter:
       name: The Knight Soul spells - atlas0_105
       rect:
         serializedVersion: 2
-        x: 241
+        x: 243
         y: 0
         width: 235
         height: 272
@@ -2812,7 +2812,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 855
-        y: 0
+        y: 2
         width: 236
         height: 211
       alignment: 0
@@ -2978,7 +2978,6 @@ TextureImporter:
       The Knight Soul spells - atlas0_77: 3334779271556555122
       The Knight Soul spells - atlas0_78: 5981210274802925400
       The Knight Soul spells - atlas0_79: 4190017249578434683
-      The Knight Soul spells - atlas0_8: -2906666809625528515
       The Knight Soul spells - atlas0_80: -8401983296257155416
       The Knight Soul spells - atlas0_81: 7462856012188214032
       The Knight Soul spells - atlas0_82: 7378679357029357356
@@ -3000,6 +2999,7 @@ TextureImporter:
       The Knight Soul spells - atlas0_97: 783795487265360176
       The Knight Soul spells - atlas0_98: -8300323272597236824
       The Knight Soul spells - atlas0_99: 1373173869250636379
+      fallingAttack: -2906666809625528515
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

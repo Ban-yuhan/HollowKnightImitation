@@ -1,9 +1,19 @@
 using System.Runtime.CompilerServices;
 using UnityEngine;
 using UnityEngine.InputSystem.LowLevel;
+using TMPro;
+using Unity.VisualScripting;
 
 public class PlayerSkill : MonoBehaviour
 {
+    [SerializeField]
+    private TMP_Text SoulStackText;
+
+    [SerializeField]
+    private int SoulStack = 3;
+
+    [SerializeField]
+    private bool InfiniteSoulStack = false;
 
     [SerializeField]
     private bool UnlockSpinSlash;
@@ -36,6 +46,9 @@ public class PlayerSkill : MonoBehaviour
     private bool UnlockDoubleJump;
 
     [SerializeField]
+    private bool UnlockCrystalDash = false;
+
+    [SerializeField]
     private PlayerMovement movement;
 
     [SerializeField]
@@ -52,10 +65,10 @@ public class PlayerSkill : MonoBehaviour
     private bool WithDownArrow;
 
     [SerializeField]
-    private float ChargeThreshould= 0.5f; //차지에 필요한 시간
+    private float ChargeThreshould = 0.5f; //차지에 필요한 시간
 
     [SerializeField]
-    private bool isCharging;
+    private bool isChargingX;
 
     private float ChargeTimer = 0f;
 
@@ -82,7 +95,7 @@ public class PlayerSkill : MonoBehaviour
     private GameObject FireSpiritPrefab;
 
     [SerializeField]
-    private KeyCode SoulKey = KeyCode.Space;
+    private KeyCode SoulKey = KeyCode.A;
 
     [SerializeField]
     private float FireCoolDown = 0.5f;
@@ -101,41 +114,116 @@ public class PlayerSkill : MonoBehaviour
     [SerializeField]
     private float fallSpeed;
 
+    [SerializeField]
+    private float fallAttackHight;
+
+    [SerializeField]
+    private Transform FootPoint;
+
+    [SerializeField]
+    private LayerMask groundMask;
+
+    [SerializeField]
+    private float SoulchargeTime = 3f;
+
+    private float SoulChargeTimer = 0f;
+
+    public bool isChargingSoul = false;
+
+    [SerializeField]
+    private GameObject SouleExplosionPrefab;
+
+    private float SoulExplosionTimer = 1f;
+
+    [SerializeField]
+    private float SoulExplosionCoolDown = 1f;
+
+    [SerializeField]
+    private float CryDashChargeTime = 2f;
+
+    private float CryDashChargeTimer = 0f;
+
+    [SerializeField]
+    private float CryDashSpeed = 15f;
+
+    public bool isCryDashing = false;
+
+    public bool isChargingCryDash = false;
+
+    private float CrydashDir;
+
+
     private void Update()
     {
-        IsCharged();
+        RaycastHit2D hit = Physics2D.Raycast(FootPoint.position, Vector2.down, 100f, groundMask);
+
+        //IsChargedX();
+
+        IsChargedSoul();
 
         DashTimer += Time.deltaTime;
         FireTimer += Time.deltaTime;
 
-        if(DashTimer > DashCoolDown)
+        if (DashTimer > DashCoolDown)
         {
             CanDash = true;
         }
 
-        if(FireTimer > FireCoolDown)
+        if (FireTimer > FireCoolDown)
         {
             canFire = true;
         }
 
-        if (Input.GetKeyDown(DashKey) && IsCharged())
-        {
-            DashAttack();
-        }
+        SoulStackText.text = "Soul = " + SoulStack.ToString();
+
+        //if (Input.GetKeyDown(DashKey) && IsChargedX())
+        //{
+        //    DashAttack();
+        //}
 
         if (Input.GetKeyDown(DashKey) && CanDash)
         {
             Dash();
         }
 
-        if (Input.GetKeyDown(SoulKey) && canFire && !Input.GetKey(KeyCode.DownArrow))
-        {
-            FireSpirit();
-        }
-
-        if (Input.GetKey(KeyCode.DownArrow) && Input.GetKeyDown(SoulKey) && movement.GetIsGrounded() == false)
+        if (Input.GetKey(KeyCode.DownArrow) && Input.GetKeyDown(SoulKey) && movement.GetIsGrounded() == false && hit.distance > fallAttackHight)
         {
             FallAttack();
+        }
+
+        if(Input.GetKey(KeyCode.UpArrow) && Input.GetKeyDown(SoulKey) && Time.time - SoulExplosionTimer > SoulExplosionCoolDown)
+        {
+            SoulExplosion();
+            SoulExplosionTimer = Time.time;
+        }
+
+        if (Input.GetKey(KeyCode.S) && !isCryDashing && UnlockCrystalDash)
+        {
+
+            if(!movement.GetIsGrounded() && !movement.GetIsWallslide())
+            {
+                return;
+            }
+
+            isChargingCryDash = true;
+            CryDashChargeTimer += Time.deltaTime;
+
+            if(CryDashChargeTimer > 0.2f)
+            {
+                rb.linearVelocity = Vector2.zero;
+                rb.gravityScale = 0f;
+            }
+        }
+
+        if(Input.GetKeyUp(KeyCode.S))
+        {
+            if(isChargingCryDash && CryDashChargeTimer >= CryDashChargeTime)
+            {
+                CrystalDash();
+            }
+            
+            isChargingCryDash = false;
+            CryDashChargeTimer = 0f;
         }
     }
 
@@ -177,21 +265,27 @@ public class PlayerSkill : MonoBehaviour
             if (movement.GetIsGrounded() == true)
             {
                 GameObject FallAttack = Instantiate(FallAttackPrefab, transform.position, Quaternion.identity);
+                rb.linearVelocity = Vector2.zero;
                 isFallAttacking = false;
             }
+        }
+
+        if (isCryDashing)
+        {
+            rb.linearVelocity = new Vector2(CrydashDir * CryDashSpeed, 0f);
         }
     }
 
 
-    bool IsCharged()
+    bool IsChargedX()
     {
         if (Input.GetKeyDown(KeyCode.X))
         {
-            isCharging = true;
+            isChargingX = true;
             ChargeTimer = 0;
         }
 
-        if (Input.GetKey(KeyCode.X) && isCharging)
+        if (Input.GetKey(KeyCode.X) && isChargingX)
         {
             ChargeTimer += Time.deltaTime;
 
@@ -203,11 +297,68 @@ public class PlayerSkill : MonoBehaviour
 
         if (Input.GetKeyUp(KeyCode.X))
         {
-            isCharging = false;
+            isChargingX = false;
             ChargeTimer = 0;
         }
 
         return false;
+    }
+
+
+    void IsChargedSoul()
+    {
+        if(Input.GetKey(KeyCode.UpArrow) || Input.GetKey(KeyCode.DownArrow))
+        {
+            return;
+        }
+
+        if (Input.GetKeyDown(SoulKey))
+        {
+            SoulChargeTimer = 0;
+        }
+
+        SoulChargeTimer += Time.deltaTime;
+
+
+        if (Input.GetKey(SoulKey) && SoulChargeTimer >= 0.2f && movement.GetIsGrounded() && UnlockFocus)
+        {
+            if (SoulStack >= 3)
+            {
+                isChargingSoul = false;
+                return;
+            }
+
+            isChargingSoul = true;
+
+            rb.linearVelocity = Vector2.zero;
+
+            if (SoulChargeTimer >= SoulchargeTime)
+            {
+                ChargeSoul();
+            }
+        }
+
+        if (Input.GetKeyUp(SoulKey))
+        {
+            if (SoulChargeTimer < 0.2f)
+            {
+                if (!InfiniteSoulStack)
+                {
+                    if (SoulStack <= 0)
+                    {
+                        return;
+                    }
+                }
+
+                if (canFire)
+                {
+                    FireSpirit();
+                }
+            }
+
+            isChargingSoul = false;
+            SoulChargeTimer = 0;
+        }
     }
 
 
@@ -218,7 +369,7 @@ public class PlayerSkill : MonoBehaviour
             return;
         }
 
-        if (IsCharged())
+        if (IsChargedX())
         {
             if (WithUpArrow)
             {
@@ -239,6 +390,8 @@ public class PlayerSkill : MonoBehaviour
                 Destroy(Effect, 0.08f);
             }
         }
+
+        --SoulStack;
     }
 
 
@@ -250,6 +403,8 @@ public class PlayerSkill : MonoBehaviour
         }
             float dir = sr.flipX ? -1f : 1f;
             rb.linearVelocity = new Vector2(dir*DashSpeed, 0f);
+
+        --SoulStack;
     }
 
 
@@ -260,10 +415,12 @@ public class PlayerSkill : MonoBehaviour
             return;
         }
 
-        if(!IsCharged())
+        if(!IsChargedX())
         {
 
         }
+     
+        --SoulStack;
     }
 
 
@@ -280,6 +437,8 @@ public class PlayerSkill : MonoBehaviour
 
         float dir = sr.flipX ? 1f : -1f;
         rb.linearVelocity = new Vector2(dir*DashSpeed, 0f);
+
+        --SoulStack;
     }
 
 
@@ -308,11 +467,21 @@ public class PlayerSkill : MonoBehaviour
         {
             rb.linearVelocity = new Vector2(-dir * 8f, 0f);
         }
+
+        --SoulStack;
     }
 
 
     void FallAttack()
     {
+        if (!InfiniteSoulStack)
+        {
+            if (SoulStack <= 0)
+            {
+                return;
+            }
+        }
+
         if (!UnlockFallAttack)
         {
             return;
@@ -320,6 +489,75 @@ public class PlayerSkill : MonoBehaviour
 
         isFallAttacking = true;
 
-        rb.linearVelocity = new Vector2(0f, -fallSpeed);
+        rb.linearVelocity = Vector2.zero;
+
+        rb.AddForce(Vector2.down * fallSpeed, ForceMode2D.Impulse);
+        
+        --SoulStack;
+    }
+
+
+    void SoulExplosion()
+    {
+        if(!UnlockExplodeAttack)
+        {
+            return;
+        }
+
+        if (!InfiniteSoulStack)
+        {
+            if (SoulStack <= 0)
+            {
+                return;
+            }
+        }
+
+        rb.linearVelocity = Vector2.zero;
+
+        Vector2 InstantPos = new Vector2(transform.position.x, transform.position.y + 1f);
+
+        GameObject SoulExplosion = Instantiate(SouleExplosionPrefab, InstantPos, Quaternion.identity);
+
+        --SoulStack;
+    }
+
+
+    void ChargeSoul()
+    {
+        if (SoulStack < 3)
+        {
+            ++SoulStack;
+        }
+
+        SoulChargeTimer = 0f;
+    }
+
+    void CrystalDash()
+    {
+        rb.gravityScale = 0f;
+        isChargingCryDash = false;
+        isCryDashing = true;
+        CryDashChargeTimer = 0f;
+
+        CrydashDir = sr.flipX ? 1f : -1f;
+
+        if (movement.GetIsWallslide())
+        {
+            CrydashDir *= -1;
+            sr.flipX = !sr.flipX;
+        }
+    }
+
+    private void OnCollisionEnter2D(Collision2D collision)
+    {
+        if (isCryDashing)
+        {
+            if(((1 << collision.gameObject.layer) & groundMask) != 0)
+            {
+                rb.gravityScale = 1f;
+                rb.linearVelocity = Vector2.zero;
+                isCryDashing = false;
+            }
+        }
     }
 }
