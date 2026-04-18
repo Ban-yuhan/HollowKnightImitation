@@ -11,6 +11,8 @@ public class PlayerHealth : MonoBehaviour, IDamageable
     [SerializeField]
     private int currentHealth;
 
+    [SerializeField]
+    private PlayerSkill skill;
 
     private void Start()
     {
@@ -22,6 +24,11 @@ public class PlayerHealth : MonoBehaviour, IDamageable
     public void TakeDamage(int damage)
     {
         currentHealth -= damage;
+
+        if (skill.isCryDashing)
+        {
+            skill.isCryDashing = false;
+        }
 
         if (currentHealth <= 0)
         {
