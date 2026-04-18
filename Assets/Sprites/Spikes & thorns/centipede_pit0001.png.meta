@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 4ec630a3998587140b817ee2e67d9e67
+guid: c1aa83d4f02a3954bbc26cd8e01cfb68
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -9170439930983934759
-    second: atlas0 #24911_0
+      213: 4592571340059433374
+    second: centipede_pit0001_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -113,13 +113,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: atlas0 #24911_0
+      name: centipede_pit0001_0
       rect:
         serializedVersion: 2
-        x: 0
+        x: 1
         y: 0
-        width: 505
-        height: 315
+        width: 554
+        height: 217
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -128,8 +128,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 9d415a7487d0cb080800000000000000
-      internalID: -9170439930983934759
+      spriteID: e99d1e12d471cbf30800000000000000
+      internalID: 4592571340059433374
       vertices: []
       indices: 
       edges: []
@@ -148,7 +148,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      atlas0 #24911_0: -9170439930983934759
+      centipede_pit0001_0: 4592571340059433374
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

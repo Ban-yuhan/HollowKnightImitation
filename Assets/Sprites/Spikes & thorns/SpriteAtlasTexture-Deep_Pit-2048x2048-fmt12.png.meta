@@ -1,0 +1,546 @@
+fileFormatVersion: 2
+guid: 65234d9deb948024790fec500296a5dd
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7307291980048114593
+    second: SpriteAtlasTexture-Deep_Pit-2048x2048-fmt12_0
+  - first:
+      213: -8214166454663486478
+    second: SpriteAtlasTexture-Deep_Pit-2048x2048-fmt12_1
+  - first:
+      213: 5078296745742071815
+    second: SpriteAtlasTexture-Deep_Pit-2048x2048-fmt12_2
+  - first:
+      213: 3279819955778043333
+    second: SpriteAtlasTexture-Deep_Pit-2048x2048-fmt12_3
+  - first:
+      213: -5579531084386228617
+    second: SpriteAtlasTexture-Deep_Pit-2048x2048-fmt12_4
+  - first:
+      213: -4935542765861950661
+    second: SpriteAtlasTexture-Deep_Pit-2048x2048-fmt12_5
+  - first:
+      213: 3727831934079917180
+    second: SpriteAtlasTexture-Deep_Pit-2048x2048-fmt12_6
+  - first:
+      213: -3220819122235019372
+    second: SpriteAtlasTexture-Deep_Pit-2048x2048-fmt12_7
+  - first:
+      213: 5653844686668438677
+    second: SpriteAtlasTexture-Deep_Pit-2048x2048-fmt12_8
+  - first:
+      213: -3706758108752622724
+    second: SpriteAtlasTexture-Deep_Pit-2048x2048-fmt12_9
+  - first:
+      213: -6818870705609479999
+    second: SpriteAtlasTexture-Deep_Pit-2048x2048-fmt12_10
+  - first:
+      213: -8793625172640224001
+    second: SpriteAtlasTexture-Deep_Pit-2048x2048-fmt12_11
+  - first:
+      213: 6299992643352025890
+    second: SpriteAtlasTexture-Deep_Pit-2048x2048-fmt12_12
+  - first:
+      213: 6028383805088692636
+    second: SpriteAtlasTexture-Deep_Pit-2048x2048-fmt12_13
+  - first:
+      213: -3075676301658991938
+    second: SpriteAtlasTexture-Deep_Pit-2048x2048-fmt12_14
+  - first:
+      213: 8896452439374602348
+    second: SpriteAtlasTexture-Deep_Pit-2048x2048-fmt12_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Deep_Pit-2048x2048-fmt12_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1304
+        width: 565
+        height: 675
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a324d41757b86560800000000000000
+      internalID: 7307291980048114593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Deep_Pit-2048x2048-fmt12_1
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 1403
+        width: 457
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f36ad7412b610e80800000000000000
+      internalID: -8214166454663486478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Deep_Pit-2048x2048-fmt12_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 647
+        width: 565
+        height: 663
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7087af9fbfbb97640800000000000000
+      internalID: 5078296745742071815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Deep_Pit-2048x2048-fmt12_3
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 1173
+        width: 458
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cd336f5fd2448d20800000000000000
+      internalID: 3279819955778043333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Deep_Pit-2048x2048-fmt12_4
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 991
+        width: 455
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 776a8e55a068192b0800000000000000
+      internalID: -5579531084386228617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Deep_Pit-2048x2048-fmt12_5
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 819
+        width: 448
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3bac0b010e618bb0800000000000000
+      internalID: -4935542765861950661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Deep_Pit-2048x2048-fmt12_6
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 0
+        width: 556
+        height: 829
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7cd035a46bebb330800000000000000
+      internalID: 3727831934079917180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Deep_Pit-2048x2048-fmt12_7
+      rect:
+        serializedVersion: 2
+        x: 1006
+        y: 819
+        width: 455
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49f656da21a5d43d0800000000000000
+      internalID: -3220819122235019372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Deep_Pit-2048x2048-fmt12_8
+      rect:
+        serializedVersion: 2
+        x: 1006
+        y: 647
+        width: 455
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59c1a1489cd767e40800000000000000
+      internalID: 5653844686668438677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Deep_Pit-2048x2048-fmt12_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 558
+        height: 655
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7b408ba323fe8cc0800000000000000
+      internalID: -3706758108752622724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Deep_Pit-2048x2048-fmt12_10
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 611
+        width: 17
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c864de98318e51a0800000000000000
+      internalID: -6818870705609479999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Deep_Pit-2048x2048-fmt12_11
+      rect:
+        serializedVersion: 2
+        x: 1454
+        y: 567
+        width: 455
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffca8d00f74c6f580800000000000000
+      internalID: -8793625172640224001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Deep_Pit-2048x2048-fmt12_12
+      rect:
+        serializedVersion: 2
+        x: 1115
+        y: 395
+        width: 455
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22b529a2ee11e6750800000000000000
+      internalID: 6299992643352025890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Deep_Pit-2048x2048-fmt12_13
+      rect:
+        serializedVersion: 2
+        x: 1559
+        y: 312
+        width: 456
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c997708812f19a350800000000000000
+      internalID: 6028383805088692636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Deep_Pit-2048x2048-fmt12_14
+      rect:
+        serializedVersion: 2
+        x: 1115
+        y: 162
+        width: 455
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb2578303b00155d0800000000000000
+      internalID: -3075676301658991938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Deep_Pit-2048x2048-fmt12_15
+      rect:
+        serializedVersion: 2
+        x: 1115
+        y: 0
+        width: 455
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c60a412bb5c867b70800000000000000
+      internalID: 8896452439374602348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      SpriteAtlasTexture-Deep_Pit-2048x2048-fmt12_0: 7307291980048114593
+      SpriteAtlasTexture-Deep_Pit-2048x2048-fmt12_1: -8214166454663486478
+      SpriteAtlasTexture-Deep_Pit-2048x2048-fmt12_10: -6818870705609479999
+      SpriteAtlasTexture-Deep_Pit-2048x2048-fmt12_11: -8793625172640224001
+      SpriteAtlasTexture-Deep_Pit-2048x2048-fmt12_12: 6299992643352025890
+      SpriteAtlasTexture-Deep_Pit-2048x2048-fmt12_13: 6028383805088692636
+      SpriteAtlasTexture-Deep_Pit-2048x2048-fmt12_14: -3075676301658991938
+      SpriteAtlasTexture-Deep_Pit-2048x2048-fmt12_15: 8896452439374602348
+      SpriteAtlasTexture-Deep_Pit-2048x2048-fmt12_2: 5078296745742071815
+      SpriteAtlasTexture-Deep_Pit-2048x2048-fmt12_3: 3279819955778043333
+      SpriteAtlasTexture-Deep_Pit-2048x2048-fmt12_4: -5579531084386228617
+      SpriteAtlasTexture-Deep_Pit-2048x2048-fmt12_5: -4935542765861950661
+      SpriteAtlasTexture-Deep_Pit-2048x2048-fmt12_6: 3727831934079917180
+      SpriteAtlasTexture-Deep_Pit-2048x2048-fmt12_7: -3220819122235019372
+      SpriteAtlasTexture-Deep_Pit-2048x2048-fmt12_8: 5653844686668438677
+      SpriteAtlasTexture-Deep_Pit-2048x2048-fmt12_9: -3706758108752622724
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
