@@ -1,0 +1,442 @@
+fileFormatVersion: 2
+guid: 0ac2742a5c4449840b83ccb5a61d74d9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7619184557566147697
+    second: fung_big_roof_0001_a_0
+  - first:
+      213: 6256269560950899295
+    second: fung_big_roof_0001_a_1
+  - first:
+      213: 7305658964982987628
+    second: fung_big_roof_0001_a_2
+  - first:
+      213: -8758020608922283356
+    second: fung_big_roof_0001_a_3
+  - first:
+      213: 4149561058306796038
+    second: fung_big_roof_0001_a_4
+  - first:
+      213: -397191601300575598
+    second: fung_big_roof_0001_a_5
+  - first:
+      213: 8746285836669472109
+    second: fung_big_roof_0001_a_6
+  - first:
+      213: -1554173513116459570
+    second: fung_big_roof_0001_a_7
+  - first:
+      213: -1716061304249779517
+    second: fung_big_roof_0001_a_8
+  - first:
+      213: 7101622705991483764
+    second: fung_big_roof_0001_a_9
+  - first:
+      213: 3205035926309209330
+    second: fung_big_roof_0001_a_10
+  - first:
+      213: 592848984486062277
+    second: fung_big_roof_0001_a_11
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: fung_big_roof_0001_a_0
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 509
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17c3fd7acf7ccb960800000000000000
+      internalID: 7619184557566147697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fung_big_roof_0001_a_1
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 168
+        width: 70
+        height: 356
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f52419fb40cb2d650800000000000000
+      internalID: 6256269560950899295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fung_big_roof_0001_a_2
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 502
+        width: 69
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6b75f12f1ae26560800000000000000
+      internalID: 7305658964982987628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fung_big_roof_0001_a_3
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 515
+        width: 33
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a213ad78a2457680800000000000000
+      internalID: -8758020608922283356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fung_big_roof_0001_a_4
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 0
+        width: 70
+        height: 529
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60aab261cc3369930800000000000000
+      internalID: 4149561058306796038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fung_big_roof_0001_a_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 146
+        width: 66
+        height: 354
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29ae5b0d754ec7af0800000000000000
+      internalID: -397191601300575598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fung_big_roof_0001_a_6
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 492
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6dc6bee0ac016970800000000000000
+      internalID: 8746285836669472109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fung_big_roof_0001_a_7
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 492
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecd5f579c677e6ae0800000000000000
+      internalID: -1554173513116459570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fung_big_roof_0001_a_8
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 0
+        width: 229
+        height: 440
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3caf56bf5535f28e0800000000000000
+      internalID: -1716061304249779517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fung_big_roof_0001_a_9
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 0
+        width: 223
+        height: 307
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 471887f99380e8260800000000000000
+      internalID: 7101622705991483764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fung_big_roof_0001_a_10
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 305
+        width: 243
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f48608a1339a7c20800000000000000
+      internalID: 3205035926309209330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fung_big_roof_0001_a_11
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 0
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c82eb5a2093a3800800000000000000
+      internalID: 592848984486062277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      fung_big_roof_0001_a_0: 7619184557566147697
+      fung_big_roof_0001_a_1: 6256269560950899295
+      fung_big_roof_0001_a_10: 3205035926309209330
+      fung_big_roof_0001_a_11: 592848984486062277
+      fung_big_roof_0001_a_2: 7305658964982987628
+      fung_big_roof_0001_a_3: -8758020608922283356
+      fung_big_roof_0001_a_4: 4149561058306796038
+      fung_big_roof_0001_a_5: -397191601300575598
+      fung_big_roof_0001_a_6: 8746285836669472109
+      fung_big_roof_0001_a_7: -1554173513116459570
+      fung_big_roof_0001_a_8: -1716061304249779517
+      fung_big_roof_0001_a_9: 7101622705991483764
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

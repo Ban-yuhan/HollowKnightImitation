@@ -1,19 +1,13 @@
 fileFormatVersion: 2
-guid: 940dc46a54fec8f46a0b70f918289d20
+guid: c224051570a9ec64d92a15bd358ed183
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 3924737744612117261
-    second: 927-2@2x_0
+      213: 1344173653519189031
+    second: egg_pile_0001_06_0
   - first:
-      213: -3346116443573385743
-    second: 927-2@2x_1
-  - first:
-      213: 4083639895591866574
-    second: 927-2@2x_2
-  - first:
-      213: -6294642367556386566
-    second: 927-2@2x_3
+      213: 6819095638793006590
+    second: egg_pile_0001_06_1
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -122,35 +116,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: 927-2@2x_0
-      rect:
-        serializedVersion: 2
-        x: 8
-        y: 153
-        width: 41
-        height: 12
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: d0b4c204f28777630800000000000000
-      internalID: 3924737744612117261
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: 927-2@2x_1
+      name: egg_pile_0001_06_0
       rect:
         serializedVersion: 2
         x: 0
-        y: 1
-        width: 47
-        height: 137
+        y: 61
+        width: 20
+        height: 105
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -159,20 +131,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 1f507b3b2d43091d0800000000000000
-      internalID: -3346116443573385743
+      spriteID: 724437ee0d677a210800000000000000
+      internalID: 1344173653519189031
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 927-2@2x_2
+      name: egg_pile_0001_06_1
       rect:
         serializedVersion: 2
-        x: 35
-        y: 128
-        width: 13
-        height: 13
+        x: 2
+        y: 0
+        width: 367
+        height: 165
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -181,30 +153,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: ec0dd5759d00ca830800000000000000
-      internalID: 4083639895591866574
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: 927-2@2x_3
-      rect:
-        serializedVersion: 2
-        x: 45
-        y: 29
-        width: 5
-        height: 24
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: af08dadfd10f4a8a0800000000000000
-      internalID: -6294642367556386566
+      spriteID: efd2ca7ba5b42ae50800000000000000
+      internalID: 6819095638793006590
       vertices: []
       indices: 
       edges: []
@@ -223,10 +173,8 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      927-2@2x_0: 3924737744612117261
-      927-2@2x_1: -3346116443573385743
-      927-2@2x_2: 4083639895591866574
-      927-2@2x_3: -6294642367556386566
+      egg_pile_0001_06_0: 1344173653519189031
+      egg_pile_0001_06_1: 6819095638793006590
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

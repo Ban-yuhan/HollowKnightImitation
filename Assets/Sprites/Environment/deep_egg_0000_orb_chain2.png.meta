@@ -1,19 +1,16 @@
 fileFormatVersion: 2
-guid: 940dc46a54fec8f46a0b70f918289d20
+guid: 7f6f59ca8db731942bcd089e9f0f474f
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 3924737744612117261
-    second: 927-2@2x_0
+      213: 5686466847073074116
+    second: deep_egg_0000_orb_chain2_0
   - first:
-      213: -3346116443573385743
-    second: 927-2@2x_1
+      213: -7502260244442409727
+    second: deep_egg_0000_orb_chain2_1
   - first:
-      213: 4083639895591866574
-    second: 927-2@2x_2
-  - first:
-      213: -6294642367556386566
-    second: 927-2@2x_3
+      213: -1083545699796406831
+    second: deep_egg_0000_orb_chain2_2
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -122,35 +119,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: 927-2@2x_0
-      rect:
-        serializedVersion: 2
-        x: 8
-        y: 153
-        width: 41
-        height: 12
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: d0b4c204f28777630800000000000000
-      internalID: 3924737744612117261
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: 927-2@2x_1
+      name: deep_egg_0000_orb_chain2_0
       rect:
         serializedVersion: 2
         x: 0
-        y: 1
-        width: 47
-        height: 137
+        y: 204
+        width: 9
+        height: 315
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -159,20 +134,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 1f507b3b2d43091d0800000000000000
-      internalID: -3346116443573385743
+      spriteID: 4cb73de18736aee40800000000000000
+      internalID: 5686466847073074116
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 927-2@2x_2
+      name: deep_egg_0000_orb_chain2_1
       rect:
         serializedVersion: 2
-        x: 35
-        y: 128
-        width: 13
-        height: 13
+        x: 10
+        y: 0
+        width: 48
+        height: 538
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -181,20 +156,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: ec0dd5759d00ca830800000000000000
-      internalID: 4083639895591866574
+      spriteID: 105997d6e0e92e790800000000000000
+      internalID: -7502260244442409727
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 927-2@2x_3
+      name: deep_egg_0000_orb_chain2_2
       rect:
         serializedVersion: 2
-        x: 45
-        y: 29
-        width: 5
-        height: 24
+        x: 0
+        y: 37
+        width: 9
+        height: 164
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -203,8 +178,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: af08dadfd10f4a8a0800000000000000
-      internalID: -6294642367556386566
+      spriteID: 1ddabb94de876f0f0800000000000000
+      internalID: -1083545699796406831
       vertices: []
       indices: 
       edges: []
@@ -223,10 +198,9 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      927-2@2x_0: 3924737744612117261
-      927-2@2x_1: -3346116443573385743
-      927-2@2x_2: 4083639895591866574
-      927-2@2x_3: -6294642367556386566
+      deep_egg_0000_orb_chain2_0: 5686466847073074116
+      deep_egg_0000_orb_chain2_1: -7502260244442409727
+      deep_egg_0000_orb_chain2_2: -1083545699796406831
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

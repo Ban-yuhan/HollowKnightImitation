@@ -1,19 +1,22 @@
 fileFormatVersion: 2
-guid: 940dc46a54fec8f46a0b70f918289d20
+guid: 1e6a64ae17211584b9e9723ce4420537
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 3924737744612117261
-    second: 927-2@2x_0
+      213: -441398838939190759
+    second: roof_FG_rock_08_0004_02_0
   - first:
-      213: -3346116443573385743
-    second: 927-2@2x_1
+      213: 1238833298589472025
+    second: roof_FG_rock_08_0004_02_1
   - first:
-      213: 4083639895591866574
-    second: 927-2@2x_2
+      213: -8876976297149318192
+    second: roof_FG_rock_08_0004_02_2
   - first:
-      213: -6294642367556386566
-    second: 927-2@2x_3
+      213: 2311293701825391493
+    second: roof_FG_rock_08_0004_02_3
+  - first:
+      213: -1934840126971641017
+    second: roof_FG_rock_08_0004_02_4
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -122,13 +125,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: 927-2@2x_0
+      name: roof_FG_rock_08_0004_02_0
       rect:
         serializedVersion: 2
-        x: 8
-        y: 153
-        width: 41
-        height: 12
+        x: 0
+        y: 212
+        width: 50
+        height: 31
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -137,20 +140,42 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: d0b4c204f28777630800000000000000
-      internalID: 3924737744612117261
+      spriteID: 91a72c83816dfd9f0800000000000000
+      internalID: -441398838939190759
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 927-2@2x_1
+      name: roof_FG_rock_08_0004_02_1
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 24
+        width: 109
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 915d95a4258313110800000000000000
+      internalID: 1238833298589472025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roof_FG_rock_08_0004_02_2
       rect:
         serializedVersion: 2
         x: 0
         y: 1
-        width: 47
-        height: 137
+        width: 54
+        height: 201
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -159,20 +184,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 1f507b3b2d43091d0800000000000000
-      internalID: -3346116443573385743
+      spriteID: 0db3ad80715aec480800000000000000
+      internalID: -8876976297149318192
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 927-2@2x_2
+      name: roof_FG_rock_08_0004_02_3
       rect:
         serializedVersion: 2
-        x: 35
-        y: 128
-        width: 13
-        height: 13
+        x: 60
+        y: 57
+        width: 43
+        height: 117
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -181,20 +206,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: ec0dd5759d00ca830800000000000000
-      internalID: 4083639895591866574
+      spriteID: 58b66e4406d531020800000000000000
+      internalID: 2311293701825391493
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 927-2@2x_3
+      name: roof_FG_rock_08_0004_02_4
       rect:
         serializedVersion: 2
-        x: 45
-        y: 29
-        width: 5
-        height: 24
+        x: 68
+        y: 0
+        width: 98
+        height: 23
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -203,8 +228,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: af08dadfd10f4a8a0800000000000000
-      internalID: -6294642367556386566
+      spriteID: 7430faed7211625e0800000000000000
+      internalID: -1934840126971641017
       vertices: []
       indices: 
       edges: []
@@ -223,10 +248,11 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      927-2@2x_0: 3924737744612117261
-      927-2@2x_1: -3346116443573385743
-      927-2@2x_2: 4083639895591866574
-      927-2@2x_3: -6294642367556386566
+      roof_FG_rock_08_0004_02_0: -441398838939190759
+      roof_FG_rock_08_0004_02_1: 1238833298589472025
+      roof_FG_rock_08_0004_02_2: -8876976297149318192
+      roof_FG_rock_08_0004_02_3: 2311293701825391493
+      roof_FG_rock_08_0004_02_4: -1934840126971641017
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
