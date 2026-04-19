@@ -119,7 +119,7 @@ public class PlayerAnimator : MonoBehaviour
         }
         
 
-        if(v.y <= 0f && movement.GetIsGrounded() == false)
+        if(v.y <= -0.1f && movement.GetIsGrounded() == false)
         {
             Falling = true;
         }

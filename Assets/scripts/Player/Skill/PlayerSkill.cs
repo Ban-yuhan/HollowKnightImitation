@@ -220,10 +220,23 @@ public class PlayerSkill : MonoBehaviour
             if(isChargingCryDash && CryDashChargeTimer >= CryDashChargeTime)
             {
                 CrystalDash();
+
+                
             }
             
             isChargingCryDash = false;
             CryDashChargeTimer = 0f;
+        }
+
+        float dir = sr.flipX ? 1f : -1f;
+
+        RaycastHit2D wallHit = Physics2D.Raycast(transform.position, new Vector2(dir, 0f), 0.5f, groundMask);
+
+        if (wallHit.collider != null && isCryDashing)
+        {
+            rb.gravityScale = 1f;
+            rb.linearVelocity = Vector2.zero;
+            isCryDashing = false;
         }
     }
 

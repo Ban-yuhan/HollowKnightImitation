@@ -4,8 +4,6 @@ using Unity.VisualScripting;
 using UnityEngine;
 using System;
 using System.Collections.Generic;
-using UnityEditor.Tilemaps;
-using UnityEditor.Experimental.GraphView;
 using TMPro;
 
 public class PlayerMovement : MonoBehaviour
@@ -119,7 +117,7 @@ public class PlayerMovement : MonoBehaviour
 
         if (FootPoint != null)
         {
-            RaycastHit2D hit = Physics2D.Raycast((Vector2)FootPoint.position, Vector2.down, 0.1f, groundMask);
+            RaycastHit2D hit = Physics2D.Raycast((Vector2)FootPoint.position, Vector2.down, 0.3f, groundMask);
 
             if (hit.collider != null && rb.linearVelocity.y <= 0)
             {
@@ -140,6 +138,8 @@ public class PlayerMovement : MonoBehaviour
                     RemainJumpTimes = MaxJumpTimes - 1;
                 }
             }
+
+            Debug.DrawRay(FootPoint.position, Vector2.down * 0.3f, Color.yellow);
 
             lastGrounded = isGrounded;
         }
