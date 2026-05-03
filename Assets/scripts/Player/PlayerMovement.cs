@@ -86,6 +86,19 @@ public class PlayerMovement : MonoBehaviour
 
     private bool lastGrounded; // 마지막 프레임에서의 착지 상태를 저장하는 변수
 
+    [SerializeField]
+     private float footstepInterval = 0.5f;
+
+    private float footstepTimer = 0f;
+
+    [SerializeField]
+    private AudioSource footstepAudioSource;
+
+    [SerializeField]
+    private AudioClip grassClip;
+
+    [SerializeField]
+    private AudioClip jumpClip;
 
 
     private void Start()
@@ -221,6 +234,16 @@ public class PlayerMovement : MonoBehaviour
         Vector2 velocity = rb.linearVelocity;
 
         velocity.y = Mathf.Max(velocity.y, maxFallSpeed);
+
+        if(x != 0 && isGrounded)
+        {
+            footstepTimer += Time.fixedDeltaTime;
+            if(footstepTimer >= footstepInterval)
+            {
+                footstepAudioSource.PlayOneShot(grassClip);
+                footstepTimer = 0f;
+            }
+        }
     }
 
 
@@ -293,6 +316,8 @@ public class PlayerMovement : MonoBehaviour
         {
             return;
         }
+
+        footstepAudioSource.PlayOneShot(jumpClip);
     }
 
     void Attack()

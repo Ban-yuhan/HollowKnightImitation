@@ -152,6 +152,15 @@ public class PlayerSkill : MonoBehaviour
 
     private float CrydashDir;
 
+    [SerializeField]
+    private AudioSource skillAudioSource;
+
+    [SerializeField]
+    private AudioClip dashSound;
+
+    [SerializeField]
+    private AudioClip fireSpiritSound;
+
 
     private void Update()
     {
@@ -452,6 +461,11 @@ public class PlayerSkill : MonoBehaviour
         rb.linearVelocity = new Vector2(dir*DashSpeed, 0f);
 
         --SoulStack;
+
+        if (skillAudioSource != null && dashSound != null)
+        {
+            skillAudioSource.PlayOneShot(dashSound);
+        }
     }
 
 
@@ -482,6 +496,11 @@ public class PlayerSkill : MonoBehaviour
         }
 
         --SoulStack;
+
+        if (skillAudioSource != null && fireSpiritSound != null)
+        {
+            skillAudioSource.PlayOneShot(fireSpiritSound);
+        }
     }
 
 
