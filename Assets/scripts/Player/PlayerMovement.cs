@@ -295,8 +295,6 @@ public class PlayerMovement : MonoBehaviour
             isWallJumping = true;
             walljumpTimer = 0f;
 
-            
-
             Debug.Log("Wall Jump! / Remain Jump Times : " + RemainJumpTimes);
             return;
         }
@@ -310,14 +308,14 @@ public class PlayerMovement : MonoBehaviour
             rb.AddForce(new Vector2(0.0f, JumpPower), ForceMode2D.Impulse);
 
             --RemainJumpTimes;
+
+            footstepAudioSource.PlayOneShot(jumpClip);
         }
 
         if (RemainJumpTimes < 1)
         {
             return;
         }
-
-        footstepAudioSource.PlayOneShot(jumpClip);
     }
 
     void Attack()

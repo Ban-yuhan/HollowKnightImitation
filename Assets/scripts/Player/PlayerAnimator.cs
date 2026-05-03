@@ -63,6 +63,12 @@ public class PlayerAnimator : MonoBehaviour
     [SerializeField]
     private PlayerSkill skill;
 
+    [SerializeField]
+    private AudioSource attackAudioSource;
+
+    [SerializeField]
+    private AudioClip attackSound;
+
 
     private void Awake()
     {
@@ -141,6 +147,11 @@ public class PlayerAnimator : MonoBehaviour
             lastAttackTime = Time.time;
 
             animator.SetBool(paramisAttacking, isAttacking);
+
+            if(attackAudioSource != null && attackSound != null)
+            {
+                attackAudioSource.PlayOneShot(attackSound);
+            }
 
             if (Input.GetKey(KeyCode.UpArrow))
             {

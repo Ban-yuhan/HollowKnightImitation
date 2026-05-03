@@ -3977,7 +3977,7 @@ Transform:
   m_GameObject: {fileID: 385330544}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -0.2, y: -0.1, z: 0}
+  m_LocalPosition: {x: -0.04, y: -0.01, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -23918,6 +23918,37 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!1 &772754251
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 772754252}
+  m_Layer: 7
+  m_Name: SensorPoint
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &772754252
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 772754251}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -0.42, y: -0.05, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 1810905781}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &774968761
 GameObject:
   m_ObjectHideFlags: 0
@@ -34365,6 +34396,7 @@ GameObject:
   - component: {fileID: 1810905783}
   - component: {fileID: 1810905782}
   - component: {fileID: 1810905784}
+  - component: {fileID: 1810905786}
   - component: {fileID: 1810905785}
   m_Layer: 7
   m_Name: Dumy
@@ -34440,7 +34472,8 @@ Transform:
   m_LocalPosition: {x: 2.56, y: -3.93, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
-  m_Children: []
+  m_Children:
+  - {fileID: 772754252}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!114 &1810905782
@@ -34535,6 +34568,30 @@ CircleCollider2D:
   m_CompositeOrder: 0
   m_Offset: {x: 0, y: 0}
   m_Radius: 0.655
+--- !u!114 &1810905786
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1810905777}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9fbdd55ff7e35934a8875ecd2baa52b6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  sr: {fileID: 1810905780}
+  rb: {fileID: 1810905783}
+  player: {fileID: 0}
+  SensorPoint: {fileID: 772754252}
+  groundMask:
+    serializedVersion: 2
+    m_Bits: 0
+  detectRadius: 5
+  fovAngle: 90
+  playerHealth: {fileID: 0}
+  moveSpeed: 7
+  attackInterval: 0.6
 --- !u!1 &1828148596
 GameObject:
   m_ObjectHideFlags: 0
@@ -36037,7 +36094,7 @@ MonoBehaviour:
   footstepInterval: 0.5
   footstepAudioSource: {fileID: 2013377924}
   grassClip: {fileID: 8300000, guid: df7087e4d8a8bb546bc08ce68632903f, type: 3}
-  jumpClip: {fileID: 8300000, guid: 4e349dc959014a845b9aa317d1c2b7f0, type: 3}
+  jumpClip: {fileID: 8300000, guid: 925b7a9013a838f4db9a53c30734de71, type: 3}
 --- !u!50 &2013377916
 Rigidbody2D:
   serializedVersion: 5
@@ -36249,6 +36306,8 @@ MonoBehaviour:
   AttackCooldown: 0.3
   isUpAttacking: 0
   skill: {fileID: 2013377923}
+  attackAudioSource: {fileID: 2013377924}
+  attackSound: {fileID: 8300000, guid: 39fbaec856070f042b8e40c45959662e, type: 3}
 --- !u!114 &2013377923
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -36308,8 +36367,8 @@ MonoBehaviour:
   isCryDashing: 0
   isChargingCryDash: 0
   skillAudioSource: {fileID: 2013377924}
-  dashSound: {fileID: 8300000, guid: f11db4559b3ffff45b62e9327fc5535d, type: 3}
-  fireSpiritSound: {fileID: 0}
+  dashSound: {fileID: 8300000, guid: a74df7ddb5ee7814584f68ab93dbcd9d, type: 3}
+  fireSpiritSound: {fileID: 8300000, guid: d192329195528e243a91a52a9995ce37, type: 3}
 --- !u!82 &2013377924
 AudioSource:
   m_ObjectHideFlags: 0
