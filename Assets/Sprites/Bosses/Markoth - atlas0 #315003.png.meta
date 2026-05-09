@@ -1,0 +1,624 @@
+fileFormatVersion: 2
+guid: abc838af5fef3c14db69b9cd4e37fe72
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6073094175774784710
+    second: Markoth - atlas0 #315003_0
+  - first:
+      213: 3771175998071776763
+    second: Markoth - atlas0 #315003_1
+  - first:
+      213: 2057759327304099060
+    second: Markoth - atlas0 #315003_2
+  - first:
+      213: 4870278256281778323
+    second: Markoth - atlas0 #315003_3
+  - first:
+      213: 4677955873497099333
+    second: Markoth - atlas0 #315003_4
+  - first:
+      213: -7045479602170857459
+    second: Markoth - atlas0 #315003_5
+  - first:
+      213: 4607860618955272841
+    second: Markoth - atlas0 #315003_6
+  - first:
+      213: 6065624198874822197
+    second: Markoth - atlas0 #315003_7
+  - first:
+      213: 2800408880504043473
+    second: Markoth - atlas0 #315003_8
+  - first:
+      213: 6529155021370449428
+    second: Markoth - atlas0 #315003_9
+  - first:
+      213: 7084169919970835964
+    second: Markoth - atlas0 #315003_10
+  - first:
+      213: 7998457555398711834
+    second: Markoth - atlas0 #315003_11
+  - first:
+      213: -957911783419759955
+    second: Markoth - atlas0 #315003_12
+  - first:
+      213: 6457682451574027680
+    second: Markoth - atlas0 #315003_13
+  - first:
+      213: 5129348466840276888
+    second: Markoth - atlas0 #315003_14
+  - first:
+      213: 2258498757321378934
+    second: Markoth - atlas0 #315003_15
+  - first:
+      213: 3827841775129341486
+    second: Markoth - atlas0 #315003_16
+  - first:
+      213: -6954497140372482656
+    second: Markoth - atlas0 #315003_17
+  - first:
+      213: -2821738235949043961
+    second: Markoth - atlas0 #315003_18
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Markoth - atlas0 #315003_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1362
+        width: 338
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a334375160908bba0800000000000000
+      internalID: -6073094175774784710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Markoth - atlas0 #315003_1
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 785
+        width: 248
+        height: 723
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf52c86f698e55430800000000000000
+      internalID: 3771175998071776763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Markoth - atlas0 #315003_2
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 1474
+        width: 339
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f42539a431ae8c10800000000000000
+      internalID: 2057759327304099060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Markoth - atlas0 #315003_3
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 1232
+        width: 339
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 398fbfe2544b69340800000000000000
+      internalID: 4870278256281778323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Markoth - atlas0 #315003_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 953
+        width: 222
+        height: 411
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54c2fb205107be040800000000000000
+      internalID: 4677955873497099333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Markoth - atlas0 #315003_5
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 835
+        width: 132
+        height: 334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d08785061ad693e90800000000000000
+      internalID: -7045479602170857459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Markoth - atlas0 #315003_6
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 983
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9823757c1d862ff30800000000000000
+      internalID: 4607860618955272841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Markoth - atlas0 #315003_7
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 822
+        width: 224
+        height: 408
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53672f2621d6d2450800000000000000
+      internalID: 6065624198874822197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Markoth - atlas0 #315003_8
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 822
+        width: 175
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d7fa442a0d0dd620800000000000000
+      internalID: 2800408880504043473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Markoth - atlas0 #315003_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 527
+        width: 252
+        height: 428
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41e5e3426e73c9a50800000000000000
+      internalID: 6529155021370449428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Markoth - atlas0 #315003_10
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 534
+        width: 143
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfd7e583207005260800000000000000
+      internalID: 7084169919970835964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Markoth - atlas0 #315003_11
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 637
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1a549cd4ca300f60800000000000000
+      internalID: 7998457555398711834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Markoth - atlas0 #315003_12
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 217
+        width: 312
+        height: 543
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da2ba17ee40d4b2f0800000000000000
+      internalID: -957911783419759955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Markoth - atlas0 #315003_13
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 453
+        width: 264
+        height: 371
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a5f756b9fb4e9950800000000000000
+      internalID: 6457682451574027680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Markoth - atlas0 #315003_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 417
+        height: 276
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89f853f014b1f2740800000000000000
+      internalID: 5129348466840276888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Markoth - atlas0 #315003_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 455
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67c4dcb57acc75f10800000000000000
+      internalID: 2258498757321378934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Markoth - atlas0 #315003_16
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 256
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2e2cfe40d93f1530800000000000000
+      internalID: 3827841775129341486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Markoth - atlas0 #315003_17
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 0
+        width: 294
+        height: 418
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a5d0a482b9ac7f90800000000000000
+      internalID: -6954497140372482656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Markoth - atlas0 #315003_18
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 0
+        width: 306
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70fae1d460c27d8d0800000000000000
+      internalID: -2821738235949043961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Markoth - atlas0 #315003_0: -6073094175774784710
+      Markoth - atlas0 #315003_1: 3771175998071776763
+      Markoth - atlas0 #315003_10: 7084169919970835964
+      Markoth - atlas0 #315003_11: 7998457555398711834
+      Markoth - atlas0 #315003_12: -957911783419759955
+      Markoth - atlas0 #315003_13: 6457682451574027680
+      Markoth - atlas0 #315003_14: 5129348466840276888
+      Markoth - atlas0 #315003_15: 2258498757321378934
+      Markoth - atlas0 #315003_16: 3827841775129341486
+      Markoth - atlas0 #315003_17: -6954497140372482656
+      Markoth - atlas0 #315003_18: -2821738235949043961
+      Markoth - atlas0 #315003_2: 2057759327304099060
+      Markoth - atlas0 #315003_3: 4870278256281778323
+      Markoth - atlas0 #315003_4: 4677955873497099333
+      Markoth - atlas0 #315003_5: -7045479602170857459
+      Markoth - atlas0 #315003_6: 4607860618955272841
+      Markoth - atlas0 #315003_7: 6065624198874822197
+      Markoth - atlas0 #315003_8: 2800408880504043473
+      Markoth - atlas0 #315003_9: 6529155021370449428
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

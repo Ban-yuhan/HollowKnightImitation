@@ -1,0 +1,2990 @@
+fileFormatVersion: 2
+guid: 75dc46de110006149940ee825969207a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7755962073465544279
+    second: Soul Warrior - atlas0 #0350041_0
+  - first:
+      213: -2364756468905529523
+    second: Soul Warrior - atlas0 #0350041_1
+  - first:
+      213: 8621345894879374003
+    second: Soul Warrior - atlas0 #0350041_2
+  - first:
+      213: 1114962509670309256
+    second: Soul Warrior - atlas0 #0350041_3
+  - first:
+      213: 7141209307646907327
+    second: Soul Warrior - atlas0 #0350041_4
+  - first:
+      213: 8094966066892216798
+    second: Soul Warrior - atlas0 #0350041_5
+  - first:
+      213: -6765506539401890038
+    second: Soul Warrior - atlas0 #0350041_6
+  - first:
+      213: 156297064547947741
+    second: Soul Warrior - atlas0 #0350041_7
+  - first:
+      213: -7610560305379273334
+    second: Soul Warrior - atlas0 #0350041_8
+  - first:
+      213: 5991963727966126048
+    second: Soul Warrior - atlas0 #0350041_9
+  - first:
+      213: -6721902828061515430
+    second: Soul Warrior - atlas0 #0350041_10
+  - first:
+      213: -3810026115402283709
+    second: Soul Warrior - atlas0 #0350041_11
+  - first:
+      213: 109792069639307868
+    second: Soul Warrior - atlas0 #0350041_12
+  - first:
+      213: 2909378081604251868
+    second: Soul Warrior - atlas0 #0350041_13
+  - first:
+      213: -5238933181757214288
+    second: Soul Warrior - atlas0 #0350041_14
+  - first:
+      213: -8817842799125273263
+    second: Soul Warrior - atlas0 #0350041_15
+  - first:
+      213: 7802203700674445130
+    second: Soul Warrior - atlas0 #0350041_16
+  - first:
+      213: -1574491753605951082
+    second: Soul Warrior - atlas0 #0350041_17
+  - first:
+      213: 1791580542318222411
+    second: Soul Warrior - atlas0 #0350041_18
+  - first:
+      213: -8563819539329544580
+    second: Soul Warrior - atlas0 #0350041_19
+  - first:
+      213: -5076014820142376913
+    second: Soul Warrior - atlas0 #0350041_20
+  - first:
+      213: -8398849381737793827
+    second: Soul Warrior - atlas0 #0350041_21
+  - first:
+      213: 4316724244176006659
+    second: Soul Warrior - atlas0 #0350041_22
+  - first:
+      213: -4794350349653187500
+    second: Soul Warrior - atlas0 #0350041_23
+  - first:
+      213: 6415129461891360254
+    second: Soul Warrior - atlas0 #0350041_24
+  - first:
+      213: 6716580833225662468
+    second: Soul Warrior - atlas0 #0350041_25
+  - first:
+      213: 7762558487012856202
+    second: Soul Warrior - atlas0 #0350041_26
+  - first:
+      213: 349439800147049329
+    second: Soul Warrior - atlas0 #0350041_27
+  - first:
+      213: -3844339964872176348
+    second: Soul Warrior - atlas0 #0350041_28
+  - first:
+      213: 5504010020539560841
+    second: Soul Warrior - atlas0 #0350041_29
+  - first:
+      213: 2332583859819186499
+    second: Soul Warrior - atlas0 #0350041_30
+  - first:
+      213: -3942472599438020665
+    second: Soul Warrior - atlas0 #0350041_31
+  - first:
+      213: -5364398249219428041
+    second: Soul Warrior - atlas0 #0350041_32
+  - first:
+      213: -9099234572703425435
+    second: Soul Warrior - atlas0 #0350041_33
+  - first:
+      213: -2480308956191718611
+    second: Soul Warrior - atlas0 #0350041_34
+  - first:
+      213: 7012460364188059442
+    second: Soul Warrior - atlas0 #0350041_35
+  - first:
+      213: 5773522052489717320
+    second: Soul Warrior - atlas0 #0350041_36
+  - first:
+      213: -2675699805672992976
+    second: Soul Warrior - atlas0 #0350041_37
+  - first:
+      213: -3620572119169188968
+    second: Soul Warrior - atlas0 #0350041_38
+  - first:
+      213: -1753614010714480183
+    second: Soul Warrior - atlas0 #0350041_39
+  - first:
+      213: 2391033320376697937
+    second: Soul Warrior - atlas0 #0350041_40
+  - first:
+      213: -2173444902627962345
+    second: Soul Warrior - atlas0 #0350041_41
+  - first:
+      213: -4749440896138934142
+    second: Soul Warrior - atlas0 #0350041_42
+  - first:
+      213: 9190281248190775037
+    second: Soul Warrior - atlas0 #0350041_43
+  - first:
+      213: 9197462197895730003
+    second: Soul Warrior - atlas0 #0350041_44
+  - first:
+      213: 1373031175539241051
+    second: Soul Warrior - atlas0 #0350041_45
+  - first:
+      213: -8686939416068526373
+    second: Soul Warrior - atlas0 #0350041_46
+  - first:
+      213: -6874393834158099156
+    second: Soul Warrior - atlas0 #0350041_47
+  - first:
+      213: -49654229419167889
+    second: Soul Warrior - atlas0 #0350041_48
+  - first:
+      213: 2641904403658806553
+    second: Soul Warrior - atlas0 #0350041_49
+  - first:
+      213: -5779820463927557423
+    second: Soul Warrior - atlas0 #0350041_50
+  - first:
+      213: 8000522340719274415
+    second: Soul Warrior - atlas0 #0350041_51
+  - first:
+      213: -1065389594664279942
+    second: Soul Warrior - atlas0 #0350041_52
+  - first:
+      213: 8444493715912397406
+    second: Soul Warrior - atlas0 #0350041_53
+  - first:
+      213: -1984245201903281718
+    second: Soul Warrior - atlas0 #0350041_54
+  - first:
+      213: 4532522921123490813
+    second: Soul Warrior - atlas0 #0350041_55
+  - first:
+      213: -979386943481028927
+    second: Soul Warrior - atlas0 #0350041_56
+  - first:
+      213: -2177065378776863109
+    second: Soul Warrior - atlas0 #0350041_57
+  - first:
+      213: 6511930964753352439
+    second: Soul Warrior - atlas0 #0350041_58
+  - first:
+      213: 4091315182147528838
+    second: Soul Warrior - atlas0 #0350041_59
+  - first:
+      213: 8636625319853823003
+    second: Soul Warrior - atlas0 #0350041_60
+  - first:
+      213: -8103768548756964678
+    second: Soul Warrior - atlas0 #0350041_61
+  - first:
+      213: 4379963981926818020
+    second: Soul Warrior - atlas0 #0350041_62
+  - first:
+      213: 8896568283848675262
+    second: Soul Warrior - atlas0 #0350041_63
+  - first:
+      213: 7716926235050282578
+    second: Soul Warrior - atlas0 #0350041_64
+  - first:
+      213: -7972319372011353052
+    second: Soul Warrior - atlas0 #0350041_65
+  - first:
+      213: 5591204173996624007
+    second: Soul Warrior - atlas0 #0350041_66
+  - first:
+      213: 8661983580727886910
+    second: Soul Warrior - atlas0 #0350041_67
+  - first:
+      213: 4399131293395561590
+    second: Soul Warrior - atlas0 #0350041_68
+  - first:
+      213: 7217091109178877064
+    second: Soul Warrior - atlas0 #0350041_69
+  - first:
+      213: -2286075281294990141
+    second: Soul Warrior - atlas0 #0350041_70
+  - first:
+      213: 1637289428246506542
+    second: Soul Warrior - atlas0 #0350041_71
+  - first:
+      213: 107187765786782466
+    second: Soul Warrior - atlas0 #0350041_72
+  - first:
+      213: 3745285215418783275
+    second: Soul Warrior - atlas0 #0350041_73
+  - first:
+      213: -877138232004585502
+    second: Soul Warrior - atlas0 #0350041_74
+  - first:
+      213: 132206572989605736
+    second: Soul Warrior - atlas0 #0350041_75
+  - first:
+      213: 1696749879667844838
+    second: Soul Warrior - atlas0 #0350041_76
+  - first:
+      213: 3115654035218068886
+    second: Soul Warrior - atlas0 #0350041_77
+  - first:
+      213: -5667873634571562948
+    second: Soul Warrior - atlas0 #0350041_78
+  - first:
+      213: 883400596163311486
+    second: Soul Warrior - atlas0 #0350041_79
+  - first:
+      213: 5525117585764534657
+    second: Soul Warrior - atlas0 #0350041_80
+  - first:
+      213: -6688764002858274203
+    second: Soul Warrior - atlas0 #0350041_81
+  - first:
+      213: 8041492737416329401
+    second: Soul Warrior - atlas0 #0350041_82
+  - first:
+      213: -6051474010372021363
+    second: Soul Warrior - atlas0 #0350041_83
+  - first:
+      213: -5034902119941469662
+    second: Soul Warrior - atlas0 #0350041_84
+  - first:
+      213: 2638872386194185361
+    second: Soul Warrior - atlas0 #0350041_85
+  - first:
+      213: -5358551983177428705
+    second: Soul Warrior - atlas0 #0350041_86
+  - first:
+      213: -3113239530291523845
+    second: Soul Warrior - atlas0 #0350041_87
+  - first:
+      213: -5475414127382993885
+    second: Soul Warrior - atlas0 #0350041_88
+  - first:
+      213: -4106626259929522799
+    second: Soul Warrior - atlas0 #0350041_89
+  - first:
+      213: 5733764771304553264
+    second: Soul Warrior - atlas0 #0350041_90
+  - first:
+      213: 193221563155276387
+    second: Soul Warrior - atlas0 #0350041_91
+  - first:
+      213: -7079445740157579819
+    second: Soul Warrior - atlas0 #0350041_92
+  - first:
+      213: -6332502878579631038
+    second: Soul Warrior - atlas0 #0350041_93
+  - first:
+      213: -4612787203814573034
+    second: Soul Warrior - atlas0 #0350041_94
+  - first:
+      213: 7308212644864195408
+    second: Soul Warrior - atlas0 #0350041_95
+  - first:
+      213: -1269662159434774150
+    second: Soul Warrior - atlas0 #0350041_96
+  - first:
+      213: -1698998938112110421
+    second: Soul Warrior - atlas0 #0350041_97
+  - first:
+      213: 6229716009514860974
+    second: Soul Warrior - atlas0 #0350041_98
+  - first:
+      213: 188361884098957206
+    second: Soul Warrior - atlas0 #0350041_99
+  - first:
+      213: 6852532786115165092
+    second: Soul Warrior - atlas0 #0350041_100
+  - first:
+      213: 4641619584427498571
+    second: Soul Warrior - atlas0 #0350041_101
+  - first:
+      213: 653160211258157635
+    second: Soul Warrior - atlas0 #0350041_102
+  - first:
+      213: 5465042723245125916
+    second: Soul Warrior - atlas0 #0350041_103
+  - first:
+      213: -4659244412592810590
+    second: Soul Warrior - atlas0 #0350041_104
+  - first:
+      213: -5534864858153421525
+    second: Soul Warrior - atlas0 #0350041_105
+  - first:
+      213: -5217512407280068709
+    second: Soul Warrior - atlas0 #0350041_106
+  - first:
+      213: 5857696403112371054
+    second: Soul Warrior - atlas0 #0350041_107
+  - first:
+      213: -5268054065441603570
+    second: Soul Warrior - atlas0 #0350041_108
+  - first:
+      213: 3523801284645494575
+    second: Soul Warrior - atlas0 #0350041_109
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Soul Warrior - atlas0 #0350041_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3716
+        width: 259
+        height: 233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75ed058b966b2ab60800000000000000
+      internalID: 7755962073465544279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soul Warrior - atlas0 #0350041_1
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 3671
+        width: 248
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4f24924582be2fd0800000000000000
+      internalID: -2364756468905529523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soul Warrior - atlas0 #0350041_2
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 3875
+        width: 30
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3baae0ed96c25a770800000000000000
+      internalID: 8621345894879374003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soul Warrior - atlas0 #0350041_3
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 3861
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88dd6c6ce74297f00800000000000000
+      internalID: 1114962509670309256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soul Warrior - atlas0 #0350041_4
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 3658
+        width: 238
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb3d101970caa1360800000000000000
+      internalID: 7141209307646907327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soul Warrior - atlas0 #0350041_5
+      rect:
+        serializedVersion: 2
+        x: 986
+        y: 3800
+        width: 30
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed993f5bfb8175070800000000000000
+      internalID: 8094966066892216798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soul Warrior - atlas0 #0350041_6
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 3744
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a073e59c5a71c12a0800000000000000
+      internalID: -6765506539401890038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soul Warrior - atlas0 #0350041_7
+      rect:
+        serializedVersion: 2
+        x: 961
+        y: 3598
+        width: 238
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd411d32a574b2200800000000000000
+      internalID: 156297064547947741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soul Warrior - atlas0 #0350041_8
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 3727
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a851e2889bbd16690800000000000000
+      internalID: -7610560305379273334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soul Warrior - atlas0 #0350041_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3487
+        width: 271
+        height: 231
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ef3278834bb72350800000000000000
+      internalID: 5991963727966126048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soul Warrior - atlas0 #0350041_10
+      rect:
+        serializedVersion: 2
+        x: 953
+        y: 3669
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5123b6fdf007b2a0800000000000000
+      internalID: -6721902828061515430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soul Warrior - atlas0 #0350041_11
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 3653
+        width: 28
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3454c763f61102bc0800000000000000
+      internalID: -3810026115402283709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soul Warrior - atlas0 #0350041_12
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 3202
+        width: 294
+        height: 453
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c52810e3e4f068100800000000000000
+      internalID: 109792069639307868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soul Warrior - atlas0 #0350041_13
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 3384
+        width: 235
+        height: 277
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd0345f53ff206820800000000000000
+      internalID: 2909378081604251868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soul Warrior - atlas0 #0350041_14
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 3652
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b1ba5b37029b47b0800000000000000
+      internalID: -5238933181757214288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soul Warrior - atlas0 #0350041_15
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 3192
+        width: 216
+        height: 297
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 155e6e071bab0a580800000000000000
+      internalID: -8817842799125273263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soul Warrior - atlas0 #0350041_16
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 3134
+        width: 262
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4f30fb8deef64c60800000000000000
+      internalID: 7802203700674445130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soul Warrior - atlas0 #0350041_17
+      rect:
+        serializedVersion: 2
+        x: 977
+        y: 3348
+        width: 270
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69119849718462ae0800000000000000
+      internalID: -1574491753605951082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soul Warrior - atlas0 #0350041_18
+      rect:
+        serializedVersion: 2
+        x: 1245
+        y: 3364
+        width: 263
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4c1163d209fcd810800000000000000
+      internalID: 1791580542318222411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soul Warrior - atlas0 #0350041_19
+      rect:
+        serializedVersion: 2
+        x: 1506
+        y: 3377
+        width: 245
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7e86b58083372980800000000000000
+      internalID: -8563819539329544580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soul Warrior - atlas0 #0350041_20
+      rect:
+        serializedVersion: 2
+        x: 1537
+        y: 3148
+        width: 262
+        height: 231
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f289bca3a6f5e89b0800000000000000
+      internalID: -5076014820142376913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soul Warrior - atlas0 #0350041_21
+      rect:
+        serializedVersion: 2
+        x: 1797
+        y: 3373
+        width: 251
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd6728f7cfa417b80800000000000000
+      internalID: -8398849381737793827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soul Warrior - atlas0 #0350041_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2917
+        width: 216
+        height: 308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30e6d6f34d518eb30800000000000000
+      internalID: 4316724244176006659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soul Warrior - atlas0 #0350041_23
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 2883
+        width: 217
+        height: 311
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 454e62032cb077db0800000000000000
+      internalID: -4794350349653187500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soul Warrior - atlas0 #0350041_24
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 2970
+        width: 287
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef56d2cb14e170950800000000000000
+      internalID: 6415129461891360254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soul Warrior - atlas0 #0350041_25
+      rect:
+        serializedVersion: 2
+        x: 1033
+        y: 3104
+        width: 253
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 400ec9d8ea6163d50800000000000000
+      internalID: 6716580833225662468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soul Warrior - atlas0 #0350041_26
+      rect:
+        serializedVersion: 2
+        x: 1284
+        y: 3114
+        width: 255
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a81589ee0d52abb60800000000000000
+      internalID: 7762558487012856202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soul Warrior - atlas0 #0350041_27
+      rect:
+        serializedVersion: 2
+        x: 1564
+        y: 2670
+        width: 300
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17bf52695a579d400800000000000000
+      internalID: 349439800147049329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soul Warrior - atlas0 #0350041_28
+      rect:
+        serializedVersion: 2
+        x: 1797
+        y: 3148
+        width: 251
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42dc4fd8b2926aac0800000000000000
+      internalID: -3844339964872176348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soul Warrior - atlas0 #0350041_29
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2611
+        width: 219
+        height: 308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9837372c3fb226c40800000000000000
+      internalID: 5504010020539560841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soul Warrior - atlas0 #0350041_30
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 2613
+        width: 249
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 349055579a00f5020800000000000000
+      internalID: 2332583859819186499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soul Warrior - atlas0 #0350041_31
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 2727
+        width: 276
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cf29c51f068949c0800000000000000
+      internalID: -3942472599438020665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soul Warrior - atlas0 #0350041_32
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 2493
+        width: 287
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7317c81d634dd85b0800000000000000
+      internalID: -5364398249219428041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soul Warrior - atlas0 #0350041_33
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 2408
+        width: 297
+        height: 728
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56c1f0ead5609b180800000000000000
+      internalID: -9099234572703425435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soul Warrior - atlas0 #0350041_34
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 2361
+        width: 323
+        height: 745
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2309f4452c249dd0800000000000000
+      internalID: -2480308956191718611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soul Warrior - atlas0 #0350041_35
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 2645
+        width: 302
+        height: 471
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2378fe03c83415160800000000000000
+      internalID: 7012460364188059442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soul Warrior - atlas0 #0350041_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2253
+        width: 229
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 846a881a7bbaf1050800000000000000
+      internalID: 5773522052489717320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soul Warrior - atlas0 #0350041_37
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 2326
+        width: 241
+        height: 289
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03f874504310edad0800000000000000
+      internalID: -2675699805672992976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soul Warrior - atlas0 #0350041_38
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 2252
+        width: 288
+        height: 243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89bbc3917d421cdc0800000000000000
+      internalID: -3620572119169188968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soul Warrior - atlas0 #0350041_39
+      rect:
+        serializedVersion: 2
+        x: 1343
+        y: 2411
+        width: 287
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c1273a2959e9a7e0800000000000000
+      internalID: -1753614010714480183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soul Warrior - atlas0 #0350041_40
+      rect:
+        serializedVersion: 2
+        x: 1628
+        y: 2442
+        width: 293
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1540d2bf228ae2120800000000000000
+      internalID: 2391033320376697937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soul Warrior - atlas0 #0350041_41
+      rect:
+        serializedVersion: 2
+        x: 1730
+        y: 2210
+        width: 294
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7121aff506f56d1e0800000000000000
+      internalID: -2173444902627962345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soul Warrior - atlas0 #0350041_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1894
+        width: 230
+        height: 361
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2880de72ba8961eb0800000000000000
+      internalID: -4749440896138934142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soul Warrior - atlas0 #0350041_43
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 2026
+        width: 246
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfe38506a107a8f70800000000000000
+      internalID: 9190281248190775037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soul Warrior - atlas0 #0350041_44
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 1942
+        width: 270
+        height: 312
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35398a48323f3af70800000000000000
+      internalID: 9197462197895730003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soul Warrior - atlas0 #0350041_45
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 1890
+        width: 338
+        height: 520
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b50bd8b549cfd0310800000000000000
+      internalID: 1373031175539241051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soul Warrior - atlas0 #0350041_46
+      rect:
+        serializedVersion: 2
+        x: 1121
+        y: 2128
+        width: 320
+        height: 235
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bde65ef50aac17780800000000000000
+      internalID: -8686939416068526373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soul Warrior - atlas0 #0350041_47
+      rect:
+        serializedVersion: 2
+        x: 1439
+        y: 2176
+        width: 293
+        height: 237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c25fedcda3f3990a0800000000000000
+      internalID: -6874393834158099156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soul Warrior - atlas0 #0350041_48
+      rect:
+        serializedVersion: 2
+        x: 1479
+        y: 1918
+        width: 302
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6fefddcdb79f4ff0800000000000000
+      internalID: -49654229419167889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soul Warrior - atlas0 #0350041_49
+      rect:
+        serializedVersion: 2
+        x: 1779
+        y: 1918
+        width: 262
+        height: 294
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9159f96ce0ee9a420800000000000000
+      internalID: 2641904403658806553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soul Warrior - atlas0 #0350041_50
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 1654
+        width: 271
+        height: 343
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d2801e29e3f9cfa0800000000000000
+      internalID: -5779820463927557423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soul Warrior - atlas0 #0350041_51
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 1588
+        width: 274
+        height: 356
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa926282ea0970f60800000000000000
+      internalID: 8000522340719274415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soul Warrior - atlas0 #0350041_52
+      rect:
+        serializedVersion: 2
+        x: 1121
+        y: 1900
+        width: 360
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7063aeeec9f631f0800000000000000
+      internalID: -1065389594664279942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soul Warrior - atlas0 #0350041_53
+      rect:
+        serializedVersion: 2
+        x: 1142
+        y: 1630
+        width: 324
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e521af43b4ed03570800000000000000
+      internalID: 8444493715912397406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soul Warrior - atlas0 #0350041_54
+      rect:
+        serializedVersion: 2
+        x: 1661
+        y: 1503
+        width: 373
+        height: 417
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac91849708b8674e0800000000000000
+      internalID: -1984245201903281718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soul Warrior - atlas0 #0350041_55
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1465
+        width: 250
+        height: 424
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfba1e91591c6ee30800000000000000
+      internalID: 4532522921123490813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soul Warrior - atlas0 #0350041_56
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 1887
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ce582093c48862f0800000000000000
+      internalID: -979386943481028927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soul Warrior - atlas0 #0350041_57
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 1625
+        width: 302
+        height: 267
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7e2435929289c1e0800000000000000
+      internalID: -2177065378776863109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soul Warrior - atlas0 #0350041_58
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1050
+        width: 277
+        height: 417
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f68df3f5b60f5a50800000000000000
+      internalID: 6511930964753352439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soul Warrior - atlas0 #0350041_59
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 1258
+        width: 269
+        height: 398
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 688e0104b7547c830800000000000000
+      internalID: 4091315182147528838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soul Warrior - atlas0 #0350041_60
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 1275
+        width: 333
+        height: 315
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b14180838f47bd770800000000000000
+      internalID: 8636625319853823003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soul Warrior - atlas0 #0350041_61
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 1335
+        width: 355
+        height: 292
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ababb55c071a98f80800000000000000
+      internalID: -8103768548756964678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soul Warrior - atlas0 #0350041_62
+      rect:
+        serializedVersion: 2
+        x: 1228
+        y: 1317
+        width: 339
+        height: 315
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e0e0c71902c8cc30800000000000000
+      internalID: 4379963981926818020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soul Warrior - atlas0 #0350041_63
+      rect:
+        serializedVersion: 2
+        x: 1587
+        y: 1310
+        width: 18
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebf8ec6d7b5f67b70800000000000000
+      internalID: 8896568283848675262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soul Warrior - atlas0 #0350041_64
+      rect:
+        serializedVersion: 2
+        x: 1605
+        y: 1339
+        width: 11
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25e80165687081b60800000000000000
+      internalID: 7716926235050282578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soul Warrior - atlas0 #0350041_65
+      rect:
+        serializedVersion: 2
+        x: 1615
+        y: 1329
+        width: 8
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42c4c4335c1ac5190800000000000000
+      internalID: -7972319372011353052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soul Warrior - atlas0 #0350041_66
+      rect:
+        serializedVersion: 2
+        x: 1624
+        y: 1320
+        width: 11
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78800c1a292f79d40800000000000000
+      internalID: 5591204173996624007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soul Warrior - atlas0 #0350041_67
+      rect:
+        serializedVersion: 2
+        x: 1633
+        y: 1360
+        width: 9
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e344d8b6c2c853870800000000000000
+      internalID: 8661983580727886910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soul Warrior - atlas0 #0350041_68
+      rect:
+        serializedVersion: 2
+        x: 1741
+        y: 1380
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67ca52f8a9adc0d30800000000000000
+      internalID: 4399131293395561590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soul Warrior - atlas0 #0350041_69
+      rect:
+        serializedVersion: 2
+        x: 1746
+        y: 537
+        width: 300
+        height: 968
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 884ac324022482460800000000000000
+      internalID: 7217091109178877064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soul Warrior - atlas0 #0350041_70
+      rect:
+        serializedVersion: 2
+        x: 1643
+        y: 1295
+        width: 8
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c46c90d4aa3640e0800000000000000
+      internalID: -2286075281294990141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soul Warrior - atlas0 #0350041_71
+      rect:
+        serializedVersion: 2
+        x: 1701
+        y: 1356
+        width: 19
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2ca22d6f02d8b610800000000000000
+      internalID: 1637289428246506542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soul Warrior - atlas0 #0350041_72
+      rect:
+        serializedVersion: 2
+        x: 1723
+        y: 1352
+        width: 34
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20b2dff74becc7100800000000000000
+      internalID: 107187765786782466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soul Warrior - atlas0 #0350041_73
+      rect:
+        serializedVersion: 2
+        x: 1661
+        y: 1342
+        width: 27
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b261f8f5f0de9f330800000000000000
+      internalID: 3745285215418783275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soul Warrior - atlas0 #0350041_74
+      rect:
+        serializedVersion: 2
+        x: 1701
+        y: 1336
+        width: 33
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e7d37edc67c3d3f0800000000000000
+      internalID: -877138232004585502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soul Warrior - atlas0 #0350041_75
+      rect:
+        serializedVersion: 2
+        x: 999
+        y: 963
+        width: 231
+        height: 374
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 867640c7d21b5d100800000000000000
+      internalID: 132206572989605736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soul Warrior - atlas0 #0350041_76
+      rect:
+        serializedVersion: 2
+        x: 1228
+        y: 1001
+        width: 344
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e6e94a96011c8710800000000000000
+      internalID: 1696749879667844838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soul Warrior - atlas0 #0350041_77
+      rect:
+        serializedVersion: 2
+        x: 1731
+        y: 1310
+        width: 30
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6957f2c66d60d3b20800000000000000
+      internalID: 3115654035218068886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soul Warrior - atlas0 #0350041_78
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 597
+        height: 1261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c305f8385faa751b0800000000000000
+      internalID: -5667873634571562948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soul Warrior - atlas0 #0350041_79
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 733
+        width: 380
+        height: 319
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e77bea86928724c00800000000000000
+      internalID: 883400596163311486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soul Warrior - atlas0 #0350041_80
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 802
+        width: 243
+        height: 475
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18942c1cb292dac40800000000000000
+      internalID: 5525117585764534657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soul Warrior - atlas0 #0350041_81
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 802
+        width: 189
+        height: 284
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5627637f39cbc23a0800000000000000
+      internalID: -6688764002858274203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soul Warrior - atlas0 #0350041_82
+      rect:
+        serializedVersion: 2
+        x: 1581
+        y: 1012
+        width: 8
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b8759df90f199f60800000000000000
+      internalID: 8041492737416329401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soul Warrior - atlas0 #0350041_83
+      rect:
+        serializedVersion: 2
+        x: 1601
+        y: 930
+        width: 12
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d83644c1378d40ca0800000000000000
+      internalID: -6051474010372021363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soul Warrior - atlas0 #0350041_84
+      rect:
+        serializedVersion: 2
+        x: 1610
+        y: 924
+        width: 14
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22a070ea23f602ab0800000000000000
+      internalID: -5034902119941469662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soul Warrior - atlas0 #0350041_85
+      rect:
+        serializedVersion: 2
+        x: 1623
+        y: 1013
+        width: 8
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19c11b234782f9420800000000000000
+      internalID: 2638872386194185361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soul Warrior - atlas0 #0350041_86
+      rect:
+        serializedVersion: 2
+        x: 1633
+        y: 937
+        width: 18
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f119e34bc5992a5b0800000000000000
+      internalID: -5358551983177428705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soul Warrior - atlas0 #0350041_87
+      rect:
+        serializedVersion: 2
+        x: 1652
+        y: 986
+        width: 11
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfe0540542d8bc4d0800000000000000
+      internalID: -3113239530291523845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soul Warrior - atlas0 #0350041_88
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 437
+        width: 218
+        height: 528
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3246e237cdb6304b0800000000000000
+      internalID: -5475414127382993885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soul Warrior - atlas0 #0350041_89
+      rect:
+        serializedVersion: 2
+        x: 1231
+        y: 424
+        width: 403
+        height: 579
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19d1c97ac255207c0800000000000000
+      internalID: -4106626259929522799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soul Warrior - atlas0 #0350041_90
+      rect:
+        serializedVersion: 2
+        x: 1585
+        y: 892
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03bb1434eac629f40800000000000000
+      internalID: 5733764771304553264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soul Warrior - atlas0 #0350041_91
+      rect:
+        serializedVersion: 2
+        x: 1594
+        y: 748
+        width: 21
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 362e0daecf57ea200800000000000000
+      internalID: 193221563155276387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soul Warrior - atlas0 #0350041_92
+      rect:
+        serializedVersion: 2
+        x: 1605
+        y: 902
+        width: 7
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dd414b9b91c0cd90800000000000000
+      internalID: -7079445740157579819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soul Warrior - atlas0 #0350041_93
+      rect:
+        serializedVersion: 2
+        x: 1637
+        y: 704
+        width: 24
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24c5f17de2e6e18a0800000000000000
+      internalID: -6332502878579631038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soul Warrior - atlas0 #0350041_94
+      rect:
+        serializedVersion: 2
+        x: 1687
+        y: 861
+        width: 33
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61c3a2c4a761cffb0800000000000000
+      internalID: -4612787203814573034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soul Warrior - atlas0 #0350041_95
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 437
+        width: 412
+        height: 367
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05bf5201eacfb6560800000000000000
+      internalID: 7308212644864195408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soul Warrior - atlas0 #0350041_96
+      rect:
+        serializedVersion: 2
+        x: 1572
+        y: 656
+        width: 10
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7982223ef0416ee0800000000000000
+      internalID: -1269662159434774150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soul Warrior - atlas0 #0350041_97
+      rect:
+        serializedVersion: 2
+        x: 1583
+        y: 754
+        width: 8
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba0df0ca771fb68e0800000000000000
+      internalID: -1698998938112110421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soul Warrior - atlas0 #0350041_98
+      rect:
+        serializedVersion: 2
+        x: 1622
+        y: 742
+        width: 9
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea182b644b5647650800000000000000
+      internalID: 6229716009514860974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soul Warrior - atlas0 #0350041_99
+      rect:
+        serializedVersion: 2
+        x: 1631
+        y: 732
+        width: 7
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69f01f6b2223d9200800000000000000
+      internalID: 188361884098957206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soul Warrior - atlas0 #0350041_100
+      rect:
+        serializedVersion: 2
+        x: 1651
+        y: 701
+        width: 9
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4abbc104346191f50800000000000000
+      internalID: 6852532786115165092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soul Warrior - atlas0 #0350041_101
+      rect:
+        serializedVersion: 2
+        x: 1682
+        y: 505
+        width: 7
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4c1c407b685a6040800000000000000
+      internalID: 4641619584427498571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soul Warrior - atlas0 #0350041_102
+      rect:
+        serializedVersion: 2
+        x: 1682
+        y: 500
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34a267560cd701900800000000000000
+      internalID: 653160211258157635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soul Warrior - atlas0 #0350041_103
+      rect:
+        serializedVersion: 2
+        x: 1752
+        y: 0
+        width: 268
+        height: 537
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c11fb59d66bb7db40800000000000000
+      internalID: 5465042723245125916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soul Warrior - atlas0 #0350041_104
+      rect:
+        serializedVersion: 2
+        x: 1625
+        y: 424
+        width: 11
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a59ea974e9075fb0800000000000000
+      internalID: -4659244412592810590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soul Warrior - atlas0 #0350041_105
+      rect:
+        serializedVersion: 2
+        x: 1646
+        y: 424
+        width: 8
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b25f8f98cb53033b0800000000000000
+      internalID: -5534864858153421525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soul Warrior - atlas0 #0350041_106
+      rect:
+        serializedVersion: 2
+        x: 1681
+        y: 444
+        width: 8
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b97d0e0fb1ca797b0800000000000000
+      internalID: -5217512407280068709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soul Warrior - atlas0 #0350041_107
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 273
+        width: 256
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e63a89dd7d7ba4150800000000000000
+      internalID: 5857696403112371054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soul Warrior - atlas0 #0350041_108
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 0
+        width: 418
+        height: 439
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e000dc32dbc14e6b0800000000000000
+      internalID: -5268054065441603570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soul Warrior - atlas0 #0350041_109
+      rect:
+        serializedVersion: 2
+        x: 1239
+        y: 0
+        width: 514
+        height: 426
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2f1c56399e07e030800000000000000
+      internalID: 3523801284645494575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Soul Warrior - atlas0 #0350041_0: 7755962073465544279
+      Soul Warrior - atlas0 #0350041_1: -2364756468905529523
+      Soul Warrior - atlas0 #0350041_10: -6721902828061515430
+      Soul Warrior - atlas0 #0350041_100: 6852532786115165092
+      Soul Warrior - atlas0 #0350041_101: 4641619584427498571
+      Soul Warrior - atlas0 #0350041_102: 653160211258157635
+      Soul Warrior - atlas0 #0350041_103: 5465042723245125916
+      Soul Warrior - atlas0 #0350041_104: -4659244412592810590
+      Soul Warrior - atlas0 #0350041_105: -5534864858153421525
+      Soul Warrior - atlas0 #0350041_106: -5217512407280068709
+      Soul Warrior - atlas0 #0350041_107: 5857696403112371054
+      Soul Warrior - atlas0 #0350041_108: -5268054065441603570
+      Soul Warrior - atlas0 #0350041_109: 3523801284645494575
+      Soul Warrior - atlas0 #0350041_11: -3810026115402283709
+      Soul Warrior - atlas0 #0350041_12: 109792069639307868
+      Soul Warrior - atlas0 #0350041_13: 2909378081604251868
+      Soul Warrior - atlas0 #0350041_14: -5238933181757214288
+      Soul Warrior - atlas0 #0350041_15: -8817842799125273263
+      Soul Warrior - atlas0 #0350041_16: 7802203700674445130
+      Soul Warrior - atlas0 #0350041_17: -1574491753605951082
+      Soul Warrior - atlas0 #0350041_18: 1791580542318222411
+      Soul Warrior - atlas0 #0350041_19: -8563819539329544580
+      Soul Warrior - atlas0 #0350041_2: 8621345894879374003
+      Soul Warrior - atlas0 #0350041_20: -5076014820142376913
+      Soul Warrior - atlas0 #0350041_21: -8398849381737793827
+      Soul Warrior - atlas0 #0350041_22: 4316724244176006659
+      Soul Warrior - atlas0 #0350041_23: -4794350349653187500
+      Soul Warrior - atlas0 #0350041_24: 6415129461891360254
+      Soul Warrior - atlas0 #0350041_25: 6716580833225662468
+      Soul Warrior - atlas0 #0350041_26: 7762558487012856202
+      Soul Warrior - atlas0 #0350041_27: 349439800147049329
+      Soul Warrior - atlas0 #0350041_28: -3844339964872176348
+      Soul Warrior - atlas0 #0350041_29: 5504010020539560841
+      Soul Warrior - atlas0 #0350041_3: 1114962509670309256
+      Soul Warrior - atlas0 #0350041_30: 2332583859819186499
+      Soul Warrior - atlas0 #0350041_31: -3942472599438020665
+      Soul Warrior - atlas0 #0350041_32: -5364398249219428041
+      Soul Warrior - atlas0 #0350041_33: -9099234572703425435
+      Soul Warrior - atlas0 #0350041_34: -2480308956191718611
+      Soul Warrior - atlas0 #0350041_35: 7012460364188059442
+      Soul Warrior - atlas0 #0350041_36: 5773522052489717320
+      Soul Warrior - atlas0 #0350041_37: -2675699805672992976
+      Soul Warrior - atlas0 #0350041_38: -3620572119169188968
+      Soul Warrior - atlas0 #0350041_39: -1753614010714480183
+      Soul Warrior - atlas0 #0350041_4: 7141209307646907327
+      Soul Warrior - atlas0 #0350041_40: 2391033320376697937
+      Soul Warrior - atlas0 #0350041_41: -2173444902627962345
+      Soul Warrior - atlas0 #0350041_42: -4749440896138934142
+      Soul Warrior - atlas0 #0350041_43: 9190281248190775037
+      Soul Warrior - atlas0 #0350041_44: 9197462197895730003
+      Soul Warrior - atlas0 #0350041_45: 1373031175539241051
+      Soul Warrior - atlas0 #0350041_46: -8686939416068526373
+      Soul Warrior - atlas0 #0350041_47: -6874393834158099156
+      Soul Warrior - atlas0 #0350041_48: -49654229419167889
+      Soul Warrior - atlas0 #0350041_49: 2641904403658806553
+      Soul Warrior - atlas0 #0350041_5: 8094966066892216798
+      Soul Warrior - atlas0 #0350041_50: -5779820463927557423
+      Soul Warrior - atlas0 #0350041_51: 8000522340719274415
+      Soul Warrior - atlas0 #0350041_52: -1065389594664279942
+      Soul Warrior - atlas0 #0350041_53: 8444493715912397406
+      Soul Warrior - atlas0 #0350041_54: -1984245201903281718
+      Soul Warrior - atlas0 #0350041_55: 4532522921123490813
+      Soul Warrior - atlas0 #0350041_56: -979386943481028927
+      Soul Warrior - atlas0 #0350041_57: -2177065378776863109
+      Soul Warrior - atlas0 #0350041_58: 6511930964753352439
+      Soul Warrior - atlas0 #0350041_59: 4091315182147528838
+      Soul Warrior - atlas0 #0350041_6: -6765506539401890038
+      Soul Warrior - atlas0 #0350041_60: 8636625319853823003
+      Soul Warrior - atlas0 #0350041_61: -8103768548756964678
+      Soul Warrior - atlas0 #0350041_62: 4379963981926818020
+      Soul Warrior - atlas0 #0350041_63: 8896568283848675262
+      Soul Warrior - atlas0 #0350041_64: 7716926235050282578
+      Soul Warrior - atlas0 #0350041_65: -7972319372011353052
+      Soul Warrior - atlas0 #0350041_66: 5591204173996624007
+      Soul Warrior - atlas0 #0350041_67: 8661983580727886910
+      Soul Warrior - atlas0 #0350041_68: 4399131293395561590
+      Soul Warrior - atlas0 #0350041_69: 7217091109178877064
+      Soul Warrior - atlas0 #0350041_7: 156297064547947741
+      Soul Warrior - atlas0 #0350041_70: -2286075281294990141
+      Soul Warrior - atlas0 #0350041_71: 1637289428246506542
+      Soul Warrior - atlas0 #0350041_72: 107187765786782466
+      Soul Warrior - atlas0 #0350041_73: 3745285215418783275
+      Soul Warrior - atlas0 #0350041_74: -877138232004585502
+      Soul Warrior - atlas0 #0350041_75: 132206572989605736
+      Soul Warrior - atlas0 #0350041_76: 1696749879667844838
+      Soul Warrior - atlas0 #0350041_77: 3115654035218068886
+      Soul Warrior - atlas0 #0350041_78: -5667873634571562948
+      Soul Warrior - atlas0 #0350041_79: 883400596163311486
+      Soul Warrior - atlas0 #0350041_8: -7610560305379273334
+      Soul Warrior - atlas0 #0350041_80: 5525117585764534657
+      Soul Warrior - atlas0 #0350041_81: -6688764002858274203
+      Soul Warrior - atlas0 #0350041_82: 8041492737416329401
+      Soul Warrior - atlas0 #0350041_83: -6051474010372021363
+      Soul Warrior - atlas0 #0350041_84: -5034902119941469662
+      Soul Warrior - atlas0 #0350041_85: 2638872386194185361
+      Soul Warrior - atlas0 #0350041_86: -5358551983177428705
+      Soul Warrior - atlas0 #0350041_87: -3113239530291523845
+      Soul Warrior - atlas0 #0350041_88: -5475414127382993885
+      Soul Warrior - atlas0 #0350041_89: -4106626259929522799
+      Soul Warrior - atlas0 #0350041_9: 5991963727966126048
+      Soul Warrior - atlas0 #0350041_90: 5733764771304553264
+      Soul Warrior - atlas0 #0350041_91: 193221563155276387
+      Soul Warrior - atlas0 #0350041_92: -7079445740157579819
+      Soul Warrior - atlas0 #0350041_93: -6332502878579631038
+      Soul Warrior - atlas0 #0350041_94: -4612787203814573034
+      Soul Warrior - atlas0 #0350041_95: 7308212644864195408
+      Soul Warrior - atlas0 #0350041_96: -1269662159434774150
+      Soul Warrior - atlas0 #0350041_97: -1698998938112110421
+      Soul Warrior - atlas0 #0350041_98: 6229716009514860974
+      Soul Warrior - atlas0 #0350041_99: 188361884098957206
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

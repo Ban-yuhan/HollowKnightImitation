@@ -1,0 +1,520 @@
+fileFormatVersion: 2
+guid: 756b09939f2ce9e41b993c711135e11a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3704967495457728517
+    second: Galien - atlas0 #29904_0
+  - first:
+      213: -2163538479544464250
+    second: Galien - atlas0 #29904_1
+  - first:
+      213: 2172441851708821941
+    second: Galien - atlas0 #29904_2
+  - first:
+      213: -3948815867313055065
+    second: Galien - atlas0 #29904_3
+  - first:
+      213: -3533123782279676437
+    second: Galien - atlas0 #29904_4
+  - first:
+      213: -8915903100850683187
+    second: Galien - atlas0 #29904_5
+  - first:
+      213: 5792918358151317365
+    second: Galien - atlas0 #29904_6
+  - first:
+      213: 2590094253835947728
+    second: Galien - atlas0 #29904_7
+  - first:
+      213: 8321704535213797563
+    second: Galien - atlas0 #29904_8
+  - first:
+      213: -4504882961218634400
+    second: Galien - atlas0 #29904_9
+  - first:
+      213: -8557512514875895119
+    second: Galien - atlas0 #29904_10
+  - first:
+      213: -8352323221352500798
+    second: Galien - atlas0 #29904_11
+  - first:
+      213: -4725505818209325401
+    second: Galien - atlas0 #29904_12
+  - first:
+      213: -1350394504962749441
+    second: Galien - atlas0 #29904_13
+  - first:
+      213: 2019684453429701048
+    second: Galien - atlas0 #29904_14
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Galien - atlas0 #29904_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1299
+        width: 248
+        height: 284
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 508602fae40ba6330800000000000000
+      internalID: 3704967495457728517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galien - atlas0 #29904_1
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 1334
+        width: 285
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68c0ddc373199f1e0800000000000000
+      internalID: -2163538479544464250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galien - atlas0 #29904_2
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 1073
+        width: 283
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b1db42aa50162e10800000000000000
+      internalID: 2172441851708821941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galien - atlas0 #29904_3
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 1063
+        width: 290
+        height: 510
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7aa1161f3ecf239c0800000000000000
+      internalID: -3948815867313055065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galien - atlas0 #29904_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1020
+        width: 267
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bed3cb9a3a2d7fec0800000000000000
+      internalID: -3533123782279676437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galien - atlas0 #29904_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 713
+        width: 274
+        height: 309
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc2cdf54e59544480800000000000000
+      internalID: -8915903100850683187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galien - atlas0 #29904_6
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 809
+        width: 283
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 577c276fd84946050800000000000000
+      internalID: 5792918358151317365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galien - atlas0 #29904_7
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 793
+        width: 281
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0de0cae300dd1f320800000000000000
+      internalID: 2590094253835947728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galien - atlas0 #29904_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 887
+        height: 715
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb0fc2b3f22ac7370800000000000000
+      internalID: 8321704535213797563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galien - atlas0 #29904_9
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 520
+        width: 306
+        height: 292
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06d7add80d07b71c0800000000000000
+      internalID: -4504882961218634400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galien - atlas0 #29904_10
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 520
+        width: 281
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b2dcd515bb9d3980800000000000000
+      internalID: -8557512514875895119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galien - atlas0 #29904_11
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 0
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c1b90e5846961c80800000000000000
+      internalID: -8352323221352500798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galien - atlas0 #29904_12
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 0
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ae6791ce71ab6eb0800000000000000
+      internalID: -4725505818209325401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galien - atlas0 #29904_13
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 0
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffb4e093a5f624de0800000000000000
+      internalID: -1350394504962749441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galien - atlas0 #29904_14
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 0
+        width: 124
+        height: 351
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b96e054f4c570c10800000000000000
+      internalID: 2019684453429701048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Galien - atlas0 #29904_0: 3704967495457728517
+      Galien - atlas0 #29904_1: -2163538479544464250
+      Galien - atlas0 #29904_10: -8557512514875895119
+      Galien - atlas0 #29904_11: -8352323221352500798
+      Galien - atlas0 #29904_12: -4725505818209325401
+      Galien - atlas0 #29904_13: -1350394504962749441
+      Galien - atlas0 #29904_14: 2019684453429701048
+      Galien - atlas0 #29904_2: 2172441851708821941
+      Galien - atlas0 #29904_3: -3948815867313055065
+      Galien - atlas0 #29904_4: -3533123782279676437
+      Galien - atlas0 #29904_5: -8915903100850683187
+      Galien - atlas0 #29904_6: 5792918358151317365
+      Galien - atlas0 #29904_7: 2590094253835947728
+      Galien - atlas0 #29904_8: 8321704535213797563
+      Galien - atlas0 #29904_9: -4504882961218634400
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

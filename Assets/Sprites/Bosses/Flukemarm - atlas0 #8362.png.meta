@@ -1,0 +1,390 @@
+fileFormatVersion: 2
+guid: 61e23a1a725b9ac4e839c56136fcc147
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 642091234303608659
+    second: Flukemarm - atlas0 #8362_0
+  - first:
+      213: -8904271821523356118
+    second: Flukemarm - atlas0 #8362_1
+  - first:
+      213: 1414981343033911057
+    second: Flukemarm - atlas0 #8362_2
+  - first:
+      213: -6455345685450524495
+    second: Flukemarm - atlas0 #8362_3
+  - first:
+      213: -8283470551601407520
+    second: Flukemarm - atlas0 #8362_4
+  - first:
+      213: 872854274883902987
+    second: Flukemarm - atlas0 #8362_5
+  - first:
+      213: -6740884467813945239
+    second: Flukemarm - atlas0 #8362_6
+  - first:
+      213: -794248237583243977
+    second: Flukemarm - atlas0 #8362_7
+  - first:
+      213: 6083865054823408619
+    second: Flukemarm - atlas0 #8362_8
+  - first:
+      213: -4058019790473662865
+    second: Flukemarm - atlas0 #8362_9
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Flukemarm - atlas0 #8362_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1558
+        width: 1165
+        height: 454
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3570f0e539a29e800800000000000000
+      internalID: 642091234303608659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flukemarm - atlas0 #8362_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 595
+        width: 364
+        height: 1163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a26749684fbad6480800000000000000
+      internalID: -8904271821523356118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flukemarm - atlas0 #8362_2
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 1144
+        width: 307
+        height: 586
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 117675bd80603a310800000000000000
+      internalID: 1414981343033911057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flukemarm - atlas0 #8362_3
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 1144
+        width: 367
+        height: 416
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b8fe5c0d410a66a0800000000000000
+      internalID: -6455345685450524495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flukemarm - atlas0 #8362_4
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 1107
+        width: 353
+        height: 807
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e99368cb633b0d80800000000000000
+      internalID: -8283470551601407520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flukemarm - atlas0 #8362_5
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 927
+        width: 1058
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0ed223a6500d1c00800000000000000
+      internalID: 872854274883902987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flukemarm - atlas0 #8362_6
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 595
+        width: 608
+        height: 334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96070009a419372a0800000000000000
+      internalID: -6740884467813945239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flukemarm - atlas0 #8362_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 357
+        height: 597
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 735ee5f9f634af4f0800000000000000
+      internalID: -794248237583243977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flukemarm - atlas0 #8362_8
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 0
+        width: 630
+        height: 586
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be3692e980b3e6450800000000000000
+      internalID: 6083865054823408619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flukemarm - atlas0 #8362_9
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 579
+        width: 538
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6eef4930840fa7c0800000000000000
+      internalID: -4058019790473662865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Flukemarm - atlas0 #8362_0: 642091234303608659
+      Flukemarm - atlas0 #8362_1: -8904271821523356118
+      Flukemarm - atlas0 #8362_2: 1414981343033911057
+      Flukemarm - atlas0 #8362_3: -6455345685450524495
+      Flukemarm - atlas0 #8362_4: -8283470551601407520
+      Flukemarm - atlas0 #8362_5: 872854274883902987
+      Flukemarm - atlas0 #8362_6: -6740884467813945239
+      Flukemarm - atlas0 #8362_7: -794248237583243977
+      Flukemarm - atlas0 #8362_8: 6083865054823408619
+      Flukemarm - atlas0 #8362_9: -4058019790473662865
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

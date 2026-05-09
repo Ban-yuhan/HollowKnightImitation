@@ -115,7 +115,7 @@ public class PlayerAnimator : MonoBehaviour
 
         float speedY = v.y;
 
-        if(v.y > 0f)
+        if(v.y > 0.1f)
         {
             Jumping = true;
         }
@@ -125,7 +125,7 @@ public class PlayerAnimator : MonoBehaviour
         }
         
 
-        if(v.y <= -0.1f && movement.GetIsGrounded() == false)
+        if(v.y <= -0.2f && movement.GetIsGrounded() == false)
         {
             Falling = true;
         }

@@ -1,0 +1,702 @@
+fileFormatVersion: 2
+guid: 98a4358891113784292a56421e36edb2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6549116724123193973
+    second: No Eyes - atlas0 #162006_0
+  - first:
+      213: 6174874201078176064
+    second: No Eyes - atlas0 #162006_1
+  - first:
+      213: 2341405570413063626
+    second: No Eyes - atlas0 #162006_2
+  - first:
+      213: -6009049517423550285
+    second: No Eyes - atlas0 #162006_3
+  - first:
+      213: 48277194327710424
+    second: No Eyes - atlas0 #162006_4
+  - first:
+      213: -4039470270610166936
+    second: No Eyes - atlas0 #162006_5
+  - first:
+      213: 8286375355292177870
+    second: No Eyes - atlas0 #162006_6
+  - first:
+      213: 1646619021587330425
+    second: No Eyes - atlas0 #162006_7
+  - first:
+      213: 6856639885707633073
+    second: No Eyes - atlas0 #162006_8
+  - first:
+      213: 4673439364098026770
+    second: No Eyes - atlas0 #162006_9
+  - first:
+      213: -7062717871401606227
+    second: No Eyes - atlas0 #162006_10
+  - first:
+      213: -5883569313259003755
+    second: No Eyes - atlas0 #162006_11
+  - first:
+      213: 4258787004579692212
+    second: No Eyes - atlas0 #162006_12
+  - first:
+      213: -2318679734183145770
+    second: No Eyes - atlas0 #162006_13
+  - first:
+      213: 3850502679529160788
+    second: No Eyes - atlas0 #162006_14
+  - first:
+      213: 473586869551756425
+    second: No Eyes - atlas0 #162006_15
+  - first:
+      213: -8320312919929274251
+    second: No Eyes - atlas0 #162006_16
+  - first:
+      213: -8330067474679555577
+    second: No Eyes - atlas0 #162006_17
+  - first:
+      213: 6914268623298757873
+    second: No Eyes - atlas0 #162006_18
+  - first:
+      213: 414667850240107568
+    second: No Eyes - atlas0 #162006_19
+  - first:
+      213: -6080955295722068496
+    second: No Eyes - atlas0 #162006_20
+  - first:
+      213: -7616566889749516592
+    second: No Eyes - atlas0 #162006_21
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: No Eyes - atlas0 #162006_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1240
+        width: 189
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 572deed36f223ea50800000000000000
+      internalID: 6549116724123193973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: No Eyes - atlas0 #162006_1
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 1240
+        width: 180
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0491df7be5f81b550800000000000000
+      internalID: 6174874201078176064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: No Eyes - atlas0 #162006_2
+      rect:
+        serializedVersion: 2
+        x: 1471
+        y: 1073
+        width: 348
+        height: 330
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acd679306f75e7020800000000000000
+      internalID: 2341405570413063626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: No Eyes - atlas0 #162006_3
+      rect:
+        serializedVersion: 2
+        x: 1817
+        y: 1390
+        width: 193
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b0ac3c1d419b9ca0800000000000000
+      internalID: -6009049517423550285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: No Eyes - atlas0 #162006_4
+      rect:
+        serializedVersion: 2
+        x: 1866
+        y: 718
+        width: 179
+        height: 674
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dad7aa3ad38ba000800000000000000
+      internalID: 48277194327710424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: No Eyes - atlas0 #162006_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1074
+        width: 321
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86ba78fd03be0f7c0800000000000000
+      internalID: -4039470270610166936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: No Eyes - atlas0 #162006_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 724
+        width: 367
+        height: 352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec5ddb78b7e1ff270800000000000000
+      internalID: 8286375355292177870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: No Eyes - atlas0 #162006_7
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 1056
+        width: 293
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9753d16a647f9d610800000000000000
+      internalID: 1646619021587330425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: No Eyes - atlas0 #162006_8
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 1047
+        width: 381
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b1e064e5ada72f50800000000000000
+      internalID: 6856639885707633073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: No Eyes - atlas0 #162006_9
+      rect:
+        serializedVersion: 2
+        x: 1502
+        y: 718
+        width: 366
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21de36837546bd040800000000000000
+      internalID: 4673439364098026770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: No Eyes - atlas0 #162006_10
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 731
+        width: 332
+        height: 331
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da3ed4e048f2cfd90800000000000000
+      internalID: -7062717871401606227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: No Eyes - atlas0 #162006_11
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 374
+        width: 352
+        height: 359
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 590eecfc1ec595ea0800000000000000
+      internalID: -5883569313259003755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: No Eyes - atlas0 #162006_12
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 718
+        width: 369
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4beb50677304a1b30800000000000000
+      internalID: 4258787004579692212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: No Eyes - atlas0 #162006_13
+      rect:
+        serializedVersion: 2
+        x: 1124
+        y: 705
+        width: 380
+        height: 344
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6decd10111562dfd0800000000000000
+      internalID: -2318679734183145770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: No Eyes - atlas0 #162006_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 374
+        width: 374
+        height: 352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 450860449cbbf6530800000000000000
+      internalID: 3850502679529160788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: No Eyes - atlas0 #162006_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1145
+        height: 376
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 984fbe9afb4829600800000000000000
+      internalID: 473586869551756425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: No Eyes - atlas0 #162006_16
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 352
+        width: 375
+        height: 368
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 570c5837b7f488c80800000000000000
+      internalID: -8320312919929274251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: No Eyes - atlas0 #162006_17
+      rect:
+        serializedVersion: 2
+        x: 1124
+        y: 367
+        width: 395
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70a90b034c7a56c80800000000000000
+      internalID: -8330067474679555577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: No Eyes - atlas0 #162006_18
+      rect:
+        serializedVersion: 2
+        x: 1518
+        y: 365
+        width: 381
+        height: 355
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f40a55fdaa64ff50800000000000000
+      internalID: 6914268623298757873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: No Eyes - atlas0 #162006_19
+      rect:
+        serializedVersion: 2
+        x: 1143
+        y: 0
+        width: 367
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0342659763231c500800000000000000
+      internalID: 414667850240107568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: No Eyes - atlas0 #162006_20
+      rect:
+        serializedVersion: 2
+        x: 1514
+        y: 0
+        width: 374
+        height: 367
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f5a477706b1c9ba0800000000000000
+      internalID: -6080955295722068496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: No Eyes - atlas0 #162006_21
+      rect:
+        serializedVersion: 2
+        x: 1886
+        y: 0
+        width: 162
+        height: 329
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0de6a70a4c48c4690800000000000000
+      internalID: -7616566889749516592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      No Eyes - atlas0 #162006_0: 6549116724123193973
+      No Eyes - atlas0 #162006_1: 6174874201078176064
+      No Eyes - atlas0 #162006_10: -7062717871401606227
+      No Eyes - atlas0 #162006_11: -5883569313259003755
+      No Eyes - atlas0 #162006_12: 4258787004579692212
+      No Eyes - atlas0 #162006_13: -2318679734183145770
+      No Eyes - atlas0 #162006_14: 3850502679529160788
+      No Eyes - atlas0 #162006_15: 473586869551756425
+      No Eyes - atlas0 #162006_16: -8320312919929274251
+      No Eyes - atlas0 #162006_17: -8330067474679555577
+      No Eyes - atlas0 #162006_18: 6914268623298757873
+      No Eyes - atlas0 #162006_19: 414667850240107568
+      No Eyes - atlas0 #162006_2: 2341405570413063626
+      No Eyes - atlas0 #162006_20: -6080955295722068496
+      No Eyes - atlas0 #162006_21: -7616566889749516592
+      No Eyes - atlas0 #162006_3: -6009049517423550285
+      No Eyes - atlas0 #162006_4: 48277194327710424
+      No Eyes - atlas0 #162006_5: -4039470270610166936
+      No Eyes - atlas0 #162006_6: 8286375355292177870
+      No Eyes - atlas0 #162006_7: 1646619021587330425
+      No Eyes - atlas0 #162006_8: 6856639885707633073
+      No Eyes - atlas0 #162006_9: 4673439364098026770
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

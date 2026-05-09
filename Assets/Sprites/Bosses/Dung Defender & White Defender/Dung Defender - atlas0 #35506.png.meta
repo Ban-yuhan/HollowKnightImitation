@@ -1,0 +1,3484 @@
+fileFormatVersion: 2
+guid: cced38d5335e9984cabf0de2ca3f7972
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2652236533138489251
+    second: Dung Defender - atlas0 #35506_0
+  - first:
+      213: 8805110838199081238
+    second: Dung Defender - atlas0 #35506_1
+  - first:
+      213: -4736578984596180616
+    second: Dung Defender - atlas0 #35506_2
+  - first:
+      213: 966017367731044252
+    second: Dung Defender - atlas0 #35506_3
+  - first:
+      213: -1349974688937019616
+    second: Dung Defender - atlas0 #35506_4
+  - first:
+      213: -6965782635230059732
+    second: Dung Defender - atlas0 #35506_5
+  - first:
+      213: 387286026415694375
+    second: Dung Defender - atlas0 #35506_6
+  - first:
+      213: -2143525572672040932
+    second: Dung Defender - atlas0 #35506_7
+  - first:
+      213: 5528102334414561227
+    second: Dung Defender - atlas0 #35506_8
+  - first:
+      213: 3591518323991148288
+    second: Dung Defender - atlas0 #35506_9
+  - first:
+      213: -2550926966256159713
+    second: Dung Defender - atlas0 #35506_10
+  - first:
+      213: 4049254734459429126
+    second: Dung Defender - atlas0 #35506_11
+  - first:
+      213: -4807168707273298805
+    second: Dung Defender - atlas0 #35506_12
+  - first:
+      213: 5160607188618840093
+    second: Dung Defender - atlas0 #35506_13
+  - first:
+      213: -6029984616296220061
+    second: Dung Defender - atlas0 #35506_14
+  - first:
+      213: -5307753865541276478
+    second: Dung Defender - atlas0 #35506_15
+  - first:
+      213: 6584743898770240280
+    second: Dung Defender - atlas0 #35506_16
+  - first:
+      213: 8292921423016893102
+    second: Dung Defender - atlas0 #35506_17
+  - first:
+      213: 6679327574186445577
+    second: Dung Defender - atlas0 #35506_18
+  - first:
+      213: 7233349171217278907
+    second: Dung Defender - atlas0 #35506_19
+  - first:
+      213: -7730095238393998854
+    second: Dung Defender - atlas0 #35506_20
+  - first:
+      213: -2984364650719421745
+    second: Dung Defender - atlas0 #35506_21
+  - first:
+      213: -3423337655439798006
+    second: Dung Defender - atlas0 #35506_22
+  - first:
+      213: 9147469341931885025
+    second: Dung Defender - atlas0 #35506_23
+  - first:
+      213: -6093188250064776448
+    second: Dung Defender - atlas0 #35506_24
+  - first:
+      213: -1983460805726716741
+    second: Dung Defender - atlas0 #35506_25
+  - first:
+      213: -7869624694499141830
+    second: Dung Defender - atlas0 #35506_26
+  - first:
+      213: 2278695795125715329
+    second: Dung Defender - atlas0 #35506_27
+  - first:
+      213: -425028881394810117
+    second: Dung Defender - atlas0 #35506_28
+  - first:
+      213: 8170214743679808731
+    second: Dung Defender - atlas0 #35506_29
+  - first:
+      213: 2678913405305191812
+    second: Dung Defender - atlas0 #35506_30
+  - first:
+      213: 8769660742670290126
+    second: Dung Defender - atlas0 #35506_31
+  - first:
+      213: 7695073825186295234
+    second: Dung Defender - atlas0 #35506_32
+  - first:
+      213: -4768207815635364533
+    second: Dung Defender - atlas0 #35506_33
+  - first:
+      213: -5973231655368278375
+    second: Dung Defender - atlas0 #35506_34
+  - first:
+      213: -7138481845130315646
+    second: Dung Defender - atlas0 #35506_35
+  - first:
+      213: 5801934010224211109
+    second: Dung Defender - atlas0 #35506_36
+  - first:
+      213: -4628069600028557863
+    second: Dung Defender - atlas0 #35506_37
+  - first:
+      213: 3823366163561404214
+    second: Dung Defender - atlas0 #35506_38
+  - first:
+      213: 5290021670762319446
+    second: Dung Defender - atlas0 #35506_39
+  - first:
+      213: -9029406439697637334
+    second: Dung Defender - atlas0 #35506_40
+  - first:
+      213: 7313316937870777140
+    second: Dung Defender - atlas0 #35506_41
+  - first:
+      213: 8579639655722705679
+    second: Dung Defender - atlas0 #35506_42
+  - first:
+      213: 5568669770059149712
+    second: Dung Defender - atlas0 #35506_43
+  - first:
+      213: -2583807693667247142
+    second: Dung Defender - atlas0 #35506_44
+  - first:
+      213: 1664634653418278715
+    second: Dung Defender - atlas0 #35506_45
+  - first:
+      213: -5159842581503944716
+    second: Dung Defender - atlas0 #35506_46
+  - first:
+      213: -2890517195170575023
+    second: Dung Defender - atlas0 #35506_47
+  - first:
+      213: 4837613066147269212
+    second: Dung Defender - atlas0 #35506_48
+  - first:
+      213: -7930968394011345822
+    second: Dung Defender - atlas0 #35506_49
+  - first:
+      213: -1543829024502098890
+    second: Dung Defender - atlas0 #35506_50
+  - first:
+      213: -9090765631897813185
+    second: Dung Defender - atlas0 #35506_51
+  - first:
+      213: -3714446984176814410
+    second: Dung Defender - atlas0 #35506_52
+  - first:
+      213: -5897402889379178255
+    second: Dung Defender - atlas0 #35506_53
+  - first:
+      213: -2346658694739109902
+    second: Dung Defender - atlas0 #35506_54
+  - first:
+      213: -526511198482441966
+    second: Dung Defender - atlas0 #35506_55
+  - first:
+      213: 1129069469920092220
+    second: Dung Defender - atlas0 #35506_56
+  - first:
+      213: 5023593371104590863
+    second: Dung Defender - atlas0 #35506_57
+  - first:
+      213: -2065731999546926787
+    second: Dung Defender - atlas0 #35506_58
+  - first:
+      213: 1740947156793829734
+    second: Dung Defender - atlas0 #35506_59
+  - first:
+      213: -1758583603944959289
+    second: Dung Defender - atlas0 #35506_60
+  - first:
+      213: 7811727126006280839
+    second: Dung Defender - atlas0 #35506_61
+  - first:
+      213: -6934285180794644020
+    second: Dung Defender - atlas0 #35506_62
+  - first:
+      213: 1054305049017009371
+    second: Dung Defender - atlas0 #35506_63
+  - first:
+      213: -8359504579161217318
+    second: Dung Defender - atlas0 #35506_64
+  - first:
+      213: -5370113284956270655
+    second: Dung Defender - atlas0 #35506_65
+  - first:
+      213: 3014663855593767829
+    second: Dung Defender - atlas0 #35506_66
+  - first:
+      213: -7363921586173618033
+    second: Dung Defender - atlas0 #35506_67
+  - first:
+      213: -4897165494995749963
+    second: Dung Defender - atlas0 #35506_68
+  - first:
+      213: 2054085232357034501
+    second: Dung Defender - atlas0 #35506_69
+  - first:
+      213: -1169175764922826683
+    second: Dung Defender - atlas0 #35506_70
+  - first:
+      213: 4585089966220367025
+    second: Dung Defender - atlas0 #35506_71
+  - first:
+      213: -5183731456235422441
+    second: Dung Defender - atlas0 #35506_72
+  - first:
+      213: 1029758997402056133
+    second: Dung Defender - atlas0 #35506_73
+  - first:
+      213: 7221910829775656526
+    second: Dung Defender - atlas0 #35506_74
+  - first:
+      213: -2460335555494478069
+    second: Dung Defender - atlas0 #35506_75
+  - first:
+      213: -834353575012206380
+    second: Dung Defender - atlas0 #35506_76
+  - first:
+      213: 3910572859326649544
+    second: Dung Defender - atlas0 #35506_77
+  - first:
+      213: -3096088326370440055
+    second: Dung Defender - atlas0 #35506_78
+  - first:
+      213: -31907398344385066
+    second: Dung Defender - atlas0 #35506_79
+  - first:
+      213: -6916296182182246465
+    second: Dung Defender - atlas0 #35506_80
+  - first:
+      213: 8239347966090191231
+    second: Dung Defender - atlas0 #35506_81
+  - first:
+      213: -1003600154122998173
+    second: Dung Defender - atlas0 #35506_82
+  - first:
+      213: 7191696250459630341
+    second: Dung Defender - atlas0 #35506_83
+  - first:
+      213: 7954687077217437240
+    second: Dung Defender - atlas0 #35506_84
+  - first:
+      213: -183674937379051355
+    second: Dung Defender - atlas0 #35506_85
+  - first:
+      213: -262641991334529440
+    second: Dung Defender - atlas0 #35506_86
+  - first:
+      213: 5603311207200915868
+    second: Dung Defender - atlas0 #35506_87
+  - first:
+      213: 798845408604001358
+    second: Dung Defender - atlas0 #35506_88
+  - first:
+      213: 4494012142453049048
+    second: Dung Defender - atlas0 #35506_89
+  - first:
+      213: -3592467724252506829
+    second: Dung Defender - atlas0 #35506_90
+  - first:
+      213: 3990800395765393895
+    second: Dung Defender - atlas0 #35506_91
+  - first:
+      213: -2692714211143287211
+    second: Dung Defender - atlas0 #35506_92
+  - first:
+      213: -5312440929197870897
+    second: Dung Defender - atlas0 #35506_93
+  - first:
+      213: 989080709472133408
+    second: Dung Defender - atlas0 #35506_94
+  - first:
+      213: 6239690861489122496
+    second: Dung Defender - atlas0 #35506_95
+  - first:
+      213: 158143480443100131
+    second: Dung Defender - atlas0 #35506_96
+  - first:
+      213: -2344490446785492837
+    second: Dung Defender - atlas0 #35506_97
+  - first:
+      213: -7796528638758712346
+    second: Dung Defender - atlas0 #35506_98
+  - first:
+      213: 6031249005127940281
+    second: Dung Defender - atlas0 #35506_99
+  - first:
+      213: -8219334650624500683
+    second: Dung Defender - atlas0 #35506_100
+  - first:
+      213: -6112484171249280758
+    second: Dung Defender - atlas0 #35506_101
+  - first:
+      213: -4898438705654576414
+    second: Dung Defender - atlas0 #35506_102
+  - first:
+      213: -8840303621215256747
+    second: Dung Defender - atlas0 #35506_103
+  - first:
+      213: -2712958992608962324
+    second: Dung Defender - atlas0 #35506_104
+  - first:
+      213: 3045595366444599129
+    second: Dung Defender - atlas0 #35506_105
+  - first:
+      213: 825875468044768220
+    second: Dung Defender - atlas0 #35506_106
+  - first:
+      213: 2345662617416233725
+    second: Dung Defender - atlas0 #35506_107
+  - first:
+      213: -2881363483484085259
+    second: Dung Defender - atlas0 #35506_108
+  - first:
+      213: 2167445229803250407
+    second: Dung Defender - atlas0 #35506_109
+  - first:
+      213: 5923936512336974140
+    second: Dung Defender - atlas0 #35506_110
+  - first:
+      213: 6315569320297495075
+    second: Dung Defender - atlas0 #35506_111
+  - first:
+      213: 9189754005905879502
+    second: Dung Defender - atlas0 #35506_112
+  - first:
+      213: 2340247119194108060
+    second: Dung Defender - atlas0 #35506_113
+  - first:
+      213: 1112768449805053706
+    second: Dung Defender - atlas0 #35506_114
+  - first:
+      213: 5270545174961577606
+    second: Dung Defender - atlas0 #35506_115
+  - first:
+      213: -6002835480407757416
+    second: Dung Defender - atlas0 #35506_116
+  - first:
+      213: 2754924508553070028
+    second: Dung Defender - atlas0 #35506_117
+  - first:
+      213: 646583821242229582
+    second: Dung Defender - atlas0 #35506_118
+  - first:
+      213: 7536200617273495189
+    second: Dung Defender - atlas0 #35506_119
+  - first:
+      213: -430655008966622549
+    second: Dung Defender - atlas0 #35506_120
+  - first:
+      213: -3740781386369488788
+    second: Dung Defender - atlas0 #35506_121
+  - first:
+      213: -4209813838228321332
+    second: Dung Defender - atlas0 #35506_122
+  - first:
+      213: 5561857050608601743
+    second: Dung Defender - atlas0 #35506_123
+  - first:
+      213: -5630268159971822146
+    second: Dung Defender - atlas0 #35506_124
+  - first:
+      213: 7273275765545950903
+    second: Dung Defender - atlas0 #35506_125
+  - first:
+      213: 3859162940183121732
+    second: Dung Defender - atlas0 #35506_126
+  - first:
+      213: -4024738676512538250
+    second: Dung Defender - atlas0 #35506_127
+  - first:
+      213: 9162991029440443732
+    second: Dung Defender - atlas0 #35506_128
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Dung Defender - atlas0 #35506_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3194
+        width: 237
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3af78022313aec420800000000000000
+      internalID: 2652236533138489251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dung Defender - atlas0 #35506_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2939
+        width: 425
+        height: 316
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6195cc6e7a9023a70800000000000000
+      internalID: 8805110838199081238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dung Defender - atlas0 #35506_2
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 3253
+        width: 190
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 871709c428a444eb0800000000000000
+      internalID: -4736578984596180616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dung Defender - atlas0 #35506_3
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 3236
+        width: 34
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9f77728dabf76d00800000000000000
+      internalID: 966017367731044252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dung Defender - atlas0 #35506_4
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 3071
+        width: 49
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 027f3224c2de34de0800000000000000
+      internalID: -1349974688937019616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dung Defender - atlas0 #35506_5
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 3119
+        width: 63
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c23278c7991945f90800000000000000
+      internalID: -6965782635230059732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dung Defender - atlas0 #35506_6
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 3159
+        width: 102
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 722eafec69aef5500800000000000000
+      internalID: 387286026415694375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dung Defender - atlas0 #35506_7
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 3144
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c10dae939daa042e0800000000000000
+      internalID: -2143525572672040932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dung Defender - atlas0 #35506_8
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 3043
+        width: 150
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcf99c4b8c3c7bc40800000000000000
+      internalID: 5528102334414561227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dung Defender - atlas0 #35506_9
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 3130
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0077cc113e2a7d130800000000000000
+      internalID: 3591518323991148288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dung Defender - atlas0 #35506_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2647
+        width: 429
+        height: 384
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1436588079499cd0800000000000000
+      internalID: -2550926966256159713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dung Defender - atlas0 #35506_11
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 2692
+        width: 181
+        height: 353
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 601e5842ab7d13830800000000000000
+      internalID: 4049254734459429126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dung Defender - atlas0 #35506_12
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 2700
+        width: 258
+        height: 419
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8ce99bb781894db0800000000000000
+      internalID: -4807168707273298805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dung Defender - atlas0 #35506_13
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 2786
+        width: 224
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1804fe55e82e9740800000000000000
+      internalID: 5160607188618840093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dung Defender - atlas0 #35506_14
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 2536
+        width: 257
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36af79090f0315ca0800000000000000
+      internalID: -6029984616296220061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dung Defender - atlas0 #35506_15
+      rect:
+        serializedVersion: 2
+        x: 1222
+        y: 2559
+        width: 381
+        height: 382
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cca4312bf11756b0800000000000000
+      internalID: -5307753865541276478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dung Defender - atlas0 #35506_16
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 2422
+        width: 184
+        height: 353
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 813fe1f30b5b16b50800000000000000
+      internalID: 6584743898770240280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dung Defender - atlas0 #35506_17
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 2448
+        width: 259
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eaa1621b810661370800000000000000
+      internalID: 8292921423016893102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dung Defender - atlas0 #35506_18
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 2692
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90bcad54a0db1bc50800000000000000
+      internalID: 6679327574186445577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dung Defender - atlas0 #35506_19
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 2681
+        width: 43
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb7a5ce4fb4026460800000000000000
+      internalID: 7233349171217278907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dung Defender - atlas0 #35506_20
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 2675
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af15693265f29b490800000000000000
+      internalID: -7730095238393998854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dung Defender - atlas0 #35506_21
+      rect:
+        serializedVersion: 2
+        x: 1420
+        y: 2561
+        width: 191
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcad2a979286596d0800000000000000
+      internalID: -2984364650719421745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dung Defender - atlas0 #35506_22
+      rect:
+        serializedVersion: 2
+        x: 1609
+        y: 2589
+        width: 193
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a01da4d3a8cdd70d0800000000000000
+      internalID: -3423337655439798006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dung Defender - atlas0 #35506_23
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2344
+        width: 255
+        height: 301
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e150afa6e652fe70800000000000000
+      internalID: 9147469341931885025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dung Defender - atlas0 #35506_24
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 2643
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0031e45d195a07ba0800000000000000
+      internalID: -6093188250064776448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dung Defender - atlas0 #35506_25
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 2637
+        width: 29
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbcbfb0f7e45974e0800000000000000
+      internalID: -1983460805726716741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dung Defender - atlas0 #35506_26
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 2641
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a379cb0190a79c290800000000000000
+      internalID: -7869624694499141830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dung Defender - atlas0 #35506_27
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 2595
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18105aba0cd8f9f10800000000000000
+      internalID: 2278695795125715329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dung Defender - atlas0 #35506_28
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 2614
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf24e29fb7ef91af0800000000000000
+      internalID: -425028881394810117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dung Defender - atlas0 #35506_29
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 2583
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd4b1bf850f626170800000000000000
+      internalID: 8170214743679808731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dung Defender - atlas0 #35506_30
+      rect:
+        serializedVersion: 2
+        x: 877
+        y: 2568
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48d7f337c896d2520800000000000000
+      internalID: 2678913405305191812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dung Defender - atlas0 #35506_31
+      rect:
+        serializedVersion: 2
+        x: 941
+        y: 2574
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecc0d875bf714b970800000000000000
+      internalID: 8769660742670290126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dung Defender - atlas0 #35506_32
+      rect:
+        serializedVersion: 2
+        x: 1781
+        y: 2318
+        width: 244
+        height: 273
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cda2aeafd46aca60800000000000000
+      internalID: 7695073825186295234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dung Defender - atlas0 #35506_33
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 2546
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4510d5314ce3ddb0800000000000000
+      internalID: -4768207815635364533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dung Defender - atlas0 #35506_34
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 2545
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99eb7acf471da1da0800000000000000
+      internalID: -5973231655368278375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dung Defender - atlas0 #35506_35
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 2557
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 288be6945940fec90800000000000000
+      internalID: -7138481845130315646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dung Defender - atlas0 #35506_36
+      rect:
+        serializedVersion: 2
+        x: 1489
+        y: 2318
+        width: 294
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a4fba90e3c948050800000000000000
+      internalID: 5801934010224211109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dung Defender - atlas0 #35506_37
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 2523
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dd7386283bc5cfb0800000000000000
+      internalID: -4628069600028557863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dung Defender - atlas0 #35506_38
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 2498
+        width: 41
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6375359c4435f0530800000000000000
+      internalID: 3823366163561404214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dung Defender - atlas0 #35506_39
+      rect:
+        serializedVersion: 2
+        x: 1066
+        y: 2512
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65e08eb8eaee96940800000000000000
+      internalID: 5290021670762319446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dung Defender - atlas0 #35506_40
+      rect:
+        serializedVersion: 2
+        x: 1087
+        y: 2531
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a20a235deaa11b280800000000000000
+      internalID: -9029406439697637334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dung Defender - atlas0 #35506_41
+      rect:
+        serializedVersion: 2
+        x: 1136
+        y: 2518
+        width: 33
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43b92a3e10f1e7560800000000000000
+      internalID: 7313316937870777140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dung Defender - atlas0 #35506_42
+      rect:
+        serializedVersion: 2
+        x: 1222
+        y: 2522
+        width: 30
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f03e43c5fc0011770800000000000000
+      internalID: 8579639655722705679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dung Defender - atlas0 #35506_43
+      rect:
+        serializedVersion: 2
+        x: 1261
+        y: 2477
+        width: 41
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 091f4dbd6a3e74d40800000000000000
+      internalID: 5568669770059149712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dung Defender - atlas0 #35506_44
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 2501
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adbda0b9798742cd0800000000000000
+      internalID: -2583807693667247142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dung Defender - atlas0 #35506_45
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 2496
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3f4dcdc568f91710800000000000000
+      internalID: 1664634653418278715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dung Defender - atlas0 #35506_46
+      rect:
+        serializedVersion: 2
+        x: 1084
+        y: 2513
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f7d588928e8468b0800000000000000
+      internalID: -5159842581503944716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dung Defender - atlas0 #35506_47
+      rect:
+        serializedVersion: 2
+        x: 1177
+        y: 2498
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15d03b4fce1d2e7d0800000000000000
+      internalID: -2890517195170575023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dung Defender - atlas0 #35506_48
+      rect:
+        serializedVersion: 2
+        x: 1204
+        y: 2497
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5a0f70f377a22340800000000000000
+      internalID: 4837613066147269212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dung Defender - atlas0 #35506_49
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 2210
+        width: 278
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26c7a16044a8fe190800000000000000
+      internalID: -7930968394011345822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dung Defender - atlas0 #35506_50
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 2474
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6345d988ea7339ae0800000000000000
+      internalID: -1543829024502098890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dung Defender - atlas0 #35506_51
+      rect:
+        serializedVersion: 2
+        x: 1052
+        y: 2464
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3fb66e92dc17d180800000000000000
+      internalID: -9090765631897813185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dung Defender - atlas0 #35506_52
+      rect:
+        serializedVersion: 2
+        x: 1087
+        y: 2452
+        width: 72
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b6be1bd522a37cc0800000000000000
+      internalID: -3714446984176814410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dung Defender - atlas0 #35506_53
+      rect:
+        serializedVersion: 2
+        x: 1145
+        y: 2458
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f811316157382ea0800000000000000
+      internalID: -5897402889379178255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dung Defender - atlas0 #35506_54
+      rect:
+        serializedVersion: 2
+        x: 1202
+        y: 2464
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f75efaa95efe6fd0800000000000000
+      internalID: -2346658694739109902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dung Defender - atlas0 #35506_55
+      rect:
+        serializedVersion: 2
+        x: 1224
+        y: 2446
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2195034cad471b8f0800000000000000
+      internalID: -526511198482441966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dung Defender - atlas0 #35506_56
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 2437
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c30635963b24baf00800000000000000
+      internalID: 1129069469920092220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dung Defender - atlas0 #35506_57
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 2427
+        width: 39
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0c32bc0e8367b540800000000000000
+      internalID: 5023593371104590863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dung Defender - atlas0 #35506_58
+      rect:
+        serializedVersion: 2
+        x: 1241
+        y: 2427
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3919dde0bb0553e0800000000000000
+      internalID: -2065731999546926787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dung Defender - atlas0 #35506_59
+      rect:
+        serializedVersion: 2
+        x: 1287
+        y: 2427
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6692c651736192810800000000000000
+      internalID: 1740947156793829734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dung Defender - atlas0 #35506_60
+      rect:
+        serializedVersion: 2
+        x: 1297
+        y: 2444
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c2d80397814897e0800000000000000
+      internalID: -1758583603944959289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dung Defender - atlas0 #35506_61
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2042
+        width: 487
+        height: 382
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78233ebce64d86c60800000000000000
+      internalID: 7811727126006280839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dung Defender - atlas0 #35506_62
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 2179
+        width: 288
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc9da731e5874cf90800000000000000
+      internalID: -6934285180794644020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dung Defender - atlas0 #35506_63
+      rect:
+        serializedVersion: 2
+        x: 1097
+        y: 2395
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd44f8b2bd4a1ae00800000000000000
+      internalID: 1054305049017009371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dung Defender - atlas0 #35506_64
+      rect:
+        serializedVersion: 2
+        x: 1150
+        y: 2390
+        width: 52
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad628d430e21dfb80800000000000000
+      internalID: -8359504579161217318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dung Defender - atlas0 #35506_65
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 2394
+        width: 31
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cf439e5b668975b0800000000000000
+      internalID: -5370113284956270655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dung Defender - atlas0 #35506_66
+      rect:
+        serializedVersion: 2
+        x: 1238
+        y: 2382
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59340e5edcc36d920800000000000000
+      internalID: 3014663855593767829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dung Defender - atlas0 #35506_67
+      rect:
+        serializedVersion: 2
+        x: 1250
+        y: 2388
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f885a4645581ec990800000000000000
+      internalID: -7363921586173618033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dung Defender - atlas0 #35506_68
+      rect:
+        serializedVersion: 2
+        x: 1122
+        y: 2376
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b37a78bde5c90cb0800000000000000
+      internalID: -4897165494995749963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dung Defender - atlas0 #35506_69
+      rect:
+        serializedVersion: 2
+        x: 1202
+        y: 2369
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50a4405c2a3918c10800000000000000
+      internalID: 2054085232357034501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dung Defender - atlas0 #35506_70
+      rect:
+        serializedVersion: 2
+        x: 1101
+        y: 2319
+        width: 121
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54087cb16d046cfe0800000000000000
+      internalID: -1169175764922826683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dung Defender - atlas0 #35506_71
+      rect:
+        serializedVersion: 2
+        x: 1210
+        y: 2051
+        width: 281
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b4d5cb080381af30800000000000000
+      internalID: 4585089966220367025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dung Defender - atlas0 #35506_72
+      rect:
+        serializedVersion: 2
+        x: 1665
+        y: 2063
+        width: 293
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71db11484bfaf08b0800000000000000
+      internalID: -5183731456235422441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dung Defender - atlas0 #35506_73
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 2305
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c5796c2a507a4e00800000000000000
+      internalID: 1029758997402056133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dung Defender - atlas0 #35506_74
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 1911
+        width: 626
+        height: 301
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e461358e2a1693460800000000000000
+      internalID: 7221910829775656526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dung Defender - atlas0 #35506_75
+      rect:
+        serializedVersion: 2
+        x: 1494
+        y: 2051
+        width: 154
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0ffc7209d12bddd0800000000000000
+      internalID: -2460335555494478069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dung Defender - atlas0 #35506_76
+      rect:
+        serializedVersion: 2
+        x: 1572
+        y: 2208
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d8f15818d7cb64f0800000000000000
+      internalID: -834353575012206380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dung Defender - atlas0 #35506_77
+      rect:
+        serializedVersion: 2
+        x: 1643
+        y: 2123
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c4d274eb45254630800000000000000
+      internalID: 3910572859326649544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dung Defender - atlas0 #35506_78
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 1811
+        width: 299
+        height: 271
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98cc479221c7805d0800000000000000
+      internalID: -3096088326370440055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dung Defender - atlas0 #35506_79
+      rect:
+        serializedVersion: 2
+        x: 1489
+        y: 2074
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ddd9f7e364ae8ff0800000000000000
+      internalID: -31907398344385066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dung Defender - atlas0 #35506_80
+      rect:
+        serializedVersion: 2
+        x: 1614
+        y: 2079
+        width: 35
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb703a334416400a0800000000000000
+      internalID: -6916296182182246465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dung Defender - atlas0 #35506_81
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1765
+        width: 291
+        height: 279
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f71a4ab325b085270800000000000000
+      internalID: 8239347966090191231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dung Defender - atlas0 #35506_82
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 1806
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36ea8f42afe7212f0800000000000000
+      internalID: -1003600154122998173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dung Defender - atlas0 #35506_83
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 1652
+        width: 609
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50ba725f2a90ec360800000000000000
+      internalID: 7191696250459630341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dung Defender - atlas0 #35506_84
+      rect:
+        serializedVersion: 2
+        x: 1248
+        y: 1783
+        width: 286
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8368fe040c9b46e60800000000000000
+      internalID: 7954687077217437240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dung Defender - atlas0 #35506_85
+      rect:
+        serializedVersion: 2
+        x: 1665
+        y: 1774
+        width: 297
+        height: 291
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a8216b1e94737df0800000000000000
+      internalID: -183674937379051355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dung Defender - atlas0 #35506_86
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1214
+        width: 328
+        height: 553
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 066776b1088ea5cf0800000000000000
+      internalID: -262641991334529440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dung Defender - atlas0 #35506_87
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 1553
+        width: 317
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c910d27fad5f2cd40800000000000000
+      internalID: 5603311207200915868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dung Defender - atlas0 #35506_88
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 1226
+        width: 593
+        height: 428
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e441b4aaaa1161b00800000000000000
+      internalID: 798845408604001358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dung Defender - atlas0 #35506_89
+      rect:
+        serializedVersion: 2
+        x: 1108
+        y: 1392
+        width: 262
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d6c437bb30fd5e30800000000000000
+      internalID: 4494012142453049048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dung Defender - atlas0 #35506_90
+      rect:
+        serializedVersion: 2
+        x: 1368
+        y: 1494
+        width: 299
+        height: 291
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3359fd473adf42ec0800000000000000
+      internalID: -3592467724252506829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dung Defender - atlas0 #35506_91
+      rect:
+        serializedVersion: 2
+        x: 1665
+        y: 1526
+        width: 346
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e9a517d0db226730800000000000000
+      internalID: 3990800395765393895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dung Defender - atlas0 #35506_92
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 584
+        width: 458
+        height: 675
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55e782b01be81aad0800000000000000
+      internalID: -2692714211143287211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dung Defender - atlas0 #35506_93
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 884
+        width: 388
+        height: 511
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc03ae41f1b6646b0800000000000000
+      internalID: -5312440929197870897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dung Defender - atlas0 #35506_94
+      rect:
+        serializedVersion: 2
+        x: 1147
+        y: 1045
+        width: 230
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02127463aabe9bd00800000000000000
+      internalID: 989080709472133408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dung Defender - atlas0 #35506_95
+      rect:
+        serializedVersion: 2
+        x: 1375
+        y: 1233
+        width: 340
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cc6f4b77c5d79650800000000000000
+      internalID: 6239690861489122496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dung Defender - atlas0 #35506_96
+      rect:
+        serializedVersion: 2
+        x: 1390
+        y: 969
+        width: 344
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ebda5758a6d13200800000000000000
+      internalID: 158143480443100131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dung Defender - atlas0 #35506_97
+      rect:
+        serializedVersion: 2
+        x: 1732
+        y: 1175
+        width: 258
+        height: 353
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b98cd0c3c52b67fd0800000000000000
+      internalID: -2344490446785492837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dung Defender - atlas0 #35506_98
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 1027
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6eb80a5c28a2dc390800000000000000
+      internalID: -7796528638758712346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dung Defender - atlas0 #35506_99
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 932
+        width: 302
+        height: 296
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b83496e30d43b350800000000000000
+      internalID: 6031249005127940281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dung Defender - atlas0 #35506_100
+      rect:
+        serializedVersion: 2
+        x: 1247
+        y: 819
+        width: 123
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53c9773eeae0fed80800000000000000
+      internalID: -8219334650624500683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dung Defender - atlas0 #35506_101
+      rect:
+        serializedVersion: 2
+        x: 1738
+        y: 758
+        width: 225
+        height: 419
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a091d7518081c2ba0800000000000000
+      internalID: -6112484171249280758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dung Defender - atlas0 #35506_102
+      rect:
+        serializedVersion: 2
+        x: 1961
+        y: 758
+        width: 78
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ea4f6343ff350cb0800000000000000
+      internalID: -4898438705654576414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dung Defender - atlas0 #35506_103
+      rect:
+        serializedVersion: 2
+        x: 1361
+        y: 957
+        width: 25
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55f7dd6c1bee05580800000000000000
+      internalID: -8840303621215256747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dung Defender - atlas0 #35506_104
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 969
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce8575b8b22a95ad0800000000000000
+      internalID: -2712958992608962324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dung Defender - atlas0 #35506_105
+      rect:
+        serializedVersion: 2
+        x: 1401
+        y: 651
+        width: 339
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 957818a79d0244a20800000000000000
+      internalID: 3045595366444599129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dung Defender - atlas0 #35506_106
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 614
+        width: 337
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd3948dcc59167b00800000000000000
+      internalID: 825875468044768220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dung Defender - atlas0 #35506_107
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 614
+        width: 80
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df2f10209b77d8020800000000000000
+      internalID: 2345662617416233725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dung Defender - atlas0 #35506_108
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 619
+        width: 350
+        height: 267
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f3262a8d275308d0800000000000000
+      internalID: -2881363483484085259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dung Defender - atlas0 #35506_109
+      rect:
+        serializedVersion: 2
+        x: 1353
+        y: 870
+        width: 22
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e2a980f3ff441e10800000000000000
+      internalID: 2167445229803250407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dung Defender - atlas0 #35506_110
+      rect:
+        serializedVersion: 2
+        x: 1373
+        y: 866
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c31dfc12fdc063250800000000000000
+      internalID: 5923936512336974140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dung Defender - atlas0 #35506_111
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 799
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32affa2e5d865a750800000000000000
+      internalID: 6315569320297495075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dung Defender - atlas0 #35506_112
+      rect:
+        serializedVersion: 2
+        x: 1264
+        y: 561
+        width: 86
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec13e373490988f70800000000000000
+      internalID: 9189754005905879502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dung Defender - atlas0 #35506_113
+      rect:
+        serializedVersion: 2
+        x: 1362
+        y: 790
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9032321b5a3a7020800000000000000
+      internalID: 2340247119194108060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dung Defender - atlas0 #35506_114
+      rect:
+        serializedVersion: 2
+        x: 1363
+        y: 762
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0f64e76209517f00800000000000000
+      internalID: 1112768449805053706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dung Defender - atlas0 #35506_115
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 675
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68edb3e79ecb42940800000000000000
+      internalID: 5270545174961577606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dung Defender - atlas0 #35506_116
+      rect:
+        serializedVersion: 2
+        x: 1750
+        y: 402
+        width: 298
+        height: 358
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89d2f295fe4a1bca0800000000000000
+      internalID: -6002835480407757416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dung Defender - atlas0 #35506_117
+      rect:
+        serializedVersion: 2
+        x: 1390
+        y: 629
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc5c25b8e357b3620800000000000000
+      internalID: 2754924508553070028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dung Defender - atlas0 #35506_118
+      rect:
+        serializedVersion: 2
+        x: 1414
+        y: 0
+        width: 596
+        height: 653
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4368a64f8029f800800000000000000
+      internalID: 646583821242229582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dung Defender - atlas0 #35506_119
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 605
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59e8aac6886f59860800000000000000
+      internalID: 7536200617273495189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dung Defender - atlas0 #35506_120
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 295
+        width: 428
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba24dc11d81060af0800000000000000
+      internalID: -430655008966622549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dung Defender - atlas0 #35506_121
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 302
+        width: 495
+        height: 319
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c68ad0b0623161cc0800000000000000
+      internalID: -3740781386369488788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dung Defender - atlas0 #35506_122
+      rect:
+        serializedVersion: 2
+        x: 1379
+        y: 615
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccb80e16e9cb395c0800000000000000
+      internalID: -4209813838228321332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dung Defender - atlas0 #35506_123
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 301
+        width: 439
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8a0701058faf2d40800000000000000
+      internalID: 5561857050608601743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dung Defender - atlas0 #35506_124
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 323
+        width: 7
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb5ffae50f44dd1b0800000000000000
+      internalID: -5630268159971822146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dung Defender - atlas0 #35506_125
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 295
+        width: 7
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bed2d6f5cddfe460800000000000000
+      internalID: 7273275765545950903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dung Defender - atlas0 #35506_126
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 492
+        height: 303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44f87f35f308e8530800000000000000
+      internalID: 3859162940183121732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dung Defender - atlas0 #35506_127
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 0
+        width: 478
+        height: 297
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 671c1b86f714528c0800000000000000
+      internalID: -4024738676512538250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dung Defender - atlas0 #35506_128
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 0
+        width: 463
+        height: 304
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45573ed2bcb792f70800000000000000
+      internalID: 9162991029440443732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Dung Defender - atlas0 #35506_0: 2652236533138489251
+      Dung Defender - atlas0 #35506_1: 8805110838199081238
+      Dung Defender - atlas0 #35506_10: -2550926966256159713
+      Dung Defender - atlas0 #35506_100: -8219334650624500683
+      Dung Defender - atlas0 #35506_101: -6112484171249280758
+      Dung Defender - atlas0 #35506_102: -4898438705654576414
+      Dung Defender - atlas0 #35506_103: -8840303621215256747
+      Dung Defender - atlas0 #35506_104: -2712958992608962324
+      Dung Defender - atlas0 #35506_105: 3045595366444599129
+      Dung Defender - atlas0 #35506_106: 825875468044768220
+      Dung Defender - atlas0 #35506_107: 2345662617416233725
+      Dung Defender - atlas0 #35506_108: -2881363483484085259
+      Dung Defender - atlas0 #35506_109: 2167445229803250407
+      Dung Defender - atlas0 #35506_11: 4049254734459429126
+      Dung Defender - atlas0 #35506_110: 5923936512336974140
+      Dung Defender - atlas0 #35506_111: 6315569320297495075
+      Dung Defender - atlas0 #35506_112: 9189754005905879502
+      Dung Defender - atlas0 #35506_113: 2340247119194108060
+      Dung Defender - atlas0 #35506_114: 1112768449805053706
+      Dung Defender - atlas0 #35506_115: 5270545174961577606
+      Dung Defender - atlas0 #35506_116: -6002835480407757416
+      Dung Defender - atlas0 #35506_117: 2754924508553070028
+      Dung Defender - atlas0 #35506_118: 646583821242229582
+      Dung Defender - atlas0 #35506_119: 7536200617273495189
+      Dung Defender - atlas0 #35506_12: -4807168707273298805
+      Dung Defender - atlas0 #35506_120: -430655008966622549
+      Dung Defender - atlas0 #35506_121: -3740781386369488788
+      Dung Defender - atlas0 #35506_122: -4209813838228321332
+      Dung Defender - atlas0 #35506_123: 5561857050608601743
+      Dung Defender - atlas0 #35506_124: -5630268159971822146
+      Dung Defender - atlas0 #35506_125: 7273275765545950903
+      Dung Defender - atlas0 #35506_126: 3859162940183121732
+      Dung Defender - atlas0 #35506_127: -4024738676512538250
+      Dung Defender - atlas0 #35506_128: 9162991029440443732
+      Dung Defender - atlas0 #35506_13: 5160607188618840093
+      Dung Defender - atlas0 #35506_14: -6029984616296220061
+      Dung Defender - atlas0 #35506_15: -5307753865541276478
+      Dung Defender - atlas0 #35506_16: 6584743898770240280
+      Dung Defender - atlas0 #35506_17: 8292921423016893102
+      Dung Defender - atlas0 #35506_18: 6679327574186445577
+      Dung Defender - atlas0 #35506_19: 7233349171217278907
+      Dung Defender - atlas0 #35506_2: -4736578984596180616
+      Dung Defender - atlas0 #35506_20: -7730095238393998854
+      Dung Defender - atlas0 #35506_21: -2984364650719421745
+      Dung Defender - atlas0 #35506_22: -3423337655439798006
+      Dung Defender - atlas0 #35506_23: 9147469341931885025
+      Dung Defender - atlas0 #35506_24: -6093188250064776448
+      Dung Defender - atlas0 #35506_25: -1983460805726716741
+      Dung Defender - atlas0 #35506_26: -7869624694499141830
+      Dung Defender - atlas0 #35506_27: 2278695795125715329
+      Dung Defender - atlas0 #35506_28: -425028881394810117
+      Dung Defender - atlas0 #35506_29: 8170214743679808731
+      Dung Defender - atlas0 #35506_3: 966017367731044252
+      Dung Defender - atlas0 #35506_30: 2678913405305191812
+      Dung Defender - atlas0 #35506_31: 8769660742670290126
+      Dung Defender - atlas0 #35506_32: 7695073825186295234
+      Dung Defender - atlas0 #35506_33: -4768207815635364533
+      Dung Defender - atlas0 #35506_34: -5973231655368278375
+      Dung Defender - atlas0 #35506_35: -7138481845130315646
+      Dung Defender - atlas0 #35506_36: 5801934010224211109
+      Dung Defender - atlas0 #35506_37: -4628069600028557863
+      Dung Defender - atlas0 #35506_38: 3823366163561404214
+      Dung Defender - atlas0 #35506_39: 5290021670762319446
+      Dung Defender - atlas0 #35506_4: -1349974688937019616
+      Dung Defender - atlas0 #35506_40: -9029406439697637334
+      Dung Defender - atlas0 #35506_41: 7313316937870777140
+      Dung Defender - atlas0 #35506_42: 8579639655722705679
+      Dung Defender - atlas0 #35506_43: 5568669770059149712
+      Dung Defender - atlas0 #35506_44: -2583807693667247142
+      Dung Defender - atlas0 #35506_45: 1664634653418278715
+      Dung Defender - atlas0 #35506_46: -5159842581503944716
+      Dung Defender - atlas0 #35506_47: -2890517195170575023
+      Dung Defender - atlas0 #35506_48: 4837613066147269212
+      Dung Defender - atlas0 #35506_49: -7930968394011345822
+      Dung Defender - atlas0 #35506_5: -6965782635230059732
+      Dung Defender - atlas0 #35506_50: -1543829024502098890
+      Dung Defender - atlas0 #35506_51: -9090765631897813185
+      Dung Defender - atlas0 #35506_52: -3714446984176814410
+      Dung Defender - atlas0 #35506_53: -5897402889379178255
+      Dung Defender - atlas0 #35506_54: -2346658694739109902
+      Dung Defender - atlas0 #35506_55: -526511198482441966
+      Dung Defender - atlas0 #35506_56: 1129069469920092220
+      Dung Defender - atlas0 #35506_57: 5023593371104590863
+      Dung Defender - atlas0 #35506_58: -2065731999546926787
+      Dung Defender - atlas0 #35506_59: 1740947156793829734
+      Dung Defender - atlas0 #35506_6: 387286026415694375
+      Dung Defender - atlas0 #35506_60: -1758583603944959289
+      Dung Defender - atlas0 #35506_61: 7811727126006280839
+      Dung Defender - atlas0 #35506_62: -6934285180794644020
+      Dung Defender - atlas0 #35506_63: 1054305049017009371
+      Dung Defender - atlas0 #35506_64: -8359504579161217318
+      Dung Defender - atlas0 #35506_65: -5370113284956270655
+      Dung Defender - atlas0 #35506_66: 3014663855593767829
+      Dung Defender - atlas0 #35506_67: -7363921586173618033
+      Dung Defender - atlas0 #35506_68: -4897165494995749963
+      Dung Defender - atlas0 #35506_69: 2054085232357034501
+      Dung Defender - atlas0 #35506_7: -2143525572672040932
+      Dung Defender - atlas0 #35506_70: -1169175764922826683
+      Dung Defender - atlas0 #35506_71: 4585089966220367025
+      Dung Defender - atlas0 #35506_72: -5183731456235422441
+      Dung Defender - atlas0 #35506_73: 1029758997402056133
+      Dung Defender - atlas0 #35506_74: 7221910829775656526
+      Dung Defender - atlas0 #35506_75: -2460335555494478069
+      Dung Defender - atlas0 #35506_76: -834353575012206380
+      Dung Defender - atlas0 #35506_77: 3910572859326649544
+      Dung Defender - atlas0 #35506_78: -3096088326370440055
+      Dung Defender - atlas0 #35506_79: -31907398344385066
+      Dung Defender - atlas0 #35506_8: 5528102334414561227
+      Dung Defender - atlas0 #35506_80: -6916296182182246465
+      Dung Defender - atlas0 #35506_81: 8239347966090191231
+      Dung Defender - atlas0 #35506_82: -1003600154122998173
+      Dung Defender - atlas0 #35506_83: 7191696250459630341
+      Dung Defender - atlas0 #35506_84: 7954687077217437240
+      Dung Defender - atlas0 #35506_85: -183674937379051355
+      Dung Defender - atlas0 #35506_86: -262641991334529440
+      Dung Defender - atlas0 #35506_87: 5603311207200915868
+      Dung Defender - atlas0 #35506_88: 798845408604001358
+      Dung Defender - atlas0 #35506_89: 4494012142453049048
+      Dung Defender - atlas0 #35506_9: 3591518323991148288
+      Dung Defender - atlas0 #35506_90: -3592467724252506829
+      Dung Defender - atlas0 #35506_91: 3990800395765393895
+      Dung Defender - atlas0 #35506_92: -2692714211143287211
+      Dung Defender - atlas0 #35506_93: -5312440929197870897
+      Dung Defender - atlas0 #35506_94: 989080709472133408
+      Dung Defender - atlas0 #35506_95: 6239690861489122496
+      Dung Defender - atlas0 #35506_96: 158143480443100131
+      Dung Defender - atlas0 #35506_97: -2344490446785492837
+      Dung Defender - atlas0 #35506_98: -7796528638758712346
+      Dung Defender - atlas0 #35506_99: 6031249005127940281
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

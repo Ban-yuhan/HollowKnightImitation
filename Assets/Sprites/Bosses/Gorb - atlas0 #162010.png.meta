@@ -1,0 +1,572 @@
+fileFormatVersion: 2
+guid: 77557b10ce1c72f4b906f1b4407286cc
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5071817389271578293
+    second: Gorb - atlas0 #162010_0
+  - first:
+      213: -1855247148652913652
+    second: Gorb - atlas0 #162010_1
+  - first:
+      213: -5878790419482326629
+    second: Gorb - atlas0 #162010_2
+  - first:
+      213: -5177597996559413388
+    second: Gorb - atlas0 #162010_3
+  - first:
+      213: -1496810563057978422
+    second: Gorb - atlas0 #162010_4
+  - first:
+      213: 2054450550591271631
+    second: Gorb - atlas0 #162010_5
+  - first:
+      213: -6295972561374477297
+    second: Gorb - atlas0 #162010_6
+  - first:
+      213: -6044285981280195730
+    second: Gorb - atlas0 #162010_7
+  - first:
+      213: 4306863361996307955
+    second: Gorb - atlas0 #162010_8
+  - first:
+      213: -24923093580583173
+    second: Gorb - atlas0 #162010_9
+  - first:
+      213: 3800032439352044725
+    second: Gorb - atlas0 #162010_10
+  - first:
+      213: -8802375248023968358
+    second: Gorb - atlas0 #162010_11
+  - first:
+      213: -878173076354074711
+    second: Gorb - atlas0 #162010_12
+  - first:
+      213: -2713349237591585504
+    second: Gorb - atlas0 #162010_13
+  - first:
+      213: 4358655786331099866
+    second: Gorb - atlas0 #162010_14
+  - first:
+      213: 3163063167731526048
+    second: Gorb - atlas0 #162010_15
+  - first:
+      213: -8114266341098095773
+    second: Gorb - atlas0 #162010_16
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Gorb - atlas0 #162010_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 771
+        width: 157
+        height: 319
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4981d2c4f84d99b0800000000000000
+      internalID: -5071817389271578293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gorb - atlas0 #162010_1
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 928
+        width: 238
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0c9cfd3c86d046e0800000000000000
+      internalID: -1855247148652913652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gorb - atlas0 #162010_2
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 723
+        width: 245
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9949c9b2475a6ea0800000000000000
+      internalID: -5878790419482326629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gorb - atlas0 #162010_3
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 775
+        width: 290
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47f4d41ed0a7528b0800000000000000
+      internalID: -5177597996559413388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gorb - atlas0 #162010_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 458
+        width: 171
+        height: 315
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac370ec29b24a3be0800000000000000
+      internalID: -1496810563057978422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gorb - atlas0 #162010_5
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 424
+        width: 180
+        height: 301
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc2399c04efd28c10800000000000000
+      internalID: 2054450550591271631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gorb - atlas0 #162010_6
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 435
+        width: 308
+        height: 342
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f040bab105630a8a0800000000000000
+      internalID: -6295972561374477297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gorb - atlas0 #162010_7
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 631
+        width: 173
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6babec8ce16e1ca0800000000000000
+      internalID: -6044285981280195730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gorb - atlas0 #162010_8
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 314
+        width: 175
+        height: 319
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fd3fe3b86d05cb30800000000000000
+      internalID: 4306863361996307955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gorb - atlas0 #162010_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 244
+        width: 270
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfeec64149477aff0800000000000000
+      internalID: -24923093580583173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gorb - atlas0 #162010_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 288
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bc2a82ce5d6cb430800000000000000
+      internalID: 3800032439352044725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gorb - atlas0 #162010_11
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 208
+        width: 269
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9527d1595ea7d580800000000000000
+      internalID: -8802375248023968358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gorb - atlas0 #162010_12
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 208
+        width: 288
+        height: 229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a77a946d3a10d3f0800000000000000
+      internalID: -878173076354074711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gorb - atlas0 #162010_13
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 0
+        width: 161
+        height: 316
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02dc6cd8e3f385ad0800000000000000
+      internalID: -2713349237591585504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gorb - atlas0 #162010_14
+      rect:
+        serializedVersion: 2
+        x: 1017
+        y: 221
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad25772385e0d7c30800000000000000
+      internalID: 4358655786331099866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gorb - atlas0 #162010_15
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 0
+        width: 288
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a962c2413575eb20800000000000000
+      internalID: 3163063167731526048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gorb - atlas0 #162010_16
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 0
+        width: 288
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36b70f501c5546f80800000000000000
+      internalID: -8114266341098095773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Gorb - atlas0 #162010_0: -5071817389271578293
+      Gorb - atlas0 #162010_1: -1855247148652913652
+      Gorb - atlas0 #162010_10: 3800032439352044725
+      Gorb - atlas0 #162010_11: -8802375248023968358
+      Gorb - atlas0 #162010_12: -878173076354074711
+      Gorb - atlas0 #162010_13: -2713349237591585504
+      Gorb - atlas0 #162010_14: 4358655786331099866
+      Gorb - atlas0 #162010_15: 3163063167731526048
+      Gorb - atlas0 #162010_16: -8114266341098095773
+      Gorb - atlas0 #162010_2: -5878790419482326629
+      Gorb - atlas0 #162010_3: -5177597996559413388
+      Gorb - atlas0 #162010_4: -1496810563057978422
+      Gorb - atlas0 #162010_5: 2054450550591271631
+      Gorb - atlas0 #162010_6: -6295972561374477297
+      Gorb - atlas0 #162010_7: -6044285981280195730
+      Gorb - atlas0 #162010_8: 4306863361996307955
+      Gorb - atlas0 #162010_9: -24923093580583173
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,6162 @@
+fileFormatVersion: 2
+guid: af22d3f01e67e5841939f5cc45e3ab7c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3718125561339496015
+    second: Mantis Lords - atlas0 #18104_0
+  - first:
+      213: -3481629976231427635
+    second: Mantis Lords - atlas0 #18104_1
+  - first:
+      213: 986402437745756856
+    second: Mantis Lords - atlas0 #18104_2
+  - first:
+      213: -5778040800648693914
+    second: Mantis Lords - atlas0 #18104_3
+  - first:
+      213: -8131424285128656719
+    second: Mantis Lords - atlas0 #18104_4
+  - first:
+      213: -40752317939088401
+    second: Mantis Lords - atlas0 #18104_5
+  - first:
+      213: 6976005846252626345
+    second: Mantis Lords - atlas0 #18104_6
+  - first:
+      213: -5180249358549981729
+    second: Mantis Lords - atlas0 #18104_7
+  - first:
+      213: -7757580051974719716
+    second: Mantis Lords - atlas0 #18104_8
+  - first:
+      213: 6050753546060975370
+    second: Mantis Lords - atlas0 #18104_9
+  - first:
+      213: 1991138081643411096
+    second: Mantis Lords - atlas0 #18104_10
+  - first:
+      213: 6174354541551623091
+    second: Mantis Lords - atlas0 #18104_11
+  - first:
+      213: 836160089377741095
+    second: Mantis Lords - atlas0 #18104_12
+  - first:
+      213: -8705997770433424166
+    second: Mantis Lords - atlas0 #18104_13
+  - first:
+      213: 7918202749872263014
+    second: Mantis Lords - atlas0 #18104_14
+  - first:
+      213: 4051031570075017764
+    second: Mantis Lords - atlas0 #18104_15
+  - first:
+      213: 2988688810960717641
+    second: Mantis Lords - atlas0 #18104_16
+  - first:
+      213: 2489119977296273951
+    second: Mantis Lords - atlas0 #18104_17
+  - first:
+      213: 511529997349318684
+    second: Mantis Lords - atlas0 #18104_18
+  - first:
+      213: -1896993149494220843
+    second: Mantis Lords - atlas0 #18104_19
+  - first:
+      213: 5626164646182057897
+    second: Mantis Lords - atlas0 #18104_20
+  - first:
+      213: -7376249951676249604
+    second: Mantis Lords - atlas0 #18104_21
+  - first:
+      213: 904414025511418309
+    second: Mantis Lords - atlas0 #18104_22
+  - first:
+      213: -1398821228610442868
+    second: Mantis Lords - atlas0 #18104_23
+  - first:
+      213: 8375605374187636607
+    second: Mantis Lords - atlas0 #18104_24
+  - first:
+      213: 2462814445688643922
+    second: Mantis Lords - atlas0 #18104_25
+  - first:
+      213: -9063412705646271910
+    second: Mantis Lords - atlas0 #18104_26
+  - first:
+      213: -139620688249785188
+    second: Mantis Lords - atlas0 #18104_27
+  - first:
+      213: -5321673897741128212
+    second: Mantis Lords - atlas0 #18104_28
+  - first:
+      213: 1858700204576993771
+    second: Mantis Lords - atlas0 #18104_29
+  - first:
+      213: -3518857686864364853
+    second: Mantis Lords - atlas0 #18104_30
+  - first:
+      213: -6632089025756398140
+    second: Mantis Lords - atlas0 #18104_31
+  - first:
+      213: 8471291739322025227
+    second: Mantis Lords - atlas0 #18104_32
+  - first:
+      213: 6466787314730798011
+    second: Mantis Lords - atlas0 #18104_33
+  - first:
+      213: 5736632351486792687
+    second: Mantis Lords - atlas0 #18104_34
+  - first:
+      213: -4914128907356726390
+    second: Mantis Lords - atlas0 #18104_35
+  - first:
+      213: -1154886832352768237
+    second: Mantis Lords - atlas0 #18104_36
+  - first:
+      213: 7780180036411722493
+    second: Mantis Lords - atlas0 #18104_37
+  - first:
+      213: -6801986125435347878
+    second: Mantis Lords - atlas0 #18104_38
+  - first:
+      213: -2093123318099752571
+    second: Mantis Lords - atlas0 #18104_39
+  - first:
+      213: -2917957725521294911
+    second: Mantis Lords - atlas0 #18104_40
+  - first:
+      213: -208532421879887738
+    second: Mantis Lords - atlas0 #18104_41
+  - first:
+      213: 5611907891903982494
+    second: Mantis Lords - atlas0 #18104_42
+  - first:
+      213: -1596612557153132258
+    second: Mantis Lords - atlas0 #18104_43
+  - first:
+      213: -7606909298330838692
+    second: Mantis Lords - atlas0 #18104_44
+  - first:
+      213: -1640011319478831223
+    second: Mantis Lords - atlas0 #18104_45
+  - first:
+      213: -3295620501360980452
+    second: Mantis Lords - atlas0 #18104_46
+  - first:
+      213: 2470060847566388027
+    second: Mantis Lords - atlas0 #18104_47
+  - first:
+      213: -6455249683891920794
+    second: Mantis Lords - atlas0 #18104_48
+  - first:
+      213: 7088513549950833437
+    second: Mantis Lords - atlas0 #18104_49
+  - first:
+      213: 7350973032495184943
+    second: Mantis Lords - atlas0 #18104_50
+  - first:
+      213: -50480522246073282
+    second: Mantis Lords - atlas0 #18104_51
+  - first:
+      213: -7972758239372999685
+    second: Mantis Lords - atlas0 #18104_52
+  - first:
+      213: 5080781579210972579
+    second: Mantis Lords - atlas0 #18104_53
+  - first:
+      213: 7618487116721371643
+    second: Mantis Lords - atlas0 #18104_54
+  - first:
+      213: 1324897056656356607
+    second: Mantis Lords - atlas0 #18104_55
+  - first:
+      213: 81886423107989454
+    second: Mantis Lords - atlas0 #18104_56
+  - first:
+      213: 7700801551276608722
+    second: Mantis Lords - atlas0 #18104_57
+  - first:
+      213: -5726898898302981909
+    second: Mantis Lords - atlas0 #18104_58
+  - first:
+      213: -964295774606261595
+    second: Mantis Lords - atlas0 #18104_59
+  - first:
+      213: -2654184919059581990
+    second: Mantis Lords - atlas0 #18104_60
+  - first:
+      213: 1200097045198471383
+    second: Mantis Lords - atlas0 #18104_61
+  - first:
+      213: 7258808123543511308
+    second: Mantis Lords - atlas0 #18104_62
+  - first:
+      213: 166559040148615333
+    second: Mantis Lords - atlas0 #18104_63
+  - first:
+      213: 5509741416257456449
+    second: Mantis Lords - atlas0 #18104_64
+  - first:
+      213: 3373206647795432186
+    second: Mantis Lords - atlas0 #18104_65
+  - first:
+      213: -4065062925230341301
+    second: Mantis Lords - atlas0 #18104_66
+  - first:
+      213: 4638871307398251825
+    second: Mantis Lords - atlas0 #18104_67
+  - first:
+      213: -179966724838849577
+    second: Mantis Lords - atlas0 #18104_68
+  - first:
+      213: 865846444265783305
+    second: Mantis Lords - atlas0 #18104_69
+  - first:
+      213: -7490626771078127047
+    second: Mantis Lords - atlas0 #18104_70
+  - first:
+      213: -983155269993299724
+    second: Mantis Lords - atlas0 #18104_71
+  - first:
+      213: 3859535191668645446
+    second: Mantis Lords - atlas0 #18104_72
+  - first:
+      213: -2805646634722618153
+    second: Mantis Lords - atlas0 #18104_73
+  - first:
+      213: 7187511405252830500
+    second: Mantis Lords - atlas0 #18104_74
+  - first:
+      213: -3821863472614002307
+    second: Mantis Lords - atlas0 #18104_75
+  - first:
+      213: 6088647326212933848
+    second: Mantis Lords - atlas0 #18104_76
+  - first:
+      213: 6274369708620193664
+    second: Mantis Lords - atlas0 #18104_77
+  - first:
+      213: -6509867357562776756
+    second: Mantis Lords - atlas0 #18104_78
+  - first:
+      213: 2296433149121638923
+    second: Mantis Lords - atlas0 #18104_79
+  - first:
+      213: -1634991818888130957
+    second: Mantis Lords - atlas0 #18104_80
+  - first:
+      213: 6433271609212654619
+    second: Mantis Lords - atlas0 #18104_81
+  - first:
+      213: -7739421821923327393
+    second: Mantis Lords - atlas0 #18104_82
+  - first:
+      213: -4976499999404468286
+    second: Mantis Lords - atlas0 #18104_83
+  - first:
+      213: -6768883001336716057
+    second: Mantis Lords - atlas0 #18104_84
+  - first:
+      213: 5022116179652753068
+    second: Mantis Lords - atlas0 #18104_85
+  - first:
+      213: 132022453543426824
+    second: Mantis Lords - atlas0 #18104_86
+  - first:
+      213: -7557474717448307936
+    second: Mantis Lords - atlas0 #18104_87
+  - first:
+      213: 1154387304828119831
+    second: Mantis Lords - atlas0 #18104_88
+  - first:
+      213: -1302595953239747127
+    second: Mantis Lords - atlas0 #18104_89
+  - first:
+      213: -2955628617315846175
+    second: Mantis Lords - atlas0 #18104_90
+  - first:
+      213: 7555997061807627572
+    second: Mantis Lords - atlas0 #18104_91
+  - first:
+      213: -3200687996032153538
+    second: Mantis Lords - atlas0 #18104_92
+  - first:
+      213: 8168934393161433101
+    second: Mantis Lords - atlas0 #18104_93
+  - first:
+      213: -5485348138821428432
+    second: Mantis Lords - atlas0 #18104_94
+  - first:
+      213: -3066588204949139646
+    second: Mantis Lords - atlas0 #18104_95
+  - first:
+      213: 2271373492138093764
+    second: Mantis Lords - atlas0 #18104_96
+  - first:
+      213: 8606933545532147332
+    second: Mantis Lords - atlas0 #18104_97
+  - first:
+      213: 8163299042085603041
+    second: Mantis Lords - atlas0 #18104_98
+  - first:
+      213: 1509823946379686031
+    second: Mantis Lords - atlas0 #18104_99
+  - first:
+      213: 3490562380675605760
+    second: Mantis Lords - atlas0 #18104_100
+  - first:
+      213: -2415539616769194978
+    second: Mantis Lords - atlas0 #18104_101
+  - first:
+      213: -7513692894671833927
+    second: Mantis Lords - atlas0 #18104_102
+  - first:
+      213: -5072139708933259298
+    second: Mantis Lords - atlas0 #18104_103
+  - first:
+      213: -5865738067512992466
+    second: Mantis Lords - atlas0 #18104_104
+  - first:
+      213: -2917378860715869923
+    second: Mantis Lords - atlas0 #18104_105
+  - first:
+      213: -3040293554120055818
+    second: Mantis Lords - atlas0 #18104_106
+  - first:
+      213: 1313010105268033334
+    second: Mantis Lords - atlas0 #18104_107
+  - first:
+      213: -8433631569407162212
+    second: Mantis Lords - atlas0 #18104_108
+  - first:
+      213: 4974217618676068895
+    second: Mantis Lords - atlas0 #18104_109
+  - first:
+      213: 1772403978474575683
+    second: Mantis Lords - atlas0 #18104_110
+  - first:
+      213: -6571060001316866229
+    second: Mantis Lords - atlas0 #18104_111
+  - first:
+      213: -8080770497029096216
+    second: Mantis Lords - atlas0 #18104_112
+  - first:
+      213: -1442141881826687605
+    second: Mantis Lords - atlas0 #18104_113
+  - first:
+      213: 1227799010420109894
+    second: Mantis Lords - atlas0 #18104_114
+  - first:
+      213: 6295477519834516274
+    second: Mantis Lords - atlas0 #18104_115
+  - first:
+      213: -7327066450643487316
+    second: Mantis Lords - atlas0 #18104_116
+  - first:
+      213: -6822517622240064561
+    second: Mantis Lords - atlas0 #18104_117
+  - first:
+      213: -6395727103865824461
+    second: Mantis Lords - atlas0 #18104_118
+  - first:
+      213: -6456413169538838952
+    second: Mantis Lords - atlas0 #18104_119
+  - first:
+      213: 1001688173018532733
+    second: Mantis Lords - atlas0 #18104_120
+  - first:
+      213: -4843271706016596768
+    second: Mantis Lords - atlas0 #18104_121
+  - first:
+      213: 1114156481262837918
+    second: Mantis Lords - atlas0 #18104_122
+  - first:
+      213: -8284742206437038837
+    second: Mantis Lords - atlas0 #18104_123
+  - first:
+      213: -2520391846074566683
+    second: Mantis Lords - atlas0 #18104_124
+  - first:
+      213: 2636854200546416868
+    second: Mantis Lords - atlas0 #18104_125
+  - first:
+      213: -6090568214191260428
+    second: Mantis Lords - atlas0 #18104_126
+  - first:
+      213: 3686799898822444247
+    second: Mantis Lords - atlas0 #18104_127
+  - first:
+      213: 4595380179067845769
+    second: Mantis Lords - atlas0 #18104_128
+  - first:
+      213: 7359924982724263990
+    second: Mantis Lords - atlas0 #18104_129
+  - first:
+      213: -5347313317896365224
+    second: Mantis Lords - atlas0 #18104_130
+  - first:
+      213: 8829494081073916824
+    second: Mantis Lords - atlas0 #18104_131
+  - first:
+      213: -1998004795028525269
+    second: Mantis Lords - atlas0 #18104_132
+  - first:
+      213: -5215152857354954046
+    second: Mantis Lords - atlas0 #18104_133
+  - first:
+      213: -4609339747769681722
+    second: Mantis Lords - atlas0 #18104_134
+  - first:
+      213: 7959841864767534918
+    second: Mantis Lords - atlas0 #18104_135
+  - first:
+      213: 2923804544125493366
+    second: Mantis Lords - atlas0 #18104_136
+  - first:
+      213: -1417368102707737718
+    second: Mantis Lords - atlas0 #18104_137
+  - first:
+      213: -8908823893431956390
+    second: Mantis Lords - atlas0 #18104_138
+  - first:
+      213: 9124336131173011429
+    second: Mantis Lords - atlas0 #18104_139
+  - first:
+      213: -6565408084415156195
+    second: Mantis Lords - atlas0 #18104_140
+  - first:
+      213: -6928541103338627077
+    second: Mantis Lords - atlas0 #18104_141
+  - first:
+      213: -8432893709563547420
+    second: Mantis Lords - atlas0 #18104_142
+  - first:
+      213: -5097438348600002749
+    second: Mantis Lords - atlas0 #18104_143
+  - first:
+      213: -428350895035631163
+    second: Mantis Lords - atlas0 #18104_144
+  - first:
+      213: 6367482760485865985
+    second: Mantis Lords - atlas0 #18104_145
+  - first:
+      213: -2921442529369896452
+    second: Mantis Lords - atlas0 #18104_146
+  - first:
+      213: -550577494613578157
+    second: Mantis Lords - atlas0 #18104_147
+  - first:
+      213: 5778371172628253465
+    second: Mantis Lords - atlas0 #18104_148
+  - first:
+      213: -1505414866261270846
+    second: Mantis Lords - atlas0 #18104_149
+  - first:
+      213: 5542094750579412018
+    second: Mantis Lords - atlas0 #18104_150
+  - first:
+      213: -860337264770327387
+    second: Mantis Lords - atlas0 #18104_151
+  - first:
+      213: 8042880588561840642
+    second: Mantis Lords - atlas0 #18104_152
+  - first:
+      213: 2038035341343712023
+    second: Mantis Lords - atlas0 #18104_153
+  - first:
+      213: -2220697647813426274
+    second: Mantis Lords - atlas0 #18104_154
+  - first:
+      213: -4533707760273689765
+    second: Mantis Lords - atlas0 #18104_155
+  - first:
+      213: -8822176074926400576
+    second: Mantis Lords - atlas0 #18104_156
+  - first:
+      213: -1319818135733167715
+    second: Mantis Lords - atlas0 #18104_157
+  - first:
+      213: -1722938504541122258
+    second: Mantis Lords - atlas0 #18104_158
+  - first:
+      213: -4816079736447724045
+    second: Mantis Lords - atlas0 #18104_159
+  - first:
+      213: -6165369102124305139
+    second: Mantis Lords - atlas0 #18104_160
+  - first:
+      213: 747792943373332559
+    second: Mantis Lords - atlas0 #18104_161
+  - first:
+      213: 4172799895338867775
+    second: Mantis Lords - atlas0 #18104_162
+  - first:
+      213: -5979637379276878497
+    second: Mantis Lords - atlas0 #18104_163
+  - first:
+      213: 8770493096834048157
+    second: Mantis Lords - atlas0 #18104_164
+  - first:
+      213: 6490669417681187453
+    second: Mantis Lords - atlas0 #18104_165
+  - first:
+      213: -3905912162788152271
+    second: Mantis Lords - atlas0 #18104_166
+  - first:
+      213: -5754992777165410157
+    second: Mantis Lords - atlas0 #18104_167
+  - first:
+      213: 5969913430853129206
+    second: Mantis Lords - atlas0 #18104_168
+  - first:
+      213: 8941070961286259805
+    second: Mantis Lords - atlas0 #18104_169
+  - first:
+      213: 3949812576766476257
+    second: Mantis Lords - atlas0 #18104_170
+  - first:
+      213: 701610889413498503
+    second: Mantis Lords - atlas0 #18104_171
+  - first:
+      213: 5592971240723958210
+    second: Mantis Lords - atlas0 #18104_172
+  - first:
+      213: 554742634911657258
+    second: Mantis Lords - atlas0 #18104_173
+  - first:
+      213: 7862103739505287270
+    second: Mantis Lords - atlas0 #18104_174
+  - first:
+      213: 8950949086635707139
+    second: Mantis Lords - atlas0 #18104_175
+  - first:
+      213: -5682728159184974096
+    second: Mantis Lords - atlas0 #18104_176
+  - first:
+      213: -4583783002303837988
+    second: Mantis Lords - atlas0 #18104_177
+  - first:
+      213: 5479949935396410041
+    second: Mantis Lords - atlas0 #18104_178
+  - first:
+      213: -7796918422579639865
+    second: Mantis Lords - atlas0 #18104_179
+  - first:
+      213: 482041635020189439
+    second: Mantis Lords - atlas0 #18104_180
+  - first:
+      213: -8642805998324830505
+    second: Mantis Lords - atlas0 #18104_181
+  - first:
+      213: 7431865408327025396
+    second: Mantis Lords - atlas0 #18104_182
+  - first:
+      213: -4810437362866725436
+    second: Mantis Lords - atlas0 #18104_183
+  - first:
+      213: -1329579061964735002
+    second: Mantis Lords - atlas0 #18104_184
+  - first:
+      213: 6562920569845979991
+    second: Mantis Lords - atlas0 #18104_185
+  - first:
+      213: -6613172071996414197
+    second: Mantis Lords - atlas0 #18104_186
+  - first:
+      213: -7107126132505712203
+    second: Mantis Lords - atlas0 #18104_187
+  - first:
+      213: -8583958275926911229
+    second: Mantis Lords - atlas0 #18104_188
+  - first:
+      213: 2053570314818856294
+    second: Mantis Lords - atlas0 #18104_189
+  - first:
+      213: 4646749257745332216
+    second: Mantis Lords - atlas0 #18104_190
+  - first:
+      213: -6013668635881781512
+    second: Mantis Lords - atlas0 #18104_191
+  - first:
+      213: 836860129274901895
+    second: Mantis Lords - atlas0 #18104_192
+  - first:
+      213: -4375560694741512327
+    second: Mantis Lords - atlas0 #18104_193
+  - first:
+      213: -5556117536651322729
+    second: Mantis Lords - atlas0 #18104_194
+  - first:
+      213: 3130886993128896892
+    second: Mantis Lords - atlas0 #18104_195
+  - first:
+      213: 140910931929362605
+    second: Mantis Lords - atlas0 #18104_196
+  - first:
+      213: 7523938356776620806
+    second: Mantis Lords - atlas0 #18104_197
+  - first:
+      213: 6043476635217355738
+    second: Mantis Lords - atlas0 #18104_198
+  - first:
+      213: -3302266940254124325
+    second: Mantis Lords - atlas0 #18104_199
+  - first:
+      213: 2951900158554542283
+    second: Mantis Lords - atlas0 #18104_200
+  - first:
+      213: -8030679072801612567
+    second: Mantis Lords - atlas0 #18104_201
+  - first:
+      213: -48713500178725168
+    second: Mantis Lords - atlas0 #18104_202
+  - first:
+      213: -6035284365155097754
+    second: Mantis Lords - atlas0 #18104_203
+  - first:
+      213: -781762600366923836
+    second: Mantis Lords - atlas0 #18104_204
+  - first:
+      213: 3989321200297881602
+    second: Mantis Lords - atlas0 #18104_205
+  - first:
+      213: 2818455798922138059
+    second: Mantis Lords - atlas0 #18104_206
+  - first:
+      213: 7455145122474577713
+    second: Mantis Lords - atlas0 #18104_207
+  - first:
+      213: 7268544674766787183
+    second: Mantis Lords - atlas0 #18104_208
+  - first:
+      213: -6233357885027865922
+    second: Mantis Lords - atlas0 #18104_209
+  - first:
+      213: -4540780078195839968
+    second: Mantis Lords - atlas0 #18104_210
+  - first:
+      213: -4673474345327338447
+    second: Mantis Lords - atlas0 #18104_211
+  - first:
+      213: 6954069702498072708
+    second: Mantis Lords - atlas0 #18104_212
+  - first:
+      213: 6808185790288506517
+    second: Mantis Lords - atlas0 #18104_213
+  - first:
+      213: -7223345687942114601
+    second: Mantis Lords - atlas0 #18104_214
+  - first:
+      213: -2338325710214244292
+    second: Mantis Lords - atlas0 #18104_215
+  - first:
+      213: -8587500997625618848
+    second: Mantis Lords - atlas0 #18104_216
+  - first:
+      213: -6509455415805254417
+    second: Mantis Lords - atlas0 #18104_217
+  - first:
+      213: -2045199138786208871
+    second: Mantis Lords - atlas0 #18104_218
+  - first:
+      213: -2006183627200008661
+    second: Mantis Lords - atlas0 #18104_219
+  - first:
+      213: 5263059594386966518
+    second: Mantis Lords - atlas0 #18104_220
+  - first:
+      213: -6231199096655099718
+    second: Mantis Lords - atlas0 #18104_221
+  - first:
+      213: 8111898831966782651
+    second: Mantis Lords - atlas0 #18104_222
+  - first:
+      213: 3539114927122707762
+    second: Mantis Lords - atlas0 #18104_223
+  - first:
+      213: 5893367112812766365
+    second: Mantis Lords - atlas0 #18104_224
+  - first:
+      213: 2043403359283496031
+    second: Mantis Lords - atlas0 #18104_225
+  - first:
+      213: 2021390773782001183
+    second: Mantis Lords - atlas0 #18104_226
+  - first:
+      213: -1646478365382936216
+    second: Mantis Lords - atlas0 #18104_227
+  - first:
+      213: -1637770146026826907
+    second: Mantis Lords - atlas0 #18104_228
+  - first:
+      213: -8157331236770936810
+    second: Mantis Lords - atlas0 #18104_229
+  - first:
+      213: 786176197211514500
+    second: Mantis Lords - atlas0 #18104_230
+  - first:
+      213: -7720035962272741834
+    second: Mantis Lords - atlas0 #18104_231
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Mantis Lords - atlas0 #18104_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3450
+        width: 199
+        height: 564
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f46c0f1af7f699330800000000000000
+      internalID: 3718125561339496015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis Lords - atlas0 #18104_1
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 3902
+        width: 360
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc1cf5babf3ceafc0800000000000000
+      internalID: -3481629976231427635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis Lords - atlas0 #18104_2
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 3996
+        width: 478
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ba4a6b7ac760bd00800000000000000
+      internalID: 986402437745756856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis Lords - atlas0 #18104_3
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 3437
+        width: 200
+        height: 561
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 667fe93518640dfa0800000000000000
+      internalID: -5778040800648693914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis Lords - atlas0 #18104_4
+      rect:
+        serializedVersion: 2
+        x: 1038
+        y: 3939
+        width: 478
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b8fbeed1b0672f80800000000000000
+      internalID: -8131424285128656719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis Lords - atlas0 #18104_5
+      rect:
+        serializedVersion: 2
+        x: 1514
+        y: 3969
+        width: 470
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe387759bf73f6ff0800000000000000
+      internalID: -40752317939088401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis Lords - atlas0 #18104_6
+      rect:
+        serializedVersion: 2
+        x: 1982
+        y: 3964
+        width: 481
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a1afe05b50cfc060800000000000000
+      internalID: 6976005846252626345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis Lords - atlas0 #18104_7
+      rect:
+        serializedVersion: 2
+        x: 2468
+        y: 3897
+        width: 395
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd5eeaf87ae0c18b0800000000000000
+      internalID: -5180249358549981729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis Lords - atlas0 #18104_8
+      rect:
+        serializedVersion: 2
+        x: 2858
+        y: 3988
+        width: 370
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c17f36d4b0a875490800000000000000
+      internalID: -7757580051974719716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis Lords - atlas0 #18104_9
+      rect:
+        serializedVersion: 2
+        x: 3239
+        y: 3760
+        width: 291
+        height: 299
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0d4668ba4898f350800000000000000
+      internalID: 6050753546060975370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis Lords - atlas0 #18104_10
+      rect:
+        serializedVersion: 2
+        x: 3565
+        y: 3985
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 896bb172981f1ab10800000000000000
+      internalID: 1991138081643411096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis Lords - atlas0 #18104_11
+      rect:
+        serializedVersion: 2
+        x: 3576
+        y: 3998
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bb118e0eb6bfa550800000000000000
+      internalID: 6174354541551623091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis Lords - atlas0 #18104_12
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 3418
+        width: 113
+        height: 478
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72918becb23aa9b00800000000000000
+      internalID: 836160089377741095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis Lords - atlas0 #18104_13
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 3894
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad419f577251e2780800000000000000
+      internalID: -8705997770433424166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis Lords - atlas0 #18104_14
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 3835
+        width: 335
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66f48a5d27b13ed60800000000000000
+      internalID: 7918202749872263014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis Lords - atlas0 #18104_15
+      rect:
+        serializedVersion: 2
+        x: 1514
+        y: 3870
+        width: 478
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 422e63cefb7283830800000000000000
+      internalID: 4051031570075017764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis Lords - atlas0 #18104_16
+      rect:
+        serializedVersion: 2
+        x: 1990
+        y: 3795
+        width: 462
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9478f7983a4f97920800000000000000
+      internalID: 2988688810960717641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis Lords - atlas0 #18104_17
+      rect:
+        serializedVersion: 2
+        x: 2457
+        y: 3789
+        width: 395
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f12a2127e612b8220800000000000000
+      internalID: 2489119977296273951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis Lords - atlas0 #18104_18
+      rect:
+        serializedVersion: 2
+        x: 2868
+        y: 3880
+        width: 360
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1076f782d1591700800000000000000
+      internalID: 511529997349318684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis Lords - atlas0 #18104_19
+      rect:
+        serializedVersion: 2
+        x: 1345
+        y: 3455
+        width: 179
+        height: 417
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d72c0ff7c68ca5e0800000000000000
+      internalID: -1896993149494220843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis Lords - atlas0 #18104_20
+      rect:
+        serializedVersion: 2
+        x: 2857
+        y: 3768
+        width: 384
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a7fa8fdfe6241e40800000000000000
+      internalID: 5626164646182057897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis Lords - atlas0 #18104_21
+      rect:
+        serializedVersion: 2
+        x: 3016
+        y: 3872
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf948dfffbb42a990800000000000000
+      internalID: -7376249951676249604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis Lords - atlas0 #18104_22
+      rect:
+        serializedVersion: 2
+        x: 1118
+        y: 3280
+        width: 177
+        height: 577
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c93d70b3cf1d8c00800000000000000
+      internalID: 904414025511418309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis Lords - atlas0 #18104_23
+      rect:
+        serializedVersion: 2
+        x: 1293
+        y: 3846
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c89266cf083669ce0800000000000000
+      internalID: -1398821228610442868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis Lords - atlas0 #18104_24
+      rect:
+        serializedVersion: 2
+        x: 1302
+        y: 3842
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f778e4346b02c3470800000000000000
+      internalID: 8375605374187636607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis Lords - atlas0 #18104_25
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 3829
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 251e8f690bcad2220800000000000000
+      internalID: 2462814445688643922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis Lords - atlas0 #18104_26
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 3438
+        width: 122
+        height: 393
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a52213b0a2a483280800000000000000
+      internalID: -9063412705646271910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis Lords - atlas0 #18104_27
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 3283
+        width: 221
+        height: 476
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c94739949b7ff0ef0800000000000000
+      internalID: -139620688249785188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis Lords - atlas0 #18104_28
+      rect:
+        serializedVersion: 2
+        x: 1332
+        y: 3740
+        width: 16
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cedeba219cd9526b0800000000000000
+      internalID: -5321673897741128212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis Lords - atlas0 #18104_29
+      rect:
+        serializedVersion: 2
+        x: 1522
+        y: 3697
+        width: 477
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be1f1cdfcfd6bc910800000000000000
+      internalID: 1858700204576993771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis Lords - atlas0 #18104_30
+      rect:
+        serializedVersion: 2
+        x: 1997
+        y: 3681
+        width: 434
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcafb47d3918a2fc0800000000000000
+      internalID: -3518857686864364853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis Lords - atlas0 #18104_31
+      rect:
+        serializedVersion: 2
+        x: 2429
+        y: 3655
+        width: 831
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cdf50d5b2616f3a0800000000000000
+      internalID: -6632089025756398140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis Lords - atlas0 #18104_32
+      rect:
+        serializedVersion: 2
+        x: 1544
+        y: 3204
+        width: 183
+        height: 495
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b058dfe34f2109570800000000000000
+      internalID: 8471291739322025227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis Lords - atlas0 #18104_33
+      rect:
+        serializedVersion: 2
+        x: 1725
+        y: 3584
+        width: 475
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbb088cdcc4aeb950800000000000000
+      internalID: 6466787314730798011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis Lords - atlas0 #18104_34
+      rect:
+        serializedVersion: 2
+        x: 1725
+        y: 3320
+        width: 406
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe3526dcabc9c9f40800000000000000
+      internalID: 5736632351486792687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis Lords - atlas0 #18104_35
+      rect:
+        serializedVersion: 2
+        x: 2205
+        y: 3550
+        width: 814
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8b16808bc18dcbb0800000000000000
+      internalID: -4914128907356726390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis Lords - atlas0 #18104_36
+      rect:
+        serializedVersion: 2
+        x: 3017
+        y: 3474
+        width: 292
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31f46d97b8409ffe0800000000000000
+      internalID: -1154886832352768237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis Lords - atlas0 #18104_37
+      rect:
+        serializedVersion: 2
+        x: 3258
+        y: 3581
+        width: 285
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfa08ee9580c8fb60800000000000000
+      internalID: 7780180036411722493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis Lords - atlas0 #18104_38
+      rect:
+        serializedVersion: 2
+        x: 2129
+        y: 3296
+        width: 375
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5c5a4a48ad7a91a0800000000000000
+      internalID: -6801986125435347878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis Lords - atlas0 #18104_39
+      rect:
+        serializedVersion: 2
+        x: 2522
+        y: 3258
+        width: 340
+        height: 294
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 589c3999e6bb3f2e0800000000000000
+      internalID: -2093123318099752571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis Lords - atlas0 #18104_40
+      rect:
+        serializedVersion: 2
+        x: 3307
+        y: 3460
+        width: 284
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c942bc98e45187d0800000000000000
+      internalID: -2917957725521294911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis Lords - atlas0 #18104_41
+      rect:
+        serializedVersion: 2
+        x: 3455
+        y: 3552
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68882bdfdd42b1df0800000000000000
+      internalID: -208532421879887738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis Lords - atlas0 #18104_42
+      rect:
+        serializedVersion: 2
+        x: 3461
+        y: 3552
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9be5299e7081ed40800000000000000
+      internalID: 5611907891903982494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis Lords - atlas0 #18104_43
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 2990
+        width: 197
+        height: 561
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e11a5f6a651b7d9e0800000000000000
+      internalID: -1596612557153132258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis Lords - atlas0 #18104_44
+      rect:
+        serializedVersion: 2
+        x: 1363
+        y: 2871
+        width: 183
+        height: 586
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c59df5adb44de6690800000000000000
+      internalID: -7606909298330838692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis Lords - atlas0 #18104_45
+      rect:
+        serializedVersion: 2
+        x: 2857
+        y: 3364
+        width: 322
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98738d2e4628d39e0800000000000000
+      internalID: -1640011319478831223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis Lords - atlas0 #18104_46
+      rect:
+        serializedVersion: 2
+        x: 3177
+        y: 3364
+        width: 291
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1e42ed6d9a9342d0800000000000000
+      internalID: -3295620501360980452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis Lords - atlas0 #18104_47
+      rect:
+        serializedVersion: 2
+        x: 3305
+        y: 3456
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3b7bc0014b674220800000000000000
+      internalID: 2470060847566388027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis Lords - atlas0 #18104_48
+      rect:
+        serializedVersion: 2
+        x: 3312
+        y: 3456
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6606b272d985a66a0800000000000000
+      internalID: -6455249683891920794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis Lords - atlas0 #18104_49
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2969
+        width: 234
+        height: 482
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d13dc5264857f5260800000000000000
+      internalID: 7088513549950833437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis Lords - atlas0 #18104_50
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 2942
+        width: 118
+        height: 478
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2cf953a607e30660800000000000000
+      internalID: 7350973032495184943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis Lords - atlas0 #18104_51
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 3277
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3452738b38ac4ff0800000000000000
+      internalID: -50480522246073282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis Lords - atlas0 #18104_52
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 3278
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf38a1e6f921b5190800000000000000
+      internalID: -7972758239372999685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis Lords - atlas0 #18104_53
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 2856
+        width: 193
+        height: 583
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3add73a5def828640800000000000000
+      internalID: 5080781579210972579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis Lords - atlas0 #18104_54
+      rect:
+        serializedVersion: 2
+        x: 1007
+        y: 2952
+        width: 113
+        height: 481
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf9311e0bad4ab960800000000000000
+      internalID: 7618487116721371643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis Lords - atlas0 #18104_55
+      rect:
+        serializedVersion: 2
+        x: 1297
+        y: 3270
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff476f97adaf26210800000000000000
+      internalID: 1324897056656356607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis Lords - atlas0 #18104_56
+      rect:
+        serializedVersion: 2
+        x: 1770
+        y: 2901
+        width: 118
+        height: 421
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecf6749944be22100800000000000000
+      internalID: 81886423107989454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis Lords - atlas0 #18104_57
+      rect:
+        serializedVersion: 2
+        x: 1893
+        y: 3192
+        width: 396
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dc8e95d53ebeda60800000000000000
+      internalID: 7700801551276608722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis Lords - atlas0 #18104_58
+      rect:
+        serializedVersion: 2
+        x: 2502
+        y: 3274
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be8231e5bc7f580b0800000000000000
+      internalID: -5726898898302981909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis Lords - atlas0 #18104_59
+      rect:
+        serializedVersion: 2
+        x: 2510
+        y: 3280
+        width: 35
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a20f202a122e92f0800000000000000
+      internalID: -964295774606261595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis Lords - atlas0 #18104_60
+      rect:
+        serializedVersion: 2
+        x: 2867
+        y: 3260
+        width: 329
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad3314be0e07a2bd0800000000000000
+      internalID: -2654184919059581990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis Lords - atlas0 #18104_61
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 2791
+        width: 241
+        height: 465
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d00d0b77e997a010800000000000000
+      internalID: 1200097045198471383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis Lords - atlas0 #18104_62
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 3254
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c01e78097877cb460800000000000000
+      internalID: 7258808123543511308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis Lords - atlas0 #18104_63
+      rect:
+        serializedVersion: 2
+        x: 1118
+        y: 2825
+        width: 247
+        height: 434
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a03036809cbf4200800000000000000
+      internalID: 166559040148615333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis Lords - atlas0 #18104_64
+      rect:
+        serializedVersion: 2
+        x: 1281
+        y: 3256
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 149884050a8867c40800000000000000
+      internalID: 5509741416257456449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis Lords - atlas0 #18104_65
+      rect:
+        serializedVersion: 2
+        x: 2294
+        y: 3153
+        width: 395
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afa35dbf29900de20800000000000000
+      internalID: 3373206647795432186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis Lords - atlas0 #18104_66
+      rect:
+        serializedVersion: 2
+        x: 2694
+        y: 3150
+        width: 329
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b430900aecef597c0800000000000000
+      internalID: -4065062925230341301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis Lords - atlas0 #18104_67
+      rect:
+        serializedVersion: 2
+        x: 3013
+        y: 3254
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 135893450e4906040800000000000000
+      internalID: 4638871307398251825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis Lords - atlas0 #18104_68
+      rect:
+        serializedVersion: 2
+        x: 1604
+        y: 3193
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d3079e9731a08df0800000000000000
+      internalID: -179966724838849577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis Lords - atlas0 #18104_69
+      rect:
+        serializedVersion: 2
+        x: 1556
+        y: 2700
+        width: 216
+        height: 478
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9004f7ce0ca140c00800000000000000
+      internalID: 865846444265783305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis Lords - atlas0 #18104_70
+      rect:
+        serializedVersion: 2
+        x: 1594
+        y: 3178
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9326bd483a2fb0890800000000000000
+      internalID: -7490626771078127047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis Lords - atlas0 #18104_71
+      rect:
+        serializedVersion: 2
+        x: 1604
+        y: 3175
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f00ffcad712b52f0800000000000000
+      internalID: -983155269993299724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis Lords - atlas0 #18104_72
+      rect:
+        serializedVersion: 2
+        x: 1933
+        y: 2672
+        width: 187
+        height: 518
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64e5781eec2df8530800000000000000
+      internalID: 3859535191668645446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis Lords - atlas0 #18104_73
+      rect:
+        serializedVersion: 2
+        x: 2145
+        y: 2636
+        width: 183
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d4961c20475019d0800000000000000
+      internalID: -2805646634722618153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis Lords - atlas0 #18104_74
+      rect:
+        serializedVersion: 2
+        x: 2326
+        y: 2733
+        width: 108
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 425e921ca8b2fb360800000000000000
+      internalID: 7187511405252830500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis Lords - atlas0 #18104_75
+      rect:
+        serializedVersion: 2
+        x: 2432
+        y: 2733
+        width: 107
+        height: 419
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d713dc6bb6306fac0800000000000000
+      internalID: -3821863472614002307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis Lords - atlas0 #18104_76
+      rect:
+        serializedVersion: 2
+        x: 2537
+        y: 3037
+        width: 295
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d8cd81fb783f7450800000000000000
+      internalID: 6088647326212933848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis Lords - atlas0 #18104_77
+      rect:
+        serializedVersion: 2
+        x: 2840
+        y: 3144
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08f17c7c10a031750800000000000000
+      internalID: 6274369708620193664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis Lords - atlas0 #18104_78
+      rect:
+        serializedVersion: 2
+        x: 2144
+        y: 3117
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c435f89012e48a5a0800000000000000
+      internalID: -6509867357562776756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis Lords - atlas0 #18104_79
+      rect:
+        serializedVersion: 2
+        x: 2140
+        y: 3097
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b02b3d738c19edf10800000000000000
+      internalID: 2296433149121638923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis Lords - atlas0 #18104_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2461
+        width: 238
+        height: 501
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37ec0807a975f49e0800000000000000
+      internalID: -1634991818888130957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis Lords - atlas0 #18104_81
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 2960
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b14d9b29172974950800000000000000
+      internalID: 6433271609212654619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis Lords - atlas0 #18104_82
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 2476
+        width: 230
+        height: 516
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f528a51bbdc089490800000000000000
+      internalID: -7739421821923327393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis Lords - atlas0 #18104_83
+      rect:
+        serializedVersion: 2
+        x: 2537
+        y: 2679
+        width: 106
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c7d3cefd9befeab0800000000000000
+      internalID: -4976499999404468286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis Lords - atlas0 #18104_84
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 2469
+        width: 121
+        height: 475
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e4252bf5c81012a0800000000000000
+      internalID: -6768883001336716057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis Lords - atlas0 #18104_85
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 2936
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca6b1fc9e0422b540800000000000000
+      internalID: 5022116179652753068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis Lords - atlas0 #18104_86
+      rect:
+        serializedVersion: 2
+        x: 1007
+        y: 2476
+        width: 101
+        height: 478
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80bd4d5d8b905d100800000000000000
+      internalID: 132022453543426824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis Lords - atlas0 #18104_87
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 2916
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02b7f7329c47e1790800000000000000
+      internalID: -7557474717448307936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis Lords - atlas0 #18104_88
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 2268
+        width: 150
+        height: 590
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71b20853325350010800000000000000
+      internalID: 1154387304828119831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis Lords - atlas0 #18104_89
+      rect:
+        serializedVersion: 2
+        x: 1369
+        y: 2814
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c59849c1ef3cede0800000000000000
+      internalID: -1302595953239747127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis Lords - atlas0 #18104_90
+      rect:
+        serializedVersion: 2
+        x: 1445
+        y: 2395
+        width: 99
+        height: 478
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e7f8e0ae6f7bf6d0800000000000000
+      internalID: -2955628617315846175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis Lords - atlas0 #18104_91
+      rect:
+        serializedVersion: 2
+        x: 1809
+        y: 2510
+        width: 126
+        height: 393
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43d50f85b4b4cd860800000000000000
+      internalID: 7555997061807627572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis Lords - atlas0 #18104_92
+      rect:
+        serializedVersion: 2
+        x: 1111
+        y: 2805
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3885afb93fd493d0800000000000000
+      internalID: -3200687996032153538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis Lords - atlas0 #18104_93
+      rect:
+        serializedVersion: 2
+        x: 1352
+        y: 2800
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d00cbd9bc82ed5170800000000000000
+      internalID: 8168934393161433101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis Lords - atlas0 #18104_94
+      rect:
+        serializedVersion: 2
+        x: 1181
+        y: 2395
+        width: 266
+        height: 405
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03bd23c2ee020e3b0800000000000000
+      internalID: -5485348138821428432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis Lords - atlas0 #18104_95
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 2796
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24f8a9b664a4175d0800000000000000
+      internalID: -3066588204949139646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis Lords - atlas0 #18104_96
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 2764
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cc2127282a858f10800000000000000
+      internalID: 2271373492138093764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis Lords - atlas0 #18104_97
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 2773
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48646da4578f17770800000000000000
+      internalID: 8606933545532147332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis Lords - atlas0 #18104_98
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 2268
+        width: 240
+        height: 484
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e68cce4a3dd94170800000000000000
+      internalID: 8163299042085603041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis Lords - atlas0 #18104_99
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 2743
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f80f65d31e8f3f410800000000000000
+      internalID: 1509823946379686031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis Lords - atlas0 #18104_100
+      rect:
+        serializedVersion: 2
+        x: 1547
+        y: 2724
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 005e28ecdf7f07030800000000000000
+      internalID: 3490562380675605760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis Lords - atlas0 #18104_101
+      rect:
+        serializedVersion: 2
+        x: 2428
+        y: 2713
+        width: 7
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e14c69144874a7ed0800000000000000
+      internalID: -2415539616769194978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis Lords - atlas0 #18104_102
+      rect:
+        serializedVersion: 2
+        x: 1557
+        y: 2243
+        width: 254
+        height: 439
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b475bd1f100ab790800000000000000
+      internalID: -7513692894671833927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis Lords - atlas0 #18104_103
+      rect:
+        serializedVersion: 2
+        x: 1617
+        y: 2679
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edf31eddec32c99b0800000000000000
+      internalID: -5072139708933259298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis Lords - atlas0 #18104_104
+      rect:
+        serializedVersion: 2
+        x: 1625
+        y: 2682
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2dd66c3e46b89ea0800000000000000
+      internalID: -5865738067512992466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis Lords - atlas0 #18104_105
+      rect:
+        serializedVersion: 2
+        x: 2334
+        y: 2213
+        width: 190
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d19fbc312636387d0800000000000000
+      internalID: -2917378860715869923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis Lords - atlas0 #18104_106
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 2464
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f3a3c5ee15bec5d0800000000000000
+      internalID: -3040293554120055818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis Lords - atlas0 #18104_107
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 2461
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 637dffeebbfb83210800000000000000
+      internalID: 1313010105268033334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis Lords - atlas0 #18104_108
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 2461
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9847fa55c8b5fa80800000000000000
+      internalID: -8433631569407162212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis Lords - atlas0 #18104_109
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 2452
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f123da4d198f70540800000000000000
+      internalID: 4974217618676068895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis Lords - atlas0 #18104_110
+      rect:
+        serializedVersion: 2
+        x: 1815
+        y: 2060
+        width: 134
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 347577f1708d89810800000000000000
+      internalID: 1772403978474575683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis Lords - atlas0 #18104_111
+      rect:
+        serializedVersion: 2
+        x: 1945
+        y: 2123
+        width: 197
+        height: 551
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b47fab76eb7eec4a0800000000000000
+      internalID: -6571060001316866229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis Lords - atlas0 #18104_112
+      rect:
+        serializedVersion: 2
+        x: 2140
+        y: 2146
+        width: 196
+        height: 492
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ecbf15fb065bdf80800000000000000
+      internalID: -8080770497029096216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis Lords - atlas0 #18104_113
+      rect:
+        serializedVersion: 2
+        x: 2571
+        y: 2202
+        width: 102
+        height: 479
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b85c10a699b7cfbe0800000000000000
+      internalID: -1442141881826687605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis Lords - atlas0 #18104_114
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2030
+        width: 344
+        height: 433
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 642baafd1b40a0110800000000000000
+      internalID: 1227799010420109894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis Lords - atlas0 #18104_115
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 1869
+        width: 387
+        height: 401
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23b813d03770e5750800000000000000
+      internalID: 6295477519834516274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis Lords - atlas0 #18104_116
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 1818
+        width: 430
+        height: 332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca576b332e7015a90800000000000000
+      internalID: -7327066450643487316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis Lords - atlas0 #18104_117
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 2148
+        width: 378
+        height: 274
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcbc98cae5c8151a0800000000000000
+      internalID: -6822517622240064561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis Lords - atlas0 #18104_118
+      rect:
+        serializedVersion: 2
+        x: 1229
+        y: 2019
+        width: 274
+        height: 378
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33b5db5c510dd37a0800000000000000
+      internalID: -6395727103865824461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis Lords - atlas0 #18104_119
+      rect:
+        serializedVersion: 2
+        x: 1565
+        y: 1756
+        width: 252
+        height: 489
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85ecb7a0e663666a0800000000000000
+      internalID: -6456413169538838952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis Lords - atlas0 #18104_120
+      rect:
+        serializedVersion: 2
+        x: 2348
+        y: 1738
+        width: 225
+        height: 476
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7bca701616b6ed00800000000000000
+      internalID: 1001688173018532733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis Lords - atlas0 #18104_121
+      rect:
+        serializedVersion: 2
+        x: 2571
+        y: 1729
+        width: 112
+        height: 475
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ec3e2c4b0e39ccb0800000000000000
+      internalID: -4843271706016596768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis Lords - atlas0 #18104_122
+      rect:
+        serializedVersion: 2
+        x: 2681
+        y: 1848
+        width: 107
+        height: 483
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e90eed9aa67467f00800000000000000
+      internalID: 1114156481262837918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis Lords - atlas0 #18104_123
+      rect:
+        serializedVersion: 2
+        x: 1986
+        y: 1650
+        width: 251
+        height: 475
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0562a19bdea60d80800000000000000
+      internalID: -8284742206437038837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis Lords - atlas0 #18104_124
+      rect:
+        serializedVersion: 2
+        x: 2183
+        y: 2123
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e73fe738f4c50dd0800000000000000
+      internalID: -2520391846074566683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis Lords - atlas0 #18104_125
+      rect:
+        serializedVersion: 2
+        x: 2235
+        y: 1650
+        width: 115
+        height: 475
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e8d01cbcecf79420800000000000000
+      internalID: 2636854200546416868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis Lords - atlas0 #18104_126
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 2079
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fc38d87a74f97ba0800000000000000
+      internalID: -6090568214191260428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis Lords - atlas0 #18104_127
+      rect:
+        serializedVersion: 2
+        x: 1533
+        y: 2074
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d4024779f42a2330800000000000000
+      internalID: 3686799898822444247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis Lords - atlas0 #18104_128
+      rect:
+        serializedVersion: 2
+        x: 1540
+        y: 2054
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98cb53dece116cf30800000000000000
+      internalID: 4595380179067845769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis Lords - atlas0 #18104_129
+      rect:
+        serializedVersion: 2
+        x: 1873
+        y: 1001
+        width: 127
+        height: 1061
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6308dc8f6c4b32660800000000000000
+      internalID: 7359924982724263990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis Lords - atlas0 #18104_130
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1640
+        width: 418
+        height: 392
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85b52106ed68ac5b0800000000000000
+      internalID: -5347313317896365224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis Lords - atlas0 #18104_131
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 1463
+        width: 379
+        height: 408
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89b23d8061aa88a70800000000000000
+      internalID: 8829494081073916824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis Lords - atlas0 #18104_132
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 1529
+        width: 487
+        height: 291
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2f2ccc8939a544e0800000000000000
+      internalID: -1998004795028525269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis Lords - atlas0 #18104_133
+      rect:
+        serializedVersion: 2
+        x: 1307
+        y: 1517
+        width: 260
+        height: 504
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ca9ef77b1e00a7b0800000000000000
+      internalID: -5215152857354954046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis Lords - atlas0 #18104_134
+      rect:
+        serializedVersion: 2
+        x: 1565
+        y: 1300
+        width: 310
+        height: 458
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c87915bbe55800c0800000000000000
+      internalID: -4609339747769681722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis Lords - atlas0 #18104_135
+      rect:
+        serializedVersion: 2
+        x: 2514
+        y: 1729
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64770c1c00a077e60800000000000000
+      internalID: 7959841864767534918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis Lords - atlas0 #18104_136
+      rect:
+        serializedVersion: 2
+        x: 2678
+        y: 1720
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 670e54dedb0739820800000000000000
+      internalID: 2923804544125493366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis Lords - atlas0 #18104_137
+      rect:
+        serializedVersion: 2
+        x: 2714
+        y: 1405
+        width: 131
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8bc22a583f745ce0800000000000000
+      internalID: -1417368102707737718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis Lords - atlas0 #18104_138
+      rect:
+        serializedVersion: 2
+        x: 2843
+        y: 1437
+        width: 241
+        height: 465
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5cc971bedf7d5480800000000000000
+      internalID: -8908823893431956390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis Lords - atlas0 #18104_139
+      rect:
+        serializedVersion: 2
+        x: 2350
+        y: 1405
+        width: 366
+        height: 312
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ef44d55e5720ae70800000000000000
+      internalID: 9124336131173011429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis Lords - atlas0 #18104_140
+      rect:
+        serializedVersion: 2
+        x: 2660
+        y: 1715
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d10f4fad12cf2e4a0800000000000000
+      internalID: -6565408084415156195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis Lords - atlas0 #18104_141
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 1660
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bffdec35390e8df90800000000000000
+      internalID: -6928541103338627077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis Lords - atlas0 #18104_142
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 1652
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e0b6dcb9d758fa80800000000000000
+      internalID: -8432893709563547420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis Lords - atlas0 #18104_143
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1227
+        width: 423
+        height: 415
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3473e3f44d24249b0800000000000000
+      internalID: -5097438348600002749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis Lords - atlas0 #18104_144
+      rect:
+        serializedVersion: 2
+        x: 2259
+        y: 1642
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c93e2661213e0af0800000000000000
+      internalID: -428350895035631163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis Lords - atlas0 #18104_145
+      rect:
+        serializedVersion: 2
+        x: 2875
+        y: 853
+        width: 463
+        height: 790
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10a0f2495d7dd5850800000000000000
+      internalID: 6367482760485865985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis Lords - atlas0 #18104_146
+      rect:
+        serializedVersion: 2
+        x: 1998
+        y: 1188
+        width: 267
+        height: 436
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf9403d7f73f477d0800000000000000
+      internalID: -2921442529369896452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis Lords - atlas0 #18104_147
+      rect:
+        serializedVersion: 2
+        x: 2252
+        y: 1624
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35eab3c8fa4fb58f0800000000000000
+      internalID: -550577494613578157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis Lords - atlas0 #18104_148
+      rect:
+        serializedVersion: 2
+        x: 2259
+        y: 1621
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91b4dd467f5e03050800000000000000
+      internalID: 5778371172628253465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis Lords - atlas0 #18104_149
+      rect:
+        serializedVersion: 2
+        x: 2267
+        y: 1194
+        width: 85
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ce97e8b721bb1be0800000000000000
+      internalID: -1505414866261270846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis Lords - atlas0 #18104_150
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 1003
+        width: 258
+        height: 525
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23cc7d7ffc979ec40800000000000000
+      internalID: 5542094750579412018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis Lords - atlas0 #18104_151
+      rect:
+        serializedVersion: 2
+        x: 1096
+        y: 1351
+        width: 423
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ac5552e0d77f04f0800000000000000
+      internalID: -860337264770327387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis Lords - atlas0 #18104_152
+      rect:
+        serializedVersion: 2
+        x: 1464
+        y: 1512
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20afc14484d0e9f60800000000000000
+      internalID: 8042880588561840642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis Lords - atlas0 #18104_153
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 1459
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 713eb70585e884c10800000000000000
+      internalID: 2038035341343712023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis Lords - atlas0 #18104_154
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 1456
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e93098c414f7e21e0800000000000000
+      internalID: -2220697647813426274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis Lords - atlas0 #18104_155
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 1011
+        width: 399
+        height: 427
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b53747900d80511c0800000000000000
+      internalID: -4533707760273689765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis Lords - atlas0 #18104_156
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 1436
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cbdf0c0a95519580800000000000000
+      internalID: -8822176074926400576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis Lords - atlas0 #18104_157
+      rect:
+        serializedVersion: 2
+        x: 1528
+        y: 1413
+        width: 39
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d999183f5601fade0800000000000000
+      internalID: -1319818135733167715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis Lords - atlas0 #18104_158
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 1263
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e21dbf20f84e618e0800000000000000
+      internalID: -1722938504541122258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis Lords - atlas0 #18104_159
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 1263
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f593131ff8d92db0800000000000000
+      internalID: -4816079736447724045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis Lords - atlas0 #18104_160
+      rect:
+        serializedVersion: 2
+        x: 1099
+        y: 875
+        width: 289
+        height: 478
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0536b69775307aa0800000000000000
+      internalID: -6165369102124305139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis Lords - atlas0 #18104_161
+      rect:
+        serializedVersion: 2
+        x: 1404
+        y: 1015
+        width: 480
+        height: 287
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f40bf4358b1b06a00800000000000000
+      internalID: 747792943373332559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis Lords - atlas0 #18104_162
+      rect:
+        serializedVersion: 2
+        x: 2354
+        y: 1161
+        width: 506
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3cd5787563c8e930800000000000000
+      internalID: 4172799895338867775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis Lords - atlas0 #18104_163
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 832
+        width: 425
+        height: 397
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5dcd8a2c7f040da0800000000000000
+      internalID: -5979637379276878497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis Lords - atlas0 #18104_164
+      rect:
+        serializedVersion: 2
+        x: 1399
+        y: 1187
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d902fc5e00d07b970800000000000000
+      internalID: 8770493096834048157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis Lords - atlas0 #18104_165
+      rect:
+        serializedVersion: 2
+        x: 2025
+        y: 736
+        width: 319
+        height: 462
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d72f063427d731a50800000000000000
+      internalID: 6490669417681187453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis Lords - atlas0 #18104_166
+      rect:
+        serializedVersion: 2
+        x: 1398
+        y: 1178
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13c622515996bc9c0800000000000000
+      internalID: -3905912162788152271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis Lords - atlas0 #18104_167
+      rect:
+        serializedVersion: 2
+        x: 2340
+        y: 1143
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 390fd187f882220b0800000000000000
+      internalID: -5754992777165410157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis Lords - atlas0 #18104_168
+      rect:
+        serializedVersion: 2
+        x: 2354
+        y: 891
+        width: 444
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f395d9a2a469d250800000000000000
+      internalID: 5969913430853129206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis Lords - atlas0 #18104_169
+      rect:
+        serializedVersion: 2
+        x: 2641
+        y: 1158
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d54270fdaa0151c70800000000000000
+      internalID: 8941070961286259805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis Lords - atlas0 #18104_170
+      rect:
+        serializedVersion: 2
+        x: 3346
+        y: 583
+        width: 215
+        height: 580
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ef398f8c9d80d630800000000000000
+      internalID: 3949812576766476257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis Lords - atlas0 #18104_171
+      rect:
+        serializedVersion: 2
+        x: 2797
+        y: 1142
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 786990af26f9cb900800000000000000
+      internalID: 701610889413498503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis Lords - atlas0 #18104_172
+      rect:
+        serializedVersion: 2
+        x: 2817
+        y: 1141
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c9c35ae5b93e9d40800000000000000
+      internalID: 5592971240723958210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis Lords - atlas0 #18104_173
+      rect:
+        serializedVersion: 2
+        x: 2799
+        y: 1135
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2d6cafbc77d2b700800000000000000
+      internalID: 554742634911657258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis Lords - atlas0 #18104_174
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 381
+        width: 539
+        height: 632
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 660ab7422bdcb1d60800000000000000
+      internalID: 7862103739505287270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis Lords - atlas0 #18104_175
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 847
+        width: 518
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30b478725c8283c70800000000000000
+      internalID: 8950949086635707139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis Lords - atlas0 #18104_176
+      rect:
+        serializedVersion: 2
+        x: 1076
+        y: 869
+        width: 25
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fe8bacf8d4e221b0800000000000000
+      internalID: -5682728159184974096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis Lords - atlas0 #18104_177
+      rect:
+        serializedVersion: 2
+        x: 1205
+        y: 869
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd8c43435a12360c0800000000000000
+      internalID: -4583783002303837988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis Lords - atlas0 #18104_178
+      rect:
+        serializedVersion: 2
+        x: 1214
+        y: 869
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b25a36ae61bc0c40800000000000000
+      internalID: 5479949935396410041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis Lords - atlas0 #18104_179
+      rect:
+        serializedVersion: 2
+        x: 1382
+        y: 420
+        width: 131
+        height: 588
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c901772108cbc390800000000000000
+      internalID: -7796918422579639865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis Lords - atlas0 #18104_180
+      rect:
+        serializedVersion: 2
+        x: 1518
+        y: 757
+        width: 495
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffea356205e80b600800000000000000
+      internalID: 482041635020189439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis Lords - atlas0 #18104_181
+      rect:
+        serializedVersion: 2
+        x: 2007
+        y: 870
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7deab3f6cb59e0880800000000000000
+      internalID: -8642805998324830505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis Lords - atlas0 #18104_182
+      rect:
+        serializedVersion: 2
+        x: 2414
+        y: 589
+        width: 463
+        height: 304
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f288d1963a432760800000000000000
+      internalID: 7431865408327025396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis Lords - atlas0 #18104_183
+      rect:
+        serializedVersion: 2
+        x: 3116
+        y: 594
+        width: 232
+        height: 508
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cddf0c84b4ed3db0800000000000000
+      internalID: -4810437362866725436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis Lords - atlas0 #18104_184
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 840
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ed7bc633e26c8de0800000000000000
+      internalID: -1329579061964735002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis Lords - atlas0 #18104_185
+      rect:
+        serializedVersion: 2
+        x: 1211
+        y: 845
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75b16c68c7d241b50800000000000000
+      internalID: 6562920569845979991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis Lords - atlas0 #18104_186
+      rect:
+        serializedVersion: 2
+        x: 1304
+        y: 838
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b07ae12e90b4934a0800000000000000
+      internalID: -6613172071996414197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis Lords - atlas0 #18104_187
+      rect:
+        serializedVersion: 2
+        x: 2916
+        y: 262
+        width: 202
+        height: 593
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b9e91a007a6e5d90800000000000000
+      internalID: -7107126132505712203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis Lords - atlas0 #18104_188
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 425
+        width: 414
+        height: 418
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3071a948d67afd880800000000000000
+      internalID: -8583958275926911229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis Lords - atlas0 #18104_189
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 425
+        width: 415
+        height: 416
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 665a010325fbf7c10800000000000000
+      internalID: 2053570314818856294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis Lords - atlas0 #18104_190
+      rect:
+        serializedVersion: 2
+        x: 2385
+        y: 763
+        width: 29
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f7783494d19c7040800000000000000
+      internalID: 4646749257745332216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis Lords - atlas0 #18104_191
+      rect:
+        serializedVersion: 2
+        x: 2409
+        y: 772
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f6cb59cc382b8ca0800000000000000
+      internalID: -6013668635881781512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis Lords - atlas0 #18104_192
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 619
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7853e1c8adf1d9b00800000000000000
+      internalID: 836860129274901895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis Lords - atlas0 #18104_193
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 612
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97f45c81bb2e643c0800000000000000
+      internalID: -4375560694741512327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis Lords - atlas0 #18104_194
+      rect:
+        serializedVersion: 2
+        x: 1510
+        y: 376
+        width: 437
+        height: 383
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79a5499b984b4e2b0800000000000000
+      internalID: -5556117536651322729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis Lords - atlas0 #18104_195
+      rect:
+        serializedVersion: 2
+        x: 1934
+        y: 589
+        width: 453
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c79b651d125237b20800000000000000
+      internalID: 3130886993128896892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis Lords - atlas0 #18104_196
+      rect:
+        serializedVersion: 2
+        x: 3567
+        y: 519
+        width: 515
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da07e9afebd94f100800000000000000
+      internalID: 140910931929362605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis Lords - atlas0 #18104_197
+      rect:
+        serializedVersion: 2
+        x: 1963
+        y: 303
+        width: 480
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6035b9b62166a6860800000000000000
+      internalID: 7523938356776620806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis Lords - atlas0 #18104_198
+      rect:
+        serializedVersion: 2
+        x: 2441
+        y: 268
+        width: 476
+        height: 304
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad3e082eafdbed350800000000000000
+      internalID: 6043476635217355738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis Lords - atlas0 #18104_199
+      rect:
+        serializedVersion: 2
+        x: 2916
+        y: 546
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd603a8c6bdfb22d0800000000000000
+      internalID: -3302266940254124325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis Lords - atlas0 #18104_200
+      rect:
+        serializedVersion: 2
+        x: 3116
+        y: 298
+        width: 431
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc0101bed8147f820800000000000000
+      internalID: 2951900158554542283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis Lords - atlas0 #18104_201
+      rect:
+        serializedVersion: 2
+        x: 1958
+        y: 478
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ec1f708eeb4d8090800000000000000
+      internalID: -8030679072801612567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis Lords - atlas0 #18104_202
+      rect:
+        serializedVersion: 2
+        x: 3570
+        y: 259
+        width: 509
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d6c416645fe25ff0800000000000000
+      internalID: -48713500178725168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis Lords - atlas0 #18104_203
+      rect:
+        serializedVersion: 2
+        x: 1957
+        y: 469
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6632670a8dc5e3ca0800000000000000
+      internalID: -6035284365155097754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis Lords - atlas0 #18104_204
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 0
+        width: 434
+        height: 427
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cf91729e0f9625f0800000000000000
+      internalID: -781762600366923836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis Lords - atlas0 #18104_205
+      rect:
+        serializedVersion: 2
+        x: 1068
+        y: 363
+        width: 444
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 200b0bece7aec5730800000000000000
+      internalID: 3989321200297881602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis Lords - atlas0 #18104_206
+      rect:
+        serializedVersion: 2
+        x: 1407
+        y: 409
+        width: 105
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc1d4e5cd9a2d1720800000000000000
+      internalID: 2818455798922138059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis Lords - atlas0 #18104_207
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 381
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13f45166dfef57760800000000000000
+      internalID: 7455145122474577713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis Lords - atlas0 #18104_208
+      rect:
+        serializedVersion: 2
+        x: 3552
+        y: 389
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f62188d0fde0fd460800000000000000
+      internalID: 7268544674766787183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis Lords - atlas0 #18104_209
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 572
+        height: 383
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebaa801870aae79a0800000000000000
+      internalID: -6233357885027865922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis Lords - atlas0 #18104_210
+      rect:
+        serializedVersion: 2
+        x: 1272
+        y: 357
+        width: 72
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02c67f3b398ebf0c0800000000000000
+      internalID: -4540780078195839968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis Lords - atlas0 #18104_211
+      rect:
+        serializedVersion: 2
+        x: 1389
+        y: 360
+        width: 66
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13cdcd318db742fb0800000000000000
+      internalID: -4673474345327338447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis Lords - atlas0 #18104_212
+      rect:
+        serializedVersion: 2
+        x: 1626
+        y: 357
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48834b8dc81d18060800000000000000
+      internalID: 6954069702498072708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis Lords - atlas0 #18104_213
+      rect:
+        serializedVersion: 2
+        x: 1068
+        y: 0
+        width: 469
+        height: 359
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59e220ba7e88b7e50800000000000000
+      internalID: 6808185790288506517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis Lords - atlas0 #18104_214
+      rect:
+        serializedVersion: 2
+        x: 1528
+        y: 335
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d25c542e5581cb90800000000000000
+      internalID: -7223345687942114601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis Lords - atlas0 #18104_215
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 312
+        width: 26
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c385481d7299c8fd0800000000000000
+      internalID: -2338325710214244292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis Lords - atlas0 #18104_216
+      rect:
+        serializedVersion: 2
+        x: 1542
+        y: 0
+        width: 555
+        height: 297
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06e5638575113d880800000000000000
+      internalID: -8587500997625618848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis Lords - atlas0 #18104_217
+      rect:
+        serializedVersion: 2
+        x: 2145
+        y: 295
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe46fa3b9c4c9a5a0800000000000000
+      internalID: -6509455415805254417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis Lords - atlas0 #18104_218
+      rect:
+        serializedVersion: 2
+        x: 3541
+        y: 288
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99396bd183efd93e0800000000000000
+      internalID: -2045199138786208871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis Lords - atlas0 #18104_219
+      rect:
+        serializedVersion: 2
+        x: 3561
+        y: 289
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2ee98ace9a9824e0800000000000000
+      internalID: -2006183627200008661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis Lords - atlas0 #18104_220
+      rect:
+        serializedVersion: 2
+        x: 3118
+        y: 0
+        width: 425
+        height: 291
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f78523f0d42a0940800000000000000
+      internalID: 5263059594386966518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis Lords - atlas0 #18104_221
+      rect:
+        serializedVersion: 2
+        x: 3544
+        y: 281
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab843279f655689a0800000000000000
+      internalID: -6231199096655099718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis Lords - atlas0 #18104_222
+      rect:
+        serializedVersion: 2
+        x: 2095
+        y: 101
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb4494d4201439070800000000000000
+      internalID: 8111898831966782651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis Lords - atlas0 #18104_223
+      rect:
+        serializedVersion: 2
+        x: 2120
+        y: 103
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2357e6276467d1130800000000000000
+      internalID: 3539114927122707762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis Lords - atlas0 #18104_224
+      rect:
+        serializedVersion: 2
+        x: 2126
+        y: 0
+        width: 479
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d94ac2a2a2279c150800000000000000
+      internalID: 5893367112812766365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis Lords - atlas0 #18104_225
+      rect:
+        serializedVersion: 2
+        x: 2603
+        y: 9
+        width: 517
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f54cee26780ab5c10800000000000000
+      internalID: 2043403359283496031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis Lords - atlas0 #18104_226
+      rect:
+        serializedVersion: 2
+        x: 3570
+        y: 101
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f16378fe23c6d0c10800000000000000
+      internalID: 2021390773782001183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis Lords - atlas0 #18104_227
+      rect:
+        serializedVersion: 2
+        x: 3594
+        y: 0
+        width: 487
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 869fbfc66a88629e0800000000000000
+      internalID: -1646478365382936216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis Lords - atlas0 #18104_228
+      rect:
+        serializedVersion: 2
+        x: 2119
+        y: 94
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 563d45ebab87549e0800000000000000
+      internalID: -1637770146026826907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis Lords - atlas0 #18104_229
+      rect:
+        serializedVersion: 2
+        x: 3593
+        y: 92
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6180215a5765bce80800000000000000
+      internalID: -8157331236770936810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis Lords - atlas0 #18104_230
+      rect:
+        serializedVersion: 2
+        x: 3014
+        y: 5
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 486e8a5061f09ea00800000000000000
+      internalID: 786176197211514500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mantis Lords - atlas0 #18104_231
+      rect:
+        serializedVersion: 2
+        x: 3034
+        y: 0
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6360e7fd13cecd490800000000000000
+      internalID: -7720035962272741834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Mantis Lords - atlas0 #18104_0: 3718125561339496015
+      Mantis Lords - atlas0 #18104_1: -3481629976231427635
+      Mantis Lords - atlas0 #18104_10: 1991138081643411096
+      Mantis Lords - atlas0 #18104_100: 3490562380675605760
+      Mantis Lords - atlas0 #18104_101: -2415539616769194978
+      Mantis Lords - atlas0 #18104_102: -7513692894671833927
+      Mantis Lords - atlas0 #18104_103: -5072139708933259298
+      Mantis Lords - atlas0 #18104_104: -5865738067512992466
+      Mantis Lords - atlas0 #18104_105: -2917378860715869923
+      Mantis Lords - atlas0 #18104_106: -3040293554120055818
+      Mantis Lords - atlas0 #18104_107: 1313010105268033334
+      Mantis Lords - atlas0 #18104_108: -8433631569407162212
+      Mantis Lords - atlas0 #18104_109: 4974217618676068895
+      Mantis Lords - atlas0 #18104_11: 6174354541551623091
+      Mantis Lords - atlas0 #18104_110: 1772403978474575683
+      Mantis Lords - atlas0 #18104_111: -6571060001316866229
+      Mantis Lords - atlas0 #18104_112: -8080770497029096216
+      Mantis Lords - atlas0 #18104_113: -1442141881826687605
+      Mantis Lords - atlas0 #18104_114: 1227799010420109894
+      Mantis Lords - atlas0 #18104_115: 6295477519834516274
+      Mantis Lords - atlas0 #18104_116: -7327066450643487316
+      Mantis Lords - atlas0 #18104_117: -6822517622240064561
+      Mantis Lords - atlas0 #18104_118: -6395727103865824461
+      Mantis Lords - atlas0 #18104_119: -6456413169538838952
+      Mantis Lords - atlas0 #18104_12: 836160089377741095
+      Mantis Lords - atlas0 #18104_120: 1001688173018532733
+      Mantis Lords - atlas0 #18104_121: -4843271706016596768
+      Mantis Lords - atlas0 #18104_122: 1114156481262837918
+      Mantis Lords - atlas0 #18104_123: -8284742206437038837
+      Mantis Lords - atlas0 #18104_124: -2520391846074566683
+      Mantis Lords - atlas0 #18104_125: 2636854200546416868
+      Mantis Lords - atlas0 #18104_126: -6090568214191260428
+      Mantis Lords - atlas0 #18104_127: 3686799898822444247
+      Mantis Lords - atlas0 #18104_128: 4595380179067845769
+      Mantis Lords - atlas0 #18104_129: 7359924982724263990
+      Mantis Lords - atlas0 #18104_13: -8705997770433424166
+      Mantis Lords - atlas0 #18104_130: -5347313317896365224
+      Mantis Lords - atlas0 #18104_131: 8829494081073916824
+      Mantis Lords - atlas0 #18104_132: -1998004795028525269
+      Mantis Lords - atlas0 #18104_133: -5215152857354954046
+      Mantis Lords - atlas0 #18104_134: -4609339747769681722
+      Mantis Lords - atlas0 #18104_135: 7959841864767534918
+      Mantis Lords - atlas0 #18104_136: 2923804544125493366
+      Mantis Lords - atlas0 #18104_137: -1417368102707737718
+      Mantis Lords - atlas0 #18104_138: -8908823893431956390
+      Mantis Lords - atlas0 #18104_139: 9124336131173011429
+      Mantis Lords - atlas0 #18104_14: 7918202749872263014
+      Mantis Lords - atlas0 #18104_140: -6565408084415156195
+      Mantis Lords - atlas0 #18104_141: -6928541103338627077
+      Mantis Lords - atlas0 #18104_142: -8432893709563547420
+      Mantis Lords - atlas0 #18104_143: -5097438348600002749
+      Mantis Lords - atlas0 #18104_144: -428350895035631163
+      Mantis Lords - atlas0 #18104_145: 6367482760485865985
+      Mantis Lords - atlas0 #18104_146: -2921442529369896452
+      Mantis Lords - atlas0 #18104_147: -550577494613578157
+      Mantis Lords - atlas0 #18104_148: 5778371172628253465
+      Mantis Lords - atlas0 #18104_149: -1505414866261270846
+      Mantis Lords - atlas0 #18104_15: 4051031570075017764
+      Mantis Lords - atlas0 #18104_150: 5542094750579412018
+      Mantis Lords - atlas0 #18104_151: -860337264770327387
+      Mantis Lords - atlas0 #18104_152: 8042880588561840642
+      Mantis Lords - atlas0 #18104_153: 2038035341343712023
+      Mantis Lords - atlas0 #18104_154: -2220697647813426274
+      Mantis Lords - atlas0 #18104_155: -4533707760273689765
+      Mantis Lords - atlas0 #18104_156: -8822176074926400576
+      Mantis Lords - atlas0 #18104_157: -1319818135733167715
+      Mantis Lords - atlas0 #18104_158: -1722938504541122258
+      Mantis Lords - atlas0 #18104_159: -4816079736447724045
+      Mantis Lords - atlas0 #18104_16: 2988688810960717641
+      Mantis Lords - atlas0 #18104_160: -6165369102124305139
+      Mantis Lords - atlas0 #18104_161: 747792943373332559
+      Mantis Lords - atlas0 #18104_162: 4172799895338867775
+      Mantis Lords - atlas0 #18104_163: -5979637379276878497
+      Mantis Lords - atlas0 #18104_164: 8770493096834048157
+      Mantis Lords - atlas0 #18104_165: 6490669417681187453
+      Mantis Lords - atlas0 #18104_166: -3905912162788152271
+      Mantis Lords - atlas0 #18104_167: -5754992777165410157
+      Mantis Lords - atlas0 #18104_168: 5969913430853129206
+      Mantis Lords - atlas0 #18104_169: 8941070961286259805
+      Mantis Lords - atlas0 #18104_17: 2489119977296273951
+      Mantis Lords - atlas0 #18104_170: 3949812576766476257
+      Mantis Lords - atlas0 #18104_171: 701610889413498503
+      Mantis Lords - atlas0 #18104_172: 5592971240723958210
+      Mantis Lords - atlas0 #18104_173: 554742634911657258
+      Mantis Lords - atlas0 #18104_174: 7862103739505287270
+      Mantis Lords - atlas0 #18104_175: 8950949086635707139
+      Mantis Lords - atlas0 #18104_176: -5682728159184974096
+      Mantis Lords - atlas0 #18104_177: -4583783002303837988
+      Mantis Lords - atlas0 #18104_178: 5479949935396410041
+      Mantis Lords - atlas0 #18104_179: -7796918422579639865
+      Mantis Lords - atlas0 #18104_18: 511529997349318684
+      Mantis Lords - atlas0 #18104_180: 482041635020189439
+      Mantis Lords - atlas0 #18104_181: -8642805998324830505
+      Mantis Lords - atlas0 #18104_182: 7431865408327025396
+      Mantis Lords - atlas0 #18104_183: -4810437362866725436
+      Mantis Lords - atlas0 #18104_184: -1329579061964735002
+      Mantis Lords - atlas0 #18104_185: 6562920569845979991
+      Mantis Lords - atlas0 #18104_186: -6613172071996414197
+      Mantis Lords - atlas0 #18104_187: -7107126132505712203
+      Mantis Lords - atlas0 #18104_188: -8583958275926911229
+      Mantis Lords - atlas0 #18104_189: 2053570314818856294
+      Mantis Lords - atlas0 #18104_19: -1896993149494220843
+      Mantis Lords - atlas0 #18104_190: 4646749257745332216
+      Mantis Lords - atlas0 #18104_191: -6013668635881781512
+      Mantis Lords - atlas0 #18104_192: 836860129274901895
+      Mantis Lords - atlas0 #18104_193: -4375560694741512327
+      Mantis Lords - atlas0 #18104_194: -5556117536651322729
+      Mantis Lords - atlas0 #18104_195: 3130886993128896892
+      Mantis Lords - atlas0 #18104_196: 140910931929362605
+      Mantis Lords - atlas0 #18104_197: 7523938356776620806
+      Mantis Lords - atlas0 #18104_198: 6043476635217355738
+      Mantis Lords - atlas0 #18104_199: -3302266940254124325
+      Mantis Lords - atlas0 #18104_2: 986402437745756856
+      Mantis Lords - atlas0 #18104_20: 5626164646182057897
+      Mantis Lords - atlas0 #18104_200: 2951900158554542283
+      Mantis Lords - atlas0 #18104_201: -8030679072801612567
+      Mantis Lords - atlas0 #18104_202: -48713500178725168
+      Mantis Lords - atlas0 #18104_203: -6035284365155097754
+      Mantis Lords - atlas0 #18104_204: -781762600366923836
+      Mantis Lords - atlas0 #18104_205: 3989321200297881602
+      Mantis Lords - atlas0 #18104_206: 2818455798922138059
+      Mantis Lords - atlas0 #18104_207: 7455145122474577713
+      Mantis Lords - atlas0 #18104_208: 7268544674766787183
+      Mantis Lords - atlas0 #18104_209: -6233357885027865922
+      Mantis Lords - atlas0 #18104_21: -7376249951676249604
+      Mantis Lords - atlas0 #18104_210: -4540780078195839968
+      Mantis Lords - atlas0 #18104_211: -4673474345327338447
+      Mantis Lords - atlas0 #18104_212: 6954069702498072708
+      Mantis Lords - atlas0 #18104_213: 6808185790288506517
+      Mantis Lords - atlas0 #18104_214: -7223345687942114601
+      Mantis Lords - atlas0 #18104_215: -2338325710214244292
+      Mantis Lords - atlas0 #18104_216: -8587500997625618848
+      Mantis Lords - atlas0 #18104_217: -6509455415805254417
+      Mantis Lords - atlas0 #18104_218: -2045199138786208871
+      Mantis Lords - atlas0 #18104_219: -2006183627200008661
+      Mantis Lords - atlas0 #18104_22: 904414025511418309
+      Mantis Lords - atlas0 #18104_220: 5263059594386966518
+      Mantis Lords - atlas0 #18104_221: -6231199096655099718
+      Mantis Lords - atlas0 #18104_222: 8111898831966782651
+      Mantis Lords - atlas0 #18104_223: 3539114927122707762
+      Mantis Lords - atlas0 #18104_224: 5893367112812766365
+      Mantis Lords - atlas0 #18104_225: 2043403359283496031
+      Mantis Lords - atlas0 #18104_226: 2021390773782001183
+      Mantis Lords - atlas0 #18104_227: -1646478365382936216
+      Mantis Lords - atlas0 #18104_228: -1637770146026826907
+      Mantis Lords - atlas0 #18104_229: -8157331236770936810
+      Mantis Lords - atlas0 #18104_23: -1398821228610442868
+      Mantis Lords - atlas0 #18104_230: 786176197211514500
+      Mantis Lords - atlas0 #18104_231: -7720035962272741834
+      Mantis Lords - atlas0 #18104_24: 8375605374187636607
+      Mantis Lords - atlas0 #18104_25: 2462814445688643922
+      Mantis Lords - atlas0 #18104_26: -9063412705646271910
+      Mantis Lords - atlas0 #18104_27: -139620688249785188
+      Mantis Lords - atlas0 #18104_28: -5321673897741128212
+      Mantis Lords - atlas0 #18104_29: 1858700204576993771
+      Mantis Lords - atlas0 #18104_3: -5778040800648693914
+      Mantis Lords - atlas0 #18104_30: -3518857686864364853
+      Mantis Lords - atlas0 #18104_31: -6632089025756398140
+      Mantis Lords - atlas0 #18104_32: 8471291739322025227
+      Mantis Lords - atlas0 #18104_33: 6466787314730798011
+      Mantis Lords - atlas0 #18104_34: 5736632351486792687
+      Mantis Lords - atlas0 #18104_35: -4914128907356726390
+      Mantis Lords - atlas0 #18104_36: -1154886832352768237
+      Mantis Lords - atlas0 #18104_37: 7780180036411722493
+      Mantis Lords - atlas0 #18104_38: -6801986125435347878
+      Mantis Lords - atlas0 #18104_39: -2093123318099752571
+      Mantis Lords - atlas0 #18104_4: -8131424285128656719
+      Mantis Lords - atlas0 #18104_40: -2917957725521294911
+      Mantis Lords - atlas0 #18104_41: -208532421879887738
+      Mantis Lords - atlas0 #18104_42: 5611907891903982494
+      Mantis Lords - atlas0 #18104_43: -1596612557153132258
+      Mantis Lords - atlas0 #18104_44: -7606909298330838692
+      Mantis Lords - atlas0 #18104_45: -1640011319478831223
+      Mantis Lords - atlas0 #18104_46: -3295620501360980452
+      Mantis Lords - atlas0 #18104_47: 2470060847566388027
+      Mantis Lords - atlas0 #18104_48: -6455249683891920794
+      Mantis Lords - atlas0 #18104_49: 7088513549950833437
+      Mantis Lords - atlas0 #18104_5: -40752317939088401
+      Mantis Lords - atlas0 #18104_50: 7350973032495184943
+      Mantis Lords - atlas0 #18104_51: -50480522246073282
+      Mantis Lords - atlas0 #18104_52: -7972758239372999685
+      Mantis Lords - atlas0 #18104_53: 5080781579210972579
+      Mantis Lords - atlas0 #18104_54: 7618487116721371643
+      Mantis Lords - atlas0 #18104_55: 1324897056656356607
+      Mantis Lords - atlas0 #18104_56: 81886423107989454
+      Mantis Lords - atlas0 #18104_57: 7700801551276608722
+      Mantis Lords - atlas0 #18104_58: -5726898898302981909
+      Mantis Lords - atlas0 #18104_59: -964295774606261595
+      Mantis Lords - atlas0 #18104_6: 6976005846252626345
+      Mantis Lords - atlas0 #18104_60: -2654184919059581990
+      Mantis Lords - atlas0 #18104_61: 1200097045198471383
+      Mantis Lords - atlas0 #18104_62: 7258808123543511308
+      Mantis Lords - atlas0 #18104_63: 166559040148615333
+      Mantis Lords - atlas0 #18104_64: 5509741416257456449
+      Mantis Lords - atlas0 #18104_65: 3373206647795432186
+      Mantis Lords - atlas0 #18104_66: -4065062925230341301
+      Mantis Lords - atlas0 #18104_67: 4638871307398251825
+      Mantis Lords - atlas0 #18104_68: -179966724838849577
+      Mantis Lords - atlas0 #18104_69: 865846444265783305
+      Mantis Lords - atlas0 #18104_7: -5180249358549981729
+      Mantis Lords - atlas0 #18104_70: -7490626771078127047
+      Mantis Lords - atlas0 #18104_71: -983155269993299724
+      Mantis Lords - atlas0 #18104_72: 3859535191668645446
+      Mantis Lords - atlas0 #18104_73: -2805646634722618153
+      Mantis Lords - atlas0 #18104_74: 7187511405252830500
+      Mantis Lords - atlas0 #18104_75: -3821863472614002307
+      Mantis Lords - atlas0 #18104_76: 6088647326212933848
+      Mantis Lords - atlas0 #18104_77: 6274369708620193664
+      Mantis Lords - atlas0 #18104_78: -6509867357562776756
+      Mantis Lords - atlas0 #18104_79: 2296433149121638923
+      Mantis Lords - atlas0 #18104_8: -7757580051974719716
+      Mantis Lords - atlas0 #18104_80: -1634991818888130957
+      Mantis Lords - atlas0 #18104_81: 6433271609212654619
+      Mantis Lords - atlas0 #18104_82: -7739421821923327393
+      Mantis Lords - atlas0 #18104_83: -4976499999404468286
+      Mantis Lords - atlas0 #18104_84: -6768883001336716057
+      Mantis Lords - atlas0 #18104_85: 5022116179652753068
+      Mantis Lords - atlas0 #18104_86: 132022453543426824
+      Mantis Lords - atlas0 #18104_87: -7557474717448307936
+      Mantis Lords - atlas0 #18104_88: 1154387304828119831
+      Mantis Lords - atlas0 #18104_89: -1302595953239747127
+      Mantis Lords - atlas0 #18104_9: 6050753546060975370
+      Mantis Lords - atlas0 #18104_90: -2955628617315846175
+      Mantis Lords - atlas0 #18104_91: 7555997061807627572
+      Mantis Lords - atlas0 #18104_92: -3200687996032153538
+      Mantis Lords - atlas0 #18104_93: 8168934393161433101
+      Mantis Lords - atlas0 #18104_94: -5485348138821428432
+      Mantis Lords - atlas0 #18104_95: -3066588204949139646
+      Mantis Lords - atlas0 #18104_96: 2271373492138093764
+      Mantis Lords - atlas0 #18104_97: 8606933545532147332
+      Mantis Lords - atlas0 #18104_98: 8163299042085603041
+      Mantis Lords - atlas0 #18104_99: 1509823946379686031
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

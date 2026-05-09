@@ -1,0 +1,2288 @@
+fileFormatVersion: 2
+guid: 241cd04f0d6a07d42a206358ee855b02
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6190464622468367436
+    second: Watcher Knight - atlas0 #116003_0
+  - first:
+      213: -1193227839918639143
+    second: Watcher Knight - atlas0 #116003_1
+  - first:
+      213: -6818364102184342935
+    second: Watcher Knight - atlas0 #116003_2
+  - first:
+      213: -3798419247409793461
+    second: Watcher Knight - atlas0 #116003_3
+  - first:
+      213: -6775478398506143570
+    second: Watcher Knight - atlas0 #116003_4
+  - first:
+      213: -2117493665884421198
+    second: Watcher Knight - atlas0 #116003_5
+  - first:
+      213: 4804102715027402399
+    second: Watcher Knight - atlas0 #116003_6
+  - first:
+      213: -4197526723507914379
+    second: Watcher Knight - atlas0 #116003_7
+  - first:
+      213: -292976310263064801
+    second: Watcher Knight - atlas0 #116003_8
+  - first:
+      213: 9117820357181179707
+    second: Watcher Knight - atlas0 #116003_9
+  - first:
+      213: 2564933791571119946
+    second: Watcher Knight - atlas0 #116003_10
+  - first:
+      213: -2917263956811016987
+    second: Watcher Knight - atlas0 #116003_11
+  - first:
+      213: -5276921097514452488
+    second: Watcher Knight - atlas0 #116003_12
+  - first:
+      213: -4790284512457539752
+    second: Watcher Knight - atlas0 #116003_13
+  - first:
+      213: -6707184060657153266
+    second: Watcher Knight - atlas0 #116003_14
+  - first:
+      213: 5053278651750791824
+    second: Watcher Knight - atlas0 #116003_15
+  - first:
+      213: -2624628669683912074
+    second: Watcher Knight - atlas0 #116003_16
+  - first:
+      213: -5228288727727650110
+    second: Watcher Knight - atlas0 #116003_17
+  - first:
+      213: -5326540162695769285
+    second: Watcher Knight - atlas0 #116003_18
+  - first:
+      213: 4883198873556174217
+    second: Watcher Knight - atlas0 #116003_19
+  - first:
+      213: 238726492067908676
+    second: Watcher Knight - atlas0 #116003_20
+  - first:
+      213: -6340298646980875288
+    second: Watcher Knight - atlas0 #116003_21
+  - first:
+      213: 2386341372312700942
+    second: Watcher Knight - atlas0 #116003_22
+  - first:
+      213: -5203225465528063374
+    second: Watcher Knight - atlas0 #116003_23
+  - first:
+      213: 3213916343060837860
+    second: Watcher Knight - atlas0 #116003_24
+  - first:
+      213: -3312898041048407746
+    second: Watcher Knight - atlas0 #116003_25
+  - first:
+      213: 3693386707258966813
+    second: Watcher Knight - atlas0 #116003_26
+  - first:
+      213: 6309825181435642433
+    second: Watcher Knight - atlas0 #116003_27
+  - first:
+      213: -2313968376368496896
+    second: Watcher Knight - atlas0 #116003_28
+  - first:
+      213: 4916416674491410729
+    second: Watcher Knight - atlas0 #116003_29
+  - first:
+      213: -4945856271103988283
+    second: Watcher Knight - atlas0 #116003_30
+  - first:
+      213: 5779265014981972661
+    second: Watcher Knight - atlas0 #116003_31
+  - first:
+      213: -2376905606941041241
+    second: Watcher Knight - atlas0 #116003_32
+  - first:
+      213: -444465427347162359
+    second: Watcher Knight - atlas0 #116003_33
+  - first:
+      213: 6538714643195723689
+    second: Watcher Knight - atlas0 #116003_34
+  - first:
+      213: 3562935484061331377
+    second: Watcher Knight - atlas0 #116003_35
+  - first:
+      213: -4249285720079398545
+    second: Watcher Knight - atlas0 #116003_36
+  - first:
+      213: 4225632644950098402
+    second: Watcher Knight - atlas0 #116003_37
+  - first:
+      213: 2007466593592463481
+    second: Watcher Knight - atlas0 #116003_38
+  - first:
+      213: -1161214164767653235
+    second: Watcher Knight - atlas0 #116003_39
+  - first:
+      213: 1119161521937563058
+    second: Watcher Knight - atlas0 #116003_40
+  - first:
+      213: 5506564709604140101
+    second: Watcher Knight - atlas0 #116003_41
+  - first:
+      213: 8169313654835293485
+    second: Watcher Knight - atlas0 #116003_42
+  - first:
+      213: -4689452884813321160
+    second: Watcher Knight - atlas0 #116003_43
+  - first:
+      213: 1225113516627123272
+    second: Watcher Knight - atlas0 #116003_44
+  - first:
+      213: 6268082330287020770
+    second: Watcher Knight - atlas0 #116003_45
+  - first:
+      213: -8868866812571449027
+    second: Watcher Knight - atlas0 #116003_46
+  - first:
+      213: -199877518830014201
+    second: Watcher Knight - atlas0 #116003_47
+  - first:
+      213: 6616433899907484317
+    second: Watcher Knight - atlas0 #116003_48
+  - first:
+      213: 5582053690451178400
+    second: Watcher Knight - atlas0 #116003_49
+  - first:
+      213: 7946151184771067394
+    second: Watcher Knight - atlas0 #116003_50
+  - first:
+      213: 6495274647963571509
+    second: Watcher Knight - atlas0 #116003_51
+  - first:
+      213: 305834478763552197
+    second: Watcher Knight - atlas0 #116003_52
+  - first:
+      213: 6341149254339131698
+    second: Watcher Knight - atlas0 #116003_53
+  - first:
+      213: 2301366730409144680
+    second: Watcher Knight - atlas0 #116003_54
+  - first:
+      213: 5833483757518474202
+    second: Watcher Knight - atlas0 #116003_55
+  - first:
+      213: 7797198506513600093
+    second: Watcher Knight - atlas0 #116003_56
+  - first:
+      213: -278036023753421493
+    second: Watcher Knight - atlas0 #116003_57
+  - first:
+      213: 7187079215090312718
+    second: Watcher Knight - atlas0 #116003_58
+  - first:
+      213: 3113959996953354752
+    second: Watcher Knight - atlas0 #116003_59
+  - first:
+      213: -8487109711460617620
+    second: Watcher Knight - atlas0 #116003_60
+  - first:
+      213: 8786249454795814650
+    second: Watcher Knight - atlas0 #116003_61
+  - first:
+      213: 2560057024198097674
+    second: Watcher Knight - atlas0 #116003_62
+  - first:
+      213: 2622594336675680504
+    second: Watcher Knight - atlas0 #116003_63
+  - first:
+      213: 7363793063098307165
+    second: Watcher Knight - atlas0 #116003_64
+  - first:
+      213: 6034461041967267556
+    second: Watcher Knight - atlas0 #116003_65
+  - first:
+      213: -6255330318525111402
+    second: Watcher Knight - atlas0 #116003_66
+  - first:
+      213: -2152853287885440529
+    second: Watcher Knight - atlas0 #116003_67
+  - first:
+      213: 1278067544270566644
+    second: Watcher Knight - atlas0 #116003_68
+  - first:
+      213: -2039974587746506447
+    second: Watcher Knight - atlas0 #116003_69
+  - first:
+      213: 2433232813410829965
+    second: Watcher Knight - atlas0 #116003_70
+  - first:
+      213: 6607078313305607566
+    second: Watcher Knight - atlas0 #116003_71
+  - first:
+      213: -2714641701569354248
+    second: Watcher Knight - atlas0 #116003_72
+  - first:
+      213: 3106799682459047789
+    second: Watcher Knight - atlas0 #116003_73
+  - first:
+      213: -6305216973539644719
+    second: Watcher Knight - atlas0 #116003_74
+  - first:
+      213: 3866555482239370266
+    second: Watcher Knight - atlas0 #116003_75
+  - first:
+      213: 4336788336101450208
+    second: Watcher Knight - atlas0 #116003_76
+  - first:
+      213: 5712172349727201210
+    second: Watcher Knight - atlas0 #116003_77
+  - first:
+      213: -6537067982534634432
+    second: Watcher Knight - atlas0 #116003_78
+  - first:
+      213: 4012071472264383131
+    second: Watcher Knight - atlas0 #116003_79
+  - first:
+      213: 3894399468667902573
+    second: Watcher Knight - atlas0 #116003_80
+  - first:
+      213: -6857952734892186188
+    second: Watcher Knight - atlas0 #116003_81
+  - first:
+      213: -5998129710239293877
+    second: Watcher Knight - atlas0 #116003_82
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Watcher Knight - atlas0 #116003_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3857
+        width: 226
+        height: 237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bb762f693d071aa0800000000000000
+      internalID: -6190464622468367436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watcher Knight - atlas0 #116003_1
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 4022
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d7fa810a9dc07fe0800000000000000
+      internalID: -1193227839918639143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watcher Knight - atlas0 #116003_2
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 3857
+        width: 297
+        height: 235
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96ae60c69fd4061a0800000000000000
+      internalID: -6818364102184342935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watcher Knight - atlas0 #116003_3
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 3857
+        width: 298
+        height: 233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b46f122c1dd494bc0800000000000000
+      internalID: -3798419247409793461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watcher Knight - atlas0 #116003_4
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 3855
+        width: 249
+        height: 231
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea075b96b4aa8f1a0800000000000000
+      internalID: -6775478398506143570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watcher Knight - atlas0 #116003_5
+      rect:
+        serializedVersion: 2
+        x: 1455
+        y: 3771
+        width: 312
+        height: 322
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b3c1d6dab62d92e0800000000000000
+      internalID: -2117493665884421198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watcher Knight - atlas0 #116003_6
+      rect:
+        serializedVersion: 2
+        x: 1765
+        y: 3773
+        width: 283
+        height: 287
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9ea2b157f99ba240800000000000000
+      internalID: 4804102715027402399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watcher Knight - atlas0 #116003_7
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 4006
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 579f9163fa36fb5c0800000000000000
+      internalID: -4197526723507914379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watcher Knight - atlas0 #116003_8
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 4010
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f175a2b19932febf0800000000000000
+      internalID: -292976310263064801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watcher Knight - atlas0 #116003_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3511
+        width: 550
+        height: 348
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b370c9b7e41098e70800000000000000
+      internalID: 9117820357181179707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watcher Knight - atlas0 #116003_10
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 3515
+        width: 284
+        height: 342
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4f0efe91b9789320800000000000000
+      internalID: 2564933791571119946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watcher Knight - atlas0 #116003_11
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 3514
+        width: 322
+        height: 341
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e49a3a33ebc387d0800000000000000
+      internalID: -2917263956811016987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watcher Knight - atlas0 #116003_12
+      rect:
+        serializedVersion: 2
+        x: 1150
+        y: 3670
+        width: 307
+        height: 333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f9f2ea583c94c6b0800000000000000
+      internalID: -5276921097514452488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watcher Knight - atlas0 #116003_13
+      rect:
+        serializedVersion: 2
+        x: 1150
+        y: 3335
+        width: 300
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85fb9edad9d758db0800000000000000
+      internalID: -4790284512457539752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watcher Knight - atlas0 #116003_14
+      rect:
+        serializedVersion: 2
+        x: 1458
+        y: 3458
+        width: 287
+        height: 315
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0b4e5d02ab4be2a0800000000000000
+      internalID: -6707184060657153266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watcher Knight - atlas0 #116003_15
+      rect:
+        serializedVersion: 2
+        x: 1747
+        y: 3457
+        width: 297
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09abbac092ad02640800000000000000
+      internalID: 5053278651750791824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watcher Knight - atlas0 #116003_16
+      rect:
+        serializedVersion: 2
+        x: 1455
+        y: 3646
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6723f2c7122739bd0800000000000000
+      internalID: -2624628669683912074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watcher Knight - atlas0 #116003_17
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 3518
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ca4d905a136177b0800000000000000
+      internalID: -5228288727727650110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watcher Knight - atlas0 #116003_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3180
+        width: 358
+        height: 317
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b33daa871f35416b0800000000000000
+      internalID: -5326540162695769285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watcher Knight - atlas0 #116003_19
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 3208
+        width: 282
+        height: 309
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98547e1d08b94c340800000000000000
+      internalID: 4883198873556174217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watcher Knight - atlas0 #116003_20
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 3213
+        width: 230
+        height: 303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44cce2eca70205300800000000000000
+      internalID: 238726492067908676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watcher Knight - atlas0 #116003_21
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 3208
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8eba0d019fbb208a0800000000000000
+      internalID: -6340298646980875288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watcher Knight - atlas0 #116003_22
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 2996
+        width: 297
+        height: 341
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e084481b5dcfd1120800000000000000
+      internalID: 2386341372312700942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watcher Knight - atlas0 #116003_23
+      rect:
+        serializedVersion: 2
+        x: 1448
+        y: 3127
+        width: 301
+        height: 333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27aeee8c10e6ac7b0800000000000000
+      internalID: -5203225465528063374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watcher Knight - atlas0 #116003_24
+      rect:
+        serializedVersion: 2
+        x: 1747
+        y: 3127
+        width: 298
+        height: 332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e5b6fdc2ef1a9c20800000000000000
+      internalID: 3213916343060837860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watcher Knight - atlas0 #116003_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2843
+        width: 358
+        height: 334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e31e83eb8c83602d0800000000000000
+      internalID: -3312898041048407746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watcher Knight - atlas0 #116003_26
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 3175
+        width: 22
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d13025054ab814330800000000000000
+      internalID: 3693386707258966813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watcher Knight - atlas0 #116003_27
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 2905
+        width: 352
+        height: 305
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14249465290019750800000000000000
+      internalID: 6309825181435642433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watcher Knight - atlas0 #116003_28
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 2687
+        width: 352
+        height: 311
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00f7119850223efd0800000000000000
+      internalID: -2313968376368496896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watcher Knight - atlas0 #116003_29
+      rect:
+        serializedVersion: 2
+        x: 1091
+        y: 2914
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9292edacaee9a3440800000000000000
+      internalID: 4916416674491410729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watcher Knight - atlas0 #116003_30
+      rect:
+        serializedVersion: 2
+        x: 1102
+        y: 2668
+        width: 342
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cd65bafce9cc5bb0800000000000000
+      internalID: -4945856271103988283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watcher Knight - atlas0 #116003_31
+      rect:
+        serializedVersion: 2
+        x: 1442
+        y: 2829
+        width: 341
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b2d7d849e2143050800000000000000
+      internalID: 5779265014981972661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watcher Knight - atlas0 #116003_32
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 2593
+        width: 362
+        height: 309
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ad15a1a1f8830fd0800000000000000
+      internalID: -2376905606941041241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watcher Knight - atlas0 #116003_33
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 2900
+        width: 22
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90bb7087c01f4d9f0800000000000000
+      internalID: -444465427347162359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watcher Knight - atlas0 #116003_34
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2243
+        width: 362
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9af735b035e2eba50800000000000000
+      internalID: 6538714643195723689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watcher Knight - atlas0 #116003_35
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 2327
+        width: 365
+        height: 353
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bf2c1d02f6127130800000000000000
+      internalID: 3562935484061331377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watcher Knight - atlas0 #116003_36
+      rect:
+        serializedVersion: 2
+        x: 1119
+        y: 2663
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f690789b6218705c0800000000000000
+      internalID: -4249285720079398545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watcher Knight - atlas0 #116003_37
+      rect:
+        serializedVersion: 2
+        x: 1127
+        y: 2321
+        width: 357
+        height: 345
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e18b81908674aa30800000000000000
+      internalID: 4225632644950098402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watcher Knight - atlas0 #116003_38
+      rect:
+        serializedVersion: 2
+        x: 1479
+        y: 2484
+        width: 354
+        height: 326
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 970da891b34fbdb10800000000000000
+      internalID: 2007466593592463481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watcher Knight - atlas0 #116003_39
+      rect:
+        serializedVersion: 2
+        x: 1818
+        y: 2639
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d824fd89ed982efe0800000000000000
+      internalID: -1161214164767653235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watcher Knight - atlas0 #116003_40
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 2244
+        width: 363
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bdbf51897f088f00800000000000000
+      internalID: 1119161521937563058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watcher Knight - atlas0 #116003_41
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 2582
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54428a8ad6f3b6c40800000000000000
+      internalID: 5506564709604140101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watcher Knight - atlas0 #116003_42
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 2011
+        width: 359
+        height: 335
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2da4377c7b3f5170800000000000000
+      internalID: 8169313654835293485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watcher Knight - atlas0 #116003_43
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 2338
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83c65c17277bbeeb0800000000000000
+      internalID: -4689452884813321160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watcher Knight - atlas0 #116003_44
+      rect:
+        serializedVersion: 2
+        x: 1508
+        y: 2220
+        width: 339
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84cd610a04a700110800000000000000
+      internalID: 1225113516627123272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watcher Knight - atlas0 #116003_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1925
+        width: 374
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ea19af6ba3bcf650800000000000000
+      internalID: 6268082330287020770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watcher Knight - atlas0 #116003_46
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 1922
+        width: 375
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d398d6c8f947be480800000000000000
+      internalID: -8868866812571449027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watcher Knight - atlas0 #116003_47
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 2227
+        width: 10
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 701fc83a474e93df0800000000000000
+      internalID: -199877518830014201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watcher Knight - atlas0 #116003_48
+      rect:
+        serializedVersion: 2
+        x: 1163
+        y: 1961
+        width: 340
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9a86db939b42db50800000000000000
+      internalID: 6616433899907484317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watcher Knight - atlas0 #116003_49
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 1679
+        width: 390
+        height: 335
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a33088a140777d40800000000000000
+      internalID: 5582053690451178400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watcher Knight - atlas0 #116003_50
+      rect:
+        serializedVersion: 2
+        x: 1084
+        y: 2012
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20e24dbe666664e60800000000000000
+      internalID: 7946151184771067394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watcher Knight - atlas0 #116003_51
+      rect:
+        serializedVersion: 2
+        x: 1488
+        y: 1886
+        width: 373
+        height: 334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 535187ef0e9d32a50800000000000000
+      internalID: 6495274647963571509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watcher Knight - atlas0 #116003_52
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1594
+        width: 314
+        height: 333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cda4ca86da8e3400800000000000000
+      internalID: 305834478763552197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watcher Knight - atlas0 #116003_53
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 1575
+        width: 332
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 239fd9466a9400850800000000000000
+      internalID: 6341149254339131698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watcher Knight - atlas0 #116003_54
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 1849
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86170ff19d810ff10800000000000000
+      internalID: 2301366730409144680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watcher Knight - atlas0 #116003_55
+      rect:
+        serializedVersion: 2
+        x: 1222
+        y: 1619
+        width: 268
+        height: 344
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adb46e10292b4f050800000000000000
+      internalID: 5833483757518474202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watcher Knight - atlas0 #116003_56
+      rect:
+        serializedVersion: 2
+        x: 1501
+        y: 1600
+        width: 381
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5e03f7fab6353c60800000000000000
+      internalID: 7797198506513600093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watcher Knight - atlas0 #116003_57
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1263
+        width: 397
+        height: 333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4d4a61a5b7342cf0800000000000000
+      internalID: -278036023753421493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watcher Knight - atlas0 #116003_58
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 1245
+        width: 407
+        height: 332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e062d04a772adb360800000000000000
+      internalID: 7187079215090312718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watcher Knight - atlas0 #116003_59
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 1345
+        width: 405
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0026e276e12073b20800000000000000
+      internalID: 3113959996953354752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watcher Knight - atlas0 #116003_60
+      rect:
+        serializedVersion: 2
+        x: 1234
+        y: 1509
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c623f9e1faab73a80800000000000000
+      internalID: -8487109711460617620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watcher Knight - atlas0 #116003_61
+      rect:
+        serializedVersion: 2
+        x: 1237
+        y: 1254
+        width: 266
+        height: 367
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af6f21dd3570fe970800000000000000
+      internalID: 8786249454795814650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watcher Knight - atlas0 #116003_62
+      rect:
+        serializedVersion: 2
+        x: 1501
+        y: 1310
+        width: 383
+        height: 292
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0b321cbc46278320800000000000000
+      internalID: 2560057024198097674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watcher Knight - atlas0 #116003_63
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 922
+        width: 416
+        height: 343
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f0518377a3556420800000000000000
+      internalID: 2622594336675680504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watcher Knight - atlas0 #116003_64
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 922
+        width: 407
+        height: 325
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d52d57d96c2713660800000000000000
+      internalID: 7363793063098307165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watcher Knight - atlas0 #116003_65
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 1006
+        width: 415
+        height: 341
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ee74618856beb350800000000000000
+      internalID: 6034461041967267556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watcher Knight - atlas0 #116003_66
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 662
+        width: 420
+        height: 346
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 693649ba73a9039a0800000000000000
+      internalID: -6255330318525111402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watcher Knight - atlas0 #116003_67
+      rect:
+        serializedVersion: 2
+        x: 1256
+        y: 974
+        width: 255
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe97e0a47578f12e0800000000000000
+      internalID: -2152853287885440529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watcher Knight - atlas0 #116003_68
+      rect:
+        serializedVersion: 2
+        x: 1510
+        y: 970
+        width: 420
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f4f337f8ab9cb110800000000000000
+      internalID: 1278067544270566644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watcher Knight - atlas0 #116003_69
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 574
+        width: 421
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 139ab82bbed80b3e0800000000000000
+      internalID: -2039974587746506447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watcher Knight - atlas0 #116003_70
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 667
+        width: 421
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d864d2b1a5494c120800000000000000
+      internalID: 2433232813410829965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watcher Knight - atlas0 #116003_71
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 278
+        width: 464
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8d84cb58be01bb50800000000000000
+      internalID: 6607078313305607566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watcher Knight - atlas0 #116003_72
+      rect:
+        serializedVersion: 2
+        x: 1256
+        y: 667
+        width: 256
+        height: 312
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f52f7551c7a35ad0800000000000000
+      internalID: -2714641701569354248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watcher Knight - atlas0 #116003_73
+      rect:
+        serializedVersion: 2
+        x: 1514
+        y: 639
+        width: 423
+        height: 333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d679445c9d19d1b20800000000000000
+      internalID: 3106799682459047789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watcher Knight - atlas0 #116003_74
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 296
+        width: 422
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dae76ca19e5f78a0800000000000000
+      internalID: -6305216973539644719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watcher Knight - atlas0 #116003_75
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 599
+        height: 296
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a148737a9b3c8a530800000000000000
+      internalID: 3866555482239370266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watcher Knight - atlas0 #116003_76
+      rect:
+        serializedVersion: 2
+        x: 1059
+        y: 283
+        width: 457
+        height: 382
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e1626fa30e5f2c30800000000000000
+      internalID: 4336788336101450208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watcher Knight - atlas0 #116003_77
+      rect:
+        serializedVersion: 2
+        x: 1514
+        y: 283
+        width: 64
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab75c49dc76b54f40800000000000000
+      internalID: 5712172349727201210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watcher Knight - atlas0 #116003_78
+      rect:
+        serializedVersion: 2
+        x: 1576
+        y: 291
+        width: 423
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04491740e4ba745a0800000000000000
+      internalID: -6537067982534634432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watcher Knight - atlas0 #116003_79
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 0
+        width: 524
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9a0cc54fbdbda730800000000000000
+      internalID: 4012071472264383131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watcher Knight - atlas0 #116003_80
+      rect:
+        serializedVersion: 2
+        x: 1119
+        y: 0
+        width: 499
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6a9b6feeafab0630800000000000000
+      internalID: 3894399468667902573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watcher Knight - atlas0 #116003_81
+      rect:
+        serializedVersion: 2
+        x: 1616
+        y: 0
+        width: 426
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b525569258a3d0a0800000000000000
+      internalID: -6857952734892186188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watcher Knight - atlas0 #116003_82
+      rect:
+        serializedVersion: 2
+        x: 2040
+        y: 0
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4e5878decc52cca0800000000000000
+      internalID: -5998129710239293877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Watcher Knight - atlas0 #116003_0: -6190464622468367436
+      Watcher Knight - atlas0 #116003_1: -1193227839918639143
+      Watcher Knight - atlas0 #116003_10: 2564933791571119946
+      Watcher Knight - atlas0 #116003_11: -2917263956811016987
+      Watcher Knight - atlas0 #116003_12: -5276921097514452488
+      Watcher Knight - atlas0 #116003_13: -4790284512457539752
+      Watcher Knight - atlas0 #116003_14: -6707184060657153266
+      Watcher Knight - atlas0 #116003_15: 5053278651750791824
+      Watcher Knight - atlas0 #116003_16: -2624628669683912074
+      Watcher Knight - atlas0 #116003_17: -5228288727727650110
+      Watcher Knight - atlas0 #116003_18: -5326540162695769285
+      Watcher Knight - atlas0 #116003_19: 4883198873556174217
+      Watcher Knight - atlas0 #116003_2: -6818364102184342935
+      Watcher Knight - atlas0 #116003_20: 238726492067908676
+      Watcher Knight - atlas0 #116003_21: -6340298646980875288
+      Watcher Knight - atlas0 #116003_22: 2386341372312700942
+      Watcher Knight - atlas0 #116003_23: -5203225465528063374
+      Watcher Knight - atlas0 #116003_24: 3213916343060837860
+      Watcher Knight - atlas0 #116003_25: -3312898041048407746
+      Watcher Knight - atlas0 #116003_26: 3693386707258966813
+      Watcher Knight - atlas0 #116003_27: 6309825181435642433
+      Watcher Knight - atlas0 #116003_28: -2313968376368496896
+      Watcher Knight - atlas0 #116003_29: 4916416674491410729
+      Watcher Knight - atlas0 #116003_3: -3798419247409793461
+      Watcher Knight - atlas0 #116003_30: -4945856271103988283
+      Watcher Knight - atlas0 #116003_31: 5779265014981972661
+      Watcher Knight - atlas0 #116003_32: -2376905606941041241
+      Watcher Knight - atlas0 #116003_33: -444465427347162359
+      Watcher Knight - atlas0 #116003_34: 6538714643195723689
+      Watcher Knight - atlas0 #116003_35: 3562935484061331377
+      Watcher Knight - atlas0 #116003_36: -4249285720079398545
+      Watcher Knight - atlas0 #116003_37: 4225632644950098402
+      Watcher Knight - atlas0 #116003_38: 2007466593592463481
+      Watcher Knight - atlas0 #116003_39: -1161214164767653235
+      Watcher Knight - atlas0 #116003_4: -6775478398506143570
+      Watcher Knight - atlas0 #116003_40: 1119161521937563058
+      Watcher Knight - atlas0 #116003_41: 5506564709604140101
+      Watcher Knight - atlas0 #116003_42: 8169313654835293485
+      Watcher Knight - atlas0 #116003_43: -4689452884813321160
+      Watcher Knight - atlas0 #116003_44: 1225113516627123272
+      Watcher Knight - atlas0 #116003_45: 6268082330287020770
+      Watcher Knight - atlas0 #116003_46: -8868866812571449027
+      Watcher Knight - atlas0 #116003_47: -199877518830014201
+      Watcher Knight - atlas0 #116003_48: 6616433899907484317
+      Watcher Knight - atlas0 #116003_49: 5582053690451178400
+      Watcher Knight - atlas0 #116003_5: -2117493665884421198
+      Watcher Knight - atlas0 #116003_50: 7946151184771067394
+      Watcher Knight - atlas0 #116003_51: 6495274647963571509
+      Watcher Knight - atlas0 #116003_52: 305834478763552197
+      Watcher Knight - atlas0 #116003_53: 6341149254339131698
+      Watcher Knight - atlas0 #116003_54: 2301366730409144680
+      Watcher Knight - atlas0 #116003_55: 5833483757518474202
+      Watcher Knight - atlas0 #116003_56: 7797198506513600093
+      Watcher Knight - atlas0 #116003_57: -278036023753421493
+      Watcher Knight - atlas0 #116003_58: 7187079215090312718
+      Watcher Knight - atlas0 #116003_59: 3113959996953354752
+      Watcher Knight - atlas0 #116003_6: 4804102715027402399
+      Watcher Knight - atlas0 #116003_60: -8487109711460617620
+      Watcher Knight - atlas0 #116003_61: 8786249454795814650
+      Watcher Knight - atlas0 #116003_62: 2560057024198097674
+      Watcher Knight - atlas0 #116003_63: 2622594336675680504
+      Watcher Knight - atlas0 #116003_64: 7363793063098307165
+      Watcher Knight - atlas0 #116003_65: 6034461041967267556
+      Watcher Knight - atlas0 #116003_66: -6255330318525111402
+      Watcher Knight - atlas0 #116003_67: -2152853287885440529
+      Watcher Knight - atlas0 #116003_68: 1278067544270566644
+      Watcher Knight - atlas0 #116003_69: -2039974587746506447
+      Watcher Knight - atlas0 #116003_7: -4197526723507914379
+      Watcher Knight - atlas0 #116003_70: 2433232813410829965
+      Watcher Knight - atlas0 #116003_71: 6607078313305607566
+      Watcher Knight - atlas0 #116003_72: -2714641701569354248
+      Watcher Knight - atlas0 #116003_73: 3106799682459047789
+      Watcher Knight - atlas0 #116003_74: -6305216973539644719
+      Watcher Knight - atlas0 #116003_75: 3866555482239370266
+      Watcher Knight - atlas0 #116003_76: 4336788336101450208
+      Watcher Knight - atlas0 #116003_77: 5712172349727201210
+      Watcher Knight - atlas0 #116003_78: -6537067982534634432
+      Watcher Knight - atlas0 #116003_79: 4012071472264383131
+      Watcher Knight - atlas0 #116003_8: -292976310263064801
+      Watcher Knight - atlas0 #116003_80: 3894399468667902573
+      Watcher Knight - atlas0 #116003_81: -6857952734892186188
+      Watcher Knight - atlas0 #116003_82: -5998129710239293877
+      Watcher Knight - atlas0 #116003_9: 9117820357181179707
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

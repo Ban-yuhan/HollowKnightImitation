@@ -1,0 +1,416 @@
+fileFormatVersion: 2
+guid: 5d56f05f2b352c04283083b176577873
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3605287420348391332
+    second: Pure Vessel small focus ring - out of bounds impact0006_0
+  - first:
+      213: -3657863967643912193
+    second: Pure Vessel small focus ring - out of bounds impact0006_1
+  - first:
+      213: 320900366895709772
+    second: Pure Vessel small focus ring - out of bounds impact0006_2
+  - first:
+      213: -4204778753560267956
+    second: Pure Vessel small focus ring - out of bounds impact0006_3
+  - first:
+      213: 8621387905531455858
+    second: Pure Vessel small focus ring - out of bounds impact0006_4
+  - first:
+      213: -4034902226802923859
+    second: Pure Vessel small focus ring - out of bounds impact0006_5
+  - first:
+      213: 4374186130224210977
+    second: Pure Vessel small focus ring - out of bounds impact0006_6
+  - first:
+      213: 749477549800560029
+    second: Pure Vessel small focus ring - out of bounds impact0006_7
+  - first:
+      213: -8422056361579457004
+    second: Pure Vessel small focus ring - out of bounds impact0006_8
+  - first:
+      213: 5300959566169367991
+    second: Pure Vessel small focus ring - out of bounds impact0006_9
+  - first:
+      213: -4873046984993507116
+    second: Pure Vessel small focus ring - out of bounds impact0006_10
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Pure Vessel small focus ring - out of bounds impact0006_0
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 376
+        width: 197
+        height: 211
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5023fc513277fdc0800000000000000
+      internalID: -3605287420348391332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pure Vessel small focus ring - out of bounds impact0006_1
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 409
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff732e30a18ac3dc0800000000000000
+      internalID: -3657863967643912193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pure Vessel small focus ring - out of bounds impact0006_2
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 419
+        width: 145
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4e7c19fe21147400800000000000000
+      internalID: 320900366895709772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pure Vessel small focus ring - out of bounds impact0006_3
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 350
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c433ee26000a5a5c0800000000000000
+      internalID: -4204778753560267956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pure Vessel small focus ring - out of bounds impact0006_4
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 353
+        width: 36
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2792d0c3f9255a770800000000000000
+      internalID: 8621387905531455858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pure Vessel small focus ring - out of bounds impact0006_5
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 303
+        width: 310
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da6aaf37dc52108c0800000000000000
+      internalID: -4034902226802923859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pure Vessel small focus ring - out of bounds impact0006_6
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 334
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12464792c1b34bc30800000000000000
+      internalID: 4374186130224210977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pure Vessel small focus ring - out of bounds impact0006_7
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 301
+        width: 324
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d951ef25cdda66a00800000000000000
+      internalID: 749477549800560029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pure Vessel small focus ring - out of bounds impact0006_8
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 0
+        width: 279
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 416dcb17c58de1b80800000000000000
+      internalID: -8422056361579457004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pure Vessel small focus ring - out of bounds impact0006_9
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 189
+        width: 45
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b5eb36c3aac09940800000000000000
+      internalID: 5300959566169367991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pure Vessel small focus ring - out of bounds impact0006_10
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 0
+        width: 234
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d87cade5957f5cb0800000000000000
+      internalID: -4873046984993507116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Pure Vessel small focus ring - out of bounds impact0006_0: -3605287420348391332
+      Pure Vessel small focus ring - out of bounds impact0006_1: -3657863967643912193
+      Pure Vessel small focus ring - out of bounds impact0006_10: -4873046984993507116
+      Pure Vessel small focus ring - out of bounds impact0006_2: 320900366895709772
+      Pure Vessel small focus ring - out of bounds impact0006_3: -4204778753560267956
+      Pure Vessel small focus ring - out of bounds impact0006_4: 8621387905531455858
+      Pure Vessel small focus ring - out of bounds impact0006_5: -4034902226802923859
+      Pure Vessel small focus ring - out of bounds impact0006_6: 4374186130224210977
+      Pure Vessel small focus ring - out of bounds impact0006_7: 749477549800560029
+      Pure Vessel small focus ring - out of bounds impact0006_8: -8422056361579457004
+      Pure Vessel small focus ring - out of bounds impact0006_9: 5300959566169367991
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

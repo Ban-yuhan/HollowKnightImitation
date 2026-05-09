@@ -100,7 +100,6 @@ public class PlayerMovement : MonoBehaviour
     [SerializeField]
     private AudioClip jumpClip;
 
-
     private void Start()
     {
 
@@ -130,31 +129,37 @@ public class PlayerMovement : MonoBehaviour
 
         if (FootPoint != null)
         {
-            RaycastHit2D hit = Physics2D.Raycast((Vector2)FootPoint.position, Vector2.down, 0.3f, groundMask);
+            //RaycastHit2D hit = Physics2D.Raycast((Vector2)FootPoint.position, Vector2.down, 0.3f, groundMask);
 
-            if (hit.collider != null && rb.linearVelocity.y <= 0)
+            RaycastHit2D hit = Physics2D.BoxCast(FootPoint.position, new Vector2(0.2f, 0.1f), 0f, Vector2.down, 0.2f, groundMask);
+
+            if (hit.collider != null && rb.linearVelocity.y <= 0.001)
             {
                 isGrounded = true;
                 RemainJumpTimes = MaxJumpTimes;
                 rb.gravityScale = 1f;
                 isGravityReset = false;
+                lastGrounded = isGrounded;
             }
             else
             {
                 isGrounded = false;
             }
 
-            if(lastGrounded && !isGrounded)
+            if (isGrounded && !lastGrounded)
             {
-                if(RemainJumpTimes == MaxJumpTimes)
+                isWallJumping = false;
+            }
+
+            if ( !isGrounded && lastGrounded && rb.linearVelocity.y < 0)
+            {
+                if (RemainJumpTimes == MaxJumpTimes)
                 {
                     RemainJumpTimes = MaxJumpTimes - 1;
                 }
+
+                lastGrounded = isGrounded;
             }
-
-            Debug.DrawRay(FootPoint.position, Vector2.down * 0.3f, Color.yellow);
-
-            lastGrounded = isGrounded;
         }
 
         if (skill.isFallAttacking)

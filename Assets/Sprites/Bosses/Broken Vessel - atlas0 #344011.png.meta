@@ -1,0 +1,6058 @@
+fileFormatVersion: 2
+guid: 1f2fcf527757e77488f52b41ed4c43e7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5943978544175813502
+    second: Broken Vessel - atlas0 #344011_0
+  - first:
+      213: -8043746952286158629
+    second: Broken Vessel - atlas0 #344011_1
+  - first:
+      213: 5217311290550505464
+    second: Broken Vessel - atlas0 #344011_2
+  - first:
+      213: -4510395307580026747
+    second: Broken Vessel - atlas0 #344011_3
+  - first:
+      213: -5233995548116847154
+    second: Broken Vessel - atlas0 #344011_4
+  - first:
+      213: -4433920501593951933
+    second: Broken Vessel - atlas0 #344011_5
+  - first:
+      213: -4996214968193594312
+    second: Broken Vessel - atlas0 #344011_6
+  - first:
+      213: 4659324473016000808
+    second: Broken Vessel - atlas0 #344011_7
+  - first:
+      213: -9022796481681848020
+    second: Broken Vessel - atlas0 #344011_8
+  - first:
+      213: 7012932761985290119
+    second: Broken Vessel - atlas0 #344011_9
+  - first:
+      213: -4695396304958339100
+    second: Broken Vessel - atlas0 #344011_10
+  - first:
+      213: -7686428565810412194
+    second: Broken Vessel - atlas0 #344011_11
+  - first:
+      213: -6795718081365136634
+    second: Broken Vessel - atlas0 #344011_12
+  - first:
+      213: -79108793268133216
+    second: Broken Vessel - atlas0 #344011_13
+  - first:
+      213: -3046703072265497624
+    second: Broken Vessel - atlas0 #344011_14
+  - first:
+      213: -7671718694127603440
+    second: Broken Vessel - atlas0 #344011_15
+  - first:
+      213: 3549285114835783193
+    second: Broken Vessel - atlas0 #344011_16
+  - first:
+      213: -9160521398394638086
+    second: Broken Vessel - atlas0 #344011_17
+  - first:
+      213: -2998843673394307840
+    second: Broken Vessel - atlas0 #344011_18
+  - first:
+      213: 66157663076386660
+    second: Broken Vessel - atlas0 #344011_19
+  - first:
+      213: -9217026717442777772
+    second: Broken Vessel - atlas0 #344011_20
+  - first:
+      213: 7543714329588369923
+    second: Broken Vessel - atlas0 #344011_21
+  - first:
+      213: 19339240921076567
+    second: Broken Vessel - atlas0 #344011_22
+  - first:
+      213: 2532997370527095691
+    second: Broken Vessel - atlas0 #344011_23
+  - first:
+      213: -6121888462312828414
+    second: Broken Vessel - atlas0 #344011_24
+  - first:
+      213: -640844311358057598
+    second: Broken Vessel - atlas0 #344011_25
+  - first:
+      213: -6327904483197702511
+    second: Broken Vessel - atlas0 #344011_26
+  - first:
+      213: -7037345380156567025
+    second: Broken Vessel - atlas0 #344011_27
+  - first:
+      213: 3342273416042052191
+    second: Broken Vessel - atlas0 #344011_28
+  - first:
+      213: -1181375772107709860
+    second: Broken Vessel - atlas0 #344011_29
+  - first:
+      213: -6982866149458909258
+    second: Broken Vessel - atlas0 #344011_30
+  - first:
+      213: -6446322360365804395
+    second: Broken Vessel - atlas0 #344011_31
+  - first:
+      213: 5134971386496972853
+    second: Broken Vessel - atlas0 #344011_32
+  - first:
+      213: 7762108985513083061
+    second: Broken Vessel - atlas0 #344011_33
+  - first:
+      213: -7262015629835109026
+    second: Broken Vessel - atlas0 #344011_34
+  - first:
+      213: 7780950439288043156
+    second: Broken Vessel - atlas0 #344011_35
+  - first:
+      213: 4840358660094501678
+    second: Broken Vessel - atlas0 #344011_36
+  - first:
+      213: -7056519281258810722
+    second: Broken Vessel - atlas0 #344011_37
+  - first:
+      213: -5154806175395757859
+    second: Broken Vessel - atlas0 #344011_38
+  - first:
+      213: -2174932928022206984
+    second: Broken Vessel - atlas0 #344011_39
+  - first:
+      213: 5356478402138177053
+    second: Broken Vessel - atlas0 #344011_40
+  - first:
+      213: 7986528113913620386
+    second: Broken Vessel - atlas0 #344011_41
+  - first:
+      213: 1868467783218148491
+    second: Broken Vessel - atlas0 #344011_42
+  - first:
+      213: -7439088397891439480
+    second: Broken Vessel - atlas0 #344011_43
+  - first:
+      213: -6181588273948985644
+    second: Broken Vessel - atlas0 #344011_44
+  - first:
+      213: 2694781670729676078
+    second: Broken Vessel - atlas0 #344011_45
+  - first:
+      213: 387547963090526958
+    second: Broken Vessel - atlas0 #344011_46
+  - first:
+      213: 8284872463595919835
+    second: Broken Vessel - atlas0 #344011_47
+  - first:
+      213: 3053265939340226572
+    second: Broken Vessel - atlas0 #344011_48
+  - first:
+      213: -8602287197567949356
+    second: Broken Vessel - atlas0 #344011_49
+  - first:
+      213: -2496154449475086660
+    second: Broken Vessel - atlas0 #344011_50
+  - first:
+      213: -8731451191959540980
+    second: Broken Vessel - atlas0 #344011_51
+  - first:
+      213: 5875124874277364410
+    second: Broken Vessel - atlas0 #344011_52
+  - first:
+      213: -3712497013485537208
+    second: Broken Vessel - atlas0 #344011_53
+  - first:
+      213: 1583302826327850641
+    second: Broken Vessel - atlas0 #344011_54
+  - first:
+      213: -5413070159093450796
+    second: Broken Vessel - atlas0 #344011_55
+  - first:
+      213: -6414355759968682640
+    second: Broken Vessel - atlas0 #344011_56
+  - first:
+      213: -8936678502686387655
+    second: Broken Vessel - atlas0 #344011_57
+  - first:
+      213: 6453695026613913707
+    second: Broken Vessel - atlas0 #344011_58
+  - first:
+      213: 6658481599721644608
+    second: Broken Vessel - atlas0 #344011_59
+  - first:
+      213: 182963478702500107
+    second: Broken Vessel - atlas0 #344011_60
+  - first:
+      213: -9099918647625342002
+    second: Broken Vessel - atlas0 #344011_61
+  - first:
+      213: -422127933544096983
+    second: Broken Vessel - atlas0 #344011_62
+  - first:
+      213: 6790466796225198269
+    second: Broken Vessel - atlas0 #344011_63
+  - first:
+      213: -3451927684866868119
+    second: Broken Vessel - atlas0 #344011_64
+  - first:
+      213: -1712381415594831120
+    second: Broken Vessel - atlas0 #344011_65
+  - first:
+      213: 273394239161841653
+    second: Broken Vessel - atlas0 #344011_66
+  - first:
+      213: 5699709299031653311
+    second: Broken Vessel - atlas0 #344011_67
+  - first:
+      213: -1878516553129392169
+    second: Broken Vessel - atlas0 #344011_68
+  - first:
+      213: 3745761968977328456
+    second: Broken Vessel - atlas0 #344011_69
+  - first:
+      213: -8757283138226820940
+    second: Broken Vessel - atlas0 #344011_70
+  - first:
+      213: -5163403473328077255
+    second: Broken Vessel - atlas0 #344011_71
+  - first:
+      213: -3880822005177031326
+    second: Broken Vessel - atlas0 #344011_72
+  - first:
+      213: -4529493565005956673
+    second: Broken Vessel - atlas0 #344011_73
+  - first:
+      213: 6607528712241959893
+    second: Broken Vessel - atlas0 #344011_74
+  - first:
+      213: 5635995602040502051
+    second: Broken Vessel - atlas0 #344011_75
+  - first:
+      213: 4310187586106424816
+    second: Broken Vessel - atlas0 #344011_76
+  - first:
+      213: 6788679207836921001
+    second: Broken Vessel - atlas0 #344011_77
+  - first:
+      213: 7585993689675642048
+    second: Broken Vessel - atlas0 #344011_78
+  - first:
+      213: 7899334429971108851
+    second: Broken Vessel - atlas0 #344011_79
+  - first:
+      213: 6263144879910165331
+    second: Broken Vessel - atlas0 #344011_80
+  - first:
+      213: -143013115932436865
+    second: Broken Vessel - atlas0 #344011_81
+  - first:
+      213: 2397401908738149360
+    second: Broken Vessel - atlas0 #344011_82
+  - first:
+      213: 1731268021530461847
+    second: Broken Vessel - atlas0 #344011_83
+  - first:
+      213: -5551239082569072288
+    second: Broken Vessel - atlas0 #344011_84
+  - first:
+      213: 1317785159484106644
+    second: Broken Vessel - atlas0 #344011_85
+  - first:
+      213: -3688375950565261226
+    second: Broken Vessel - atlas0 #344011_86
+  - first:
+      213: 2070681242999531214
+    second: Broken Vessel - atlas0 #344011_87
+  - first:
+      213: 6955610367960546813
+    second: Broken Vessel - atlas0 #344011_88
+  - first:
+      213: 1395946725633599194
+    second: Broken Vessel - atlas0 #344011_89
+  - first:
+      213: 1956294225180163623
+    second: Broken Vessel - atlas0 #344011_90
+  - first:
+      213: 3948547303080905977
+    second: Broken Vessel - atlas0 #344011_91
+  - first:
+      213: 3389373621756479079
+    second: Broken Vessel - atlas0 #344011_92
+  - first:
+      213: -8033767477321667551
+    second: Broken Vessel - atlas0 #344011_93
+  - first:
+      213: 9048867229016164055
+    second: Broken Vessel - atlas0 #344011_94
+  - first:
+      213: -8552992675642089479
+    second: Broken Vessel - atlas0 #344011_95
+  - first:
+      213: 4381339534251647133
+    second: Broken Vessel - atlas0 #344011_96
+  - first:
+      213: -3722347315987050029
+    second: Broken Vessel - atlas0 #344011_97
+  - first:
+      213: 201476019664220689
+    second: Broken Vessel - atlas0 #344011_98
+  - first:
+      213: 6659764894150778709
+    second: Broken Vessel - atlas0 #344011_99
+  - first:
+      213: -2695774038360731395
+    second: Broken Vessel - atlas0 #344011_100
+  - first:
+      213: 7762439809778786390
+    second: Broken Vessel - atlas0 #344011_101
+  - first:
+      213: -5726764765023030523
+    second: Broken Vessel - atlas0 #344011_102
+  - first:
+      213: 8066262850699664425
+    second: Broken Vessel - atlas0 #344011_103
+  - first:
+      213: 7058157875881803933
+    second: Broken Vessel - atlas0 #344011_104
+  - first:
+      213: -3209696331687668511
+    second: Broken Vessel - atlas0 #344011_105
+  - first:
+      213: -8414115010086471793
+    second: Broken Vessel - atlas0 #344011_106
+  - first:
+      213: -7016668668017180998
+    second: Broken Vessel - atlas0 #344011_107
+  - first:
+      213: 7669064075224119808
+    second: Broken Vessel - atlas0 #344011_108
+  - first:
+      213: -515569975100250155
+    second: Broken Vessel - atlas0 #344011_109
+  - first:
+      213: 8618671766368166314
+    second: Broken Vessel - atlas0 #344011_110
+  - first:
+      213: 8273079408162640311
+    second: Broken Vessel - atlas0 #344011_111
+  - first:
+      213: 5208266801964837372
+    second: Broken Vessel - atlas0 #344011_112
+  - first:
+      213: -3281822229715550582
+    second: Broken Vessel - atlas0 #344011_113
+  - first:
+      213: 2978563526837082731
+    second: Broken Vessel - atlas0 #344011_114
+  - first:
+      213: 6909753120672761341
+    second: Broken Vessel - atlas0 #344011_115
+  - first:
+      213: -1036603161922976531
+    second: Broken Vessel - atlas0 #344011_116
+  - first:
+      213: -1406762649878745580
+    second: Broken Vessel - atlas0 #344011_117
+  - first:
+      213: -3347414913601952323
+    second: Broken Vessel - atlas0 #344011_118
+  - first:
+      213: 4439385172350108292
+    second: Broken Vessel - atlas0 #344011_119
+  - first:
+      213: 6227176149305045843
+    second: Broken Vessel - atlas0 #344011_120
+  - first:
+      213: -4941424351035202418
+    second: Broken Vessel - atlas0 #344011_121
+  - first:
+      213: 4445725956689272795
+    second: Broken Vessel - atlas0 #344011_122
+  - first:
+      213: 8584001547888996505
+    second: Broken Vessel - atlas0 #344011_123
+  - first:
+      213: 8324460556871635367
+    second: Broken Vessel - atlas0 #344011_124
+  - first:
+      213: 6802413130243339865
+    second: Broken Vessel - atlas0 #344011_125
+  - first:
+      213: -6502131445093465561
+    second: Broken Vessel - atlas0 #344011_126
+  - first:
+      213: -7668395533468741802
+    second: Broken Vessel - atlas0 #344011_127
+  - first:
+      213: 1848933594808805399
+    second: Broken Vessel - atlas0 #344011_128
+  - first:
+      213: -7371264776096349429
+    second: Broken Vessel - atlas0 #344011_129
+  - first:
+      213: 3157162992489129172
+    second: Broken Vessel - atlas0 #344011_130
+  - first:
+      213: -5887453397021253183
+    second: Broken Vessel - atlas0 #344011_131
+  - first:
+      213: -418970202144801304
+    second: Broken Vessel - atlas0 #344011_132
+  - first:
+      213: 6672055948421220687
+    second: Broken Vessel - atlas0 #344011_133
+  - first:
+      213: -8703257691319008709
+    second: Broken Vessel - atlas0 #344011_134
+  - first:
+      213: -2908907756780385732
+    second: Broken Vessel - atlas0 #344011_135
+  - first:
+      213: -7215310321141761649
+    second: Broken Vessel - atlas0 #344011_136
+  - first:
+      213: 2766776326885400928
+    second: Broken Vessel - atlas0 #344011_137
+  - first:
+      213: 569004971692721482
+    second: Broken Vessel - atlas0 #344011_138
+  - first:
+      213: 6462403204816778465
+    second: Broken Vessel - atlas0 #344011_139
+  - first:
+      213: 7755725693703731233
+    second: Broken Vessel - atlas0 #344011_140
+  - first:
+      213: -6507271078434086523
+    second: Broken Vessel - atlas0 #344011_141
+  - first:
+      213: 7734762917727880070
+    second: Broken Vessel - atlas0 #344011_142
+  - first:
+      213: -2806063773009602256
+    second: Broken Vessel - atlas0 #344011_143
+  - first:
+      213: -3109753187506223652
+    second: Broken Vessel - atlas0 #344011_144
+  - first:
+      213: -1921442150832907118
+    second: Broken Vessel - atlas0 #344011_145
+  - first:
+      213: 873036456002091992
+    second: Broken Vessel - atlas0 #344011_146
+  - first:
+      213: 4430405581270459078
+    second: Broken Vessel - atlas0 #344011_147
+  - first:
+      213: 7538649855092809532
+    second: Broken Vessel - atlas0 #344011_148
+  - first:
+      213: -8932856812273812024
+    second: Broken Vessel - atlas0 #344011_149
+  - first:
+      213: -6152151817245295387
+    second: Broken Vessel - atlas0 #344011_150
+  - first:
+      213: 7973026319352720378
+    second: Broken Vessel - atlas0 #344011_151
+  - first:
+      213: -2247970497323078149
+    second: Broken Vessel - atlas0 #344011_152
+  - first:
+      213: 1797791185814173877
+    second: Broken Vessel - atlas0 #344011_153
+  - first:
+      213: 7557171971594810603
+    second: Broken Vessel - atlas0 #344011_154
+  - first:
+      213: -8636351017829515594
+    second: Broken Vessel - atlas0 #344011_155
+  - first:
+      213: -2278254249382148431
+    second: Broken Vessel - atlas0 #344011_156
+  - first:
+      213: 1437932139689020624
+    second: Broken Vessel - atlas0 #344011_157
+  - first:
+      213: -6428154841820628925
+    second: Broken Vessel - atlas0 #344011_158
+  - first:
+      213: 3513224823491681005
+    second: Broken Vessel - atlas0 #344011_159
+  - first:
+      213: 1390767243370282705
+    second: Broken Vessel - atlas0 #344011_160
+  - first:
+      213: -6503509181830845066
+    second: Broken Vessel - atlas0 #344011_161
+  - first:
+      213: -985833701116783347
+    second: Broken Vessel - atlas0 #344011_162
+  - first:
+      213: -4570724875159858872
+    second: Broken Vessel - atlas0 #344011_163
+  - first:
+      213: 7741099442246119615
+    second: Broken Vessel - atlas0 #344011_164
+  - first:
+      213: 6011113892194121400
+    second: Broken Vessel - atlas0 #344011_165
+  - first:
+      213: 7843514305408593149
+    second: Broken Vessel - atlas0 #344011_166
+  - first:
+      213: -8745503642635270082
+    second: Broken Vessel - atlas0 #344011_167
+  - first:
+      213: 2670122225059984574
+    second: Broken Vessel - atlas0 #344011_168
+  - first:
+      213: 8902393152539983182
+    second: Broken Vessel - atlas0 #344011_169
+  - first:
+      213: -3360940473012681920
+    second: Broken Vessel - atlas0 #344011_170
+  - first:
+      213: 362592514343922143
+    second: Broken Vessel - atlas0 #344011_171
+  - first:
+      213: 775840952851665405
+    second: Broken Vessel - atlas0 #344011_172
+  - first:
+      213: 2218474026042464677
+    second: Broken Vessel - atlas0 #344011_173
+  - first:
+      213: -5495785367927368041
+    second: Broken Vessel - atlas0 #344011_174
+  - first:
+      213: -6846338563856133737
+    second: Broken Vessel - atlas0 #344011_175
+  - first:
+      213: -3102938648799824567
+    second: Broken Vessel - atlas0 #344011_176
+  - first:
+      213: -1242049876747006589
+    second: Broken Vessel - atlas0 #344011_177
+  - first:
+      213: -5154039416935448670
+    second: Broken Vessel - atlas0 #344011_178
+  - first:
+      213: 6364882282189731275
+    second: Broken Vessel - atlas0 #344011_179
+  - first:
+      213: 7891174621093484867
+    second: Broken Vessel - atlas0 #344011_180
+  - first:
+      213: -3669857134345769677
+    second: Broken Vessel - atlas0 #344011_181
+  - first:
+      213: -6281023614948564529
+    second: Broken Vessel - atlas0 #344011_182
+  - first:
+      213: 8914115168330572390
+    second: Broken Vessel - atlas0 #344011_183
+  - first:
+      213: 3153266050159834582
+    second: Broken Vessel - atlas0 #344011_184
+  - first:
+      213: -1367176892692414118
+    second: Broken Vessel - atlas0 #344011_185
+  - first:
+      213: 3936420935726706068
+    second: Broken Vessel - atlas0 #344011_186
+  - first:
+      213: 7856809258279435597
+    second: Broken Vessel - atlas0 #344011_187
+  - first:
+      213: -7510080485617585660
+    second: Broken Vessel - atlas0 #344011_188
+  - first:
+      213: -7239241630710701536
+    second: Broken Vessel - atlas0 #344011_189
+  - first:
+      213: -1524922800864337868
+    second: Broken Vessel - atlas0 #344011_190
+  - first:
+      213: 4172071955862889413
+    second: Broken Vessel - atlas0 #344011_191
+  - first:
+      213: -5356475908517497892
+    second: Broken Vessel - atlas0 #344011_192
+  - first:
+      213: -1701281717356231912
+    second: Broken Vessel - atlas0 #344011_193
+  - first:
+      213: 127189098444723713
+    second: Broken Vessel - atlas0 #344011_194
+  - first:
+      213: 3559295253881221283
+    second: Broken Vessel - atlas0 #344011_195
+  - first:
+      213: -5081539681338621790
+    second: Broken Vessel - atlas0 #344011_196
+  - first:
+      213: 8158921981489424025
+    second: Broken Vessel - atlas0 #344011_197
+  - first:
+      213: 2626588526069945944
+    second: Broken Vessel - atlas0 #344011_198
+  - first:
+      213: 7335355298744966804
+    second: Broken Vessel - atlas0 #344011_199
+  - first:
+      213: 8571684035254661542
+    second: Broken Vessel - atlas0 #344011_200
+  - first:
+      213: -2027747873751610646
+    second: Broken Vessel - atlas0 #344011_201
+  - first:
+      213: -4130186190087454886
+    second: Broken Vessel - atlas0 #344011_202
+  - first:
+      213: 567294287297477256
+    second: Broken Vessel - atlas0 #344011_203
+  - first:
+      213: 8284504763823099369
+    second: Broken Vessel - atlas0 #344011_204
+  - first:
+      213: -3135377765018100320
+    second: Broken Vessel - atlas0 #344011_205
+  - first:
+      213: 590754992826189250
+    second: Broken Vessel - atlas0 #344011_206
+  - first:
+      213: -134726983288915792
+    second: Broken Vessel - atlas0 #344011_207
+  - first:
+      213: 1397770169724543421
+    second: Broken Vessel - atlas0 #344011_208
+  - first:
+      213: 1237499365218935409
+    second: Broken Vessel - atlas0 #344011_209
+  - first:
+      213: 7546954740558223215
+    second: Broken Vessel - atlas0 #344011_210
+  - first:
+      213: 6565396839562450974
+    second: Broken Vessel - atlas0 #344011_211
+  - first:
+      213: -5654302136413717395
+    second: Broken Vessel - atlas0 #344011_212
+  - first:
+      213: -875280735064337157
+    second: Broken Vessel - atlas0 #344011_213
+  - first:
+      213: -4556189422764079685
+    second: Broken Vessel - atlas0 #344011_214
+  - first:
+      213: 7213541702200228998
+    second: Broken Vessel - atlas0 #344011_215
+  - first:
+      213: 7639382848322545729
+    second: Broken Vessel - atlas0 #344011_216
+  - first:
+      213: 2001673170080179139
+    second: Broken Vessel - atlas0 #344011_217
+  - first:
+      213: 1915240207620135074
+    second: Broken Vessel - atlas0 #344011_218
+  - first:
+      213: 998343638215407747
+    second: Broken Vessel - atlas0 #344011_219
+  - first:
+      213: -2367952076811826993
+    second: Broken Vessel - atlas0 #344011_220
+  - first:
+      213: 8946657352015687744
+    second: Broken Vessel - atlas0 #344011_221
+  - first:
+      213: -6447994927002602848
+    second: Broken Vessel - atlas0 #344011_222
+  - first:
+      213: 5203731273826020628
+    second: Broken Vessel - atlas0 #344011_223
+  - first:
+      213: -403917683578387023
+    second: Broken Vessel - atlas0 #344011_224
+  - first:
+      213: -5610177033059948266
+    second: Broken Vessel - atlas0 #344011_225
+  - first:
+      213: -2573732953810324880
+    second: Broken Vessel - atlas0 #344011_226
+  - first:
+      213: -1847590865032353852
+    second: Broken Vessel - atlas0 #344011_227
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Broken Vessel - atlas0 #344011_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3520
+        width: 127
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28c6bd1b10fb28da0800000000000000
+      internalID: -5943978544175813502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broken Vessel - atlas0 #344011_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3314
+        width: 139
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd04ad5b3cede5090800000000000000
+      internalID: -8043746952286158629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broken Vessel - atlas0 #344011_2
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 3423
+        width: 194
+        height: 292
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ffc5ebe9fc976840800000000000000
+      internalID: 5217311290550505464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broken Vessel - atlas0 #344011_3
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 3456
+        width: 139
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5809a176d5bd761c0800000000000000
+      internalID: -4510395307580026747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broken Vessel - atlas0 #344011_4
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 3403
+        width: 139
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec5f486a7cc1d57b0800000000000000
+      internalID: -5233995548116847154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broken Vessel - atlas0 #344011_5
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 3451
+        width: 182
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 341bb24bbcc8772c0800000000000000
+      internalID: -4433920501593951933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broken Vessel - atlas0 #344011_6
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 3390
+        width: 184
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83cc45f15f0e9aab0800000000000000
+      internalID: -4996214968193594312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broken Vessel - atlas0 #344011_7
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 3401
+        width: 184
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 821276b0cee39a040800000000000000
+      internalID: 4659324473016000808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broken Vessel - atlas0 #344011_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3469
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2985bc976698c280800000000000000
+      internalID: -9022796481681848020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broken Vessel - atlas0 #344011_9
+      rect:
+        serializedVersion: 2
+        x: 1569
+        y: 3315
+        width: 120
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78f05dfd031f25160800000000000000
+      internalID: 7012932761985290119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broken Vessel - atlas0 #344011_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3122
+        width: 153
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e7c64b10f996deb0800000000000000
+      internalID: -4695396304958339100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broken Vessel - atlas0 #344011_11
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 3100
+        width: 202
+        height: 325
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e55847f91f1545590800000000000000
+      internalID: -7686428565810412194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broken Vessel - atlas0 #344011_12
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 3250
+        width: 145
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60b28860962c0b1a0800000000000000
+      internalID: -6795718081365136634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broken Vessel - atlas0 #344011_13
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 3178
+        width: 133
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a2a4aeb8f2f6eef0800000000000000
+      internalID: -79108793268133216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broken Vessel - atlas0 #344011_14
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 3314
+        width: 184
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e31689a2bfe7b5d0800000000000000
+      internalID: -3046703072265497624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broken Vessel - atlas0 #344011_15
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 3162
+        width: 199
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 011fcc38e74988590800000000000000
+      internalID: -7671718694127603440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broken Vessel - atlas0 #344011_16
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 3249
+        width: 182
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91e4e5cc108914130800000000000000
+      internalID: 3549285114835783193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broken Vessel - atlas0 #344011_17
+      rect:
+        serializedVersion: 2
+        x: 991
+        y: 2680
+        width: 465
+        height: 723
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af0b25b925a4fd080800000000000000
+      internalID: -9160521398394638086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broken Vessel - atlas0 #344011_18
+      rect:
+        serializedVersion: 2
+        x: 1285
+        y: 3270
+        width: 119
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00d976e4197f166d0800000000000000
+      internalID: -2998843673394307840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broken Vessel - atlas0 #344011_19
+      rect:
+        serializedVersion: 2
+        x: 1436
+        y: 3202
+        width: 135
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46786d64b0a0be000800000000000000
+      internalID: 66157663076386660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broken Vessel - atlas0 #344011_20
+      rect:
+        serializedVersion: 2
+        x: 1588
+        y: 3141
+        width: 317
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45dd98dc80b861080800000000000000
+      internalID: -9217026717442777772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broken Vessel - atlas0 #344011_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3264
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30a8326e638a0b860800000000000000
+      internalID: 7543714329588369923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broken Vessel - atlas0 #344011_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2874
+        width: 153
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7539359efe4b44000800000000000000
+      internalID: 19339240921076567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broken Vessel - atlas0 #344011_23
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 2945
+        width: 224
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8b144720b3072320800000000000000
+      internalID: 2532997370527095691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broken Vessel - atlas0 #344011_24
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 3049
+        width: 160
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2021841f0eeaa0ba0800000000000000
+      internalID: -6121888462312828414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broken Vessel - atlas0 #344011_25
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 3004
+        width: 187
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2835c218e734b17f0800000000000000
+      internalID: -640844311358057598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broken Vessel - atlas0 #344011_26
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 2785
+        width: 248
+        height: 379
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19e26623664ce28a0800000000000000
+      internalID: -6327904483197702511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broken Vessel - atlas0 #344011_27
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 3083
+        width: 184
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f02180689a3565e90800000000000000
+      internalID: -7037345380156567025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broken Vessel - atlas0 #344011_28
+      rect:
+        serializedVersion: 2
+        x: 1454
+        y: 3007
+        width: 136
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5afa69b6f3226e20800000000000000
+      internalID: 3342273416042052191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broken Vessel - atlas0 #344011_29
+      rect:
+        serializedVersion: 2
+        x: 1601
+        y: 2969
+        width: 159
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5264459ef8ea9fe0800000000000000
+      internalID: -1181375772107709860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broken Vessel - atlas0 #344011_30
+      rect:
+        serializedVersion: 2
+        x: 1758
+        y: 3079
+        width: 176
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b7e66fdb30e71f90800000000000000
+      internalID: -6982866149458909258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broken Vessel - atlas0 #344011_31
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 2825
+        width: 156
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5941db2a7ff0a86a0800000000000000
+      internalID: -6446322360365804395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broken Vessel - atlas0 #344011_32
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 2838
+        width: 204
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53872ff0545134740800000000000000
+      internalID: 5134971386496972853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broken Vessel - atlas0 #344011_33
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 2876
+        width: 162
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b000653ffc88bb60800000000000000
+      internalID: 7762108985513083061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broken Vessel - atlas0 #344011_34
+      rect:
+        serializedVersion: 2
+        x: 1462
+        y: 2797
+        width: 141
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5df75ea243283b90800000000000000
+      internalID: -7262015629835109026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broken Vessel - atlas0 #344011_35
+      rect:
+        serializedVersion: 2
+        x: 1523
+        y: 3001
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 496fea4033d7bfb60800000000000000
+      internalID: 7780950439288043156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broken Vessel - atlas0 #344011_36
+      rect:
+        serializedVersion: 2
+        x: 1759
+        y: 2940
+        width: 201
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e232b685e886c2340800000000000000
+      internalID: 4840358660094501678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broken Vessel - atlas0 #344011_37
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 2786
+        width: 225
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e92bfd9c915321e90800000000000000
+      internalID: -7056519281258810722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broken Vessel - atlas0 #344011_38
+      rect:
+        serializedVersion: 2
+        x: 1455
+        y: 2925
+        width: 6
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd0cb8548137678b0800000000000000
+      internalID: -5154806175395757859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broken Vessel - atlas0 #344011_39
+      rect:
+        serializedVersion: 2
+        x: 1606
+        y: 2763
+        width: 155
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f5afe6760611d1e0800000000000000
+      internalID: -2174932928022206984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broken Vessel - atlas0 #344011_40
+      rect:
+        serializedVersion: 2
+        x: 1759
+        y: 2804
+        width: 198
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1e7f761ab8065a40800000000000000
+      internalID: 5356478402138177053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broken Vessel - atlas0 #344011_41
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2660
+        width: 167
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a7ed725109d5de60800000000000000
+      internalID: 7986528113913620386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broken Vessel - atlas0 #344011_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2305
+        width: 406
+        height: 483
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b84bafc9c812ee910800000000000000
+      internalID: 1868467783218148491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broken Vessel - atlas0 #344011_43
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 2652
+        width: 207
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88473fe148c03c890800000000000000
+      internalID: -7439088397891439480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broken Vessel - atlas0 #344011_44
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 2681
+        width: 222
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d6fc8f5736963aa0800000000000000
+      internalID: -6181588273948985644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broken Vessel - atlas0 #344011_45
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 2467
+        width: 329
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e257317e6a9c56520800000000000000
+      internalID: 2694781670729676078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broken Vessel - atlas0 #344011_46
+      rect:
+        serializedVersion: 2
+        x: 1016
+        y: 2676
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee2ef61b1d8d06500800000000000000
+      internalID: 387547963090526958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broken Vessel - atlas0 #344011_47
+      rect:
+        serializedVersion: 2
+        x: 1168
+        y: 2634
+        width: 142
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd9dc0a4c97c9f270800000000000000
+      internalID: 8284872463595919835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broken Vessel - atlas0 #344011_48
+      rect:
+        serializedVersion: 2
+        x: 1308
+        y: 2666
+        width: 149
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c007c27e1316f5a20800000000000000
+      internalID: 3053265939340226572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broken Vessel - atlas0 #344011_49
+      rect:
+        serializedVersion: 2
+        x: 1455
+        y: 2584
+        width: 153
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d56215ee598e9880800000000000000
+      internalID: -8602287197567949356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broken Vessel - atlas0 #344011_50
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 2550
+        width: 156
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb6d68ed0c0eb5dd0800000000000000
+      internalID: -2496154449475086660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broken Vessel - atlas0 #344011_51
+      rect:
+        serializedVersion: 2
+        x: 1774
+        y: 2646
+        width: 202
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0b2791f667a3d680800000000000000
+      internalID: -8731451191959540980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broken Vessel - atlas0 #344011_52
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 2415
+        width: 176
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab22d5602f2a88150800000000000000
+      internalID: 5875124874277364410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broken Vessel - atlas0 #344011_53
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 2478
+        width: 199
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 848fe79c2af8a7cc0800000000000000
+      internalID: -3712497013485537208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broken Vessel - atlas0 #344011_54
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 2325
+        width: 313
+        height: 353
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19eb427288509f510800000000000000
+      internalID: 1583302826327850641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broken Vessel - atlas0 #344011_55
+      rect:
+        serializedVersion: 2
+        x: 1171
+        y: 2417
+        width: 135
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d7b7f6be59e0e4b0800000000000000
+      internalID: -5413070159093450796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broken Vessel - atlas0 #344011_56
+      rect:
+        serializedVersion: 2
+        x: 1309
+        y: 2590
+        width: 6
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07df518cb61abf6a0800000000000000
+      internalID: -6414355759968682640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broken Vessel - atlas0 #344011_57
+      rect:
+        serializedVersion: 2
+        x: 1316
+        y: 2453
+        width: 141
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9321287104a8af380800000000000000
+      internalID: -8936678502686387655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broken Vessel - atlas0 #344011_58
+      rect:
+        serializedVersion: 2
+        x: 1810
+        y: 2338
+        width: 220
+        height: 310
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b68070efe61209950800000000000000
+      internalID: 6453695026613913707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broken Vessel - atlas0 #344011_59
+      rect:
+        serializedVersion: 2
+        x: 1302
+        y: 2568
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04222ee9cbda76c50800000000000000
+      internalID: 6658481599721644608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broken Vessel - atlas0 #344011_60
+      rect:
+        serializedVersion: 2
+        x: 1458
+        y: 2381
+        width: 164
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b09aee280540a8200800000000000000
+      internalID: 182963478702500107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broken Vessel - atlas0 #344011_61
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 2228
+        width: 223
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec3a653143896b180800000000000000
+      internalID: -9099918647625342002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broken Vessel - atlas0 #344011_62
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 2305
+        width: 214
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92b955781ec442af0800000000000000
+      internalID: -422127933544096983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broken Vessel - atlas0 #344011_63
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 2272
+        width: 191
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db87610e2959c3e50800000000000000
+      internalID: 6790466796225198269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broken Vessel - atlas0 #344011_64
+      rect:
+        serializedVersion: 2
+        x: 1025
+        y: 2224
+        width: 148
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96c7c294f0a4810d0800000000000000
+      internalID: -3451927684866868119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broken Vessel - atlas0 #344011_65
+      rect:
+        serializedVersion: 2
+        x: 1171
+        y: 2183
+        width: 140
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f25d73dc266c38e0800000000000000
+      internalID: -1712381415594831120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broken Vessel - atlas0 #344011_66
+      rect:
+        serializedVersion: 2
+        x: 1309
+        y: 2232
+        width: 151
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f731ecac9a4bc300800000000000000
+      internalID: 273394239161841653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broken Vessel - atlas0 #344011_67
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 2396
+        width: 192
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbbb5cbb86f691f40800000000000000
+      internalID: 5699709299031653311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broken Vessel - atlas0 #344011_68
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2118
+        width: 233
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d70802d52b2ee5e0800000000000000
+      internalID: -1878516553129392169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broken Vessel - atlas0 #344011_69
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 2298
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 849bf063aae9bf330800000000000000
+      internalID: 3745761968977328456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broken Vessel - atlas0 #344011_70
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 2080
+        width: 194
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b8e8744261e77680800000000000000
+      internalID: -8757283138226820940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broken Vessel - atlas0 #344011_71
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 2040
+        width: 340
+        height: 287
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 936034cd5e7e758b0800000000000000
+      internalID: -5163403473328077255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broken Vessel - atlas0 #344011_72
+      rect:
+        serializedVersion: 2
+        x: 1461
+        y: 2159
+        width: 161
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26567e0a2fc842ac0800000000000000
+      internalID: -3880822005177031326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broken Vessel - atlas0 #344011_73
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 2194
+        width: 194
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb9f665d9910421c0800000000000000
+      internalID: -4529493565005956673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broken Vessel - atlas0 #344011_74
+      rect:
+        serializedVersion: 2
+        x: 1892
+        y: 2109
+        width: 155
+        height: 231
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d350680b58a2bb50800000000000000
+      internalID: 6607528712241959893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broken Vessel - atlas0 #344011_75
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1936
+        width: 247
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 327b947a324173e40800000000000000
+      internalID: 5635995602040502051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broken Vessel - atlas0 #344011_76
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 2035
+        width: 233
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fdfb21f5ccd0db30800000000000000
+      internalID: 4310187586106424816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broken Vessel - atlas0 #344011_77
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 1821
+        width: 221
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ac233585cb363e50800000000000000
+      internalID: 6788679207836921001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broken Vessel - atlas0 #344011_78
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 1844
+        width: 192
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c4b875811dd64960800000000000000
+      internalID: 7585993689675642048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broken Vessel - atlas0 #344011_79
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 1800
+        width: 161
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f3d074cfc210ad60800000000000000
+      internalID: 7899334429971108851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broken Vessel - atlas0 #344011_80
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 1870
+        width: 310
+        height: 356
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35b1adfa5192be650800000000000000
+      internalID: 6263144879910165331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broken Vessel - atlas0 #344011_81
+      rect:
+        serializedVersion: 2
+        x: 1173
+        y: 1958
+        width: 138
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7610aa245ae30ef0800000000000000
+      internalID: -143013115932436865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broken Vessel - atlas0 #344011_82
+      rect:
+        serializedVersion: 2
+        x: 1309
+        y: 1986
+        width: 154
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fb4e228558454120800000000000000
+      internalID: 2397401908738149360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broken Vessel - atlas0 #344011_83
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 1939
+        width: 172
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 796015ac713b60810800000000000000
+      internalID: 1731268021530461847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broken Vessel - atlas0 #344011_84
+      rect:
+        serializedVersion: 2
+        x: 1670
+        y: 2035
+        width: 224
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0618434577906f2b0800000000000000
+      internalID: -5551239082569072288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broken Vessel - atlas0 #344011_85
+      rect:
+        serializedVersion: 2
+        x: 1708
+        y: 1854
+        width: 190
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 497e451ee96b94210800000000000000
+      internalID: 1317785159484106644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broken Vessel - atlas0 #344011_86
+      rect:
+        serializedVersion: 2
+        x: 1896
+        y: 1873
+        width: 152
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 650c6746d9140dcc0800000000000000
+      internalID: -3688375950565261226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broken Vessel - atlas0 #344011_87
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1661
+        width: 280
+        height: 277
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec62d0c9e998cbc10800000000000000
+      internalID: 2070681242999531214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broken Vessel - atlas0 #344011_88
+      rect:
+        serializedVersion: 2
+        x: 1030
+        y: 1755
+        width: 145
+        height: 243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfdff4af6ca478060800000000000000
+      internalID: 6955610367960546813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broken Vessel - atlas0 #344011_89
+      rect:
+        serializedVersion: 2
+        x: 1178
+        y: 1733
+        width: 133
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad6a2c2a6266f5310800000000000000
+      internalID: 1395946725633599194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broken Vessel - atlas0 #344011_90
+      rect:
+        serializedVersion: 2
+        x: 1309
+        y: 1791
+        width: 193
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72ef200ab37262b10800000000000000
+      internalID: 1956294225180163623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broken Vessel - atlas0 #344011_91
+      rect:
+        serializedVersion: 2
+        x: 1506
+        y: 1721
+        width: 190
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fcc6f21ade0cc630800000000000000
+      internalID: 3948547303080905977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broken Vessel - atlas0 #344011_92
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 1897
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 766cfdfe959790f20800000000000000
+      internalID: 3389373621756479079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broken Vessel - atlas0 #344011_93
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 1613
+        width: 152
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12ce72a4b03528090800000000000000
+      internalID: -8033767477321667551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broken Vessel - atlas0 #344011_94
+      rect:
+        serializedVersion: 2
+        x: 1699
+        y: 1864
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d68e254dc8049d70800000000000000
+      internalID: 9048867229016164055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broken Vessel - atlas0 #344011_95
+      rect:
+        serializedVersion: 2
+        x: 1917
+        y: 1654
+        width: 122
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ffd5d92a7aad4980800000000000000
+      internalID: -8552992675642089479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broken Vessel - atlas0 #344011_96
+      rect:
+        serializedVersion: 2
+        x: 1708
+        y: 1650
+        width: 211
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d90e173d715adcc30800000000000000
+      internalID: 4381339534251647133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broken Vessel - atlas0 #344011_97
+      rect:
+        serializedVersion: 2
+        x: 1779
+        y: 1850
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d196f386d0975cc0800000000000000
+      internalID: -3722347315987050029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broken Vessel - atlas0 #344011_98
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 1610
+        width: 201
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11278d65f59cbc200800000000000000
+      internalID: 201476019664220689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broken Vessel - atlas0 #344011_99
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 1592
+        width: 209
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55f5973e2ec3c6c50800000000000000
+      internalID: 6659764894150778709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broken Vessel - atlas0 #344011_100
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 1548
+        width: 147
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df0d9c08bcfa69ad0800000000000000
+      internalID: -2695774038360731395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broken Vessel - atlas0 #344011_101
+      rect:
+        serializedVersion: 2
+        x: 1384
+        y: 1780
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 650273c31e9b9bb60800000000000000
+      internalID: 7762439809778786390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broken Vessel - atlas0 #344011_102
+      rect:
+        serializedVersion: 2
+        x: 1411
+        y: 1767
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5033494b9c17680b0800000000000000
+      internalID: -5726764765023030523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broken Vessel - atlas0 #344011_103
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1425
+        width: 117
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92c12e8635f11ff60800000000000000
+      internalID: 8066262850699664425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broken Vessel - atlas0 #344011_104
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 1473
+        width: 168
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d908f80413d93f160800000000000000
+      internalID: 7058157875881803933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broken Vessel - atlas0 #344011_105
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 1392
+        width: 220
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e4d1e8213ed473d0800000000000000
+      internalID: -3209696331687668511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broken Vessel - atlas0 #344011_106
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 1391
+        width: 213
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f87738c6afe0b3b80800000000000000
+      internalID: -8414115010086471793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broken Vessel - atlas0 #344011_107
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 1308
+        width: 283
+        height: 307
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abef838b509cf9e90800000000000000
+      internalID: -7016668668017180998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broken Vessel - atlas0 #344011_108
+      rect:
+        serializedVersion: 2
+        x: 1036
+        y: 1472
+        width: 144
+        height: 284
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00a717bd42dfd6a60800000000000000
+      internalID: 7669064075224119808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broken Vessel - atlas0 #344011_109
+      rect:
+        serializedVersion: 2
+        x: 1182
+        y: 1481
+        width: 131
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d7ea49d6d358d8f0800000000000000
+      internalID: -515569975100250155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broken Vessel - atlas0 #344011_110
+      rect:
+        serializedVersion: 2
+        x: 1311
+        y: 1563
+        width: 197
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa1201ece4cab9770800000000000000
+      internalID: 8618671766368166314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broken Vessel - atlas0 #344011_111
+      rect:
+        serializedVersion: 2
+        x: 1508
+        y: 1498
+        width: 202
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b1122a93e1efc270800000000000000
+      internalID: 8273079408162640311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broken Vessel - atlas0 #344011_112
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 1446
+        width: 231
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf9e292df0b774840800000000000000
+      internalID: 5208266801964837372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broken Vessel - atlas0 #344011_113
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 1537
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8ef2d5e110a472d0800000000000000
+      internalID: -3281822229715550582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broken Vessel - atlas0 #344011_114
+      rect:
+        serializedVersion: 2
+        x: 1322
+        y: 1290
+        width: 188
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6a1f0e1fbbf55920800000000000000
+      internalID: 2978563526837082731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broken Vessel - atlas0 #344011_115
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 1478
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df5c8539adf54ef50800000000000000
+      internalID: 6909753120672761341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broken Vessel - atlas0 #344011_116
+      rect:
+        serializedVersion: 2
+        x: 1182
+        y: 1245
+        width: 142
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de4c8889aee3d91f0800000000000000
+      internalID: -1036603161922976531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broken Vessel - atlas0 #344011_117
+      rect:
+        serializedVersion: 2
+        x: 1515
+        y: 1231
+        width: 215
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41ea0b2c2dc2a7ce0800000000000000
+      internalID: -1406762649878745580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broken Vessel - atlas0 #344011_118
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1182
+        width: 126
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db529e61fd79b81d0800000000000000
+      internalID: -3347414913601952323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broken Vessel - atlas0 #344011_119
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 1232
+        width: 157
+        height: 243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 482801b1b4ddb9d30800000000000000
+      internalID: 4439385172350108292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broken Vessel - atlas0 #344011_120
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 1368
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 353bc1df6bf5b6650800000000000000
+      internalID: 6227176149305045843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broken Vessel - atlas0 #344011_121
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 1175
+        width: 200
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e84e418cbb88c6bb0800000000000000
+      internalID: -4941424351035202418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broken Vessel - atlas0 #344011_122
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 1156
+        width: 225
+        height: 229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdf9231043462bd30800000000000000
+      internalID: 4445725956689272795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broken Vessel - atlas0 #344011_123
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 1234
+        width: 145
+        height: 231
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 990b3558def702770800000000000000
+      internalID: 8584001547888996505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broken Vessel - atlas0 #344011_124
+      rect:
+        serializedVersion: 2
+        x: 1735
+        y: 1207
+        width: 239
+        height: 229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a1951785cc668370800000000000000
+      internalID: 8324460556871635367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broken Vessel - atlas0 #344011_125
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 1017
+        width: 125
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9567b9383b6076e50800000000000000
+      internalID: 6802413130243339865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broken Vessel - atlas0 #344011_126
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 1061
+        width: 154
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7228e4486e9c3c5a0800000000000000
+      internalID: -6502131445093465561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broken Vessel - atlas0 #344011_127
+      rect:
+        serializedVersion: 2
+        x: 1322
+        y: 1074
+        width: 195
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65f476624e2649590800000000000000
+      internalID: -7668395533468741802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broken Vessel - atlas0 #344011_128
+      rect:
+        serializedVersion: 2
+        x: 1416
+        y: 1277
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7186dd3fe4bb8a910800000000000000
+      internalID: 1848933594808805399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broken Vessel - atlas0 #344011_129
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 1130
+        width: 38
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b038d63adb104b990800000000000000
+      internalID: -7371264776096349429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broken Vessel - atlas0 #344011_130
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 1170
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d4e259a30f70db20800000000000000
+      internalID: 3157162992489129172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broken Vessel - atlas0 #344011_131
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 956
+        width: 174
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c1a1e614509b4ea0800000000000000
+      internalID: -5887453397021253183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broken Vessel - atlas0 #344011_132
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 964
+        width: 205
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ed7fa922d48f2af0800000000000000
+      internalID: -418970202144801304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broken Vessel - atlas0 #344011_133
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 980
+        width: 143
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f49cd27f887e79c50800000000000000
+      internalID: 6672055948421220687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broken Vessel - atlas0 #344011_134
+      rect:
+        serializedVersion: 2
+        x: 1182
+        y: 902
+        width: 142
+        height: 345
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b328e38dd31d73780800000000000000
+      internalID: -8703257691319008709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broken Vessel - atlas0 #344011_135
+      rect:
+        serializedVersion: 2
+        x: 1527
+        y: 1044
+        width: 210
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3a0ab8aecb71a7d0800000000000000
+      internalID: -2908907756780385732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broken Vessel - atlas0 #344011_136
+      rect:
+        serializedVersion: 2
+        x: 1846
+        y: 919
+        width: 178
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f89b224cd711edb90800000000000000
+      internalID: -7215310321141761649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broken Vessel - atlas0 #344011_137
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 1069
+        width: 18
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 061e6f80960956620800000000000000
+      internalID: 2766776326885400928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broken Vessel - atlas0 #344011_138
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 952
+        width: 229
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a450d2dc10385e700800000000000000
+      internalID: 569004971692721482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broken Vessel - atlas0 #344011_139
+      rect:
+        serializedVersion: 2
+        x: 1518
+        y: 1128
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e4337ab9711fa950800000000000000
+      internalID: 6462403204816778465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broken Vessel - atlas0 #344011_140
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1071
+        width: 9
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 128b4944d6fd1ab60800000000000000
+      internalID: 7755725693703731233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broken Vessel - atlas0 #344011_141
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 1057
+        width: 86
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58163c06e6781b5a0800000000000000
+      internalID: -6507271078434086523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broken Vessel - atlas0 #344011_142
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 1100
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 683c805a4e5675b60800000000000000
+      internalID: 7734762917727880070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broken Vessel - atlas0 #344011_143
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 878
+        width: 52
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0399ba89ddbde09d0800000000000000
+      internalID: -2806063773009602256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broken Vessel - atlas0 #344011_144
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 612
+        width: 192
+        height: 342
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd58d8fb3ffe7d4d0800000000000000
+      internalID: -3109753187506223652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broken Vessel - atlas0 #344011_145
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 725
+        width: 215
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29c54274b8aa555e0800000000000000
+      internalID: -1921442150832907118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broken Vessel - atlas0 #344011_146
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 724
+        width: 251
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8db78fbf706ad1c00800000000000000
+      internalID: 873036456002091992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broken Vessel - atlas0 #344011_147
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 724
+        width: 128
+        height: 316
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c2a8822766fb7d30800000000000000
+      internalID: 4430405581270459078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broken Vessel - atlas0 #344011_148
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 710
+        width: 140
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3f5bda0a1aae9860800000000000000
+      internalID: 7538649855092809532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broken Vessel - atlas0 #344011_149
+      rect:
+        serializedVersion: 2
+        x: 1096
+        y: 671
+        width: 88
+        height: 311
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cdbdfabe0e180480800000000000000
+      internalID: -8932856812273812024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broken Vessel - atlas0 #344011_150
+      rect:
+        serializedVersion: 2
+        x: 1337
+        y: 761
+        width: 188
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ecf1d8848a2f9aa0800000000000000
+      internalID: -6152151817245295387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broken Vessel - atlas0 #344011_151
+      rect:
+        serializedVersion: 2
+        x: 1576
+        y: 778
+        width: 186
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afbebddc131e5ae60800000000000000
+      internalID: 7973026319352720378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broken Vessel - atlas0 #344011_152
+      rect:
+        serializedVersion: 2
+        x: 1760
+        y: 764
+        width: 88
+        height: 303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfdef713eba9dc0e0800000000000000
+      internalID: -2247970497323078149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broken Vessel - atlas0 #344011_153
+      rect:
+        serializedVersion: 2
+        x: 1858
+        y: 615
+        width: 130
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b838c2fe8903f810800000000000000
+      internalID: 1797791185814173877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broken Vessel - atlas0 #344011_154
+      rect:
+        serializedVersion: 2
+        x: 1919
+        y: 910
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be472795ed770e860800000000000000
+      internalID: 7557171971594810603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broken Vessel - atlas0 #344011_155
+      rect:
+        serializedVersion: 2
+        x: 1185
+        y: 502
+        width: 154
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6be30b2b184852880800000000000000
+      internalID: -8636351017829515594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broken Vessel - atlas0 #344011_156
+      rect:
+        serializedVersion: 2
+        x: 1209
+        y: 883
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b68d85b4d30260e0800000000000000
+      internalID: -2278254249382148431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broken Vessel - atlas0 #344011_157
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 619
+        width: 65
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dc084d99af84f310800000000000000
+      internalID: 1437932139689020624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broken Vessel - atlas0 #344011_158
+      rect:
+        serializedVersion: 2
+        x: 1611
+        y: 546
+        width: 192
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 348f21caa3b9ac6a0800000000000000
+      internalID: -6428154841820628925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broken Vessel - atlas0 #344011_159
+      rect:
+        serializedVersion: 2
+        x: 1656
+        y: 769
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dea5e44fc5b71c030800000000000000
+      internalID: 3513224823491681005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broken Vessel - atlas0 #344011_160
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 634
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1deb552707ffc4310800000000000000
+      internalID: 1390767243370282705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broken Vessel - atlas0 #344011_161
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 220
+        width: 182
+        height: 507
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67d2b7f2bd4eeb5a0800000000000000
+      internalID: -6503509181830845066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broken Vessel - atlas0 #344011_162
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 543
+        width: 316
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d055355d87d9152f0800000000000000
+      internalID: -985833701116783347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broken Vessel - atlas0 #344011_163
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 388
+        width: 186
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8411e0a51f58190c0800000000000000
+      internalID: -4570724875159858872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broken Vessel - atlas0 #344011_164
+      rect:
+        serializedVersion: 2
+        x: 1096
+        y: 362
+        width: 107
+        height: 311
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb0fd0abde8ed6b60800000000000000
+      internalID: 7741099442246119615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broken Vessel - atlas0 #344011_165
+      rect:
+        serializedVersion: 2
+        x: 1337
+        y: 502
+        width: 222
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b675a89c34cb6350800000000000000
+      internalID: 6011113892194121400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broken Vessel - atlas0 #344011_166
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 415
+        width: 393
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfce29c34b2c9dc60800000000000000
+      internalID: 7843514305408593149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broken Vessel - atlas0 #344011_167
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 612
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3807dec5cab1a680800000000000000
+      internalID: -8745503642635270082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broken Vessel - atlas0 #344011_168
+      rect:
+        serializedVersion: 2
+        x: 1848
+        y: 312
+        width: 134
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb4739b440e2e0520800000000000000
+      internalID: 2670122225059984574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broken Vessel - atlas0 #344011_169
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 347
+        width: 380
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4df304c767ab8b70800000000000000
+      internalID: 8902393152539983182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broken Vessel - atlas0 #344011_170
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 539
+        width: 38
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04388d2627a8b51d0800000000000000
+      internalID: -3360940473012681920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broken Vessel - atlas0 #344011_171
+      rect:
+        serializedVersion: 2
+        x: 1556
+        y: 269
+        width: 279
+        height: 279
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd96faf78ff280500800000000000000
+      internalID: 362592514343922143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broken Vessel - atlas0 #344011_172
+      rect:
+        serializedVersion: 2
+        x: 1219
+        y: 462
+        width: 108
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df19cec6c3754ca00800000000000000
+      internalID: 775840952851665405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broken Vessel - atlas0 #344011_173
+      rect:
+        serializedVersion: 2
+        x: 1229
+        y: 448
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a911b96f5a99ce10800000000000000
+      internalID: 2218474026042464677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broken Vessel - atlas0 #344011_174
+      rect:
+        serializedVersion: 2
+        x: 1380
+        y: 459
+        width: 25
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79656e6635c0bb3b0800000000000000
+      internalID: -5495785367927368041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broken Vessel - atlas0 #344011_175
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 220
+        width: 399
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7911c41895becf0a0800000000000000
+      internalID: -6846338563856133737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broken Vessel - atlas0 #344011_176
+      rect:
+        serializedVersion: 2
+        x: 1324
+        y: 239
+        width: 201
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 945b47e2db520f4d0800000000000000
+      internalID: -3102938648799824567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broken Vessel - atlas0 #344011_177
+      rect:
+        serializedVersion: 2
+        x: 1370
+        y: 392
+        width: 92
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38d4d2fb73a53cee0800000000000000
+      internalID: -1242049876747006589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broken Vessel - atlas0 #344011_178
+      rect:
+        serializedVersion: 2
+        x: 1523
+        y: 236
+        width: 35
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2af7333257c2978b0800000000000000
+      internalID: -5154039416935448670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broken Vessel - atlas0 #344011_179
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 343
+        width: 11
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc5b81b86ba945850800000000000000
+      internalID: 6364882282189731275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broken Vessel - atlas0 #344011_180
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 242
+        width: 44
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 349dad63285138d60800000000000000
+      internalID: 7891174621093484867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broken Vessel - atlas0 #344011_181
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 336
+        width: 12
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33d23ea416c021dc0800000000000000
+      internalID: -3669857134345769677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broken Vessel - atlas0 #344011_182
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 247
+        width: 55
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc1a62dec4255d8a0800000000000000
+      internalID: -6281023614948564529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broken Vessel - atlas0 #344011_183
+      rect:
+        serializedVersion: 2
+        x: 1091
+        y: 357
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 662e34f348c45bb70800000000000000
+      internalID: 8914115168330572390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broken Vessel - atlas0 #344011_184
+      rect:
+        serializedVersion: 2
+        x: 1096
+        y: 227
+        width: 65
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d5731214c6a2cb20800000000000000
+      internalID: 3153266050159834582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broken Vessel - atlas0 #344011_185
+      rect:
+        serializedVersion: 2
+        x: 1125
+        y: 356
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5142f51cdfc60de0800000000000000
+      internalID: -1367176892692414118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broken Vessel - atlas0 #344011_186
+      rect:
+        serializedVersion: 2
+        x: 1132
+        y: 354
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49da6682cf9f0a630800000000000000
+      internalID: 3936420935726706068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broken Vessel - atlas0 #344011_187
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 338
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4dfebba46ef80d60800000000000000
+      internalID: 7856809258279435597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broken Vessel - atlas0 #344011_188
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 332
+        width: 8
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 402bb24a695d6c790800000000000000
+      internalID: -7510080485617585660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broken Vessel - atlas0 #344011_189
+      rect:
+        serializedVersion: 2
+        x: 1070
+        y: 322
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 022e44e871c098b90800000000000000
+      internalID: -7239241630710701536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broken Vessel - atlas0 #344011_190
+      rect:
+        serializedVersion: 2
+        x: 1154
+        y: 334
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4306690cac266dae0800000000000000
+      internalID: -1524922800864337868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broken Vessel - atlas0 #344011_191
+      rect:
+        serializedVersion: 2
+        x: 1162
+        y: 271
+        width: 16
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c3a39ad65d26e930800000000000000
+      internalID: 4172071955862889413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broken Vessel - atlas0 #344011_192
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 326
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd370e08a89f9a5b0800000000000000
+      internalID: -5356475908517497892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broken Vessel - atlas0 #344011_193
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 211
+        width: 53
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8138d16ba45d368e0800000000000000
+      internalID: -1701281717356231912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broken Vessel - atlas0 #344011_194
+      rect:
+        serializedVersion: 2
+        x: 1025
+        y: 215
+        width: 56
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1069918afcdd3c100800000000000000
+      internalID: 127189098444723713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broken Vessel - atlas0 #344011_195
+      rect:
+        serializedVersion: 2
+        x: 1063
+        y: 319
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a0f25aec28256130800000000000000
+      internalID: 3559295253881221283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broken Vessel - atlas0 #344011_196
+      rect:
+        serializedVersion: 2
+        x: 1178
+        y: 295
+        width: 12
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a082cd359eba79b0800000000000000
+      internalID: -5081539681338621790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broken Vessel - atlas0 #344011_197
+      rect:
+        serializedVersion: 2
+        x: 1919
+        y: 307
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 996adc870505a3170800000000000000
+      internalID: 8158921981489424025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broken Vessel - atlas0 #344011_198
+      rect:
+        serializedVersion: 2
+        x: 1937
+        y: 0
+        width: 92
+        height: 309
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85614832954837420800000000000000
+      internalID: 2626588526069945944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broken Vessel - atlas0 #344011_199
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 229
+        width: 34
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49e19f2a7ca6cc560800000000000000
+      internalID: 7335355298744966804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broken Vessel - atlas0 #344011_200
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 270
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a1bd30273db4f670800000000000000
+      internalID: 8571684035254661542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broken Vessel - atlas0 #344011_201
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 249
+        width: 14
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aea4bf26d0efbd3e0800000000000000
+      internalID: -2027747873751610646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broken Vessel - atlas0 #344011_202
+      rect:
+        serializedVersion: 2
+        x: 998
+        y: 239
+        width: 26
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5ffc93fa81aea6c0800000000000000
+      internalID: -4130186190087454886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broken Vessel - atlas0 #344011_203
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 231
+        width: 35
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88a797d062f6fd700800000000000000
+      internalID: 567294287297477256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broken Vessel - atlas0 #344011_204
+      rect:
+        serializedVersion: 2
+        x: 1592
+        y: 0
+        width: 347
+        height: 271
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ed05b3803978f270800000000000000
+      internalID: 8284504763823099369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broken Vessel - atlas0 #344011_205
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 0
+        width: 95
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ad107fd886ec74d0800000000000000
+      internalID: -3135377765018100320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broken Vessel - atlas0 #344011_206
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 5
+        width: 74
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c581b83988c23800800000000000000
+      internalID: 590754992826189250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broken Vessel - atlas0 #344011_207
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 25
+        width: 48
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b87763c58a512ef0800000000000000
+      internalID: -134726983288915792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broken Vessel - atlas0 #344011_208
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 100
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db1a11c4090e56310800000000000000
+      internalID: 1397770169724543421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broken Vessel - atlas0 #344011_209
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 0
+        width: 98
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17265a9bd1b7c2110800000000000000
+      internalID: 1237499365218935409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broken Vessel - atlas0 #344011_210
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 22
+        width: 48
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f675ceed95b2cb860800000000000000
+      internalID: 7546954740558223215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broken Vessel - atlas0 #344011_211
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 4
+        width: 65
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e18979ff3a9fc1b50800000000000000
+      internalID: 6565396839562450974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broken Vessel - atlas0 #344011_212
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 7
+        width: 79
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6cf35a2a22e781b0800000000000000
+      internalID: -5654302136413717395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broken Vessel - atlas0 #344011_213
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 168
+        width: 35
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf45fb31fc06ad3f0800000000000000
+      internalID: -875280735064337157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broken Vessel - atlas0 #344011_214
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 0
+        width: 261
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb541c61cd925c0c0800000000000000
+      internalID: -4556189422764079685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broken Vessel - atlas0 #344011_215
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 216
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68c7c1c85f5ab1460800000000000000
+      internalID: 7213541702200228998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broken Vessel - atlas0 #344011_216
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 0
+        width: 300
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1482a71b93a840a60800000000000000
+      internalID: 7639382848322545729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broken Vessel - atlas0 #344011_217
+      rect:
+        serializedVersion: 2
+        x: 1109
+        y: 156
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c32f03942f57cb10800000000000000
+      internalID: 2001673170080179139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broken Vessel - atlas0 #344011_218
+      rect:
+        serializedVersion: 2
+        x: 1137
+        y: 169
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a85eba42dc449a10800000000000000
+      internalID: 1915240207620135074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broken Vessel - atlas0 #344011_219
+      rect:
+        serializedVersion: 2
+        x: 1148
+        y: 169
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 388b99fdf34dadd00800000000000000
+      internalID: 998343638215407747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broken Vessel - atlas0 #344011_220
+      rect:
+        serializedVersion: 2
+        x: 1195
+        y: 186
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc88b70d128532fd0800000000000000
+      internalID: -2367952076811826993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broken Vessel - atlas0 #344011_221
+      rect:
+        serializedVersion: 2
+        x: 1208
+        y: 0
+        width: 241
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0403802d579e82c70800000000000000
+      internalID: 8946657352015687744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broken Vessel - atlas0 #344011_222
+      rect:
+        serializedVersion: 2
+        x: 1456
+        y: 119
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a23d7ed6ce1486a0800000000000000
+      internalID: -6447994927002602848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broken Vessel - atlas0 #344011_223
+      rect:
+        serializedVersion: 2
+        x: 1537
+        y: 130
+        width: 57
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41dadf2e50e573840800000000000000
+      internalID: 5203731273826020628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broken Vessel - atlas0 #344011_224
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 109
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b5cfcfb10ff46af0800000000000000
+      internalID: -403917683578387023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broken Vessel - atlas0 #344011_225
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 108
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 619286166b5a422b0800000000000000
+      internalID: -5610177033059948266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broken Vessel - atlas0 #344011_226
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 50
+        width: 14
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0723b65c383484cd0800000000000000
+      internalID: -2573732953810324880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broken Vessel - atlas0 #344011_227
+      rect:
+        serializedVersion: 2
+        x: 2027
+        y: 0
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c76d7fa5e90c56e0800000000000000
+      internalID: -1847590865032353852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Broken Vessel - atlas0 #344011_0: -5943978544175813502
+      Broken Vessel - atlas0 #344011_1: -8043746952286158629
+      Broken Vessel - atlas0 #344011_10: -4695396304958339100
+      Broken Vessel - atlas0 #344011_100: -2695774038360731395
+      Broken Vessel - atlas0 #344011_101: 7762439809778786390
+      Broken Vessel - atlas0 #344011_102: -5726764765023030523
+      Broken Vessel - atlas0 #344011_103: 8066262850699664425
+      Broken Vessel - atlas0 #344011_104: 7058157875881803933
+      Broken Vessel - atlas0 #344011_105: -3209696331687668511
+      Broken Vessel - atlas0 #344011_106: -8414115010086471793
+      Broken Vessel - atlas0 #344011_107: -7016668668017180998
+      Broken Vessel - atlas0 #344011_108: 7669064075224119808
+      Broken Vessel - atlas0 #344011_109: -515569975100250155
+      Broken Vessel - atlas0 #344011_11: -7686428565810412194
+      Broken Vessel - atlas0 #344011_110: 8618671766368166314
+      Broken Vessel - atlas0 #344011_111: 8273079408162640311
+      Broken Vessel - atlas0 #344011_112: 5208266801964837372
+      Broken Vessel - atlas0 #344011_113: -3281822229715550582
+      Broken Vessel - atlas0 #344011_114: 2978563526837082731
+      Broken Vessel - atlas0 #344011_115: 6909753120672761341
+      Broken Vessel - atlas0 #344011_116: -1036603161922976531
+      Broken Vessel - atlas0 #344011_117: -1406762649878745580
+      Broken Vessel - atlas0 #344011_118: -3347414913601952323
+      Broken Vessel - atlas0 #344011_119: 4439385172350108292
+      Broken Vessel - atlas0 #344011_12: -6795718081365136634
+      Broken Vessel - atlas0 #344011_120: 6227176149305045843
+      Broken Vessel - atlas0 #344011_121: -4941424351035202418
+      Broken Vessel - atlas0 #344011_122: 4445725956689272795
+      Broken Vessel - atlas0 #344011_123: 8584001547888996505
+      Broken Vessel - atlas0 #344011_124: 8324460556871635367
+      Broken Vessel - atlas0 #344011_125: 6802413130243339865
+      Broken Vessel - atlas0 #344011_126: -6502131445093465561
+      Broken Vessel - atlas0 #344011_127: -7668395533468741802
+      Broken Vessel - atlas0 #344011_128: 1848933594808805399
+      Broken Vessel - atlas0 #344011_129: -7371264776096349429
+      Broken Vessel - atlas0 #344011_13: -79108793268133216
+      Broken Vessel - atlas0 #344011_130: 3157162992489129172
+      Broken Vessel - atlas0 #344011_131: -5887453397021253183
+      Broken Vessel - atlas0 #344011_132: -418970202144801304
+      Broken Vessel - atlas0 #344011_133: 6672055948421220687
+      Broken Vessel - atlas0 #344011_134: -8703257691319008709
+      Broken Vessel - atlas0 #344011_135: -2908907756780385732
+      Broken Vessel - atlas0 #344011_136: -7215310321141761649
+      Broken Vessel - atlas0 #344011_137: 2766776326885400928
+      Broken Vessel - atlas0 #344011_138: 569004971692721482
+      Broken Vessel - atlas0 #344011_139: 6462403204816778465
+      Broken Vessel - atlas0 #344011_14: -3046703072265497624
+      Broken Vessel - atlas0 #344011_140: 7755725693703731233
+      Broken Vessel - atlas0 #344011_141: -6507271078434086523
+      Broken Vessel - atlas0 #344011_142: 7734762917727880070
+      Broken Vessel - atlas0 #344011_143: -2806063773009602256
+      Broken Vessel - atlas0 #344011_144: -3109753187506223652
+      Broken Vessel - atlas0 #344011_145: -1921442150832907118
+      Broken Vessel - atlas0 #344011_146: 873036456002091992
+      Broken Vessel - atlas0 #344011_147: 4430405581270459078
+      Broken Vessel - atlas0 #344011_148: 7538649855092809532
+      Broken Vessel - atlas0 #344011_149: -8932856812273812024
+      Broken Vessel - atlas0 #344011_15: -7671718694127603440
+      Broken Vessel - atlas0 #344011_150: -6152151817245295387
+      Broken Vessel - atlas0 #344011_151: 7973026319352720378
+      Broken Vessel - atlas0 #344011_152: -2247970497323078149
+      Broken Vessel - atlas0 #344011_153: 1797791185814173877
+      Broken Vessel - atlas0 #344011_154: 7557171971594810603
+      Broken Vessel - atlas0 #344011_155: -8636351017829515594
+      Broken Vessel - atlas0 #344011_156: -2278254249382148431
+      Broken Vessel - atlas0 #344011_157: 1437932139689020624
+      Broken Vessel - atlas0 #344011_158: -6428154841820628925
+      Broken Vessel - atlas0 #344011_159: 3513224823491681005
+      Broken Vessel - atlas0 #344011_16: 3549285114835783193
+      Broken Vessel - atlas0 #344011_160: 1390767243370282705
+      Broken Vessel - atlas0 #344011_161: -6503509181830845066
+      Broken Vessel - atlas0 #344011_162: -985833701116783347
+      Broken Vessel - atlas0 #344011_163: -4570724875159858872
+      Broken Vessel - atlas0 #344011_164: 7741099442246119615
+      Broken Vessel - atlas0 #344011_165: 6011113892194121400
+      Broken Vessel - atlas0 #344011_166: 7843514305408593149
+      Broken Vessel - atlas0 #344011_167: -8745503642635270082
+      Broken Vessel - atlas0 #344011_168: 2670122225059984574
+      Broken Vessel - atlas0 #344011_169: 8902393152539983182
+      Broken Vessel - atlas0 #344011_17: -9160521398394638086
+      Broken Vessel - atlas0 #344011_170: -3360940473012681920
+      Broken Vessel - atlas0 #344011_171: 362592514343922143
+      Broken Vessel - atlas0 #344011_172: 775840952851665405
+      Broken Vessel - atlas0 #344011_173: 2218474026042464677
+      Broken Vessel - atlas0 #344011_174: -5495785367927368041
+      Broken Vessel - atlas0 #344011_175: -6846338563856133737
+      Broken Vessel - atlas0 #344011_176: -3102938648799824567
+      Broken Vessel - atlas0 #344011_177: -1242049876747006589
+      Broken Vessel - atlas0 #344011_178: -5154039416935448670
+      Broken Vessel - atlas0 #344011_179: 6364882282189731275
+      Broken Vessel - atlas0 #344011_18: -2998843673394307840
+      Broken Vessel - atlas0 #344011_180: 7891174621093484867
+      Broken Vessel - atlas0 #344011_181: -3669857134345769677
+      Broken Vessel - atlas0 #344011_182: -6281023614948564529
+      Broken Vessel - atlas0 #344011_183: 8914115168330572390
+      Broken Vessel - atlas0 #344011_184: 3153266050159834582
+      Broken Vessel - atlas0 #344011_185: -1367176892692414118
+      Broken Vessel - atlas0 #344011_186: 3936420935726706068
+      Broken Vessel - atlas0 #344011_187: 7856809258279435597
+      Broken Vessel - atlas0 #344011_188: -7510080485617585660
+      Broken Vessel - atlas0 #344011_189: -7239241630710701536
+      Broken Vessel - atlas0 #344011_19: 66157663076386660
+      Broken Vessel - atlas0 #344011_190: -1524922800864337868
+      Broken Vessel - atlas0 #344011_191: 4172071955862889413
+      Broken Vessel - atlas0 #344011_192: -5356475908517497892
+      Broken Vessel - atlas0 #344011_193: -1701281717356231912
+      Broken Vessel - atlas0 #344011_194: 127189098444723713
+      Broken Vessel - atlas0 #344011_195: 3559295253881221283
+      Broken Vessel - atlas0 #344011_196: -5081539681338621790
+      Broken Vessel - atlas0 #344011_197: 8158921981489424025
+      Broken Vessel - atlas0 #344011_198: 2626588526069945944
+      Broken Vessel - atlas0 #344011_199: 7335355298744966804
+      Broken Vessel - atlas0 #344011_2: 5217311290550505464
+      Broken Vessel - atlas0 #344011_20: -9217026717442777772
+      Broken Vessel - atlas0 #344011_200: 8571684035254661542
+      Broken Vessel - atlas0 #344011_201: -2027747873751610646
+      Broken Vessel - atlas0 #344011_202: -4130186190087454886
+      Broken Vessel - atlas0 #344011_203: 567294287297477256
+      Broken Vessel - atlas0 #344011_204: 8284504763823099369
+      Broken Vessel - atlas0 #344011_205: -3135377765018100320
+      Broken Vessel - atlas0 #344011_206: 590754992826189250
+      Broken Vessel - atlas0 #344011_207: -134726983288915792
+      Broken Vessel - atlas0 #344011_208: 1397770169724543421
+      Broken Vessel - atlas0 #344011_209: 1237499365218935409
+      Broken Vessel - atlas0 #344011_21: 7543714329588369923
+      Broken Vessel - atlas0 #344011_210: 7546954740558223215
+      Broken Vessel - atlas0 #344011_211: 6565396839562450974
+      Broken Vessel - atlas0 #344011_212: -5654302136413717395
+      Broken Vessel - atlas0 #344011_213: -875280735064337157
+      Broken Vessel - atlas0 #344011_214: -4556189422764079685
+      Broken Vessel - atlas0 #344011_215: 7213541702200228998
+      Broken Vessel - atlas0 #344011_216: 7639382848322545729
+      Broken Vessel - atlas0 #344011_217: 2001673170080179139
+      Broken Vessel - atlas0 #344011_218: 1915240207620135074
+      Broken Vessel - atlas0 #344011_219: 998343638215407747
+      Broken Vessel - atlas0 #344011_22: 19339240921076567
+      Broken Vessel - atlas0 #344011_220: -2367952076811826993
+      Broken Vessel - atlas0 #344011_221: 8946657352015687744
+      Broken Vessel - atlas0 #344011_222: -6447994927002602848
+      Broken Vessel - atlas0 #344011_223: 5203731273826020628
+      Broken Vessel - atlas0 #344011_224: -403917683578387023
+      Broken Vessel - atlas0 #344011_225: -5610177033059948266
+      Broken Vessel - atlas0 #344011_226: -2573732953810324880
+      Broken Vessel - atlas0 #344011_227: -1847590865032353852
+      Broken Vessel - atlas0 #344011_23: 2532997370527095691
+      Broken Vessel - atlas0 #344011_24: -6121888462312828414
+      Broken Vessel - atlas0 #344011_25: -640844311358057598
+      Broken Vessel - atlas0 #344011_26: -6327904483197702511
+      Broken Vessel - atlas0 #344011_27: -7037345380156567025
+      Broken Vessel - atlas0 #344011_28: 3342273416042052191
+      Broken Vessel - atlas0 #344011_29: -1181375772107709860
+      Broken Vessel - atlas0 #344011_3: -4510395307580026747
+      Broken Vessel - atlas0 #344011_30: -6982866149458909258
+      Broken Vessel - atlas0 #344011_31: -6446322360365804395
+      Broken Vessel - atlas0 #344011_32: 5134971386496972853
+      Broken Vessel - atlas0 #344011_33: 7762108985513083061
+      Broken Vessel - atlas0 #344011_34: -7262015629835109026
+      Broken Vessel - atlas0 #344011_35: 7780950439288043156
+      Broken Vessel - atlas0 #344011_36: 4840358660094501678
+      Broken Vessel - atlas0 #344011_37: -7056519281258810722
+      Broken Vessel - atlas0 #344011_38: -5154806175395757859
+      Broken Vessel - atlas0 #344011_39: -2174932928022206984
+      Broken Vessel - atlas0 #344011_4: -5233995548116847154
+      Broken Vessel - atlas0 #344011_40: 5356478402138177053
+      Broken Vessel - atlas0 #344011_41: 7986528113913620386
+      Broken Vessel - atlas0 #344011_42: 1868467783218148491
+      Broken Vessel - atlas0 #344011_43: -7439088397891439480
+      Broken Vessel - atlas0 #344011_44: -6181588273948985644
+      Broken Vessel - atlas0 #344011_45: 2694781670729676078
+      Broken Vessel - atlas0 #344011_46: 387547963090526958
+      Broken Vessel - atlas0 #344011_47: 8284872463595919835
+      Broken Vessel - atlas0 #344011_48: 3053265939340226572
+      Broken Vessel - atlas0 #344011_49: -8602287197567949356
+      Broken Vessel - atlas0 #344011_5: -4433920501593951933
+      Broken Vessel - atlas0 #344011_50: -2496154449475086660
+      Broken Vessel - atlas0 #344011_51: -8731451191959540980
+      Broken Vessel - atlas0 #344011_52: 5875124874277364410
+      Broken Vessel - atlas0 #344011_53: -3712497013485537208
+      Broken Vessel - atlas0 #344011_54: 1583302826327850641
+      Broken Vessel - atlas0 #344011_55: -5413070159093450796
+      Broken Vessel - atlas0 #344011_56: -6414355759968682640
+      Broken Vessel - atlas0 #344011_57: -8936678502686387655
+      Broken Vessel - atlas0 #344011_58: 6453695026613913707
+      Broken Vessel - atlas0 #344011_59: 6658481599721644608
+      Broken Vessel - atlas0 #344011_6: -4996214968193594312
+      Broken Vessel - atlas0 #344011_60: 182963478702500107
+      Broken Vessel - atlas0 #344011_61: -9099918647625342002
+      Broken Vessel - atlas0 #344011_62: -422127933544096983
+      Broken Vessel - atlas0 #344011_63: 6790466796225198269
+      Broken Vessel - atlas0 #344011_64: -3451927684866868119
+      Broken Vessel - atlas0 #344011_65: -1712381415594831120
+      Broken Vessel - atlas0 #344011_66: 273394239161841653
+      Broken Vessel - atlas0 #344011_67: 5699709299031653311
+      Broken Vessel - atlas0 #344011_68: -1878516553129392169
+      Broken Vessel - atlas0 #344011_69: 3745761968977328456
+      Broken Vessel - atlas0 #344011_7: 4659324473016000808
+      Broken Vessel - atlas0 #344011_70: -8757283138226820940
+      Broken Vessel - atlas0 #344011_71: -5163403473328077255
+      Broken Vessel - atlas0 #344011_72: -3880822005177031326
+      Broken Vessel - atlas0 #344011_73: -4529493565005956673
+      Broken Vessel - atlas0 #344011_74: 6607528712241959893
+      Broken Vessel - atlas0 #344011_75: 5635995602040502051
+      Broken Vessel - atlas0 #344011_76: 4310187586106424816
+      Broken Vessel - atlas0 #344011_77: 6788679207836921001
+      Broken Vessel - atlas0 #344011_78: 7585993689675642048
+      Broken Vessel - atlas0 #344011_79: 7899334429971108851
+      Broken Vessel - atlas0 #344011_8: -9022796481681848020
+      Broken Vessel - atlas0 #344011_80: 6263144879910165331
+      Broken Vessel - atlas0 #344011_81: -143013115932436865
+      Broken Vessel - atlas0 #344011_82: 2397401908738149360
+      Broken Vessel - atlas0 #344011_83: 1731268021530461847
+      Broken Vessel - atlas0 #344011_84: -5551239082569072288
+      Broken Vessel - atlas0 #344011_85: 1317785159484106644
+      Broken Vessel - atlas0 #344011_86: -3688375950565261226
+      Broken Vessel - atlas0 #344011_87: 2070681242999531214
+      Broken Vessel - atlas0 #344011_88: 6955610367960546813
+      Broken Vessel - atlas0 #344011_89: 1395946725633599194
+      Broken Vessel - atlas0 #344011_9: 7012932761985290119
+      Broken Vessel - atlas0 #344011_90: 1956294225180163623
+      Broken Vessel - atlas0 #344011_91: 3948547303080905977
+      Broken Vessel - atlas0 #344011_92: 3389373621756479079
+      Broken Vessel - atlas0 #344011_93: -8033767477321667551
+      Broken Vessel - atlas0 #344011_94: 9048867229016164055
+      Broken Vessel - atlas0 #344011_95: -8552992675642089479
+      Broken Vessel - atlas0 #344011_96: 4381339534251647133
+      Broken Vessel - atlas0 #344011_97: -3722347315987050029
+      Broken Vessel - atlas0 #344011_98: 201476019664220689
+      Broken Vessel - atlas0 #344011_99: 6659764894150778709
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

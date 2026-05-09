@@ -1,0 +1,5226 @@
+fileFormatVersion: 2
+guid: d2466252cb40b114d9b9cf9491ed8e84
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7158853954744518659
+    second: Great Nailsage Sly - atlas0 #45903_0
+  - first:
+      213: 7057144661676840261
+    second: Great Nailsage Sly - atlas0 #45903_1
+  - first:
+      213: -1435932988089305906
+    second: Great Nailsage Sly - atlas0 #45903_2
+  - first:
+      213: -230161286504078137
+    second: Great Nailsage Sly - atlas0 #45903_3
+  - first:
+      213: -6128384564073452743
+    second: Great Nailsage Sly - atlas0 #45903_4
+  - first:
+      213: 8670281904598039106
+    second: Great Nailsage Sly - atlas0 #45903_5
+  - first:
+      213: 38602709366151063
+    second: Great Nailsage Sly - atlas0 #45903_6
+  - first:
+      213: -8303520156403592389
+    second: Great Nailsage Sly - atlas0 #45903_7
+  - first:
+      213: 8638235662546199015
+    second: Great Nailsage Sly - atlas0 #45903_8
+  - first:
+      213: 940939733170763609
+    second: Great Nailsage Sly - atlas0 #45903_9
+  - first:
+      213: 8623712349818884258
+    second: Great Nailsage Sly - atlas0 #45903_10
+  - first:
+      213: -1406320792676171688
+    second: Great Nailsage Sly - atlas0 #45903_11
+  - first:
+      213: 6482405687189124320
+    second: Great Nailsage Sly - atlas0 #45903_12
+  - first:
+      213: 5275712636987503155
+    second: Great Nailsage Sly - atlas0 #45903_13
+  - first:
+      213: -6169995607641776284
+    second: Great Nailsage Sly - atlas0 #45903_14
+  - first:
+      213: 7832225898643744487
+    second: Great Nailsage Sly - atlas0 #45903_15
+  - first:
+      213: 2858183013354048082
+    second: Great Nailsage Sly - atlas0 #45903_16
+  - first:
+      213: -4027445950007014242
+    second: Great Nailsage Sly - atlas0 #45903_17
+  - first:
+      213: 3170443989820722561
+    second: Great Nailsage Sly - atlas0 #45903_18
+  - first:
+      213: 1621937798338019496
+    second: Great Nailsage Sly - atlas0 #45903_19
+  - first:
+      213: 6336102502487052192
+    second: Great Nailsage Sly - atlas0 #45903_20
+  - first:
+      213: -9063979978386135955
+    second: Great Nailsage Sly - atlas0 #45903_21
+  - first:
+      213: 7199917341668290452
+    second: Great Nailsage Sly - atlas0 #45903_22
+  - first:
+      213: -7391385694018446514
+    second: Great Nailsage Sly - atlas0 #45903_23
+  - first:
+      213: -40949847182235066
+    second: Great Nailsage Sly - atlas0 #45903_24
+  - first:
+      213: -2301425855009791411
+    second: Great Nailsage Sly - atlas0 #45903_25
+  - first:
+      213: 6514343419447335076
+    second: Great Nailsage Sly - atlas0 #45903_26
+  - first:
+      213: -7909562431166113253
+    second: Great Nailsage Sly - atlas0 #45903_27
+  - first:
+      213: 7191190935847047982
+    second: Great Nailsage Sly - atlas0 #45903_28
+  - first:
+      213: 7137678322215304356
+    second: Great Nailsage Sly - atlas0 #45903_29
+  - first:
+      213: 5551140540252883576
+    second: Great Nailsage Sly - atlas0 #45903_30
+  - first:
+      213: 6295814921246851604
+    second: Great Nailsage Sly - atlas0 #45903_31
+  - first:
+      213: 429136428615260471
+    second: Great Nailsage Sly - atlas0 #45903_32
+  - first:
+      213: -7731160319890556055
+    second: Great Nailsage Sly - atlas0 #45903_33
+  - first:
+      213: 7321649891210542445
+    second: Great Nailsage Sly - atlas0 #45903_34
+  - first:
+      213: 6461746761188853832
+    second: Great Nailsage Sly - atlas0 #45903_35
+  - first:
+      213: 6455142545140576192
+    second: Great Nailsage Sly - atlas0 #45903_36
+  - first:
+      213: 1946158306726544384
+    second: Great Nailsage Sly - atlas0 #45903_37
+  - first:
+      213: -2178898796666127418
+    second: Great Nailsage Sly - atlas0 #45903_38
+  - first:
+      213: 6634915831256240344
+    second: Great Nailsage Sly - atlas0 #45903_39
+  - first:
+      213: -3493338457635431340
+    second: Great Nailsage Sly - atlas0 #45903_40
+  - first:
+      213: -3144546623766455956
+    second: Great Nailsage Sly - atlas0 #45903_41
+  - first:
+      213: 7246625743634410595
+    second: Great Nailsage Sly - atlas0 #45903_42
+  - first:
+      213: -8064573866277324028
+    second: Great Nailsage Sly - atlas0 #45903_43
+  - first:
+      213: 1313445721747148629
+    second: Great Nailsage Sly - atlas0 #45903_44
+  - first:
+      213: 3731185782575182949
+    second: Great Nailsage Sly - atlas0 #45903_45
+  - first:
+      213: 3470784298915048576
+    second: Great Nailsage Sly - atlas0 #45903_46
+  - first:
+      213: 4901475958374727850
+    second: Great Nailsage Sly - atlas0 #45903_47
+  - first:
+      213: 4550476025080776094
+    second: Great Nailsage Sly - atlas0 #45903_48
+  - first:
+      213: -2647846334874570178
+    second: Great Nailsage Sly - atlas0 #45903_49
+  - first:
+      213: 7628492343277441375
+    second: Great Nailsage Sly - atlas0 #45903_50
+  - first:
+      213: -116978959404034063
+    second: Great Nailsage Sly - atlas0 #45903_51
+  - first:
+      213: 6716239543716810352
+    second: Great Nailsage Sly - atlas0 #45903_52
+  - first:
+      213: 6482399690411372816
+    second: Great Nailsage Sly - atlas0 #45903_53
+  - first:
+      213: -7109193725411686086
+    second: Great Nailsage Sly - atlas0 #45903_54
+  - first:
+      213: 7079000655657043280
+    second: Great Nailsage Sly - atlas0 #45903_55
+  - first:
+      213: -4735400808955866664
+    second: Great Nailsage Sly - atlas0 #45903_56
+  - first:
+      213: -7827150853713033078
+    second: Great Nailsage Sly - atlas0 #45903_57
+  - first:
+      213: -1181878065996342715
+    second: Great Nailsage Sly - atlas0 #45903_58
+  - first:
+      213: 244143905450407714
+    second: Great Nailsage Sly - atlas0 #45903_59
+  - first:
+      213: 4930396152925057188
+    second: Great Nailsage Sly - atlas0 #45903_60
+  - first:
+      213: 1596504447991089712
+    second: Great Nailsage Sly - atlas0 #45903_61
+  - first:
+      213: 5771909708526428352
+    second: Great Nailsage Sly - atlas0 #45903_62
+  - first:
+      213: -3438643722097019233
+    second: Great Nailsage Sly - atlas0 #45903_63
+  - first:
+      213: -360924849979463460
+    second: Great Nailsage Sly - atlas0 #45903_64
+  - first:
+      213: -8719977220328339944
+    second: Great Nailsage Sly - atlas0 #45903_65
+  - first:
+      213: 4934873292572756867
+    second: Great Nailsage Sly - atlas0 #45903_66
+  - first:
+      213: 4959055711070114608
+    second: Great Nailsage Sly - atlas0 #45903_67
+  - first:
+      213: 644708223741687411
+    second: Great Nailsage Sly - atlas0 #45903_68
+  - first:
+      213: 7883943818149953599
+    second: Great Nailsage Sly - atlas0 #45903_69
+  - first:
+      213: 5300504974700982408
+    second: Great Nailsage Sly - atlas0 #45903_70
+  - first:
+      213: 7020079091545151951
+    second: Great Nailsage Sly - atlas0 #45903_71
+  - first:
+      213: 5068620134611559933
+    second: Great Nailsage Sly - atlas0 #45903_72
+  - first:
+      213: -8114131943585877002
+    second: Great Nailsage Sly - atlas0 #45903_73
+  - first:
+      213: -6598370520552593307
+    second: Great Nailsage Sly - atlas0 #45903_74
+  - first:
+      213: -3400252585469145043
+    second: Great Nailsage Sly - atlas0 #45903_75
+  - first:
+      213: 8547641252420325890
+    second: Great Nailsage Sly - atlas0 #45903_76
+  - first:
+      213: 85359975402747224
+    second: Great Nailsage Sly - atlas0 #45903_77
+  - first:
+      213: -5067124265180230075
+    second: Great Nailsage Sly - atlas0 #45903_78
+  - first:
+      213: -6091745792514756371
+    second: Great Nailsage Sly - atlas0 #45903_79
+  - first:
+      213: -4397123300582374757
+    second: Great Nailsage Sly - atlas0 #45903_80
+  - first:
+      213: -8474113858536984267
+    second: Great Nailsage Sly - atlas0 #45903_81
+  - first:
+      213: -4871736510947338204
+    second: Great Nailsage Sly - atlas0 #45903_82
+  - first:
+      213: -3243235839207944167
+    second: Great Nailsage Sly - atlas0 #45903_83
+  - first:
+      213: -8567991478332569159
+    second: Great Nailsage Sly - atlas0 #45903_84
+  - first:
+      213: 5619457535958069471
+    second: Great Nailsage Sly - atlas0 #45903_85
+  - first:
+      213: -4416896280586321968
+    second: Great Nailsage Sly - atlas0 #45903_86
+  - first:
+      213: 6195121412405909944
+    second: Great Nailsage Sly - atlas0 #45903_87
+  - first:
+      213: 1640662417438651639
+    second: Great Nailsage Sly - atlas0 #45903_88
+  - first:
+      213: -8557654426629373859
+    second: Great Nailsage Sly - atlas0 #45903_89
+  - first:
+      213: 1983473248812614938
+    second: Great Nailsage Sly - atlas0 #45903_90
+  - first:
+      213: -64716437679521440
+    second: Great Nailsage Sly - atlas0 #45903_91
+  - first:
+      213: -3216089741296036969
+    second: Great Nailsage Sly - atlas0 #45903_92
+  - first:
+      213: -1286530071234382713
+    second: Great Nailsage Sly - atlas0 #45903_93
+  - first:
+      213: 5609967045089552336
+    second: Great Nailsage Sly - atlas0 #45903_94
+  - first:
+      213: 1379207074125875511
+    second: Great Nailsage Sly - atlas0 #45903_95
+  - first:
+      213: 6409336617258468289
+    second: Great Nailsage Sly - atlas0 #45903_96
+  - first:
+      213: 7096197609520720795
+    second: Great Nailsage Sly - atlas0 #45903_97
+  - first:
+      213: 7413154790799706246
+    second: Great Nailsage Sly - atlas0 #45903_98
+  - first:
+      213: -6375763072403458000
+    second: Great Nailsage Sly - atlas0 #45903_99
+  - first:
+      213: 1577421676559097558
+    second: Great Nailsage Sly - atlas0 #45903_100
+  - first:
+      213: 5307380078803594752
+    second: Great Nailsage Sly - atlas0 #45903_101
+  - first:
+      213: -8368700957429986788
+    second: Great Nailsage Sly - atlas0 #45903_102
+  - first:
+      213: -2539256220220320556
+    second: Great Nailsage Sly - atlas0 #45903_103
+  - first:
+      213: 4408926812201859313
+    second: Great Nailsage Sly - atlas0 #45903_104
+  - first:
+      213: -5026813193598112567
+    second: Great Nailsage Sly - atlas0 #45903_105
+  - first:
+      213: 2460147289700947504
+    second: Great Nailsage Sly - atlas0 #45903_106
+  - first:
+      213: 5221674780746655748
+    second: Great Nailsage Sly - atlas0 #45903_107
+  - first:
+      213: 7363641443303006955
+    second: Great Nailsage Sly - atlas0 #45903_108
+  - first:
+      213: -3176958130673246688
+    second: Great Nailsage Sly - atlas0 #45903_109
+  - first:
+      213: 5416935955071381575
+    second: Great Nailsage Sly - atlas0 #45903_110
+  - first:
+      213: 7195253573808296185
+    second: Great Nailsage Sly - atlas0 #45903_111
+  - first:
+      213: 8742819314913331765
+    second: Great Nailsage Sly - atlas0 #45903_112
+  - first:
+      213: 3933034213667376583
+    second: Great Nailsage Sly - atlas0 #45903_113
+  - first:
+      213: -5371944695460633343
+    second: Great Nailsage Sly - atlas0 #45903_114
+  - first:
+      213: 6144238122218893560
+    second: Great Nailsage Sly - atlas0 #45903_115
+  - first:
+      213: 4192686747565544370
+    second: Great Nailsage Sly - atlas0 #45903_116
+  - first:
+      213: 8817813518355031416
+    second: Great Nailsage Sly - atlas0 #45903_117
+  - first:
+      213: 7825232396730182148
+    second: Great Nailsage Sly - atlas0 #45903_118
+  - first:
+      213: 5644513899322298073
+    second: Great Nailsage Sly - atlas0 #45903_119
+  - first:
+      213: -627148387700006396
+    second: Great Nailsage Sly - atlas0 #45903_120
+  - first:
+      213: -3843653955135761268
+    second: Great Nailsage Sly - atlas0 #45903_121
+  - first:
+      213: -8255707985464108628
+    second: Great Nailsage Sly - atlas0 #45903_122
+  - first:
+      213: -4449659747872384502
+    second: Great Nailsage Sly - atlas0 #45903_123
+  - first:
+      213: 3643985792220314910
+    second: Great Nailsage Sly - atlas0 #45903_124
+  - first:
+      213: 3168185316381037587
+    second: Great Nailsage Sly - atlas0 #45903_125
+  - first:
+      213: 8367350308595724232
+    second: Great Nailsage Sly - atlas0 #45903_126
+  - first:
+      213: -6896568844804349789
+    second: Great Nailsage Sly - atlas0 #45903_127
+  - first:
+      213: -3296866006104461301
+    second: Great Nailsage Sly - atlas0 #45903_128
+  - first:
+      213: 4139072566147288236
+    second: Great Nailsage Sly - atlas0 #45903_129
+  - first:
+      213: 3955139539617434549
+    second: Great Nailsage Sly - atlas0 #45903_130
+  - first:
+      213: -1716692610286421965
+    second: Great Nailsage Sly - atlas0 #45903_131
+  - first:
+      213: -8329226263279747256
+    second: Great Nailsage Sly - atlas0 #45903_132
+  - first:
+      213: 7237486063314220217
+    second: Great Nailsage Sly - atlas0 #45903_133
+  - first:
+      213: 8755186359909668598
+    second: Great Nailsage Sly - atlas0 #45903_134
+  - first:
+      213: 2063388121706355097
+    second: Great Nailsage Sly - atlas0 #45903_135
+  - first:
+      213: -8853956239686845608
+    second: Great Nailsage Sly - atlas0 #45903_136
+  - first:
+      213: -6855942418236407451
+    second: Great Nailsage Sly - atlas0 #45903_137
+  - first:
+      213: -8422493743655878813
+    second: Great Nailsage Sly - atlas0 #45903_138
+  - first:
+      213: 3177226313973896831
+    second: Great Nailsage Sly - atlas0 #45903_139
+  - first:
+      213: 2922532283071288490
+    second: Great Nailsage Sly - atlas0 #45903_140
+  - first:
+      213: -867610503005368060
+    second: Great Nailsage Sly - atlas0 #45903_141
+  - first:
+      213: -30221307820921865
+    second: Great Nailsage Sly - atlas0 #45903_142
+  - first:
+      213: -7558872187679082653
+    second: Great Nailsage Sly - atlas0 #45903_143
+  - first:
+      213: -5035773709526894095
+    second: Great Nailsage Sly - atlas0 #45903_144
+  - first:
+      213: 7781463609189170887
+    second: Great Nailsage Sly - atlas0 #45903_145
+  - first:
+      213: -1700247592092586584
+    second: Great Nailsage Sly - atlas0 #45903_146
+  - first:
+      213: 3175462394478449520
+    second: Great Nailsage Sly - atlas0 #45903_147
+  - first:
+      213: -1937191481929695371
+    second: Great Nailsage Sly - atlas0 #45903_148
+  - first:
+      213: -6580575268308248410
+    second: Great Nailsage Sly - atlas0 #45903_149
+  - first:
+      213: 240008898086132619
+    second: Great Nailsage Sly - atlas0 #45903_150
+  - first:
+      213: -3393886264632413281
+    second: Great Nailsage Sly - atlas0 #45903_151
+  - first:
+      213: 8352373615168577283
+    second: Great Nailsage Sly - atlas0 #45903_152
+  - first:
+      213: -8808552519213905521
+    second: Great Nailsage Sly - atlas0 #45903_153
+  - first:
+      213: -6943447559065131974
+    second: Great Nailsage Sly - atlas0 #45903_154
+  - first:
+      213: -3363887156129853576
+    second: Great Nailsage Sly - atlas0 #45903_155
+  - first:
+      213: 5797794436914078963
+    second: Great Nailsage Sly - atlas0 #45903_156
+  - first:
+      213: 3788181804585393278
+    second: Great Nailsage Sly - atlas0 #45903_157
+  - first:
+      213: -7814839384244835833
+    second: Great Nailsage Sly - atlas0 #45903_158
+  - first:
+      213: -4248164381620929909
+    second: Great Nailsage Sly - atlas0 #45903_159
+  - first:
+      213: -8523984278373735961
+    second: Great Nailsage Sly - atlas0 #45903_160
+  - first:
+      213: -1209975331084742017
+    second: Great Nailsage Sly - atlas0 #45903_161
+  - first:
+      213: 1618284685469403745
+    second: Great Nailsage Sly - atlas0 #45903_162
+  - first:
+      213: -8928104852421986444
+    second: Great Nailsage Sly - atlas0 #45903_163
+  - first:
+      213: 118756750988032014
+    second: Great Nailsage Sly - atlas0 #45903_164
+  - first:
+      213: 1689813843286181721
+    second: Great Nailsage Sly - atlas0 #45903_165
+  - first:
+      213: 1846595418730683704
+    second: Great Nailsage Sly - atlas0 #45903_166
+  - first:
+      213: -8469212908451929167
+    second: Great Nailsage Sly - atlas0 #45903_167
+  - first:
+      213: 682326527082366733
+    second: Great Nailsage Sly - atlas0 #45903_168
+  - first:
+      213: 3441718954877778199
+    second: Great Nailsage Sly - atlas0 #45903_169
+  - first:
+      213: -659136159078159289
+    second: Great Nailsage Sly - atlas0 #45903_170
+  - first:
+      213: -3373371112476232526
+    second: Great Nailsage Sly - atlas0 #45903_171
+  - first:
+      213: 112339657885307134
+    second: Great Nailsage Sly - atlas0 #45903_172
+  - first:
+      213: 9113160089768483039
+    second: Great Nailsage Sly - atlas0 #45903_173
+  - first:
+      213: 4633236545759049207
+    second: Great Nailsage Sly - atlas0 #45903_174
+  - first:
+      213: -2722848067522653019
+    second: Great Nailsage Sly - atlas0 #45903_175
+  - first:
+      213: 8339136741553054489
+    second: Great Nailsage Sly - atlas0 #45903_176
+  - first:
+      213: -4057811999745954682
+    second: Great Nailsage Sly - atlas0 #45903_177
+  - first:
+      213: -2108871218252918672
+    second: Great Nailsage Sly - atlas0 #45903_178
+  - first:
+      213: -8814564005636230924
+    second: Great Nailsage Sly - atlas0 #45903_179
+  - first:
+      213: -9139129148542227323
+    second: Great Nailsage Sly - atlas0 #45903_180
+  - first:
+      213: -2123523233103187277
+    second: Great Nailsage Sly - atlas0 #45903_181
+  - first:
+      213: -7257710907563822107
+    second: Great Nailsage Sly - atlas0 #45903_182
+  - first:
+      213: -7297355405676691964
+    second: Great Nailsage Sly - atlas0 #45903_183
+  - first:
+      213: -1549080022751185936
+    second: Great Nailsage Sly - atlas0 #45903_184
+  - first:
+      213: 2953870589016934253
+    second: Great Nailsage Sly - atlas0 #45903_185
+  - first:
+      213: 4849703807506286608
+    second: Great Nailsage Sly - atlas0 #45903_186
+  - first:
+      213: 7775188485746549292
+    second: Great Nailsage Sly - atlas0 #45903_187
+  - first:
+      213: 169064355397864241
+    second: Great Nailsage Sly - atlas0 #45903_188
+  - first:
+      213: -1963327419954416381
+    second: Great Nailsage Sly - atlas0 #45903_189
+  - first:
+      213: 5442943908059813413
+    second: Great Nailsage Sly - atlas0 #45903_190
+  - first:
+      213: 6711886930367090092
+    second: Great Nailsage Sly - atlas0 #45903_191
+  - first:
+      213: 9217759404444215977
+    second: Great Nailsage Sly - atlas0 #45903_192
+  - first:
+      213: 2053914927764730591
+    second: Great Nailsage Sly - atlas0 #45903_193
+  - first:
+      213: -2470098092399459437
+    second: Great Nailsage Sly - atlas0 #45903_194
+  - first:
+      213: -8993631504795770161
+    second: Great Nailsage Sly - atlas0 #45903_195
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Great Nailsage Sly - atlas0 #45903_0
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 4015
+        width: 132
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 308827b1ebb595360800000000000000
+      internalID: 7158853954744518659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Great Nailsage Sly - atlas0 #45903_1
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 4012
+        width: 132
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 545dacfeda300f160800000000000000
+      internalID: 7057144661676840261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Great Nailsage Sly - atlas0 #45903_2
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 4015
+        width: 132
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec4fba32e8a821ce0800000000000000
+      internalID: -1435932988089305906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Great Nailsage Sly - atlas0 #45903_3
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 3966
+        width: 709
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c4a0e4878d4eccf0800000000000000
+      internalID: -230161286504078137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Great Nailsage Sly - atlas0 #45903_4
+      rect:
+        serializedVersion: 2
+        x: 1444
+        y: 3943
+        width: 286
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93b2a6365ba93faa0800000000000000
+      internalID: -6128384564073452743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Great Nailsage Sly - atlas0 #45903_5
+      rect:
+        serializedVersion: 2
+        x: 1731
+        y: 3939
+        width: 338
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24a30128477035870800000000000000
+      internalID: 8670281904598039106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Great Nailsage Sly - atlas0 #45903_6
+      rect:
+        serializedVersion: 2
+        x: 2067
+        y: 3995
+        width: 342
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 797132ba5f4298000800000000000000
+      internalID: 38602709366151063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Great Nailsage Sly - atlas0 #45903_7
+      rect:
+        serializedVersion: 2
+        x: 2407
+        y: 3995
+        width: 109
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3394446968f3cc80800000000000000
+      internalID: -8303520156403592389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Great Nailsage Sly - atlas0 #45903_8
+      rect:
+        serializedVersion: 2
+        x: 2514
+        y: 3995
+        width: 242
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e16d28519d21e770800000000000000
+      internalID: 8638235662546199015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Great Nailsage Sly - atlas0 #45903_9
+      rect:
+        serializedVersion: 2
+        x: 2754
+        y: 3995
+        width: 132
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 957b1b6b3b3ee0d00800000000000000
+      internalID: 940939733170763609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Great Nailsage Sly - atlas0 #45903_10
+      rect:
+        serializedVersion: 2
+        x: 2884
+        y: 3995
+        width: 131
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a09a1811b49da770800000000000000
+      internalID: 8623712349818884258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Great Nailsage Sly - atlas0 #45903_11
+      rect:
+        serializedVersion: 2
+        x: 3013
+        y: 3721
+        width: 283
+        height: 339
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8508a48a0bebb7ce0800000000000000
+      internalID: -1406320792676171688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Great Nailsage Sly - atlas0 #45903_12
+      rect:
+        serializedVersion: 2
+        x: 3195
+        y: 4046
+        width: 26
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e431e290a126f950800000000000000
+      internalID: 6482405687189124320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Great Nailsage Sly - atlas0 #45903_13
+      rect:
+        serializedVersion: 2
+        x: 3210
+        y: 4045
+        width: 36
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 332fda001b8173940800000000000000
+      internalID: 5275712636987503155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Great Nailsage Sly - atlas0 #45903_14
+      rect:
+        serializedVersion: 2
+        x: 3294
+        y: 4003
+        width: 131
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46f9ac45fa5cf5aa0800000000000000
+      internalID: -6169995607641776284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Great Nailsage Sly - atlas0 #45903_15
+      rect:
+        serializedVersion: 2
+        x: 3492
+        y: 3851
+        width: 165
+        height: 243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e6664935f7a1bc60800000000000000
+      internalID: 7832225898643744487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Great Nailsage Sly - atlas0 #45903_16
+      rect:
+        serializedVersion: 2
+        x: 3655
+        y: 3995
+        width: 107
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25a060eae4e4aa720800000000000000
+      internalID: 2858183013354048082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Great Nailsage Sly - atlas0 #45903_17
+      rect:
+        serializedVersion: 2
+        x: 3760
+        y: 3995
+        width: 130
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9c0fbd2f33ab18c0800000000000000
+      internalID: -4027445950007014242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Great Nailsage Sly - atlas0 #45903_18
+      rect:
+        serializedVersion: 2
+        x: 3888
+        y: 3995
+        width: 128
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18d4981d20eaffb20800000000000000
+      internalID: 3170443989820722561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Great Nailsage Sly - atlas0 #45903_19
+      rect:
+        serializedVersion: 2
+        x: 4014
+        y: 3995
+        width: 80
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a087bd85d7428610800000000000000
+      internalID: 1621937798338019496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Great Nailsage Sly - atlas0 #45903_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3655
+        width: 340
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0af4439e7ab5ee750800000000000000
+      internalID: 6336102502487052192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Great Nailsage Sly - atlas0 #45903_21
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 4038
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d64aa019b36463280800000000000000
+      internalID: -9063979978386135955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Great Nailsage Sly - atlas0 #45903_22
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 3911
+        width: 343
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49f205aecae3be360800000000000000
+      internalID: 7199917341668290452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Great Nailsage Sly - atlas0 #45903_23
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 3955
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4b502e5fd58c6990800000000000000
+      internalID: -7391385694018446514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Great Nailsage Sly - atlas0 #45903_24
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 3642
+        width: 357
+        height: 362
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64aa819b4548e6ff0800000000000000
+      internalID: -40949847182235066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Great Nailsage Sly - atlas0 #45903_25
+      rect:
+        serializedVersion: 2
+        x: 1046
+        y: 3635
+        width: 380
+        height: 328
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d42ed3bd061bf00e0800000000000000
+      internalID: -2301425855009791411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Great Nailsage Sly - atlas0 #45903_26
+      rect:
+        serializedVersion: 2
+        x: 1255
+        y: 3961
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a8df0553d8976a50800000000000000
+      internalID: 6514343419447335076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Great Nailsage Sly - atlas0 #45903_27
+      rect:
+        serializedVersion: 2
+        x: 2067
+        y: 3929
+        width: 98
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1a919120e69b3290800000000000000
+      internalID: -7909562431166113253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Great Nailsage Sly - atlas0 #45903_28
+      rect:
+        serializedVersion: 2
+        x: 2707
+        y: 3716
+        width: 220
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e231c2b3e0e3cc360800000000000000
+      internalID: 7191190935847047982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Great Nailsage Sly - atlas0 #45903_29
+      rect:
+        serializedVersion: 2
+        x: 2925
+        y: 3838
+        width: 80
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ac36a4fd902e0360800000000000000
+      internalID: 7137678322215304356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Great Nailsage Sly - atlas0 #45903_30
+      rect:
+        serializedVersion: 2
+        x: 3294
+        y: 3718
+        width: 200
+        height: 284
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87a0b0009ec990d40800000000000000
+      internalID: 5551140540252883576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Great Nailsage Sly - atlas0 #45903_31
+      rect:
+        serializedVersion: 2
+        x: 3702
+        y: 3660
+        width: 332
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 412c580705a3f5750800000000000000
+      internalID: 6295814921246851604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Great Nailsage Sly - atlas0 #45903_32
+      rect:
+        serializedVersion: 2
+        x: 1434
+        y: 3628
+        width: 365
+        height: 316
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 739dac3ee4994f500800000000000000
+      internalID: 429136428615260471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Great Nailsage Sly - atlas0 #45903_33
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 3628
+        width: 324
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96bf35786a665b490800000000000000
+      internalID: -7731160319890556055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Great Nailsage Sly - atlas0 #45903_34
+      rect:
+        serializedVersion: 2
+        x: 2125
+        y: 3849
+        width: 139
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6db167c8c9bb9560800000000000000
+      internalID: 7321649891210542445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Great Nailsage Sly - atlas0 #45903_35
+      rect:
+        serializedVersion: 2
+        x: 2262
+        y: 3630
+        width: 175
+        height: 315
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8484139817cbca950800000000000000
+      internalID: 6461746761188853832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Great Nailsage Sly - atlas0 #45903_36
+      rect:
+        serializedVersion: 2
+        x: 2433
+        y: 3893
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cf6d99a1f5459950800000000000000
+      internalID: 6455142545140576192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Great Nailsage Sly - atlas0 #45903_37
+      rect:
+        serializedVersion: 2
+        x: 2436
+        y: 3752
+        width: 248
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0048c153ba4220b10800000000000000
+      internalID: 1946158306726544384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Great Nailsage Sly - atlas0 #45903_38
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 3856
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cb7037b61ff2c1e0800000000000000
+      internalID: -2178898796666127418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Great Nailsage Sly - atlas0 #45903_39
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 3637
+        width: 98
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d0d4a49bc4f31c50800000000000000
+      internalID: 6634915831256240344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Great Nailsage Sly - atlas0 #45903_40
+      rect:
+        serializedVersion: 2
+        x: 1797
+        y: 3848
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45cdd686e2b258fc0800000000000000
+      internalID: -3493338457635431340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Great Nailsage Sly - atlas0 #45903_41
+      rect:
+        serializedVersion: 2
+        x: 4033
+        y: 3807
+        width: 14
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c691fb691835c54d0800000000000000
+      internalID: -3144546623766455956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Great Nailsage Sly - atlas0 #45903_42
+      rect:
+        serializedVersion: 2
+        x: 1427
+        y: 3748
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36ca78538bf219460800000000000000
+      internalID: 7246625743634410595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Great Nailsage Sly - atlas0 #45903_43
+      rect:
+        serializedVersion: 2
+        x: 2116
+        y: 3723
+        width: 12
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40b34abebc0e41090800000000000000
+      internalID: -8064573866277324028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Great Nailsage Sly - atlas0 #45903_44
+      rect:
+        serializedVersion: 2
+        x: 2125
+        y: 3750
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55fce7ccceb4a3210800000000000000
+      internalID: 1313445721747148629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Great Nailsage Sly - atlas0 #45903_45
+      rect:
+        serializedVersion: 2
+        x: 2130
+        y: 3646
+        width: 50
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 564b16953b5d7c330800000000000000
+      internalID: 3731185782575182949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Great Nailsage Sly - atlas0 #45903_46
+      rect:
+        serializedVersion: 2
+        x: 2183
+        y: 3692
+        width: 14
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08ca5dc4ee3ba2030800000000000000
+      internalID: 3470784298915048576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Great Nailsage Sly - atlas0 #45903_47
+      rect:
+        serializedVersion: 2
+        x: 2203
+        y: 3691
+        width: 29
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa00b0e3a6a850440800000000000000
+      internalID: 4901475958374727850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Great Nailsage Sly - atlas0 #45903_48
+      rect:
+        serializedVersion: 2
+        x: 2446
+        y: 3506
+        width: 261
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e950fd9d5d9862f30800000000000000
+      internalID: 4550476025080776094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Great Nailsage Sly - atlas0 #45903_49
+      rect:
+        serializedVersion: 2
+        x: 2925
+        y: 3709
+        width: 77
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e323bfd89c5f04bd0800000000000000
+      internalID: -2647846334874570178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Great Nailsage Sly - atlas0 #45903_50
+      rect:
+        serializedVersion: 2
+        x: 3512
+        y: 3541
+        width: 188
+        height: 312
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f51d6d46e59ddd960800000000000000
+      internalID: 7628492343277441375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Great Nailsage Sly - atlas0 #45903_51
+      rect:
+        serializedVersion: 2
+        x: 3143
+        y: 3718
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f717869148606ef0800000000000000
+      internalID: -116978959404034063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Great Nailsage Sly - atlas0 #45903_52
+      rect:
+        serializedVersion: 2
+        x: 3151
+        y: 3721
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07e0ca5e740e43d50800000000000000
+      internalID: 6716239543716810352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Great Nailsage Sly - atlas0 #45903_53
+      rect:
+        serializedVersion: 2
+        x: 2749
+        y: 3709
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01172175c2c16f950800000000000000
+      internalID: 6482399690411372816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Great Nailsage Sly - atlas0 #45903_54
+      rect:
+        serializedVersion: 2
+        x: 2801
+        y: 3704
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a39866d09f1175d90800000000000000
+      internalID: -7109193725411686086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Great Nailsage Sly - atlas0 #45903_55
+      rect:
+        serializedVersion: 2
+        x: 3428
+        y: 3378
+        width: 86
+        height: 342
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05502351799ad3260800000000000000
+      internalID: 7079000655657043280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Great Nailsage Sly - atlas0 #45903_56
+      rect:
+        serializedVersion: 2
+        x: 2218
+        y: 3627
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d19611bd0a784eb0800000000000000
+      internalID: -4735400808955866664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Great Nailsage Sly - atlas0 #45903_57
+      rect:
+        serializedVersion: 2
+        x: 2240
+        y: 3682
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a880a01c4cf506390800000000000000
+      internalID: -7827150853713033078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Great Nailsage Sly - atlas0 #45903_58
+      rect:
+        serializedVersion: 2
+        x: 2709
+        y: 3363
+        width: 279
+        height: 345
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54a567c2920299fe0800000000000000
+      internalID: -1181878065996342715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Great Nailsage Sly - atlas0 #45903_59
+      rect:
+        serializedVersion: 2
+        x: 2986
+        y: 3347
+        width: 275
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 227b276a69f536300800000000000000
+      internalID: 244143905450407714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Great Nailsage Sly - atlas0 #45903_60
+      rect:
+        serializedVersion: 2
+        x: 3259
+        y: 3425
+        width: 152
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a0fc01cd294c6440800000000000000
+      internalID: 4930396152925057188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Great Nailsage Sly - atlas0 #45903_61
+      rect:
+        serializedVersion: 2
+        x: 4038
+        y: 3667
+        width: 14
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03a07d8365ce72610800000000000000
+      internalID: 1596504447991089712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Great Nailsage Sly - atlas0 #45903_62
+      rect:
+        serializedVersion: 2
+        x: 3728
+        y: 3383
+        width: 349
+        height: 277
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c0a85c8c41f91050800000000000000
+      internalID: 5771909708526428352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Great Nailsage Sly - atlas0 #45903_63
+      rect:
+        serializedVersion: 2
+        x: 3995
+        y: 3658
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f96b743e0cb7740d0800000000000000
+      internalID: -3438643722097019233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Great Nailsage Sly - atlas0 #45903_64
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3541
+        width: 333
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd8ec5ed2ccbdfaf0800000000000000
+      internalID: -360924849979463460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Great Nailsage Sly - atlas0 #45903_65
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 3541
+        width: 382
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 816c4d42bea6cf680800000000000000
+      internalID: -8719977220328339944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Great Nailsage Sly - atlas0 #45903_66
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 3541
+        width: 374
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38b8c5f0d113c7440800000000000000
+      internalID: 4934873292572756867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Great Nailsage Sly - atlas0 #45903_67
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 3637
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 033d4bf15ea12d440800000000000000
+      internalID: 4959055711070114608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Great Nailsage Sly - atlas0 #45903_68
+      rect:
+        serializedVersion: 2
+        x: 1090
+        y: 3541
+        width: 340
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37675e3b6b672f800800000000000000
+      internalID: 644708223741687411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Great Nailsage Sly - atlas0 #45903_69
+      rect:
+        serializedVersion: 2
+        x: 1428
+        y: 3541
+        width: 342
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3007f5b125696d60800000000000000
+      internalID: 7883943818149953599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Great Nailsage Sly - atlas0 #45903_70
+      rect:
+        serializedVersion: 2
+        x: 1768
+        y: 3541
+        width: 680
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8803e33f03d2f8940800000000000000
+      internalID: 5300504974700982408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Great Nailsage Sly - atlas0 #45903_71
+      rect:
+        serializedVersion: 2
+        x: 1794
+        y: 3375
+        width: 604
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc912b26db45c6160800000000000000
+      internalID: 7020079091545151951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Great Nailsage Sly - atlas0 #45903_72
+      rect:
+        serializedVersion: 2
+        x: 3551
+        y: 3150
+        width: 151
+        height: 393
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df52ae0682b575640800000000000000
+      internalID: 5068620134611559933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Great Nailsage Sly - atlas0 #45903_73
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3391
+        width: 415
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f3f9e1ecffc46f80800000000000000
+      internalID: -8114131943585877002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Great Nailsage Sly - atlas0 #45903_74
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 3378
+        width: 384
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 568ad02a8f0ed64a0800000000000000
+      internalID: -6598370520552593307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Great Nailsage Sly - atlas0 #45903_75
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 3381
+        width: 327
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d201280f940efc0d0800000000000000
+      internalID: -3400252585469145043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Great Nailsage Sly - atlas0 #45903_76
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 3380
+        width: 334
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2021df58e625f9670800000000000000
+      internalID: 8547641252420325890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Great Nailsage Sly - atlas0 #45903_77
+      rect:
+        serializedVersion: 2
+        x: 1457
+        y: 3378
+        width: 339
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 855bae302724f2100800000000000000
+      internalID: 85359975402747224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Great Nailsage Sly - atlas0 #45903_78
+      rect:
+        serializedVersion: 2
+        x: 2396
+        y: 3375
+        width: 315
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54e8b2dd355fda9b0800000000000000
+      internalID: -5067124265180230075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Great Nailsage Sly - atlas0 #45903_79
+      rect:
+        serializedVersion: 2
+        x: 4076
+        y: 3499
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de07d272a75c57ba0800000000000000
+      internalID: -6091745792514756371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Great Nailsage Sly - atlas0 #45903_80
+      rect:
+        serializedVersion: 2
+        x: 1452
+        y: 3421
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b92c133b7a74af2c0800000000000000
+      internalID: -4397123300582374757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Great Nailsage Sly - atlas0 #45903_81
+      rect:
+        serializedVersion: 2
+        x: 3322
+        y: 3150
+        width: 108
+        height: 277
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53130bbe756e56a80800000000000000
+      internalID: -8474113858536984267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Great Nailsage Sly - atlas0 #45903_82
+      rect:
+        serializedVersion: 2
+        x: 3548
+        y: 3411
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 428dea1747d146cb0800000000000000
+      internalID: -4871736510947338204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Great Nailsage Sly - atlas0 #45903_83
+      rect:
+        serializedVersion: 2
+        x: 3701
+        y: 3406
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 910d1390036bdf2d0800000000000000
+      internalID: -3243235839207944167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Great Nailsage Sly - atlas0 #45903_84
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3150
+        width: 305
+        height: 235
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b9c9674521681980800000000000000
+      internalID: -8567991478332569159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Great Nailsage Sly - atlas0 #45903_85
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 3141
+        width: 278
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd03c251bd25cfd40800000000000000
+      internalID: 5619457535958069471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Great Nailsage Sly - atlas0 #45903_86
+      rect:
+        serializedVersion: 2
+        x: 1137
+        y: 3376
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0df78e90c3804b2c0800000000000000
+      internalID: -4416896280586321968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Great Nailsage Sly - atlas0 #45903_87
+      rect:
+        serializedVersion: 2
+        x: 1251
+        y: 3381
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b9ded6f91e79f550800000000000000
+      internalID: 6195121412405909944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Great Nailsage Sly - atlas0 #45903_88
+      rect:
+        serializedVersion: 2
+        x: 1767
+        y: 3125
+        width: 308
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f4b3cba6cdc4c610800000000000000
+      internalID: 1640662417438651639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Great Nailsage Sly - atlas0 #45903_89
+      rect:
+        serializedVersion: 2
+        x: 2075
+        y: 3107
+        width: 325
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d50053ea3aa1d3980800000000000000
+      internalID: -8557654426629373859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Great Nailsage Sly - atlas0 #45903_90
+      rect:
+        serializedVersion: 2
+        x: 2398
+        y: 3100
+        width: 332
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1547f03966b68b10800000000000000
+      internalID: 1983473248812614938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Great Nailsage Sly - atlas0 #45903_91
+      rect:
+        serializedVersion: 2
+        x: 2847
+        y: 3363
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 061cbf82eb41a1ff0800000000000000
+      internalID: -64716437679521440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Great Nailsage Sly - atlas0 #45903_92
+      rect:
+        serializedVersion: 2
+        x: 3051
+        y: 3344
+        width: 32
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 793954c7b672e53d0800000000000000
+      internalID: -3216089741296036969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Great Nailsage Sly - atlas0 #45903_93
+      rect:
+        serializedVersion: 2
+        x: 3432
+        y: 2718
+        width: 120
+        height: 662
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 784773f67b3552ee0800000000000000
+      internalID: -1286530071234382713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Great Nailsage Sly - atlas0 #45903_94
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 3150
+        width: 296
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d7e53cfd4b9add40800000000000000
+      internalID: 5609967045089552336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Great Nailsage Sly - atlas0 #45903_95
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 3004
+        width: 542
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7398afcc68de32310800000000000000
+      internalID: 1379207074125875511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Great Nailsage Sly - atlas0 #45903_96
+      rect:
+        serializedVersion: 2
+        x: 1163
+        y: 3150
+        width: 315
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c3489df1b982f850800000000000000
+      internalID: 6409336617258468289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Great Nailsage Sly - atlas0 #45903_97
+      rect:
+        serializedVersion: 2
+        x: 1476
+        y: 3140
+        width: 293
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9b657be022ca7260800000000000000
+      internalID: 7096197609520720795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Great Nailsage Sly - atlas0 #45903_98
+      rect:
+        serializedVersion: 2
+        x: 2730
+        y: 3096
+        width: 279
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6880a927101d0e660800000000000000
+      internalID: 7413154790799706246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Great Nailsage Sly - atlas0 #45903_99
+      rect:
+        serializedVersion: 2
+        x: 3007
+        y: 3258
+        width: 128
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 038b651144db487a0800000000000000
+      internalID: -6375763072403458000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Great Nailsage Sly - atlas0 #45903_100
+      rect:
+        serializedVersion: 2
+        x: 3133
+        y: 3258
+        width: 126
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6de5e4448a024e510800000000000000
+      internalID: 1577421676559097558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Great Nailsage Sly - atlas0 #45903_101
+      rect:
+        serializedVersion: 2
+        x: 3736
+        y: 2859
+        width: 332
+        height: 413
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00ea21ddf0a97a940800000000000000
+      internalID: 5307380078803594752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Great Nailsage Sly - atlas0 #45903_102
+      rect:
+        serializedVersion: 2
+        x: 3752
+        y: 3270
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1a0ae881d66cdb80800000000000000
+      internalID: -8368700957429986788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Great Nailsage Sly - atlas0 #45903_103
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2999
+        width: 349
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d41118dbefb2ccd0800000000000000
+      internalID: -2539256220220320556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Great Nailsage Sly - atlas0 #45903_104
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 2999
+        width: 334
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f8bcf18397af2d30800000000000000
+      internalID: 4408926812201859313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Great Nailsage Sly - atlas0 #45903_105
+      rect:
+        serializedVersion: 2
+        x: 1017
+        y: 3042
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cc665b980c2d3ab0800000000000000
+      internalID: -5026813193598112567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Great Nailsage Sly - atlas0 #45903_106
+      rect:
+        serializedVersion: 2
+        x: 1027
+        y: 2999
+        width: 332
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 036d3c1fce2342220800000000000000
+      internalID: 2460147289700947504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Great Nailsage Sly - atlas0 #45903_107
+      rect:
+        serializedVersion: 2
+        x: 1357
+        y: 3003
+        width: 333
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40825072c8d177840800000000000000
+      internalID: 5221674780746655748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Great Nailsage Sly - atlas0 #45903_108
+      rect:
+        serializedVersion: 2
+        x: 1688
+        y: 3005
+        width: 339
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be2ab61e0e8e03660800000000000000
+      internalID: 7363641443303006955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Great Nailsage Sly - atlas0 #45903_109
+      rect:
+        serializedVersion: 2
+        x: 2027
+        y: 2999
+        width: 338
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02e9ee2996d29e3d0800000000000000
+      internalID: -3176958130673246688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Great Nailsage Sly - atlas0 #45903_110
+      rect:
+        serializedVersion: 2
+        x: 2364
+        y: 2999
+        width: 341
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 740321d0d82dc2b40800000000000000
+      internalID: 5416935955071381575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Great Nailsage Sly - atlas0 #45903_111
+      rect:
+        serializedVersion: 2
+        x: 2708
+        y: 3043
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f014b7d00daad360800000000000000
+      internalID: 7195253573808296185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Great Nailsage Sly - atlas0 #45903_112
+      rect:
+        serializedVersion: 2
+        x: 2710
+        y: 2999
+        width: 373
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53a45d078dbb45970800000000000000
+      internalID: 8742819314913331765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Great Nailsage Sly - atlas0 #45903_113
+      rect:
+        serializedVersion: 2
+        x: 3081
+        y: 2999
+        width: 243
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cd0a1b77c1f49630800000000000000
+      internalID: 3933034213667376583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Great Nailsage Sly - atlas0 #45903_114
+      rect:
+        serializedVersion: 2
+        x: 3342
+        y: 2784
+        width: 92
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1056602e2c40375b0800000000000000
+      internalID: -5371944695460633343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Great Nailsage Sly - atlas0 #45903_115
+      rect:
+        serializedVersion: 2
+        x: 3550
+        y: 2834
+        width: 188
+        height: 319
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f03542c408b44550800000000000000
+      internalID: 6144238122218893560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Great Nailsage Sly - atlas0 #45903_116
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 2999
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b3d123126a6f2a30800000000000000
+      internalID: 4192686747565544370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Great Nailsage Sly - atlas0 #45903_117
+      rect:
+        serializedVersion: 2
+        x: 1372
+        y: 2999
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87560391daa2f5a70800000000000000
+      internalID: 8817813518355031416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Great Nailsage Sly - atlas0 #45903_118
+      rect:
+        serializedVersion: 2
+        x: 1948
+        y: 2999
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40a2bfba76fc89c60800000000000000
+      internalID: 7825232396730182148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Great Nailsage Sly - atlas0 #45903_119
+      rect:
+        serializedVersion: 2
+        x: 3142
+        y: 1276
+        width: 195
+        height: 1725
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9de4cda4c77555e40800000000000000
+      internalID: 5644513899322298073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Great Nailsage Sly - atlas0 #45903_120
+      rect:
+        serializedVersion: 2
+        x: 3771
+        y: 2353
+        width: 309
+        height: 505
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 402aea93ddbeb47f0800000000000000
+      internalID: -627148387700006396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Great Nailsage Sly - atlas0 #45903_121
+      rect:
+        serializedVersion: 2
+        x: 3897
+        y: 2854
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c849b94a71998aac0800000000000000
+      internalID: -3843653955135761268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Great Nailsage Sly - atlas0 #45903_122
+      rect:
+        serializedVersion: 2
+        x: 3342
+        y: 2042
+        width: 101
+        height: 744
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca95e0de355dd6d80800000000000000
+      internalID: -8255707985464108628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Great Nailsage Sly - atlas0 #45903_123
+      rect:
+        serializedVersion: 2
+        x: 3445
+        y: 2371
+        width: 117
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0a56bcd802af32c0800000000000000
+      internalID: -4449659747872384502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Great Nailsage Sly - atlas0 #45903_124
+      rect:
+        serializedVersion: 2
+        x: 3567
+        y: 2430
+        width: 142
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1dbcd775c9029230800000000000000
+      internalID: 3643985792220314910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Great Nailsage Sly - atlas0 #45903_125
+      rect:
+        serializedVersion: 2
+        x: 3617
+        y: 2425
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 314108d62c7a7fb20800000000000000
+      internalID: 3168185316381037587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Great Nailsage Sly - atlas0 #45903_126
+      rect:
+        serializedVersion: 2
+        x: 3439
+        y: 2040
+        width: 125
+        height: 333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cf6a1706ccce1470800000000000000
+      internalID: 8367350308595724232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Great Nailsage Sly - atlas0 #45903_127
+      rect:
+        serializedVersion: 2
+        x: 3562
+        y: 2328
+        width: 143
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a0296cdc277a40a0800000000000000
+      internalID: -6896568844804349789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Great Nailsage Sly - atlas0 #45903_128
+      rect:
+        serializedVersion: 2
+        x: 3667
+        y: 2080
+        width: 106
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b003512c5dd2f32d0800000000000000
+      internalID: -3296866006104461301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Great Nailsage Sly - atlas0 #45903_129
+      rect:
+        serializedVersion: 2
+        x: 3808
+        y: 2001
+        width: 279
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cac06c4b190f07930800000000000000
+      internalID: 4139072566147288236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Great Nailsage Sly - atlas0 #45903_130
+      rect:
+        serializedVersion: 2
+        x: 3830
+        y: 2334
+        width: 31
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bbcfffb47a73e630800000000000000
+      internalID: 3955139539617434549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Great Nailsage Sly - atlas0 #45903_131
+      rect:
+        serializedVersion: 2
+        x: 3804
+        y: 2277
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 338f6579a251d28e0800000000000000
+      internalID: -1716692610286421965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Great Nailsage Sly - atlas0 #45903_132
+      rect:
+        serializedVersion: 2
+        x: 2947
+        y: 1284
+        width: 197
+        height: 887
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84f3b5bf7d4a86c80800000000000000
+      internalID: -8329226263279747256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Great Nailsage Sly - atlas0 #45903_133
+      rect:
+        serializedVersion: 2
+        x: 3564
+        y: 997
+        width: 225
+        height: 1084
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b43fae8a37b07460800000000000000
+      internalID: 7237486063314220217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Great Nailsage Sly - atlas0 #45903_134
+      rect:
+        serializedVersion: 2
+        x: 3781
+        y: 2053
+        width: 7
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f6d2cc7b9ba08970800000000000000
+      internalID: 8755186359909668598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Great Nailsage Sly - atlas0 #45903_135
+      rect:
+        serializedVersion: 2
+        x: 3791
+        y: 1994
+        width: 15
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 999511c7090a2ac10800000000000000
+      internalID: 2063388121706355097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Great Nailsage Sly - atlas0 #45903_136
+      rect:
+        serializedVersion: 2
+        x: 3331
+        y: 1673
+        width: 113
+        height: 371
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85bbc94d5bd602580800000000000000
+      internalID: -8853956239686845608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Great Nailsage Sly - atlas0 #45903_137
+      rect:
+        serializedVersion: 2
+        x: 3443
+        y: 1346
+        width: 123
+        height: 696
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5618c78e1bccad0a0800000000000000
+      internalID: -6855942418236407451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Great Nailsage Sly - atlas0 #45903_138
+      rect:
+        serializedVersion: 2
+        x: 3781
+        y: 1821
+        width: 12
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36ff07e709a4d1b80800000000000000
+      internalID: -8422493743655878813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Great Nailsage Sly - atlas0 #45903_139
+      rect:
+        serializedVersion: 2
+        x: 3788
+        y: 1253
+        width: 273
+        height: 750
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f761077bf76c71c20800000000000000
+      internalID: 3177226313973896831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Great Nailsage Sly - atlas0 #45903_140
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 514
+        width: 364
+        height: 1073
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa4531190abee8820800000000000000
+      internalID: 2922532283071288490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Great Nailsage Sly - atlas0 #45903_141
+      rect:
+        serializedVersion: 2
+        x: 2646
+        y: 1381
+        width: 100
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40197f428d0a5f3f0800000000000000
+      internalID: -867610503005368060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Great Nailsage Sly - atlas0 #45903_142
+      rect:
+        serializedVersion: 2
+        x: 2742
+        y: 579
+        width: 207
+        height: 890
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fbafa271e1a49ff0800000000000000
+      internalID: -30221307820921865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Great Nailsage Sly - atlas0 #45903_143
+      rect:
+        serializedVersion: 2
+        x: 3331
+        y: 1284
+        width: 112
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 367fece3bcd791790800000000000000
+      internalID: -7558872187679082653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Great Nailsage Sly - atlas0 #45903_144
+      rect:
+        serializedVersion: 2
+        x: 3441
+        y: 1454
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f9f56aed765d1ab0800000000000000
+      internalID: -5035773709526894095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Great Nailsage Sly - atlas0 #45903_145
+      rect:
+        serializedVersion: 2
+        x: 1975
+        y: 1246
+        width: 86
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ce7952bcef4dfb60800000000000000
+      internalID: 7781463609189170887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Great Nailsage Sly - atlas0 #45903_146
+      rect:
+        serializedVersion: 2
+        x: 2252
+        y: 1247
+        width: 94
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8adab13c2d18768e0800000000000000
+      internalID: -1700247592092586584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Great Nailsage Sly - atlas0 #45903_147
+      rect:
+        serializedVersion: 2
+        x: 2360
+        y: 1238
+        width: 79
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 073df743932811c20800000000000000
+      internalID: 3175462394478449520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Great Nailsage Sly - atlas0 #45903_148
+      rect:
+        serializedVersion: 2
+        x: 2439
+        y: 1129
+        width: 120
+        height: 211
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57ffaa16c96bd15e0800000000000000
+      internalID: -1937191481929695371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Great Nailsage Sly - atlas0 #45903_149
+      rect:
+        serializedVersion: 2
+        x: 2545
+        y: 1312
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a814caa8a91da4a0800000000000000
+      internalID: -6580575268308248410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Great Nailsage Sly - atlas0 #45903_150
+      rect:
+        serializedVersion: 2
+        x: 2557
+        y: 1218
+        width: 85
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8b5b5932dea45300800000000000000
+      internalID: 240008898086132619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Great Nailsage Sly - atlas0 #45903_151
+      rect:
+        serializedVersion: 2
+        x: 2640
+        y: 1268
+        width: 106
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f93f1848c6e76e0d0800000000000000
+      internalID: -3393886264632413281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Great Nailsage Sly - atlas0 #45903_152
+      rect:
+        serializedVersion: 2
+        x: 3457
+        y: 412
+        width: 118
+        height: 924
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30fd77bdc8799e370800000000000000
+      internalID: 8352373615168577283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Great Nailsage Sly - atlas0 #45903_153
+      rect:
+        serializedVersion: 2
+        x: 4042
+        y: 1275
+        width: 39
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8902ea472cb1c580800000000000000
+      internalID: -8808552519213905521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Great Nailsage Sly - atlas0 #45903_154
+      rect:
+        serializedVersion: 2
+        x: 2033
+        y: 1242
+        width: 45
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a34ae55ab3be3af90800000000000000
+      internalID: -6943447559065131974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Great Nailsage Sly - atlas0 #45903_155
+      rect:
+        serializedVersion: 2
+        x: 2107
+        y: 840
+        width: 150
+        height: 443
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87f816244721151d0800000000000000
+      internalID: -3363887156129853576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Great Nailsage Sly - atlas0 #45903_156
+      rect:
+        serializedVersion: 2
+        x: 2648
+        y: 1155
+        width: 102
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f4eff48257e57050800000000000000
+      internalID: 5797794436914078963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Great Nailsage Sly - atlas0 #45903_157
+      rect:
+        serializedVersion: 2
+        x: 2947
+        y: 910
+        width: 474
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7c19e6d743529430800000000000000
+      internalID: 3788181804585393278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Great Nailsage Sly - atlas0 #45903_158
+      rect:
+        serializedVersion: 2
+        x: 3205
+        y: 1263
+        width: 64
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70aaa5d1cfc1c8390800000000000000
+      internalID: -7814839384244835833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Great Nailsage Sly - atlas0 #45903_159
+      rect:
+        serializedVersion: 2
+        x: 4038
+        y: 1152
+        width: 45
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8a740ea00d7b05c0800000000000000
+      internalID: -4248164381620929909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Great Nailsage Sly - atlas0 #45903_160
+      rect:
+        serializedVersion: 2
+        x: 1530
+        y: 979
+        width: 223
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e1e488f579b4b980800000000000000
+      internalID: -8523984278373735961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Great Nailsage Sly - atlas0 #45903_161
+      rect:
+        serializedVersion: 2
+        x: 1751
+        y: 979
+        width: 87
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7255bbd8dd453fe0800000000000000
+      internalID: -1209975331084742017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Great Nailsage Sly - atlas0 #45903_162
+      rect:
+        serializedVersion: 2
+        x: 1839
+        y: 1042
+        width: 138
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16acbdee85d457610800000000000000
+      internalID: 1618284685469403745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Great Nailsage Sly - atlas0 #45903_163
+      rect:
+        serializedVersion: 2
+        x: 1975
+        y: 1005
+        width: 131
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47732f990fff81480800000000000000
+      internalID: -8928104852421986444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Great Nailsage Sly - atlas0 #45903_164
+      rect:
+        serializedVersion: 2
+        x: 2253
+        y: 542
+        width: 192
+        height: 707
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e083255c2a8e5a100800000000000000
+      internalID: 118756750988032014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Great Nailsage Sly - atlas0 #45903_165
+      rect:
+        serializedVersion: 2
+        x: 2557
+        y: 1120
+        width: 92
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9574c99ccbc637710800000000000000
+      internalID: 1689813843286181721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Great Nailsage Sly - atlas0 #45903_166
+      rect:
+        serializedVersion: 2
+        x: 2646
+        y: 1053
+        width: 88
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83d5e49efbc60a910800000000000000
+      internalID: 1846595418730683704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Great Nailsage Sly - atlas0 #45903_167
+      rect:
+        serializedVersion: 2
+        x: 3780
+        y: 997
+        width: 264
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b3e1984bbf477a80800000000000000
+      internalID: -8469212908451929167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Great Nailsage Sly - atlas0 #45903_168
+      rect:
+        serializedVersion: 2
+        x: 4041
+        y: 993
+        width: 53
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d07029b7c5c187900800000000000000
+      internalID: 682326527082366733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Great Nailsage Sly - atlas0 #45903_169
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 514
+        width: 378
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 719f73a872173cf20800000000000000
+      internalID: 3441718954877778199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Great Nailsage Sly - atlas0 #45903_170
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 719
+        width: 42
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74ce783d7274ad6f0800000000000000
+      internalID: -659136159078159289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Great Nailsage Sly - atlas0 #45903_171
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 484
+        width: 769
+        height: 522
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b43a4998d06f21d0800000000000000
+      internalID: -3373371112476232526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Great Nailsage Sly - atlas0 #45903_172
+      rect:
+        serializedVersion: 2
+        x: 1530
+        y: 813
+        width: 238
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef0517ad25c1f8100800000000000000
+      internalID: 112339657885307134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Great Nailsage Sly - atlas0 #45903_173
+      rect:
+        serializedVersion: 2
+        x: 1530
+        y: 543
+        width: 314
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd8daeb61d2787e70800000000000000
+      internalID: 9113160089768483039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Great Nailsage Sly - atlas0 #45903_174
+      rect:
+        serializedVersion: 2
+        x: 1553
+        y: 0
+        width: 720
+        height: 550
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f5735627109c4040800000000000000
+      internalID: 4633236545759049207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Great Nailsage Sly - atlas0 #45903_175
+      rect:
+        serializedVersion: 2
+        x: 1766
+        y: 813
+        width: 81
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a414fddb10863ad0800000000000000
+      internalID: -2722848067522653019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Great Nailsage Sly - atlas0 #45903_176
+      rect:
+        serializedVersion: 2
+        x: 1842
+        y: 545
+        width: 294
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 913adad0fa09ab370800000000000000
+      internalID: 8339136741553054489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Great Nailsage Sly - atlas0 #45903_177
+      rect:
+        serializedVersion: 2
+        x: 1847
+        y: 740
+        width: 130
+        height: 304
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68c23d54c71cfa7c0800000000000000
+      internalID: -4057811999745954682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Great Nailsage Sly - atlas0 #45903_178
+      rect:
+        serializedVersion: 2
+        x: 1867
+        y: 733
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0705dfedcc8cbb2e0800000000000000
+      internalID: -2108871218252918672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Great Nailsage Sly - atlas0 #45903_179
+      rect:
+        serializedVersion: 2
+        x: 1975
+        y: 740
+        width: 142
+        height: 267
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f0bb1a0db06ca580800000000000000
+      internalID: -8814564005636230924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Great Nailsage Sly - atlas0 #45903_180
+      rect:
+        serializedVersion: 2
+        x: 2131
+        y: 552
+        width: 136
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58ce8b8e57a4b2180800000000000000
+      internalID: -9139129148542227323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Great Nailsage Sly - atlas0 #45903_181
+      rect:
+        serializedVersion: 2
+        x: 2271
+        y: 0
+        width: 644
+        height: 544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b27892dedab782e0800000000000000
+      internalID: -2123523233103187277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Great Nailsage Sly - atlas0 #45903_182
+      rect:
+        serializedVersion: 2
+        x: 2439
+        y: 956
+        width: 209
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e33e20f16e674b90800000000000000
+      internalID: -7257710907563822107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Great Nailsage Sly - atlas0 #45903_183
+      rect:
+        serializedVersion: 2
+        x: 2443
+        y: 542
+        width: 204
+        height: 413
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40e3ddcebe59aba90800000000000000
+      internalID: -7297355405676691964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Great Nailsage Sly - atlas0 #45903_184
+      rect:
+        serializedVersion: 2
+        x: 2645
+        y: 542
+        width: 105
+        height: 513
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f3f24b3def808ae0800000000000000
+      internalID: -1549080022751185936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Great Nailsage Sly - atlas0 #45903_185
+      rect:
+        serializedVersion: 2
+        x: 2839
+        y: 542
+        width: 25
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6704d286a14ef820800000000000000
+      internalID: 2953870589016934253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Great Nailsage Sly - atlas0 #45903_186
+      rect:
+        serializedVersion: 2
+        x: 2951
+        y: 412
+        width: 505
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01885480beb9d4340800000000000000
+      internalID: 4849703807506286608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Great Nailsage Sly - atlas0 #45903_187
+      rect:
+        serializedVersion: 2
+        x: 3563
+        y: 0
+        width: 518
+        height: 999
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2261aaabb407eb60800000000000000
+      internalID: 7775188485746549292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Great Nailsage Sly - atlas0 #45903_188
+      rect:
+        serializedVersion: 2
+        x: 4063
+        y: 497
+        width: 32
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13b8bafa223a85200800000000000000
+      internalID: 169064355397864241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Great Nailsage Sly - atlas0 #45903_189
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 765
+        height: 516
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30535db1d1cd0c4e0800000000000000
+      internalID: -1963327419954416381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Great Nailsage Sly - atlas0 #45903_190
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 490
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 526184c75a8398b40800000000000000
+      internalID: 5442943908059813413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Great Nailsage Sly - atlas0 #45903_191
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 0
+        width: 792
+        height: 484
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cad0e112a99652d50800000000000000
+      internalID: 6711886930367090092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Great Nailsage Sly - atlas0 #45903_192
+      rect:
+        serializedVersion: 2
+        x: 2896
+        y: 198
+        width: 24
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9aae9ee275f0cef70800000000000000
+      internalID: 9217759404444215977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Great Nailsage Sly - atlas0 #45903_193
+      rect:
+        serializedVersion: 2
+        x: 2918
+        y: 199
+        width: 26
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd2f944aeb8f08c10800000000000000
+      internalID: 2053914927764730591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Great Nailsage Sly - atlas0 #45903_194
+      rect:
+        serializedVersion: 2
+        x: 2951
+        y: 0
+        width: 630
+        height: 414
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39309224fd278bdd0800000000000000
+      internalID: -2470098092399459437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Great Nailsage Sly - atlas0 #45903_195
+      rect:
+        serializedVersion: 2
+        x: 2902
+        y: 136
+        width: 51
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc2e2e3fbc3303380800000000000000
+      internalID: -8993631504795770161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Great Nailsage Sly - atlas0 #45903_0: 7158853954744518659
+      Great Nailsage Sly - atlas0 #45903_1: 7057144661676840261
+      Great Nailsage Sly - atlas0 #45903_10: 8623712349818884258
+      Great Nailsage Sly - atlas0 #45903_100: 1577421676559097558
+      Great Nailsage Sly - atlas0 #45903_101: 5307380078803594752
+      Great Nailsage Sly - atlas0 #45903_102: -8368700957429986788
+      Great Nailsage Sly - atlas0 #45903_103: -2539256220220320556
+      Great Nailsage Sly - atlas0 #45903_104: 4408926812201859313
+      Great Nailsage Sly - atlas0 #45903_105: -5026813193598112567
+      Great Nailsage Sly - atlas0 #45903_106: 2460147289700947504
+      Great Nailsage Sly - atlas0 #45903_107: 5221674780746655748
+      Great Nailsage Sly - atlas0 #45903_108: 7363641443303006955
+      Great Nailsage Sly - atlas0 #45903_109: -3176958130673246688
+      Great Nailsage Sly - atlas0 #45903_11: -1406320792676171688
+      Great Nailsage Sly - atlas0 #45903_110: 5416935955071381575
+      Great Nailsage Sly - atlas0 #45903_111: 7195253573808296185
+      Great Nailsage Sly - atlas0 #45903_112: 8742819314913331765
+      Great Nailsage Sly - atlas0 #45903_113: 3933034213667376583
+      Great Nailsage Sly - atlas0 #45903_114: -5371944695460633343
+      Great Nailsage Sly - atlas0 #45903_115: 6144238122218893560
+      Great Nailsage Sly - atlas0 #45903_116: 4192686747565544370
+      Great Nailsage Sly - atlas0 #45903_117: 8817813518355031416
+      Great Nailsage Sly - atlas0 #45903_118: 7825232396730182148
+      Great Nailsage Sly - atlas0 #45903_119: 5644513899322298073
+      Great Nailsage Sly - atlas0 #45903_12: 6482405687189124320
+      Great Nailsage Sly - atlas0 #45903_120: -627148387700006396
+      Great Nailsage Sly - atlas0 #45903_121: -3843653955135761268
+      Great Nailsage Sly - atlas0 #45903_122: -8255707985464108628
+      Great Nailsage Sly - atlas0 #45903_123: -4449659747872384502
+      Great Nailsage Sly - atlas0 #45903_124: 3643985792220314910
+      Great Nailsage Sly - atlas0 #45903_125: 3168185316381037587
+      Great Nailsage Sly - atlas0 #45903_126: 8367350308595724232
+      Great Nailsage Sly - atlas0 #45903_127: -6896568844804349789
+      Great Nailsage Sly - atlas0 #45903_128: -3296866006104461301
+      Great Nailsage Sly - atlas0 #45903_129: 4139072566147288236
+      Great Nailsage Sly - atlas0 #45903_13: 5275712636987503155
+      Great Nailsage Sly - atlas0 #45903_130: 3955139539617434549
+      Great Nailsage Sly - atlas0 #45903_131: -1716692610286421965
+      Great Nailsage Sly - atlas0 #45903_132: -8329226263279747256
+      Great Nailsage Sly - atlas0 #45903_133: 7237486063314220217
+      Great Nailsage Sly - atlas0 #45903_134: 8755186359909668598
+      Great Nailsage Sly - atlas0 #45903_135: 2063388121706355097
+      Great Nailsage Sly - atlas0 #45903_136: -8853956239686845608
+      Great Nailsage Sly - atlas0 #45903_137: -6855942418236407451
+      Great Nailsage Sly - atlas0 #45903_138: -8422493743655878813
+      Great Nailsage Sly - atlas0 #45903_139: 3177226313973896831
+      Great Nailsage Sly - atlas0 #45903_14: -6169995607641776284
+      Great Nailsage Sly - atlas0 #45903_140: 2922532283071288490
+      Great Nailsage Sly - atlas0 #45903_141: -867610503005368060
+      Great Nailsage Sly - atlas0 #45903_142: -30221307820921865
+      Great Nailsage Sly - atlas0 #45903_143: -7558872187679082653
+      Great Nailsage Sly - atlas0 #45903_144: -5035773709526894095
+      Great Nailsage Sly - atlas0 #45903_145: 7781463609189170887
+      Great Nailsage Sly - atlas0 #45903_146: -1700247592092586584
+      Great Nailsage Sly - atlas0 #45903_147: 3175462394478449520
+      Great Nailsage Sly - atlas0 #45903_148: -1937191481929695371
+      Great Nailsage Sly - atlas0 #45903_149: -6580575268308248410
+      Great Nailsage Sly - atlas0 #45903_15: 7832225898643744487
+      Great Nailsage Sly - atlas0 #45903_150: 240008898086132619
+      Great Nailsage Sly - atlas0 #45903_151: -3393886264632413281
+      Great Nailsage Sly - atlas0 #45903_152: 8352373615168577283
+      Great Nailsage Sly - atlas0 #45903_153: -8808552519213905521
+      Great Nailsage Sly - atlas0 #45903_154: -6943447559065131974
+      Great Nailsage Sly - atlas0 #45903_155: -3363887156129853576
+      Great Nailsage Sly - atlas0 #45903_156: 5797794436914078963
+      Great Nailsage Sly - atlas0 #45903_157: 3788181804585393278
+      Great Nailsage Sly - atlas0 #45903_158: -7814839384244835833
+      Great Nailsage Sly - atlas0 #45903_159: -4248164381620929909
+      Great Nailsage Sly - atlas0 #45903_16: 2858183013354048082
+      Great Nailsage Sly - atlas0 #45903_160: -8523984278373735961
+      Great Nailsage Sly - atlas0 #45903_161: -1209975331084742017
+      Great Nailsage Sly - atlas0 #45903_162: 1618284685469403745
+      Great Nailsage Sly - atlas0 #45903_163: -8928104852421986444
+      Great Nailsage Sly - atlas0 #45903_164: 118756750988032014
+      Great Nailsage Sly - atlas0 #45903_165: 1689813843286181721
+      Great Nailsage Sly - atlas0 #45903_166: 1846595418730683704
+      Great Nailsage Sly - atlas0 #45903_167: -8469212908451929167
+      Great Nailsage Sly - atlas0 #45903_168: 682326527082366733
+      Great Nailsage Sly - atlas0 #45903_169: 3441718954877778199
+      Great Nailsage Sly - atlas0 #45903_17: -4027445950007014242
+      Great Nailsage Sly - atlas0 #45903_170: -659136159078159289
+      Great Nailsage Sly - atlas0 #45903_171: -3373371112476232526
+      Great Nailsage Sly - atlas0 #45903_172: 112339657885307134
+      Great Nailsage Sly - atlas0 #45903_173: 9113160089768483039
+      Great Nailsage Sly - atlas0 #45903_174: 4633236545759049207
+      Great Nailsage Sly - atlas0 #45903_175: -2722848067522653019
+      Great Nailsage Sly - atlas0 #45903_176: 8339136741553054489
+      Great Nailsage Sly - atlas0 #45903_177: -4057811999745954682
+      Great Nailsage Sly - atlas0 #45903_178: -2108871218252918672
+      Great Nailsage Sly - atlas0 #45903_179: -8814564005636230924
+      Great Nailsage Sly - atlas0 #45903_18: 3170443989820722561
+      Great Nailsage Sly - atlas0 #45903_180: -9139129148542227323
+      Great Nailsage Sly - atlas0 #45903_181: -2123523233103187277
+      Great Nailsage Sly - atlas0 #45903_182: -7257710907563822107
+      Great Nailsage Sly - atlas0 #45903_183: -7297355405676691964
+      Great Nailsage Sly - atlas0 #45903_184: -1549080022751185936
+      Great Nailsage Sly - atlas0 #45903_185: 2953870589016934253
+      Great Nailsage Sly - atlas0 #45903_186: 4849703807506286608
+      Great Nailsage Sly - atlas0 #45903_187: 7775188485746549292
+      Great Nailsage Sly - atlas0 #45903_188: 169064355397864241
+      Great Nailsage Sly - atlas0 #45903_189: -1963327419954416381
+      Great Nailsage Sly - atlas0 #45903_19: 1621937798338019496
+      Great Nailsage Sly - atlas0 #45903_190: 5442943908059813413
+      Great Nailsage Sly - atlas0 #45903_191: 6711886930367090092
+      Great Nailsage Sly - atlas0 #45903_192: 9217759404444215977
+      Great Nailsage Sly - atlas0 #45903_193: 2053914927764730591
+      Great Nailsage Sly - atlas0 #45903_194: -2470098092399459437
+      Great Nailsage Sly - atlas0 #45903_195: -8993631504795770161
+      Great Nailsage Sly - atlas0 #45903_2: -1435932988089305906
+      Great Nailsage Sly - atlas0 #45903_20: 6336102502487052192
+      Great Nailsage Sly - atlas0 #45903_21: -9063979978386135955
+      Great Nailsage Sly - atlas0 #45903_22: 7199917341668290452
+      Great Nailsage Sly - atlas0 #45903_23: -7391385694018446514
+      Great Nailsage Sly - atlas0 #45903_24: -40949847182235066
+      Great Nailsage Sly - atlas0 #45903_25: -2301425855009791411
+      Great Nailsage Sly - atlas0 #45903_26: 6514343419447335076
+      Great Nailsage Sly - atlas0 #45903_27: -7909562431166113253
+      Great Nailsage Sly - atlas0 #45903_28: 7191190935847047982
+      Great Nailsage Sly - atlas0 #45903_29: 7137678322215304356
+      Great Nailsage Sly - atlas0 #45903_3: -230161286504078137
+      Great Nailsage Sly - atlas0 #45903_30: 5551140540252883576
+      Great Nailsage Sly - atlas0 #45903_31: 6295814921246851604
+      Great Nailsage Sly - atlas0 #45903_32: 429136428615260471
+      Great Nailsage Sly - atlas0 #45903_33: -7731160319890556055
+      Great Nailsage Sly - atlas0 #45903_34: 7321649891210542445
+      Great Nailsage Sly - atlas0 #45903_35: 6461746761188853832
+      Great Nailsage Sly - atlas0 #45903_36: 6455142545140576192
+      Great Nailsage Sly - atlas0 #45903_37: 1946158306726544384
+      Great Nailsage Sly - atlas0 #45903_38: -2178898796666127418
+      Great Nailsage Sly - atlas0 #45903_39: 6634915831256240344
+      Great Nailsage Sly - atlas0 #45903_4: -6128384564073452743
+      Great Nailsage Sly - atlas0 #45903_40: -3493338457635431340
+      Great Nailsage Sly - atlas0 #45903_41: -3144546623766455956
+      Great Nailsage Sly - atlas0 #45903_42: 7246625743634410595
+      Great Nailsage Sly - atlas0 #45903_43: -8064573866277324028
+      Great Nailsage Sly - atlas0 #45903_44: 1313445721747148629
+      Great Nailsage Sly - atlas0 #45903_45: 3731185782575182949
+      Great Nailsage Sly - atlas0 #45903_46: 3470784298915048576
+      Great Nailsage Sly - atlas0 #45903_47: 4901475958374727850
+      Great Nailsage Sly - atlas0 #45903_48: 4550476025080776094
+      Great Nailsage Sly - atlas0 #45903_49: -2647846334874570178
+      Great Nailsage Sly - atlas0 #45903_5: 8670281904598039106
+      Great Nailsage Sly - atlas0 #45903_50: 7628492343277441375
+      Great Nailsage Sly - atlas0 #45903_51: -116978959404034063
+      Great Nailsage Sly - atlas0 #45903_52: 6716239543716810352
+      Great Nailsage Sly - atlas0 #45903_53: 6482399690411372816
+      Great Nailsage Sly - atlas0 #45903_54: -7109193725411686086
+      Great Nailsage Sly - atlas0 #45903_55: 7079000655657043280
+      Great Nailsage Sly - atlas0 #45903_56: -4735400808955866664
+      Great Nailsage Sly - atlas0 #45903_57: -7827150853713033078
+      Great Nailsage Sly - atlas0 #45903_58: -1181878065996342715
+      Great Nailsage Sly - atlas0 #45903_59: 244143905450407714
+      Great Nailsage Sly - atlas0 #45903_6: 38602709366151063
+      Great Nailsage Sly - atlas0 #45903_60: 4930396152925057188
+      Great Nailsage Sly - atlas0 #45903_61: 1596504447991089712
+      Great Nailsage Sly - atlas0 #45903_62: 5771909708526428352
+      Great Nailsage Sly - atlas0 #45903_63: -3438643722097019233
+      Great Nailsage Sly - atlas0 #45903_64: -360924849979463460
+      Great Nailsage Sly - atlas0 #45903_65: -8719977220328339944
+      Great Nailsage Sly - atlas0 #45903_66: 4934873292572756867
+      Great Nailsage Sly - atlas0 #45903_67: 4959055711070114608
+      Great Nailsage Sly - atlas0 #45903_68: 644708223741687411
+      Great Nailsage Sly - atlas0 #45903_69: 7883943818149953599
+      Great Nailsage Sly - atlas0 #45903_7: -8303520156403592389
+      Great Nailsage Sly - atlas0 #45903_70: 5300504974700982408
+      Great Nailsage Sly - atlas0 #45903_71: 7020079091545151951
+      Great Nailsage Sly - atlas0 #45903_72: 5068620134611559933
+      Great Nailsage Sly - atlas0 #45903_73: -8114131943585877002
+      Great Nailsage Sly - atlas0 #45903_74: -6598370520552593307
+      Great Nailsage Sly - atlas0 #45903_75: -3400252585469145043
+      Great Nailsage Sly - atlas0 #45903_76: 8547641252420325890
+      Great Nailsage Sly - atlas0 #45903_77: 85359975402747224
+      Great Nailsage Sly - atlas0 #45903_78: -5067124265180230075
+      Great Nailsage Sly - atlas0 #45903_79: -6091745792514756371
+      Great Nailsage Sly - atlas0 #45903_8: 8638235662546199015
+      Great Nailsage Sly - atlas0 #45903_80: -4397123300582374757
+      Great Nailsage Sly - atlas0 #45903_81: -8474113858536984267
+      Great Nailsage Sly - atlas0 #45903_82: -4871736510947338204
+      Great Nailsage Sly - atlas0 #45903_83: -3243235839207944167
+      Great Nailsage Sly - atlas0 #45903_84: -8567991478332569159
+      Great Nailsage Sly - atlas0 #45903_85: 5619457535958069471
+      Great Nailsage Sly - atlas0 #45903_86: -4416896280586321968
+      Great Nailsage Sly - atlas0 #45903_87: 6195121412405909944
+      Great Nailsage Sly - atlas0 #45903_88: 1640662417438651639
+      Great Nailsage Sly - atlas0 #45903_89: -8557654426629373859
+      Great Nailsage Sly - atlas0 #45903_9: 940939733170763609
+      Great Nailsage Sly - atlas0 #45903_90: 1983473248812614938
+      Great Nailsage Sly - atlas0 #45903_91: -64716437679521440
+      Great Nailsage Sly - atlas0 #45903_92: -3216089741296036969
+      Great Nailsage Sly - atlas0 #45903_93: -1286530071234382713
+      Great Nailsage Sly - atlas0 #45903_94: 5609967045089552336
+      Great Nailsage Sly - atlas0 #45903_95: 1379207074125875511
+      Great Nailsage Sly - atlas0 #45903_96: 6409336617258468289
+      Great Nailsage Sly - atlas0 #45903_97: 7096197609520720795
+      Great Nailsage Sly - atlas0 #45903_98: 7413154790799706246
+      Great Nailsage Sly - atlas0 #45903_99: -6375763072403458000
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

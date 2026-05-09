@@ -1,0 +1,1118 @@
+fileFormatVersion: 2
+guid: 8336c232e4aed5742822325142a3d176
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5217224775598049542
+    second: Oblobbles - atlas0 #0340017_0
+  - first:
+      213: -1075634797786154826
+    second: Oblobbles - atlas0 #0340017_1
+  - first:
+      213: 8206985046479588442
+    second: Oblobbles - atlas0 #0340017_2
+  - first:
+      213: -6013567755995573530
+    second: Oblobbles - atlas0 #0340017_3
+  - first:
+      213: -287797817189108491
+    second: Oblobbles - atlas0 #0340017_4
+  - first:
+      213: -6374429540271047264
+    second: Oblobbles - atlas0 #0340017_5
+  - first:
+      213: -6527594188426437659
+    second: Oblobbles - atlas0 #0340017_6
+  - first:
+      213: -480658603551590810
+    second: Oblobbles - atlas0 #0340017_7
+  - first:
+      213: -4038144680507441012
+    second: Oblobbles - atlas0 #0340017_8
+  - first:
+      213: -3574690551142956278
+    second: Oblobbles - atlas0 #0340017_9
+  - first:
+      213: 4960040788627885626
+    second: Oblobbles - atlas0 #0340017_10
+  - first:
+      213: -5495079927896294852
+    second: Oblobbles - atlas0 #0340017_11
+  - first:
+      213: -351230454033194697
+    second: Oblobbles - atlas0 #0340017_12
+  - first:
+      213: -6024062692210742142
+    second: Oblobbles - atlas0 #0340017_13
+  - first:
+      213: -3336552449201637850
+    second: Oblobbles - atlas0 #0340017_14
+  - first:
+      213: -4408029197134431689
+    second: Oblobbles - atlas0 #0340017_15
+  - first:
+      213: 6262155313759461641
+    second: Oblobbles - atlas0 #0340017_16
+  - first:
+      213: 3739146628206694099
+    second: Oblobbles - atlas0 #0340017_17
+  - first:
+      213: -2703417264676383627
+    second: Oblobbles - atlas0 #0340017_18
+  - first:
+      213: -827859076902825996
+    second: Oblobbles - atlas0 #0340017_19
+  - first:
+      213: 3992147712162992667
+    second: Oblobbles - atlas0 #0340017_20
+  - first:
+      213: -5729083888470107345
+    second: Oblobbles - atlas0 #0340017_21
+  - first:
+      213: -2293990627345259585
+    second: Oblobbles - atlas0 #0340017_22
+  - first:
+      213: -6146839839895142416
+    second: Oblobbles - atlas0 #0340017_23
+  - first:
+      213: 8508014741983319280
+    second: Oblobbles - atlas0 #0340017_24
+  - first:
+      213: 8428750987654704015
+    second: Oblobbles - atlas0 #0340017_25
+  - first:
+      213: -6075158650365114941
+    second: Oblobbles - atlas0 #0340017_26
+  - first:
+      213: -2915223098751110064
+    second: Oblobbles - atlas0 #0340017_27
+  - first:
+      213: -7070649387166669637
+    second: Oblobbles - atlas0 #0340017_28
+  - first:
+      213: 4846495225577063459
+    second: Oblobbles - atlas0 #0340017_29
+  - first:
+      213: 5403972716205922651
+    second: Oblobbles - atlas0 #0340017_30
+  - first:
+      213: 5676584024001927766
+    second: Oblobbles - atlas0 #0340017_31
+  - first:
+      213: 6318392337302005438
+    second: Oblobbles - atlas0 #0340017_32
+  - first:
+      213: 3287388244173918016
+    second: Oblobbles - atlas0 #0340017_33
+  - first:
+      213: -6740697194116940025
+    second: Oblobbles - atlas0 #0340017_34
+  - first:
+      213: -6765027411841674176
+    second: Oblobbles - atlas0 #0340017_35
+  - first:
+      213: -8890553174950804007
+    second: Oblobbles - atlas0 #0340017_36
+  - first:
+      213: 7278703851609495810
+    second: Oblobbles - atlas0 #0340017_37
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Oblobbles - atlas0 #0340017_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1856
+        width: 316
+        height: 332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60983e69a4e476840800000000000000
+      internalID: 5217224775598049542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oblobbles - atlas0 #0340017_1
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 2108
+        width: 298
+        height: 331
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b838e1b9d39211f0800000000000000
+      internalID: -1075634797786154826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oblobbles - atlas0 #0340017_2
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 1758
+        width: 297
+        height: 352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5ccb54da6115e170800000000000000
+      internalID: 8206985046479588442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oblobbles - atlas0 #0340017_3
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 2023
+        width: 337
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e21427bcf38b8ca0800000000000000
+      internalID: -6013567755995573530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oblobbles - atlas0 #0340017_4
+      rect:
+        serializedVersion: 2
+        x: 973
+        y: 2019
+        width: 330
+        height: 323
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f47f4bf869810cf0800000000000000
+      internalID: -287797817189108491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oblobbles - atlas0 #0340017_5
+      rect:
+        serializedVersion: 2
+        x: 1326
+        y: 2001
+        width: 328
+        height: 304
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ad33663b1a7987a0800000000000000
+      internalID: -6374429540271047264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oblobbles - atlas0 #0340017_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1501
+        width: 317
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5eb10f89ba35965a0800000000000000
+      internalID: -6527594188426437659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oblobbles - atlas0 #0340017_7
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 1379
+        width: 319
+        height: 373
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6667215fb8b5459f0800000000000000
+      internalID: -480658603551590810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oblobbles - atlas0 #0340017_8
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 1750
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8088bedec0a5f7c0800000000000000
+      internalID: -4038144680507441012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oblobbles - atlas0 #0340017_9
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 1721
+        width: 332
+        height: 304
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a03cd2d12e5246ec0800000000000000
+      internalID: -3574690551142956278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oblobbles - atlas0 #0340017_10
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 1717
+        width: 332
+        height: 304
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3e0d9d51da95d440800000000000000
+      internalID: 4960040788627885626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oblobbles - atlas0 #0340017_11
+      rect:
+        serializedVersion: 2
+        x: 1386
+        y: 1654
+        width: 354
+        height: 332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3abc557bed8db3b0800000000000000
+      internalID: -5495079927896294852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oblobbles - atlas0 #0340017_12
+      rect:
+        serializedVersion: 2
+        x: 1738
+        y: 1654
+        width: 305
+        height: 364
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7316d0153cd202bf0800000000000000
+      internalID: -351230454033194697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oblobbles - atlas0 #0340017_13
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 1509
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28c6816f5ea366ca0800000000000000
+      internalID: -6024062692210742142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oblobbles - atlas0 #0340017_14
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 1386
+        width: 355
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62670eaa93f22b1d0800000000000000
+      internalID: -3336552449201637850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oblobbles - atlas0 #0340017_15
+      rect:
+        serializedVersion: 2
+        x: 1055
+        y: 1371
+        width: 346
+        height: 331
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73a7049ccc883d2c0800000000000000
+      internalID: -4408029197134431689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oblobbles - atlas0 #0340017_16
+      rect:
+        serializedVersion: 2
+        x: 1480
+        y: 1319
+        width: 343
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90125fc5415a7e650800000000000000
+      internalID: 6262155313759461641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oblobbles - atlas0 #0340017_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1260
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3de0c592c0e14e330800000000000000
+      internalID: 3739146628206694099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oblobbles - atlas0 #0340017_18
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1130
+        width: 318
+        height: 373
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5745e4332588b7ad0800000000000000
+      internalID: -2703417264676383627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oblobbles - atlas0 #0340017_19
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 1041
+        width: 362
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ffcf154e8ad284f0800000000000000
+      internalID: -827859076902825996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oblobbles - atlas0 #0340017_20
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 1059
+        width: 372
+        height: 329
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b121d526135f66730800000000000000
+      internalID: 3992147712162992667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oblobbles - atlas0 #0340017_21
+      rect:
+        serializedVersion: 2
+        x: 1111
+        y: 1043
+        width: 371
+        height: 330
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2b5353be843e70b0800000000000000
+      internalID: -5729083888470107345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oblobbles - atlas0 #0340017_22
+      rect:
+        serializedVersion: 2
+        x: 1507
+        y: 977
+        width: 356
+        height: 344
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb3a203bdab1a20e0800000000000000
+      internalID: -2293990627345259585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oblobbles - atlas0 #0340017_23
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 874
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ffb4d3abb902baa0800000000000000
+      internalID: -6146839839895142416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oblobbles - atlas0 #0340017_24
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 743
+        width: 321
+        height: 389
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f4d3b7945a821670800000000000000
+      internalID: 8508014741983319280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oblobbles - atlas0 #0340017_25
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 722
+        width: 389
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8ba167ad50f8f470800000000000000
+      internalID: 8428750987654704015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oblobbles - atlas0 #0340017_26
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 0
+        width: 761
+        height: 1061
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c588d22563b0bba0800000000000000
+      internalID: -6075158650365114941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oblobbles - atlas0 #0340017_27
+      rect:
+        serializedVersion: 2
+        x: 1151
+        y: 701
+        width: 358
+        height: 344
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0543de5890c0b87d0800000000000000
+      internalID: -2915223098751110064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oblobbles - atlas0 #0340017_28
+      rect:
+        serializedVersion: 2
+        x: 1540
+        y: 639
+        width: 364
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb4e89228d100ed90800000000000000
+      internalID: -7070649387166669637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oblobbles - atlas0 #0340017_29
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 380
+        width: 370
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 324c526dab5324340800000000000000
+      internalID: 4846495225577063459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oblobbles - atlas0 #0340017_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 394
+        height: 382
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b595b5dcd84cefa40800000000000000
+      internalID: 5403972716205922651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oblobbles - atlas0 #0340017_31
+      rect:
+        serializedVersion: 2
+        x: 1168
+        y: 354
+        width: 374
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65ada40181747ce40800000000000000
+      internalID: 5676584024001927766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oblobbles - atlas0 #0340017_32
+      rect:
+        serializedVersion: 2
+        x: 1545
+        y: 0
+        width: 411
+        height: 641
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb6af60ca507fa750800000000000000
+      internalID: 6318392337302005438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oblobbles - atlas0 #0340017_33
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 0
+        width: 396
+        height: 361
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04f08c4d0362f9d20800000000000000
+      internalID: 3287388244173918016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oblobbles - atlas0 #0340017_34
+      rect:
+        serializedVersion: 2
+        x: 1117
+        y: 219
+        width: 53
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70fff2e9d9b3472a0800000000000000
+      internalID: -6740697194116940025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oblobbles - atlas0 #0340017_35
+      rect:
+        serializedVersion: 2
+        x: 1168
+        y: 0
+        width: 379
+        height: 356
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 044956d596bcd12a0800000000000000
+      internalID: -6765027411841674176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oblobbles - atlas0 #0340017_36
+      rect:
+        serializedVersion: 2
+        x: 1151
+        y: 197
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d50656ddf86e9480800000000000000
+      internalID: -8890553174950804007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Oblobbles - atlas0 #0340017_37
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 16
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 209937cb696230560800000000000000
+      internalID: 7278703851609495810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Oblobbles - atlas0 #0340017_0: 5217224775598049542
+      Oblobbles - atlas0 #0340017_1: -1075634797786154826
+      Oblobbles - atlas0 #0340017_10: 4960040788627885626
+      Oblobbles - atlas0 #0340017_11: -5495079927896294852
+      Oblobbles - atlas0 #0340017_12: -351230454033194697
+      Oblobbles - atlas0 #0340017_13: -6024062692210742142
+      Oblobbles - atlas0 #0340017_14: -3336552449201637850
+      Oblobbles - atlas0 #0340017_15: -4408029197134431689
+      Oblobbles - atlas0 #0340017_16: 6262155313759461641
+      Oblobbles - atlas0 #0340017_17: 3739146628206694099
+      Oblobbles - atlas0 #0340017_18: -2703417264676383627
+      Oblobbles - atlas0 #0340017_19: -827859076902825996
+      Oblobbles - atlas0 #0340017_2: 8206985046479588442
+      Oblobbles - atlas0 #0340017_20: 3992147712162992667
+      Oblobbles - atlas0 #0340017_21: -5729083888470107345
+      Oblobbles - atlas0 #0340017_22: -2293990627345259585
+      Oblobbles - atlas0 #0340017_23: -6146839839895142416
+      Oblobbles - atlas0 #0340017_24: 8508014741983319280
+      Oblobbles - atlas0 #0340017_25: 8428750987654704015
+      Oblobbles - atlas0 #0340017_26: -6075158650365114941
+      Oblobbles - atlas0 #0340017_27: -2915223098751110064
+      Oblobbles - atlas0 #0340017_28: -7070649387166669637
+      Oblobbles - atlas0 #0340017_29: 4846495225577063459
+      Oblobbles - atlas0 #0340017_3: -6013567755995573530
+      Oblobbles - atlas0 #0340017_30: 5403972716205922651
+      Oblobbles - atlas0 #0340017_31: 5676584024001927766
+      Oblobbles - atlas0 #0340017_32: 6318392337302005438
+      Oblobbles - atlas0 #0340017_33: 3287388244173918016
+      Oblobbles - atlas0 #0340017_34: -6740697194116940025
+      Oblobbles - atlas0 #0340017_35: -6765027411841674176
+      Oblobbles - atlas0 #0340017_36: -8890553174950804007
+      Oblobbles - atlas0 #0340017_37: 7278703851609495810
+      Oblobbles - atlas0 #0340017_4: -287797817189108491
+      Oblobbles - atlas0 #0340017_5: -6374429540271047264
+      Oblobbles - atlas0 #0340017_6: -6527594188426437659
+      Oblobbles - atlas0 #0340017_7: -480658603551590810
+      Oblobbles - atlas0 #0340017_8: -4038144680507441012
+      Oblobbles - atlas0 #0340017_9: -3574690551142956278
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

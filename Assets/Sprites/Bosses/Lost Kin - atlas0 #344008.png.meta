@@ -1,0 +1,520 @@
+fileFormatVersion: 2
+guid: 21e5d088cf93cc8429d79be8663c209e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1360306799808448382
+    second: Lost Kin - atlas0 #344008_0
+  - first:
+      213: 3828919906371375599
+    second: Lost Kin - atlas0 #344008_1
+  - first:
+      213: 1756511948367089340
+    second: Lost Kin - atlas0 #344008_2
+  - first:
+      213: -896640569546888012
+    second: Lost Kin - atlas0 #344008_3
+  - first:
+      213: 9023781444571427957
+    second: Lost Kin - atlas0 #344008_4
+  - first:
+      213: -4156442165950625765
+    second: Lost Kin - atlas0 #344008_5
+  - first:
+      213: 3039533319226789525
+    second: Lost Kin - atlas0 #344008_6
+  - first:
+      213: -748731151696011170
+    second: Lost Kin - atlas0 #344008_7
+  - first:
+      213: -7559092755392812186
+    second: Lost Kin - atlas0 #344008_8
+  - first:
+      213: 9199062951548565003
+    second: Lost Kin - atlas0 #344008_9
+  - first:
+      213: 2194216115760391500
+    second: Lost Kin - atlas0 #344008_10
+  - first:
+      213: 3152849976449121485
+    second: Lost Kin - atlas0 #344008_11
+  - first:
+      213: -4910248739906046700
+    second: Lost Kin - atlas0 #344008_12
+  - first:
+      213: 2962552938276326946
+    second: Lost Kin - atlas0 #344008_13
+  - first:
+      213: 3265663135190534627
+    second: Lost Kin - atlas0 #344008_14
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Lost Kin - atlas0 #344008_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 383
+        width: 118
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2887edb3c283f1de0800000000000000
+      internalID: -1360306799808448382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lost Kin - atlas0 #344008_1
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 539
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe110bc4e5e032530800000000000000
+      internalID: 3828919906371375599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lost Kin - atlas0 #344008_2
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 358
+        width: 130
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbe46268f42606810800000000000000
+      internalID: 1756511948367089340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lost Kin - atlas0 #344008_3
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 428
+        width: 256
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bc24f0172e7e83f0800000000000000
+      internalID: -896640569546888012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lost Kin - atlas0 #344008_4
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 320
+        width: 120
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 574f07ee969ea3d70800000000000000
+      internalID: 9023781444571427957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lost Kin - atlas0 #344008_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 199
+        width: 203
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b18ce013fd95156c0800000000000000
+      internalID: -4156442165950625765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lost Kin - atlas0 #344008_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 204
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59e0a7f13779e2a20800000000000000
+      internalID: 3039533319226789525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lost Kin - atlas0 #344008_7
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 175
+        width: 206
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e50e3e60cf8fb95f0800000000000000
+      internalID: -748731151696011170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lost Kin - atlas0 #344008_8
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 186
+        width: 141
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66b25925035b81790800000000000000
+      internalID: -7559092755392812186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lost Kin - atlas0 #344008_9
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 181
+        width: 143
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0632850403a9af70800000000000000
+      internalID: 9199062951548565003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lost Kin - atlas0 #344008_10
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 200
+        width: 258
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c45e55c8eeb637e10800000000000000
+      internalID: 2194216115760391500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lost Kin - atlas0 #344008_11
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 0
+        width: 185
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcc395c595c21cb20800000000000000
+      internalID: 3152849976449121485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lost Kin - atlas0 #344008_12
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 0
+        width: 223
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 415371369ca4bdbb0800000000000000
+      internalID: -4910248739906046700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lost Kin - atlas0 #344008_13
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 0
+        width: 204
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22e004a733a1d1920800000000000000
+      internalID: 2962552938276326946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lost Kin - atlas0 #344008_14
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 0
+        width: 206
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e9ce19b157f15d20800000000000000
+      internalID: 3265663135190534627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Lost Kin - atlas0 #344008_0: -1360306799808448382
+      Lost Kin - atlas0 #344008_1: 3828919906371375599
+      Lost Kin - atlas0 #344008_10: 2194216115760391500
+      Lost Kin - atlas0 #344008_11: 3152849976449121485
+      Lost Kin - atlas0 #344008_12: -4910248739906046700
+      Lost Kin - atlas0 #344008_13: 2962552938276326946
+      Lost Kin - atlas0 #344008_14: 3265663135190534627
+      Lost Kin - atlas0 #344008_2: 1756511948367089340
+      Lost Kin - atlas0 #344008_3: -896640569546888012
+      Lost Kin - atlas0 #344008_4: 9023781444571427957
+      Lost Kin - atlas0 #344008_5: -4156442165950625765
+      Lost Kin - atlas0 #344008_6: 3039533319226789525
+      Lost Kin - atlas0 #344008_7: -748731151696011170
+      Lost Kin - atlas0 #344008_8: -7559092755392812186
+      Lost Kin - atlas0 #344008_9: 9199062951548565003
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

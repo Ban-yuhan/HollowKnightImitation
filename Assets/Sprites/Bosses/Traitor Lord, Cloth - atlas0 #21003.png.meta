@@ -1,0 +1,1352 @@
+fileFormatVersion: 2
+guid: dccc627570b3f9146af40cc975cfa710
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4650757922461776229
+    second: Traitor Lord, Cloth - atlas0 #21003_0
+  - first:
+      213: 4635494880828573789
+    second: Traitor Lord, Cloth - atlas0 #21003_1
+  - first:
+      213: 3657043858990460954
+    second: Traitor Lord, Cloth - atlas0 #21003_2
+  - first:
+      213: 2432453867644560092
+    second: Traitor Lord, Cloth - atlas0 #21003_3
+  - first:
+      213: -8823736375268391771
+    second: Traitor Lord, Cloth - atlas0 #21003_4
+  - first:
+      213: -5943739463359801818
+    second: Traitor Lord, Cloth - atlas0 #21003_5
+  - first:
+      213: 2973540692113871306
+    second: Traitor Lord, Cloth - atlas0 #21003_6
+  - first:
+      213: -4574354393251346876
+    second: Traitor Lord, Cloth - atlas0 #21003_7
+  - first:
+      213: -1613000570279472782
+    second: Traitor Lord, Cloth - atlas0 #21003_8
+  - first:
+      213: -2538607599569600499
+    second: Traitor Lord, Cloth - atlas0 #21003_9
+  - first:
+      213: -5597128912128698892
+    second: Traitor Lord, Cloth - atlas0 #21003_10
+  - first:
+      213: 3808499085019201906
+    second: Traitor Lord, Cloth - atlas0 #21003_11
+  - first:
+      213: 6800593499251445653
+    second: Traitor Lord, Cloth - atlas0 #21003_12
+  - first:
+      213: 4938855461557096643
+    second: Traitor Lord, Cloth - atlas0 #21003_13
+  - first:
+      213: 7215132366303771532
+    second: Traitor Lord, Cloth - atlas0 #21003_14
+  - first:
+      213: -2096409319855113201
+    second: Traitor Lord, Cloth - atlas0 #21003_15
+  - first:
+      213: -899885589071368668
+    second: Traitor Lord, Cloth - atlas0 #21003_16
+  - first:
+      213: 10022365513366538
+    second: Traitor Lord, Cloth - atlas0 #21003_17
+  - first:
+      213: 4923283877563371894
+    second: Traitor Lord, Cloth - atlas0 #21003_18
+  - first:
+      213: -3829903348182323215
+    second: Traitor Lord, Cloth - atlas0 #21003_19
+  - first:
+      213: -1794449497741366132
+    second: Traitor Lord, Cloth - atlas0 #21003_20
+  - first:
+      213: 8481422976840565588
+    second: Traitor Lord, Cloth - atlas0 #21003_21
+  - first:
+      213: 7996383670549417427
+    second: Traitor Lord, Cloth - atlas0 #21003_22
+  - first:
+      213: 8042373719008931398
+    second: Traitor Lord, Cloth - atlas0 #21003_23
+  - first:
+      213: -4037108326998368936
+    second: Traitor Lord, Cloth - atlas0 #21003_24
+  - first:
+      213: -3909760726690781618
+    second: Traitor Lord, Cloth - atlas0 #21003_25
+  - first:
+      213: -6938009852473876844
+    second: Traitor Lord, Cloth - atlas0 #21003_26
+  - first:
+      213: -7990884021839895821
+    second: Traitor Lord, Cloth - atlas0 #21003_27
+  - first:
+      213: -4302270504882175366
+    second: Traitor Lord, Cloth - atlas0 #21003_28
+  - first:
+      213: 5733626347555316014
+    second: Traitor Lord, Cloth - atlas0 #21003_29
+  - first:
+      213: 5212231756467816235
+    second: Traitor Lord, Cloth - atlas0 #21003_30
+  - first:
+      213: 8793959819805488148
+    second: Traitor Lord, Cloth - atlas0 #21003_31
+  - first:
+      213: -6304645174889553126
+    second: Traitor Lord, Cloth - atlas0 #21003_32
+  - first:
+      213: -3923839905816725369
+    second: Traitor Lord, Cloth - atlas0 #21003_33
+  - first:
+      213: 5357112672672705040
+    second: Traitor Lord, Cloth - atlas0 #21003_34
+  - first:
+      213: -3255546280913664487
+    second: Traitor Lord, Cloth - atlas0 #21003_35
+  - first:
+      213: -4608287717037763919
+    second: Traitor Lord, Cloth - atlas0 #21003_36
+  - first:
+      213: -8695304351428148050
+    second: Traitor Lord, Cloth - atlas0 #21003_37
+  - first:
+      213: 7243492564265718419
+    second: Traitor Lord, Cloth - atlas0 #21003_38
+  - first:
+      213: 4095010949791221704
+    second: Traitor Lord, Cloth - atlas0 #21003_39
+  - first:
+      213: 6902281040185533723
+    second: Traitor Lord, Cloth - atlas0 #21003_40
+  - first:
+      213: 1002799350250032739
+    second: Traitor Lord, Cloth - atlas0 #21003_41
+  - first:
+      213: 1550718013531633494
+    second: Traitor Lord, Cloth - atlas0 #21003_42
+  - first:
+      213: -5037230379703719297
+    second: Traitor Lord, Cloth - atlas0 #21003_43
+  - first:
+      213: 2720255517472472546
+    second: Traitor Lord, Cloth - atlas0 #21003_44
+  - first:
+      213: -1087433436141359790
+    second: Traitor Lord, Cloth - atlas0 #21003_45
+  - first:
+      213: 619383273802515078
+    second: Traitor Lord, Cloth - atlas0 #21003_46
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Traitor Lord, Cloth - atlas0 #21003_0
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 3230
+        width: 693
+        height: 414
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b96055f6f40357fb0800000000000000
+      internalID: -4650757922461776229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Traitor Lord, Cloth - atlas0 #21003_1
+      rect:
+        serializedVersion: 2
+        x: 1101
+        y: 3541
+        width: 702
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d58cde1c806945040800000000000000
+      internalID: 4635494880828573789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Traitor Lord, Cloth - atlas0 #21003_2
+      rect:
+        serializedVersion: 2
+        x: 1136
+        y: 3122
+        width: 702
+        height: 421
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a10762f830e60c230800000000000000
+      internalID: 3657043858990460954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Traitor Lord, Cloth - atlas0 #21003_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2800
+        width: 412
+        height: 698
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd2aa79a7efc1c120800000000000000
+      internalID: 2432453867644560092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Traitor Lord, Cloth - atlas0 #21003_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2097
+        width: 419
+        height: 705
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a44f60548acb8580800000000000000
+      internalID: -8823736375268391771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Traitor Lord, Cloth - atlas0 #21003_5
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 2784
+        width: 721
+        height: 448
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 626d7f80378938da0800000000000000
+      internalID: -5943739463359801818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Traitor Lord, Cloth - atlas0 #21003_6
+      rect:
+        serializedVersion: 2
+        x: 1183
+        y: 2663
+        width: 732
+        height: 461
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac1dd964183244920800000000000000
+      internalID: 2973540692113871306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Traitor Lord, Cloth - atlas0 #21003_7
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 2048
+        width: 445
+        height: 738
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44681815ae0a480c0800000000000000
+      internalID: -4574354393251346876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Traitor Lord, Cloth - atlas0 #21003_8
+      rect:
+        serializedVersion: 2
+        x: 1183
+        y: 1685
+        width: 683
+        height: 982
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2715df107887d99e0800000000000000
+      internalID: -1613000570279472782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Traitor Lord, Cloth - atlas0 #21003_9
+      rect:
+        serializedVersion: 2
+        x: 1485
+        y: 2661
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d000c8b96dd05ccd0800000000000000
+      internalID: -2538607599569600499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Traitor Lord, Cloth - atlas0 #21003_10
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 1873
+        width: 314
+        height: 419
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f51086c8e00352b0800000000000000
+      internalID: -5597128912128698892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Traitor Lord, Cloth - atlas0 #21003_11
+      rect:
+        serializedVersion: 2
+        x: 1179
+        y: 2204
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27148f15db18ad430800000000000000
+      internalID: 3808499085019201906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Traitor Lord, Cloth - atlas0 #21003_12
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 2120
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59f86b8a1cf806e50800000000000000
+      internalID: 6800593499251445653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Traitor Lord, Cloth - atlas0 #21003_13
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 2104
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c0db1700e65a8440800000000000000
+      internalID: 4938855461557096643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Traitor Lord, Cloth - atlas0 #21003_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1388
+        width: 419
+        height: 711
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8bb5f4e8ac412460800000000000000
+      internalID: 7215132366303771532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Traitor Lord, Cloth - atlas0 #21003_15
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 1391
+        width: 321
+        height: 461
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0cb732b4de08e2e0800000000000000
+      internalID: -2096409319855113201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Traitor Lord, Cloth - atlas0 #21003_16
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 1307
+        width: 448
+        height: 743
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42e68e413d6f283f0800000000000000
+      internalID: -899885589071368668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Traitor Lord, Cloth - atlas0 #21003_17
+      rect:
+        serializedVersion: 2
+        x: 1218
+        y: 1367
+        width: 105
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0cbb30d94b932000800000000000000
+      internalID: 10022365513366538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Traitor Lord, Cloth - atlas0 #21003_18
+      rect:
+        serializedVersion: 2
+        x: 1376
+        y: 1550
+        width: 334
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 671929a1a94035440800000000000000
+      internalID: 4923283877563371894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Traitor Lord, Cloth - atlas0 #21003_19
+      rect:
+        serializedVersion: 2
+        x: 1551
+        y: 800
+        width: 494
+        height: 752
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ff638f423379dac0800000000000000
+      internalID: -3829903348182323215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Traitor Lord, Cloth - atlas0 #21003_20
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 615
+        width: 286
+        height: 703
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8c6fbf60b5d817e0800000000000000
+      internalID: -1794449497741366132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Traitor Lord, Cloth - atlas0 #21003_21
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 1166
+        width: 19
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4530b6cc24114b570800000000000000
+      internalID: 8481422976840565588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Traitor Lord, Cloth - atlas0 #21003_22
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 1113
+        width: 41
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dd05dae49cd8fe60800000000000000
+      internalID: 7996383670549417427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Traitor Lord, Cloth - atlas0 #21003_23
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 1110
+        width: 46
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64ee67089404c9f60800000000000000
+      internalID: 8042373719008931398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Traitor Lord, Cloth - atlas0 #21003_24
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 1118
+        width: 40
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85d9d79bd5f49f7c0800000000000000
+      internalID: -4037108326998368936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Traitor Lord, Cloth - atlas0 #21003_25
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 885
+        width: 159
+        height: 508
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e46a2d8755dbdb9c0800000000000000
+      internalID: -3909760726690781618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Traitor Lord, Cloth - atlas0 #21003_26
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 547
+        width: 475
+        height: 762
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49e522f5ccc37bf90800000000000000
+      internalID: -6938009852473876844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Traitor Lord, Cloth - atlas0 #21003_27
+      rect:
+        serializedVersion: 2
+        x: 1339
+        y: 861
+        width: 161
+        height: 508
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f263e4d15daa1190800000000000000
+      internalID: -7990884021839895821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Traitor Lord, Cloth - atlas0 #21003_28
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 1074
+        width: 88
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a728bdc25c34b44c0800000000000000
+      internalID: -4302270504882175366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Traitor Lord, Cloth - atlas0 #21003_29
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 1044
+        width: 48
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e21ead8f8cee19f40800000000000000
+      internalID: 5733626347555316014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Traitor Lord, Cloth - atlas0 #21003_30
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 958
+        width: 7
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b27464bba21955840800000000000000
+      internalID: 5212231756467816235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Traitor Lord, Cloth - atlas0 #21003_31
+      rect:
+        serializedVersion: 2
+        x: 1508
+        y: 934
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 414709c1ddb6a0a70800000000000000
+      internalID: 8793959819805488148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Traitor Lord, Cloth - atlas0 #21003_32
+      rect:
+        serializedVersion: 2
+        x: 2017
+        y: 968
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a13e3dbed966188a0800000000000000
+      internalID: -6304645174889553126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Traitor Lord, Cloth - atlas0 #21003_33
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 910
+        width: 11
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 788ba422568bb89c0800000000000000
+      internalID: -3923839905816725369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Traitor Lord, Cloth - atlas0 #21003_34
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 615
+        width: 194
+        height: 231
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01a6664b799485a40800000000000000
+      internalID: 5357112672672705040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Traitor Lord, Cloth - atlas0 #21003_35
+      rect:
+        serializedVersion: 2
+        x: 1321
+        y: 556
+        width: 149
+        height: 267
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9160c48f7e9f1d2d0800000000000000
+      internalID: -3255546280913664487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Traitor Lord, Cloth - atlas0 #21003_36
+      rect:
+        serializedVersion: 2
+        x: 1498
+        y: 819
+        width: 28
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b21b23bcb21c00c0800000000000000
+      internalID: -4608287717037763919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Traitor Lord, Cloth - atlas0 #21003_37
+      rect:
+        serializedVersion: 2
+        x: 1288
+        y: 721
+        width: 35
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea4873713c2145780800000000000000
+      internalID: -8695304351428148050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Traitor Lord, Cloth - atlas0 #21003_38
+      rect:
+        serializedVersion: 2
+        x: 1526
+        y: 0
+        width: 477
+        height: 802
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 392dd3a0c1e068460800000000000000
+      internalID: 7243492564265718419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Traitor Lord, Cloth - atlas0 #21003_39
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 645
+        width: 58
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c704a533c664d830800000000000000
+      internalID: 4095010949791221704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Traitor Lord, Cloth - atlas0 #21003_40
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 688
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b152c244904d9cf50800000000000000
+      internalID: 6902281040185533723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Traitor Lord, Cloth - atlas0 #21003_41
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 607
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36e45ac22b8aaed00800000000000000
+      internalID: 1002799350250032739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Traitor Lord, Cloth - atlas0 #21003_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 783
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6573a5731d1458510800000000000000
+      internalID: 1550718013531633494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Traitor Lord, Cloth - atlas0 #21003_43
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 0
+        width: 752
+        height: 551
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7a24f578a9281ab0800000000000000
+      internalID: -5037230379703719297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Traitor Lord, Cloth - atlas0 #21003_44
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 545
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ed3e390bf940c520800000000000000
+      internalID: 2720255517472472546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Traitor Lord, Cloth - atlas0 #21003_45
+      rect:
+        serializedVersion: 2
+        x: 985
+        y: 541
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25d69e12d09a8e0f0800000000000000
+      internalID: -1087433436141359790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Traitor Lord, Cloth - atlas0 #21003_46
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 321
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68241de4ecd789800800000000000000
+      internalID: 619383273802515078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Traitor Lord, Cloth - atlas0 #21003_0: -4650757922461776229
+      Traitor Lord, Cloth - atlas0 #21003_1: 4635494880828573789
+      Traitor Lord, Cloth - atlas0 #21003_10: -5597128912128698892
+      Traitor Lord, Cloth - atlas0 #21003_11: 3808499085019201906
+      Traitor Lord, Cloth - atlas0 #21003_12: 6800593499251445653
+      Traitor Lord, Cloth - atlas0 #21003_13: 4938855461557096643
+      Traitor Lord, Cloth - atlas0 #21003_14: 7215132366303771532
+      Traitor Lord, Cloth - atlas0 #21003_15: -2096409319855113201
+      Traitor Lord, Cloth - atlas0 #21003_16: -899885589071368668
+      Traitor Lord, Cloth - atlas0 #21003_17: 10022365513366538
+      Traitor Lord, Cloth - atlas0 #21003_18: 4923283877563371894
+      Traitor Lord, Cloth - atlas0 #21003_19: -3829903348182323215
+      Traitor Lord, Cloth - atlas0 #21003_2: 3657043858990460954
+      Traitor Lord, Cloth - atlas0 #21003_20: -1794449497741366132
+      Traitor Lord, Cloth - atlas0 #21003_21: 8481422976840565588
+      Traitor Lord, Cloth - atlas0 #21003_22: 7996383670549417427
+      Traitor Lord, Cloth - atlas0 #21003_23: 8042373719008931398
+      Traitor Lord, Cloth - atlas0 #21003_24: -4037108326998368936
+      Traitor Lord, Cloth - atlas0 #21003_25: -3909760726690781618
+      Traitor Lord, Cloth - atlas0 #21003_26: -6938009852473876844
+      Traitor Lord, Cloth - atlas0 #21003_27: -7990884021839895821
+      Traitor Lord, Cloth - atlas0 #21003_28: -4302270504882175366
+      Traitor Lord, Cloth - atlas0 #21003_29: 5733626347555316014
+      Traitor Lord, Cloth - atlas0 #21003_3: 2432453867644560092
+      Traitor Lord, Cloth - atlas0 #21003_30: 5212231756467816235
+      Traitor Lord, Cloth - atlas0 #21003_31: 8793959819805488148
+      Traitor Lord, Cloth - atlas0 #21003_32: -6304645174889553126
+      Traitor Lord, Cloth - atlas0 #21003_33: -3923839905816725369
+      Traitor Lord, Cloth - atlas0 #21003_34: 5357112672672705040
+      Traitor Lord, Cloth - atlas0 #21003_35: -3255546280913664487
+      Traitor Lord, Cloth - atlas0 #21003_36: -4608287717037763919
+      Traitor Lord, Cloth - atlas0 #21003_37: -8695304351428148050
+      Traitor Lord, Cloth - atlas0 #21003_38: 7243492564265718419
+      Traitor Lord, Cloth - atlas0 #21003_39: 4095010949791221704
+      Traitor Lord, Cloth - atlas0 #21003_4: -8823736375268391771
+      Traitor Lord, Cloth - atlas0 #21003_40: 6902281040185533723
+      Traitor Lord, Cloth - atlas0 #21003_41: 1002799350250032739
+      Traitor Lord, Cloth - atlas0 #21003_42: 1550718013531633494
+      Traitor Lord, Cloth - atlas0 #21003_43: -5037230379703719297
+      Traitor Lord, Cloth - atlas0 #21003_44: 2720255517472472546
+      Traitor Lord, Cloth - atlas0 #21003_45: -1087433436141359790
+      Traitor Lord, Cloth - atlas0 #21003_46: 619383273802515078
+      Traitor Lord, Cloth - atlas0 #21003_5: -5943739463359801818
+      Traitor Lord, Cloth - atlas0 #21003_6: 2973540692113871306
+      Traitor Lord, Cloth - atlas0 #21003_7: -4574354393251346876
+      Traitor Lord, Cloth - atlas0 #21003_8: -1613000570279472782
+      Traitor Lord, Cloth - atlas0 #21003_9: -2538607599569600499
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

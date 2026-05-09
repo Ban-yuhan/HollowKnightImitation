@@ -1,0 +1,468 @@
+fileFormatVersion: 2
+guid: a922326697bd882479e279fd16174cca
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8725237827886166687
+    second: Marmu - atlas0 #22202_0
+  - first:
+      213: 5607864174340730323
+    second: Marmu - atlas0 #22202_1
+  - first:
+      213: 3615068921940175507
+    second: Marmu - atlas0 #22202_2
+  - first:
+      213: 8554674910300744975
+    second: Marmu - atlas0 #22202_3
+  - first:
+      213: -7153837147134916893
+    second: Marmu - atlas0 #22202_4
+  - first:
+      213: 8811405864114168570
+    second: Marmu - atlas0 #22202_5
+  - first:
+      213: 3391804322354001456
+    second: Marmu - atlas0 #22202_6
+  - first:
+      213: 7467384042864394421
+    second: Marmu - atlas0 #22202_7
+  - first:
+      213: 5661721286099076209
+    second: Marmu - atlas0 #22202_8
+  - first:
+      213: 611927488710336713
+    second: Marmu - atlas0 #22202_9
+  - first:
+      213: -8682663085326836643
+    second: Marmu - atlas0 #22202_10
+  - first:
+      213: -3790389635070201013
+    second: Marmu - atlas0 #22202_11
+  - first:
+      213: 8775524760125388740
+    second: Marmu - atlas0 #22202_12
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Marmu - atlas0 #22202_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1359
+        width: 255
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16d4b008c6ab9e680800000000000000
+      internalID: -8725237827886166687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marmu - atlas0 #22202_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1133
+        width: 258
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dde73c31c223dd40800000000000000
+      internalID: 5607864174340730323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marmu - atlas0 #22202_2
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 890
+        width: 289
+        height: 476
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39a6cc2f70e4b2230800000000000000
+      internalID: 3615068921940175507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marmu - atlas0 #22202_3
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 1159
+        width: 252
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0d2c6d918f48b670800000000000000
+      internalID: 8554674910300744975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marmu - atlas0 #22202_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 593
+        width: 304
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e68700740778bc90800000000000000
+      internalID: -7153837147134916893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marmu - atlas0 #22202_5
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 619
+        width: 288
+        height: 273
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af2a156d2f6684a70800000000000000
+      internalID: 8811405864114168570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marmu - atlas0 #22202_6
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 650
+        width: 315
+        height: 511
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0367b858f0c121f20800000000000000
+      internalID: 3391804322354001456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marmu - atlas0 #22202_7
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 322
+        width: 306
+        height: 330
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b04a5c193a71a760800000000000000
+      internalID: 7467384042864394421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marmu - atlas0 #22202_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 313
+        width: 308
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 174043b3389729e40800000000000000
+      internalID: 5661721286099076209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marmu - atlas0 #22202_9
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 309
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c060e01fc00e7800800000000000000
+      internalID: 611927488710336713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marmu - atlas0 #22202_10
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 0
+        width: 370
+        height: 621
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5c52b63debf08780800000000000000
+      internalID: -8682663085326836643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marmu - atlas0 #22202_11
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 0
+        width: 279
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b43715195b4d56bc0800000000000000
+      internalID: -3790389635070201013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Marmu - atlas0 #22202_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 369
+        height: 311
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c73bec464de8c970800000000000000
+      internalID: 8775524760125388740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Marmu - atlas0 #22202_0: -8725237827886166687
+      Marmu - atlas0 #22202_1: 5607864174340730323
+      Marmu - atlas0 #22202_10: -8682663085326836643
+      Marmu - atlas0 #22202_11: -3790389635070201013
+      Marmu - atlas0 #22202_12: 8775524760125388740
+      Marmu - atlas0 #22202_2: 3615068921940175507
+      Marmu - atlas0 #22202_3: 8554674910300744975
+      Marmu - atlas0 #22202_4: -7153837147134916893
+      Marmu - atlas0 #22202_5: 8811405864114168570
+      Marmu - atlas0 #22202_6: 3391804322354001456
+      Marmu - atlas0 #22202_7: 7467384042864394421
+      Marmu - atlas0 #22202_8: 5661721286099076209
+      Marmu - atlas0 #22202_9: 611927488710336713
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

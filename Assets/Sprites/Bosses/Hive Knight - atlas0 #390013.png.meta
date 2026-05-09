@@ -1,0 +1,2860 @@
+fileFormatVersion: 2
+guid: b7b569ef47666e14fa9daa049a07778d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8378201771824399516
+    second: Hive Knight - atlas0 #390013_0
+  - first:
+      213: -5242711597494958016
+    second: Hive Knight - atlas0 #390013_1
+  - first:
+      213: 678792855641932685
+    second: Hive Knight - atlas0 #390013_2
+  - first:
+      213: -1493699223289567758
+    second: Hive Knight - atlas0 #390013_3
+  - first:
+      213: -4241496529513436658
+    second: Hive Knight - atlas0 #390013_4
+  - first:
+      213: 4434989026773872118
+    second: Hive Knight - atlas0 #390013_5
+  - first:
+      213: -7983599084846197945
+    second: Hive Knight - atlas0 #390013_6
+  - first:
+      213: 1056548771328323405
+    second: Hive Knight - atlas0 #390013_7
+  - first:
+      213: 8540262779438278900
+    second: Hive Knight - atlas0 #390013_8
+  - first:
+      213: -2458536332776494800
+    second: Hive Knight - atlas0 #390013_9
+  - first:
+      213: 4213875156393347695
+    second: Hive Knight - atlas0 #390013_10
+  - first:
+      213: 733967688904031141
+    second: Hive Knight - atlas0 #390013_11
+  - first:
+      213: 2801663591584062184
+    second: Hive Knight - atlas0 #390013_12
+  - first:
+      213: -8937013439542670452
+    second: Hive Knight - atlas0 #390013_13
+  - first:
+      213: -4619963343973220199
+    second: Hive Knight - atlas0 #390013_14
+  - first:
+      213: -8931711827955529921
+    second: Hive Knight - atlas0 #390013_15
+  - first:
+      213: 1724147435496244908
+    second: Hive Knight - atlas0 #390013_16
+  - first:
+      213: -3092787577473488579
+    second: Hive Knight - atlas0 #390013_17
+  - first:
+      213: 8365983599934392672
+    second: Hive Knight - atlas0 #390013_18
+  - first:
+      213: 8586651773584674529
+    second: Hive Knight - atlas0 #390013_19
+  - first:
+      213: 7973876190788689507
+    second: Hive Knight - atlas0 #390013_20
+  - first:
+      213: 2678634958339740117
+    second: Hive Knight - atlas0 #390013_21
+  - first:
+      213: -5835083036574203627
+    second: Hive Knight - atlas0 #390013_22
+  - first:
+      213: 4496832814256483917
+    second: Hive Knight - atlas0 #390013_23
+  - first:
+      213: 448378772576570499
+    second: Hive Knight - atlas0 #390013_24
+  - first:
+      213: 3044609114600938836
+    second: Hive Knight - atlas0 #390013_25
+  - first:
+      213: 2588488363623620222
+    second: Hive Knight - atlas0 #390013_26
+  - first:
+      213: -6602361187269536622
+    second: Hive Knight - atlas0 #390013_27
+  - first:
+      213: -4737862403540742288
+    second: Hive Knight - atlas0 #390013_28
+  - first:
+      213: -154324101280237299
+    second: Hive Knight - atlas0 #390013_29
+  - first:
+      213: 6847003466118981293
+    second: Hive Knight - atlas0 #390013_30
+  - first:
+      213: 5550587058136902909
+    second: Hive Knight - atlas0 #390013_31
+  - first:
+      213: 4691268331415605329
+    second: Hive Knight - atlas0 #390013_32
+  - first:
+      213: -6642082683281758799
+    second: Hive Knight - atlas0 #390013_33
+  - first:
+      213: -7399482362403062028
+    second: Hive Knight - atlas0 #390013_34
+  - first:
+      213: 6429070226867905572
+    second: Hive Knight - atlas0 #390013_35
+  - first:
+      213: -6962526042637715859
+    second: Hive Knight - atlas0 #390013_36
+  - first:
+      213: -8516582736258391819
+    second: Hive Knight - atlas0 #390013_37
+  - first:
+      213: 7099401933686996955
+    second: Hive Knight - atlas0 #390013_38
+  - first:
+      213: 2458081090618307203
+    second: Hive Knight - atlas0 #390013_39
+  - first:
+      213: 9067499620126388190
+    second: Hive Knight - atlas0 #390013_40
+  - first:
+      213: 5460790045652271045
+    second: Hive Knight - atlas0 #390013_41
+  - first:
+      213: 3256913734664623998
+    second: Hive Knight - atlas0 #390013_42
+  - first:
+      213: 4423686816058227492
+    second: Hive Knight - atlas0 #390013_43
+  - first:
+      213: 1768599049789272554
+    second: Hive Knight - atlas0 #390013_44
+  - first:
+      213: -748082038398812847
+    second: Hive Knight - atlas0 #390013_45
+  - first:
+      213: 1902486733605342537
+    second: Hive Knight - atlas0 #390013_46
+  - first:
+      213: 4637944626490249485
+    second: Hive Knight - atlas0 #390013_47
+  - first:
+      213: -3423170754649296381
+    second: Hive Knight - atlas0 #390013_48
+  - first:
+      213: -3146576692064396994
+    second: Hive Knight - atlas0 #390013_49
+  - first:
+      213: -667972937685956297
+    second: Hive Knight - atlas0 #390013_50
+  - first:
+      213: 1686076317896213274
+    second: Hive Knight - atlas0 #390013_51
+  - first:
+      213: 442125093307559962
+    second: Hive Knight - atlas0 #390013_52
+  - first:
+      213: 1689030943810381772
+    second: Hive Knight - atlas0 #390013_53
+  - first:
+      213: -2963503653127517326
+    second: Hive Knight - atlas0 #390013_54
+  - first:
+      213: -3386806729651262551
+    second: Hive Knight - atlas0 #390013_55
+  - first:
+      213: -5413031818868596598
+    second: Hive Knight - atlas0 #390013_56
+  - first:
+      213: -9194861820575316077
+    second: Hive Knight - atlas0 #390013_57
+  - first:
+      213: -5173710763425915208
+    second: Hive Knight - atlas0 #390013_58
+  - first:
+      213: -7083123923131870563
+    second: Hive Knight - atlas0 #390013_59
+  - first:
+      213: 6349546705848501689
+    second: Hive Knight - atlas0 #390013_60
+  - first:
+      213: 4886219066618619520
+    second: Hive Knight - atlas0 #390013_61
+  - first:
+      213: 6267627147623074946
+    second: Hive Knight - atlas0 #390013_62
+  - first:
+      213: -6387806941011888195
+    second: Hive Knight - atlas0 #390013_63
+  - first:
+      213: -5437230539195920745
+    second: Hive Knight - atlas0 #390013_64
+  - first:
+      213: -8402461362446628001
+    second: Hive Knight - atlas0 #390013_65
+  - first:
+      213: 6260426687456588770
+    second: Hive Knight - atlas0 #390013_66
+  - first:
+      213: -9200927651397772819
+    second: Hive Knight - atlas0 #390013_67
+  - first:
+      213: 2139927365463960755
+    second: Hive Knight - atlas0 #390013_68
+  - first:
+      213: -3838753913397987079
+    second: Hive Knight - atlas0 #390013_69
+  - first:
+      213: 7941834701106866602
+    second: Hive Knight - atlas0 #390013_70
+  - first:
+      213: 108118676210761805
+    second: Hive Knight - atlas0 #390013_71
+  - first:
+      213: -2046562890015202448
+    second: Hive Knight - atlas0 #390013_72
+  - first:
+      213: 6714232482187503597
+    second: Hive Knight - atlas0 #390013_73
+  - first:
+      213: -7596042954940921671
+    second: Hive Knight - atlas0 #390013_74
+  - first:
+      213: -1265738945751382392
+    second: Hive Knight - atlas0 #390013_75
+  - first:
+      213: -7798068123392573382
+    second: Hive Knight - atlas0 #390013_76
+  - first:
+      213: -2246227690662516031
+    second: Hive Knight - atlas0 #390013_77
+  - first:
+      213: -6361629137342107818
+    second: Hive Knight - atlas0 #390013_78
+  - first:
+      213: 9093615116202691141
+    second: Hive Knight - atlas0 #390013_79
+  - first:
+      213: -2342594917765978955
+    second: Hive Knight - atlas0 #390013_80
+  - first:
+      213: 5696064856516722853
+    second: Hive Knight - atlas0 #390013_81
+  - first:
+      213: -5425796615632918206
+    second: Hive Knight - atlas0 #390013_82
+  - first:
+      213: 7787964929452075780
+    second: Hive Knight - atlas0 #390013_83
+  - first:
+      213: 2950789810971173392
+    second: Hive Knight - atlas0 #390013_84
+  - first:
+      213: -8704233099585119918
+    second: Hive Knight - atlas0 #390013_85
+  - first:
+      213: 1301678204995795874
+    second: Hive Knight - atlas0 #390013_86
+  - first:
+      213: -5226574104869595907
+    second: Hive Knight - atlas0 #390013_87
+  - first:
+      213: -4814093679494924413
+    second: Hive Knight - atlas0 #390013_88
+  - first:
+      213: -2672149386653100154
+    second: Hive Knight - atlas0 #390013_89
+  - first:
+      213: -7052541423199535627
+    second: Hive Knight - atlas0 #390013_90
+  - first:
+      213: -6795369411799999269
+    second: Hive Knight - atlas0 #390013_91
+  - first:
+      213: -3860228250969944085
+    second: Hive Knight - atlas0 #390013_92
+  - first:
+      213: 4012990699027416731
+    second: Hive Knight - atlas0 #390013_93
+  - first:
+      213: -1134247794329120182
+    second: Hive Knight - atlas0 #390013_94
+  - first:
+      213: 6005055416524861549
+    second: Hive Knight - atlas0 #390013_95
+  - first:
+      213: 1385847424560406425
+    second: Hive Knight - atlas0 #390013_96
+  - first:
+      213: -6311527569232978869
+    second: Hive Knight - atlas0 #390013_97
+  - first:
+      213: 7043229169097471321
+    second: Hive Knight - atlas0 #390013_98
+  - first:
+      213: -8975668718507796447
+    second: Hive Knight - atlas0 #390013_99
+  - first:
+      213: 159931161636086576
+    second: Hive Knight - atlas0 #390013_100
+  - first:
+      213: -7089439873535448680
+    second: Hive Knight - atlas0 #390013_101
+  - first:
+      213: 4684285925801291123
+    second: Hive Knight - atlas0 #390013_102
+  - first:
+      213: 8895584023886721200
+    second: Hive Knight - atlas0 #390013_103
+  - first:
+      213: 6377926282101723969
+    second: Hive Knight - atlas0 #390013_104
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Hive Knight - atlas0 #390013_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2877
+        width: 200
+        height: 283
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9444223f1a554470800000000000000
+      internalID: 8378201771824399516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hive Knight - atlas0 #390013_1
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 2854
+        width: 202
+        height: 283
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0480e7344952e37b0800000000000000
+      internalID: -5242711597494958016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hive Knight - atlas0 #390013_2
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 2778
+        width: 239
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d834c9c718e8b6900800000000000000
+      internalID: 678792855641932685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hive Knight - atlas0 #390013_3
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 3026
+        width: 194
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f56c8a6870554be0800000000000000
+      internalID: -1493699223289567758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hive Knight - atlas0 #390013_4
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 2589
+        width: 338
+        height: 439
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0aac4af06d2325c0800000000000000
+      internalID: -4241496529513436658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hive Knight - atlas0 #390013_5
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 2994
+        width: 258
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fdac93b50f3c8d30800000000000000
+      internalID: 4434989026773872118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hive Knight - atlas0 #390013_6
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 2918
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 743db966eee843190800000000000000
+      internalID: -7983599084846197945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hive Knight - atlas0 #390013_7
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 2795
+        width: 282
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4f66ea728d99ae00800000000000000
+      internalID: 1056548771328323405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hive Knight - atlas0 #390013_8
+      rect:
+        serializedVersion: 2
+        x: 1397
+        y: 2679
+        width: 207
+        height: 331
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f8a8e8efbb158670800000000000000
+      internalID: 8540262779438278900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hive Knight - atlas0 #390013_9
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2537
+        width: 212
+        height: 342
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03927713b3681edd0800000000000000
+      internalID: -2458536332776494800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hive Knight - atlas0 #390013_10
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 2529
+        width: 223
+        height: 327
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6a4ba0f021ba7a30800000000000000
+      internalID: 4213875156393347695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hive Knight - atlas0 #390013_11
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 2546
+        width: 276
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ab3dbd69b39f2a00800000000000000
+      internalID: 733967688904031141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hive Knight - atlas0 #390013_12
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 2781
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ea5384513281e620800000000000000
+      internalID: 2801663591584062184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hive Knight - atlas0 #390013_13
+      rect:
+        serializedVersion: 2
+        x: 1066
+        y: 2588
+        width: 333
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8bca2780a959f380800000000000000
+      internalID: -8937013439542670452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hive Knight - atlas0 #390013_14
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 2586
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9908627f0d792efb0800000000000000
+      internalID: -4619963343973220199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hive Knight - atlas0 #390013_15
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 2378
+        width: 338
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f374e8a2a6f2c0480800000000000000
+      internalID: -8931711827955529921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hive Knight - atlas0 #390013_16
+      rect:
+        serializedVersion: 2
+        x: 1134
+        y: 2343
+        width: 282
+        height: 243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca6872925f66de710800000000000000
+      internalID: 1724147435496244908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hive Knight - atlas0 #390013_17
+      rect:
+        serializedVersion: 2
+        x: 1329
+        y: 2576
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d39a3f6a5163415d0800000000000000
+      internalID: -3092787577473488579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hive Knight - atlas0 #390013_18
+      rect:
+        serializedVersion: 2
+        x: 1414
+        y: 2437
+        width: 283
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06945de52c1f91470800000000000000
+      internalID: 8365983599934392672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hive Knight - atlas0 #390013_19
+      rect:
+        serializedVersion: 2
+        x: 1695
+        y: 2452
+        width: 269
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ee0e764b4ae92770800000000000000
+      internalID: 8586651773584674529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hive Knight - atlas0 #390013_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2187
+        width: 485
+        height: 352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36e97eae526e8ae60800000000000000
+      internalID: 7973876190788689507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hive Knight - atlas0 #390013_21
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 2248
+        width: 240
+        height: 299
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d198c67d4c6c2520800000000000000
+      internalID: 2678634958339740117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hive Knight - atlas0 #390013_22
+      rect:
+        serializedVersion: 2
+        x: 1119
+        y: 2450
+        width: 26
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5114612d4ee950fa0800000000000000
+      internalID: -5835083036574203627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hive Knight - atlas0 #390013_23
+      rect:
+        serializedVersion: 2
+        x: 1142
+        y: 2512
+        width: 10
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4ee31c8e95f76e30800000000000000
+      internalID: 4496832814256483917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hive Knight - atlas0 #390013_24
+      rect:
+        serializedVersion: 2
+        x: 1138
+        y: 2455
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38c80483e16f83600800000000000000
+      internalID: 448378772576570499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hive Knight - atlas0 #390013_25
+      rect:
+        serializedVersion: 2
+        x: 1141
+        y: 2441
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45d94b3dbdf904a20800000000000000
+      internalID: 3044609114600938836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hive Knight - atlas0 #390013_26
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 2163
+        width: 357
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7e940bc3782ce320800000000000000
+      internalID: 2588488363623620222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hive Knight - atlas0 #390013_27
+      rect:
+        serializedVersion: 2
+        x: 1387
+        y: 2351
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29419f12b73bf54a0800000000000000
+      internalID: -6602361187269536622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hive Knight - atlas0 #390013_28
+      rect:
+        serializedVersion: 2
+        x: 1389
+        y: 2348
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07f864a0f3bbf3eb0800000000000000
+      internalID: -4737862403540742288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hive Knight - atlas0 #390013_29
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 2354
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d09f8ea2c0bbbddf0800000000000000
+      internalID: -154324101280237299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hive Knight - atlas0 #390013_30
+      rect:
+        serializedVersion: 2
+        x: 1529
+        y: 2131
+        width: 258
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da6e3ed1061750f50800000000000000
+      internalID: 6847003466118981293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hive Knight - atlas0 #390013_31
+      rect:
+        serializedVersion: 2
+        x: 1790
+        y: 2112
+        width: 254
+        height: 330
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfc61276585a70d40800000000000000
+      internalID: 5550587058136902909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hive Knight - atlas0 #390013_32
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 1963
+        width: 273
+        height: 287
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 150111821bbba1140800000000000000
+      internalID: 4691268331415605329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hive Knight - atlas0 #390013_33
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 2239
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b5a736adf492d3a0800000000000000
+      internalID: -6642082683281758799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hive Knight - atlas0 #390013_34
+      rect:
+        serializedVersion: 2
+        x: 1258
+        y: 2059
+        width: 273
+        height: 286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fe723bdef1cf4990800000000000000
+      internalID: -7399482362403062028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hive Knight - atlas0 #390013_35
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 1884
+        width: 246
+        height: 352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42460840f45a83950800000000000000
+      internalID: 6429070226867905572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hive Knight - atlas0 #390013_36
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 2203
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d663c290473206f90800000000000000
+      internalID: -6962526042637715859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hive Knight - atlas0 #390013_37
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 2208
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f02819cf150fc980800000000000000
+      internalID: -8516582736258391819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hive Knight - atlas0 #390013_38
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 2200
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdf7227c174268260800000000000000
+      internalID: 7099401933686996955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hive Knight - atlas0 #390013_39
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1827
+        width: 249
+        height: 362
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 382b86b7abbdc1220800000000000000
+      internalID: 2458081090618307203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hive Knight - atlas0 #390013_40
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 2180
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edf6f92ecda36dd70800000000000000
+      internalID: 9067499620126388190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hive Knight - atlas0 #390013_41
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 2125
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cfb7103d9f98cb40800000000000000
+      internalID: 5460790045652271045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hive Knight - atlas0 #390013_42
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 1875
+        width: 298
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7796ca29c1e23d20800000000000000
+      internalID: 3256913734664623998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hive Knight - atlas0 #390013_43
+      rect:
+        serializedVersion: 2
+        x: 1533
+        y: 1791
+        width: 259
+        height: 342
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42bbab4b8b7146d30800000000000000
+      internalID: 4423686816058227492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hive Knight - atlas0 #390013_44
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 2101
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae178c027735b8810800000000000000
+      internalID: 1768599049789272554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hive Knight - atlas0 #390013_45
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 1751
+        width: 246
+        height: 363
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15d736e79574e95f0800000000000000
+      internalID: -748082038398812847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hive Knight - atlas0 #390013_46
+      rect:
+        serializedVersion: 2
+        x: 1318
+        y: 1672
+        width: 217
+        height: 385
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94d807aba9df66a10800000000000000
+      internalID: 1902486733605342537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hive Knight - atlas0 #390013_47
+      rect:
+        serializedVersion: 2
+        x: 1515
+        y: 2055
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0112ed901a4d5040800000000000000
+      internalID: 4637944626490249485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hive Knight - atlas0 #390013_48
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 1581
+        width: 247
+        height: 305
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3027f9bd5547e70d0800000000000000
+      internalID: -3423170754649296381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hive Knight - atlas0 #390013_49
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 1687
+        width: 332
+        height: 276
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e395afa7b2d1554d0800000000000000
+      internalID: -3146576692064396994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hive Knight - atlas0 #390013_50
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 1858
+        width: 109
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73987a9f622eab6f0800000000000000
+      internalID: -667972937685956297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hive Knight - atlas0 #390013_51
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 1794
+        width: 107
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1307685a75266710800000000000000
+      internalID: 1686076317896213274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hive Knight - atlas0 #390013_52
+      rect:
+        serializedVersion: 2
+        x: 1043
+        y: 1541
+        width: 277
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1032ec0e6eb22600800000000000000
+      internalID: 442125093307559962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hive Knight - atlas0 #390013_53
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1460
+        width: 260
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc7e57cc1b4a07710800000000000000
+      internalID: 1689030943810381772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hive Knight - atlas0 #390013_54
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 1746
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27b03c8f0258fd6d0800000000000000
+      internalID: -2963503653127517326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hive Knight - atlas0 #390013_55
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 1747
+        width: 100
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9abeb343935aff0d0800000000000000
+      internalID: -3386806729651262551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hive Knight - atlas0 #390013_56
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 1620
+        width: 131
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a80637e7d3c01e4b0800000000000000
+      internalID: -5413031818868596598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hive Knight - atlas0 #390013_57
+      rect:
+        serializedVersion: 2
+        x: 1578
+        y: 1445
+        width: 224
+        height: 348
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3978ec104e9456080800000000000000
+      internalID: -9194861820575316077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hive Knight - atlas0 #390013_58
+      rect:
+        serializedVersion: 2
+        x: 1802
+        y: 1404
+        width: 246
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8be126fd8794338b0800000000000000
+      internalID: -5173710763425915208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hive Knight - atlas0 #390013_59
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 1739
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9257a5e150b3bd90800000000000000
+      internalID: -7083123923131870563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hive Knight - atlas0 #390013_60
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 1514
+        width: 27
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b50ade661f1e1850800000000000000
+      internalID: 6349546705848501689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hive Knight - atlas0 #390013_61
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 1427
+        width: 359
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0862b805a565fc340800000000000000
+      internalID: 4886219066618619520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hive Knight - atlas0 #390013_62
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 1479
+        width: 156
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28c0ba6fea51bf650800000000000000
+      internalID: 6267627147623074946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hive Knight - atlas0 #390013_63
+      rect:
+        serializedVersion: 2
+        x: 1068
+        y: 1184
+        width: 296
+        height: 359
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db736336e63f957a0800000000000000
+      internalID: -6387806941011888195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hive Knight - atlas0 #390013_64
+      rect:
+        serializedVersion: 2
+        x: 1362
+        y: 1343
+        width: 207
+        height: 331
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79e425dd1a31b84b0800000000000000
+      internalID: -5437230539195920745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hive Knight - atlas0 #390013_65
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 1091
+        width: 88
+        height: 383
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5b8c64b8e5746b80800000000000000
+      internalID: -8402461362446628001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hive Knight - atlas0 #390013_66
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 1348
+        width: 105
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e3b93037e081e650800000000000000
+      internalID: 6260426687456588770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hive Knight - atlas0 #390013_67
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 1474
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de9dd56bc0dbf4080800000000000000
+      internalID: -9200927651397772819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hive Knight - atlas0 #390013_68
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 601
+        width: 135
+        height: 906
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bced9fd99c82bd10800000000000000
+      internalID: 2139927365463960755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hive Knight - atlas0 #390013_69
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 833
+        width: 120
+        height: 647
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f8b5c387a10abac0800000000000000
+      internalID: -3838753913397987079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hive Knight - atlas0 #390013_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 806
+        width: 450
+        height: 551
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa968504590173e60800000000000000
+      internalID: 7941834701106866602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hive Knight - atlas0 #390013_71
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 1091
+        width: 244
+        height: 371
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d40c029fc5d108100800000000000000
+      internalID: 108118676210761805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hive Knight - atlas0 #390013_72
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 1121
+        width: 316
+        height: 301
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 073a52a05e52993e0800000000000000
+      internalID: -2046562890015202448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hive Knight - atlas0 #390013_73
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 833
+        width: 369
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de7ec287edebd2d50800000000000000
+      internalID: 6714232482187503597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hive Knight - atlas0 #390013_74
+      rect:
+        serializedVersion: 2
+        x: 1122
+        y: 767
+        width: 251
+        height: 419
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b843249d2f659690800000000000000
+      internalID: -7596042954940921671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hive Knight - atlas0 #390013_75
+      rect:
+        serializedVersion: 2
+        x: 1371
+        y: 1005
+        width: 198
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8868c1092213f6ee0800000000000000
+      internalID: -1265738945751382392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hive Knight - atlas0 #390013_76
+      rect:
+        serializedVersion: 2
+        x: 1570
+        y: 1061
+        width: 234
+        height: 379
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3083e29b52b7c390800000000000000
+      internalID: -7798068123392573382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hive Knight - atlas0 #390013_77
+      rect:
+        serializedVersion: 2
+        x: 1805
+        y: 1036
+        width: 243
+        height: 370
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ca2a6df0dbc3d0e0800000000000000
+      internalID: -2246227690662516031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hive Knight - atlas0 #390013_78
+      rect:
+        serializedVersion: 2
+        x: 1069
+        y: 975
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65fe2f34104f6b7a0800000000000000
+      internalID: -6361629137342107818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hive Knight - atlas0 #390013_79
+      rect:
+        serializedVersion: 2
+        x: 1071
+        y: 999
+        width: 49
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54a4265a4c2033e70800000000000000
+      internalID: 9093615116202691141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hive Knight - atlas0 #390013_80
+      rect:
+        serializedVersion: 2
+        x: 1387
+        y: 658
+        width: 144
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b46ce9755e6d7fd0800000000000000
+      internalID: -2342594917765978955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hive Knight - atlas0 #390013_81
+      rect:
+        serializedVersion: 2
+        x: 1575
+        y: 558
+        width: 232
+        height: 505
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a00446decc7c0f40800000000000000
+      internalID: 5696064856516722853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hive Knight - atlas0 #390013_82
+      rect:
+        serializedVersion: 2
+        x: 1811
+        y: 513
+        width: 225
+        height: 525
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 249eea5a9b2b3b4b0800000000000000
+      internalID: -5425796615632918206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hive Knight - atlas0 #390013_83
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 943
+        width: 37
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40be03747d8641c60800000000000000
+      internalID: 7787964929452075780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hive Knight - atlas0 #390013_84
+      rect:
+        serializedVersion: 2
+        x: 1099
+        y: 949
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01267c9f2bf43f820800000000000000
+      internalID: 2950789810971173392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hive Knight - atlas0 #390013_85
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 837
+        width: 77
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2591809ec1a543780800000000000000
+      internalID: -8704233099585119918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hive Knight - atlas0 #390013_86
+      rect:
+        serializedVersion: 2
+        x: 1087
+        y: 803
+        width: 37
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ab74ac4e6d701210800000000000000
+      internalID: 1301678204995795874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hive Knight - atlas0 #390013_87
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 554
+        width: 465
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df41efe0b8a7777b0800000000000000
+      internalID: -5226574104869595907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hive Knight - atlas0 #390013_88
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 570
+        width: 437
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 387704efd47e03db0800000000000000
+      internalID: -4814093679494924413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hive Knight - atlas0 #390013_89
+      rect:
+        serializedVersion: 2
+        x: 1047
+        y: 799
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68793cd5a4e9aead0800000000000000
+      internalID: -2672149386653100154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hive Knight - atlas0 #390013_90
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 739
+        width: 24
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fdb67a01f6502e90800000000000000
+      internalID: -7052541423199535627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hive Knight - atlas0 #390013_91
+      rect:
+        serializedVersion: 2
+        x: 1129
+        y: 298
+        width: 260
+        height: 468
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdc1b1cf58ff1b1a0800000000000000
+      internalID: -6795369411799999269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hive Knight - atlas0 #390013_92
+      rect:
+        serializedVersion: 2
+        x: 1047
+        y: 699
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bef420dabd6bd6ac0800000000000000
+      internalID: -3860228250969944085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hive Knight - atlas0 #390013_93
+      rect:
+        serializedVersion: 2
+        x: 1095
+        y: 689
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b96c97e67c101b730800000000000000
+      internalID: 4012990699027416731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hive Knight - atlas0 #390013_94
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 294
+        width: 465
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a421ebbf3a75240f0800000000000000
+      internalID: -1134247794329120182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hive Knight - atlas0 #390013_95
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 294
+        width: 148
+        height: 309
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d60ff7ec51e365350800000000000000
+      internalID: 6005055416524861549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hive Knight - atlas0 #390013_96
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 277
+        width: 471
+        height: 414
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99f10ddd3e48b3310800000000000000
+      internalID: 1385847424560406425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hive Knight - atlas0 #390013_97
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 275
+        width: 39
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4c98cd9d13f868a0800000000000000
+      internalID: -6311527569232978869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hive Knight - atlas0 #390013_98
+      rect:
+        serializedVersion: 2
+        x: 1140
+        y: 0
+        width: 448
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95579b7dc939eb160800000000000000
+      internalID: 7043229169097471321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hive Knight - atlas0 #390013_99
+      rect:
+        serializedVersion: 2
+        x: 1387
+        y: 298
+        width: 190
+        height: 362
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 128d1cb0bd4007380800000000000000
+      internalID: -8975668718507796447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hive Knight - atlas0 #390013_100
+      rect:
+        serializedVersion: 2
+        x: 1586
+        y: 2
+        width: 227
+        height: 521
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 033a5dd4b80383200800000000000000
+      internalID: 159931161636086576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hive Knight - atlas0 #390013_101
+      rect:
+        serializedVersion: 2
+        x: 1814
+        y: 0
+        width: 234
+        height: 493
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 899ed691fff3d9d90800000000000000
+      internalID: -7089439873535448680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hive Knight - atlas0 #390013_102
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 288
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37d6fb92b3de10140800000000000000
+      internalID: 4684285925801291123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hive Knight - atlas0 #390013_103
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2
+        width: 662
+        height: 276
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b07865f986737b70800000000000000
+      internalID: 8895584023886721200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hive Knight - atlas0 #390013_104
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 0
+        width: 483
+        height: 276
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1431d407922f28850800000000000000
+      internalID: 6377926282101723969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Hive Knight - atlas0 #390013_0: 8378201771824399516
+      Hive Knight - atlas0 #390013_1: -5242711597494958016
+      Hive Knight - atlas0 #390013_10: 4213875156393347695
+      Hive Knight - atlas0 #390013_100: 159931161636086576
+      Hive Knight - atlas0 #390013_101: -7089439873535448680
+      Hive Knight - atlas0 #390013_102: 4684285925801291123
+      Hive Knight - atlas0 #390013_103: 8895584023886721200
+      Hive Knight - atlas0 #390013_104: 6377926282101723969
+      Hive Knight - atlas0 #390013_11: 733967688904031141
+      Hive Knight - atlas0 #390013_12: 2801663591584062184
+      Hive Knight - atlas0 #390013_13: -8937013439542670452
+      Hive Knight - atlas0 #390013_14: -4619963343973220199
+      Hive Knight - atlas0 #390013_15: -8931711827955529921
+      Hive Knight - atlas0 #390013_16: 1724147435496244908
+      Hive Knight - atlas0 #390013_17: -3092787577473488579
+      Hive Knight - atlas0 #390013_18: 8365983599934392672
+      Hive Knight - atlas0 #390013_19: 8586651773584674529
+      Hive Knight - atlas0 #390013_2: 678792855641932685
+      Hive Knight - atlas0 #390013_20: 7973876190788689507
+      Hive Knight - atlas0 #390013_21: 2678634958339740117
+      Hive Knight - atlas0 #390013_22: -5835083036574203627
+      Hive Knight - atlas0 #390013_23: 4496832814256483917
+      Hive Knight - atlas0 #390013_24: 448378772576570499
+      Hive Knight - atlas0 #390013_25: 3044609114600938836
+      Hive Knight - atlas0 #390013_26: 2588488363623620222
+      Hive Knight - atlas0 #390013_27: -6602361187269536622
+      Hive Knight - atlas0 #390013_28: -4737862403540742288
+      Hive Knight - atlas0 #390013_29: -154324101280237299
+      Hive Knight - atlas0 #390013_3: -1493699223289567758
+      Hive Knight - atlas0 #390013_30: 6847003466118981293
+      Hive Knight - atlas0 #390013_31: 5550587058136902909
+      Hive Knight - atlas0 #390013_32: 4691268331415605329
+      Hive Knight - atlas0 #390013_33: -6642082683281758799
+      Hive Knight - atlas0 #390013_34: -7399482362403062028
+      Hive Knight - atlas0 #390013_35: 6429070226867905572
+      Hive Knight - atlas0 #390013_36: -6962526042637715859
+      Hive Knight - atlas0 #390013_37: -8516582736258391819
+      Hive Knight - atlas0 #390013_38: 7099401933686996955
+      Hive Knight - atlas0 #390013_39: 2458081090618307203
+      Hive Knight - atlas0 #390013_4: -4241496529513436658
+      Hive Knight - atlas0 #390013_40: 9067499620126388190
+      Hive Knight - atlas0 #390013_41: 5460790045652271045
+      Hive Knight - atlas0 #390013_42: 3256913734664623998
+      Hive Knight - atlas0 #390013_43: 4423686816058227492
+      Hive Knight - atlas0 #390013_44: 1768599049789272554
+      Hive Knight - atlas0 #390013_45: -748082038398812847
+      Hive Knight - atlas0 #390013_46: 1902486733605342537
+      Hive Knight - atlas0 #390013_47: 4637944626490249485
+      Hive Knight - atlas0 #390013_48: -3423170754649296381
+      Hive Knight - atlas0 #390013_49: -3146576692064396994
+      Hive Knight - atlas0 #390013_5: 4434989026773872118
+      Hive Knight - atlas0 #390013_50: -667972937685956297
+      Hive Knight - atlas0 #390013_51: 1686076317896213274
+      Hive Knight - atlas0 #390013_52: 442125093307559962
+      Hive Knight - atlas0 #390013_53: 1689030943810381772
+      Hive Knight - atlas0 #390013_54: -2963503653127517326
+      Hive Knight - atlas0 #390013_55: -3386806729651262551
+      Hive Knight - atlas0 #390013_56: -5413031818868596598
+      Hive Knight - atlas0 #390013_57: -9194861820575316077
+      Hive Knight - atlas0 #390013_58: -5173710763425915208
+      Hive Knight - atlas0 #390013_59: -7083123923131870563
+      Hive Knight - atlas0 #390013_6: -7983599084846197945
+      Hive Knight - atlas0 #390013_60: 6349546705848501689
+      Hive Knight - atlas0 #390013_61: 4886219066618619520
+      Hive Knight - atlas0 #390013_62: 6267627147623074946
+      Hive Knight - atlas0 #390013_63: -6387806941011888195
+      Hive Knight - atlas0 #390013_64: -5437230539195920745
+      Hive Knight - atlas0 #390013_65: -8402461362446628001
+      Hive Knight - atlas0 #390013_66: 6260426687456588770
+      Hive Knight - atlas0 #390013_67: -9200927651397772819
+      Hive Knight - atlas0 #390013_68: 2139927365463960755
+      Hive Knight - atlas0 #390013_69: -3838753913397987079
+      Hive Knight - atlas0 #390013_7: 1056548771328323405
+      Hive Knight - atlas0 #390013_70: 7941834701106866602
+      Hive Knight - atlas0 #390013_71: 108118676210761805
+      Hive Knight - atlas0 #390013_72: -2046562890015202448
+      Hive Knight - atlas0 #390013_73: 6714232482187503597
+      Hive Knight - atlas0 #390013_74: -7596042954940921671
+      Hive Knight - atlas0 #390013_75: -1265738945751382392
+      Hive Knight - atlas0 #390013_76: -7798068123392573382
+      Hive Knight - atlas0 #390013_77: -2246227690662516031
+      Hive Knight - atlas0 #390013_78: -6361629137342107818
+      Hive Knight - atlas0 #390013_79: 9093615116202691141
+      Hive Knight - atlas0 #390013_8: 8540262779438278900
+      Hive Knight - atlas0 #390013_80: -2342594917765978955
+      Hive Knight - atlas0 #390013_81: 5696064856516722853
+      Hive Knight - atlas0 #390013_82: -5425796615632918206
+      Hive Knight - atlas0 #390013_83: 7787964929452075780
+      Hive Knight - atlas0 #390013_84: 2950789810971173392
+      Hive Knight - atlas0 #390013_85: -8704233099585119918
+      Hive Knight - atlas0 #390013_86: 1301678204995795874
+      Hive Knight - atlas0 #390013_87: -5226574104869595907
+      Hive Knight - atlas0 #390013_88: -4814093679494924413
+      Hive Knight - atlas0 #390013_89: -2672149386653100154
+      Hive Knight - atlas0 #390013_9: -2458536332776494800
+      Hive Knight - atlas0 #390013_90: -7052541423199535627
+      Hive Knight - atlas0 #390013_91: -6795369411799999269
+      Hive Knight - atlas0 #390013_92: -3860228250969944085
+      Hive Knight - atlas0 #390013_93: 4012990699027416731
+      Hive Knight - atlas0 #390013_94: -1134247794329120182
+      Hive Knight - atlas0 #390013_95: 6005055416524861549
+      Hive Knight - atlas0 #390013_96: 1385847424560406425
+      Hive Knight - atlas0 #390013_97: -6311527569232978869
+      Hive Knight - atlas0 #390013_98: 7043229169097471321
+      Hive Knight - atlas0 #390013_99: -8975668718507796447
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

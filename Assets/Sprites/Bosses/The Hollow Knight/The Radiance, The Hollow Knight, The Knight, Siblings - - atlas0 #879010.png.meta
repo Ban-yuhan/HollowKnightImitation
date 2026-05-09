@@ -1,0 +1,5174 @@
+fileFormatVersion: 2
+guid: 0c617d156dd65d44ab57b87fd98379cf
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7219255215742893861
+    second: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_0
+  - first:
+      213: 439616731170010296
+    second: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_1
+  - first:
+      213: 6862024706549563604
+    second: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_2
+  - first:
+      213: -6006277350857319907
+    second: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_3
+  - first:
+      213: -5536994788820849213
+    second: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_4
+  - first:
+      213: 2506391504845935285
+    second: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_5
+  - first:
+      213: 7004529857488895239
+    second: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_6
+  - first:
+      213: 5315721121858904967
+    second: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_7
+  - first:
+      213: 2304267307887425631
+    second: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_8
+  - first:
+      213: 2388568267717322921
+    second: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_9
+  - first:
+      213: 2466854641849108192
+    second: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_10
+  - first:
+      213: -6399170911948918733
+    second: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_11
+  - first:
+      213: -2406968243328421951
+    second: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_12
+  - first:
+      213: 2427603069038789289
+    second: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_13
+  - first:
+      213: 8808432823464044496
+    second: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_14
+  - first:
+      213: 2158376426580934459
+    second: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_15
+  - first:
+      213: -1605650058187956580
+    second: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_16
+  - first:
+      213: 3520224763605898315
+    second: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_17
+  - first:
+      213: 4288943031023986075
+    second: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_18
+  - first:
+      213: 2140137508137204384
+    second: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_19
+  - first:
+      213: -821621493643464537
+    second: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_20
+  - first:
+      213: -5780756101249788063
+    second: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_21
+  - first:
+      213: 203745443717733893
+    second: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_22
+  - first:
+      213: 512782503442321784
+    second: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_23
+  - first:
+      213: -8433268920163197340
+    second: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_24
+  - first:
+      213: 7405211077006617895
+    second: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_25
+  - first:
+      213: 7459288206245433417
+    second: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_26
+  - first:
+      213: 8559781488021541332
+    second: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_27
+  - first:
+      213: 4176648170772381175
+    second: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_28
+  - first:
+      213: -8482981583964198551
+    second: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_29
+  - first:
+      213: -2943321825400135881
+    second: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_30
+  - first:
+      213: -5689103908704492768
+    second: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_31
+  - first:
+      213: 5787684481208382939
+    second: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_32
+  - first:
+      213: 2379181442410752475
+    second: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_33
+  - first:
+      213: 3973068060231821763
+    second: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_34
+  - first:
+      213: 6797011169505320611
+    second: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_35
+  - first:
+      213: 8352206104531964344
+    second: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_36
+  - first:
+      213: 5324427564796429042
+    second: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_37
+  - first:
+      213: -5847772703352519082
+    second: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_38
+  - first:
+      213: 122224150447162136
+    second: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_39
+  - first:
+      213: 8452650918360829881
+    second: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_40
+  - first:
+      213: 2078793210281083155
+    second: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_41
+  - first:
+      213: 919810154750819832
+    second: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_42
+  - first:
+      213: 7708637813515918160
+    second: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_43
+  - first:
+      213: -7707356671861865479
+    second: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_44
+  - first:
+      213: -1563665335820993038
+    second: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_45
+  - first:
+      213: -3055208407998376276
+    second: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_46
+  - first:
+      213: -6245232425408856151
+    second: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_47
+  - first:
+      213: -3038472850268616333
+    second: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_48
+  - first:
+      213: 1806438551970187252
+    second: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_49
+  - first:
+      213: 3820670812524746983
+    second: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_50
+  - first:
+      213: -4431095330105834097
+    second: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_51
+  - first:
+      213: -2473262549773934746
+    second: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_52
+  - first:
+      213: -8097835117678185464
+    second: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_53
+  - first:
+      213: -3967276113323095650
+    second: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_54
+  - first:
+      213: -1227784164495455794
+    second: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_55
+  - first:
+      213: -8779055462619978204
+    second: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_56
+  - first:
+      213: 5841027715299219761
+    second: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_57
+  - first:
+      213: 2743110146801965605
+    second: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_58
+  - first:
+      213: 2762051865582822361
+    second: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_59
+  - first:
+      213: 1094979778345245407
+    second: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_60
+  - first:
+      213: -5146792288790501509
+    second: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_61
+  - first:
+      213: 2607920854173273602
+    second: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_62
+  - first:
+      213: 2006943273181854903
+    second: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_63
+  - first:
+      213: 3111703006827802711
+    second: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_64
+  - first:
+      213: 6036365584938508526
+    second: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_65
+  - first:
+      213: -5257125821481368083
+    second: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_66
+  - first:
+      213: 5610757185952203967
+    second: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_67
+  - first:
+      213: -3765811172934624211
+    second: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_68
+  - first:
+      213: 240817149997340357
+    second: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_69
+  - first:
+      213: 5275251247014481640
+    second: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_70
+  - first:
+      213: -8331642562453503693
+    second: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_71
+  - first:
+      213: 8162520720044131213
+    second: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_72
+  - first:
+      213: 9130901515850008429
+    second: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_73
+  - first:
+      213: 3179627549434419941
+    second: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_74
+  - first:
+      213: 1943786073875634575
+    second: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_75
+  - first:
+      213: 872263364260993125
+    second: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_76
+  - first:
+      213: 5624427517212295471
+    second: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_77
+  - first:
+      213: 5384929271013254120
+    second: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_78
+  - first:
+      213: 2446320111403028709
+    second: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_79
+  - first:
+      213: 3844329577264160370
+    second: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_80
+  - first:
+      213: 1861803803811684265
+    second: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_81
+  - first:
+      213: -4414213095988869671
+    second: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_82
+  - first:
+      213: 4964130790264224121
+    second: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_83
+  - first:
+      213: 3380241289025595853
+    second: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_84
+  - first:
+      213: -1402417856198361340
+    second: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_85
+  - first:
+      213: -340730207755238710
+    second: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_86
+  - first:
+      213: -7563183731554915475
+    second: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_87
+  - first:
+      213: -1235374379731511450
+    second: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_88
+  - first:
+      213: 4377046658436707528
+    second: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_89
+  - first:
+      213: 2964627849162476197
+    second: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_90
+  - first:
+      213: 471475582628759829
+    second: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_91
+  - first:
+      213: -8792845318298102988
+    second: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_92
+  - first:
+      213: -1528302465239348496
+    second: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_93
+  - first:
+      213: 8676107276285709276
+    second: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_94
+  - first:
+      213: 6527052633490288376
+    second: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_95
+  - first:
+      213: -3260287818333951630
+    second: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_96
+  - first:
+      213: -1289636422094940497
+    second: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_97
+  - first:
+      213: 5012650428661335527
+    second: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_98
+  - first:
+      213: -812715192881742754
+    second: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_99
+  - first:
+      213: 4114245801356169504
+    second: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_100
+  - first:
+      213: 6063708885774641158
+    second: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_101
+  - first:
+      213: -6740040259872072834
+    second: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_102
+  - first:
+      213: -201416615232378769
+    second: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_103
+  - first:
+      213: -3804512835686712933
+    second: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_104
+  - first:
+      213: -3316192686137900346
+    second: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_105
+  - first:
+      213: 1135017999552849635
+    second: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_106
+  - first:
+      213: 6613765664183595395
+    second: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_107
+  - first:
+      213: 4045871336817703081
+    second: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_108
+  - first:
+      213: -1626739579567052011
+    second: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_109
+  - first:
+      213: -1336874768514941141
+    second: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_110
+  - first:
+      213: -1374886590318432243
+    second: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_111
+  - first:
+      213: -3053765686981175888
+    second: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_112
+  - first:
+      213: -1853201309679294640
+    second: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_113
+  - first:
+      213: -8490574925873535662
+    second: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_114
+  - first:
+      213: -2222598654770896545
+    second: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_115
+  - first:
+      213: 5305447012831777163
+    second: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_116
+  - first:
+      213: -3014403802867139058
+    second: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_117
+  - first:
+      213: 1536416761586880153
+    second: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_118
+  - first:
+      213: -789044596903707617
+    second: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_119
+  - first:
+      213: 1146455920045493074
+    second: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_120
+  - first:
+      213: -7874086931186689299
+    second: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_121
+  - first:
+      213: 6619343093949583801
+    second: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_122
+  - first:
+      213: 6150333921137217745
+    second: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_123
+  - first:
+      213: -6163803792166554048
+    second: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_124
+  - first:
+      213: 4633998670203311359
+    second: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_125
+  - first:
+      213: 3654537097878767562
+    second: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_126
+  - first:
+      213: -8404449207325371435
+    second: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_127
+  - first:
+      213: 2467636585102809536
+    second: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_128
+  - first:
+      213: -5086533986822751255
+    second: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_129
+  - first:
+      213: -1669568288226895720
+    second: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_130
+  - first:
+      213: 440034203420014385
+    second: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_131
+  - first:
+      213: 9108577754501806160
+    second: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_132
+  - first:
+      213: -3546927747880883668
+    second: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_133
+  - first:
+      213: -9122038921802653875
+    second: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_134
+  - first:
+      213: -9124378852887747213
+    second: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_135
+  - first:
+      213: 4983909637757781702
+    second: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_136
+  - first:
+      213: 522551541866291342
+    second: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_137
+  - first:
+      213: 5367732325100599756
+    second: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_138
+  - first:
+      213: 1115149897806080626
+    second: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_139
+  - first:
+      213: 935246470423898379
+    second: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_140
+  - first:
+      213: 1956532508852933898
+    second: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_141
+  - first:
+      213: -7267318152018310520
+    second: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_142
+  - first:
+      213: 7316760390820150001
+    second: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_143
+  - first:
+      213: -338267021655930121
+    second: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_144
+  - first:
+      213: -3006796219247776516
+    second: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_145
+  - first:
+      213: 1872233067609330477
+    second: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_146
+  - first:
+      213: -4930850380339679517
+    second: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_147
+  - first:
+      213: -2714850545012338702
+    second: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_148
+  - first:
+      213: 3893927507221797816
+    second: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_149
+  - first:
+      213: -2615281608541806082
+    second: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_150
+  - first:
+      213: 7378810367474450869
+    second: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_151
+  - first:
+      213: -5334621979896378030
+    second: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_152
+  - first:
+      213: 3784875580068744684
+    second: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_153
+  - first:
+      213: -7063935730977168886
+    second: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_154
+  - first:
+      213: -1203690901156505890
+    second: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_155
+  - first:
+      213: -2984282316140178593
+    second: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_156
+  - first:
+      213: -4532383866577018898
+    second: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_157
+  - first:
+      213: -6615359799361416288
+    second: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_158
+  - first:
+      213: -3474175045289434480
+    second: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_159
+  - first:
+      213: 5281095772522304777
+    second: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_160
+  - first:
+      213: -4246592659841709689
+    second: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_161
+  - first:
+      213: 1178602785723364388
+    second: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_162
+  - first:
+      213: -5039411776447886164
+    second: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_163
+  - first:
+      213: 5949947821682294837
+    second: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_164
+  - first:
+      213: -2010791547205046483
+    second: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_165
+  - first:
+      213: 4615551874396440696
+    second: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_166
+  - first:
+      213: -7667599520332381289
+    second: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_167
+  - first:
+      213: -8837272617947758176
+    second: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_168
+  - first:
+      213: 6234043139972928576
+    second: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_169
+  - first:
+      213: -2844588613906713480
+    second: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_170
+  - first:
+      213: 5915881177120574549
+    second: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_171
+  - first:
+      213: 3181581174642909247
+    second: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_172
+  - first:
+      213: 5549002854167430600
+    second: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_173
+  - first:
+      213: -6091108168873748511
+    second: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_174
+  - first:
+      213: -968094966876771774
+    second: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_175
+  - first:
+      213: 565684035654273223
+    second: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_176
+  - first:
+      213: 5885294649523809322
+    second: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_177
+  - first:
+      213: 2873783747399816041
+    second: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_178
+  - first:
+      213: -2274338774184195046
+    second: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_179
+  - first:
+      213: -8228429347279154220
+    second: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_180
+  - first:
+      213: -7364915519080961743
+    second: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_181
+  - first:
+      213: 6835533870608052113
+    second: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_182
+  - first:
+      213: 7230914613670130657
+    second: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_183
+  - first:
+      213: 1550066053280630168
+    second: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_184
+  - first:
+      213: 3833851302952573446
+    second: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_185
+  - first:
+      213: -5431224840645491443
+    second: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_186
+  - first:
+      213: -980074971667191143
+    second: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_187
+  - first:
+      213: 2072682802956816798
+    second: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_188
+  - first:
+      213: -8842167753686665960
+    second: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_189
+  - first:
+      213: -2615421527849470731
+    second: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_190
+  - first:
+      213: -5637654689252029737
+    second: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_191
+  - first:
+      213: 2461783212922119693
+    second: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_192
+  - first:
+      213: 2770420445010318239
+    second: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_193
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 206
+        height: 4095
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd042ca61ad00db90800000000000000
+      internalID: -7219255215742893861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_1
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 2892
+        width: 625
+        height: 1192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b4f4ba7615d91600800000000000000
+      internalID: 439616731170010296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_2
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 2891
+        width: 518
+        height: 1187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d047d13d1fca3f50800000000000000
+      internalID: 6862024706549563604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_3
+      rect:
+        serializedVersion: 2
+        x: 1329
+        y: 3234
+        width: 628
+        height: 861
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1adcaf629a65aca0800000000000000
+      internalID: -6006277350857319907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_4
+      rect:
+        serializedVersion: 2
+        x: 1955
+        y: 3234
+        width: 798
+        height: 853
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cde4296394a823b0800000000000000
+      internalID: -5536994788820849213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_5
+      rect:
+        serializedVersion: 2
+        x: 2751
+        y: 3229
+        width: 628
+        height: 865
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b216625bcd78c220800000000000000
+      internalID: 2506391504845935285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_6
+      rect:
+        serializedVersion: 2
+        x: 3377
+        y: 3382
+        width: 716
+        height: 714
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70d3e363bc6153160800000000000000
+      internalID: 7004529857488895239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_7
+      rect:
+        serializedVersion: 2
+        x: 3377
+        y: 3127
+        width: 272
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 783e079423c35c940800000000000000
+      internalID: 5315721121858904967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_8
+      rect:
+        serializedVersion: 2
+        x: 3650
+        y: 3283
+        width: 74
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f58fc2278e66aff10800000000000000
+      internalID: 2304267307887425631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_9
+      rect:
+        serializedVersion: 2
+        x: 3723
+        y: 3279
+        width: 74
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a8af0f2f26e52120800000000000000
+      internalID: 2388568267717322921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_10
+      rect:
+        serializedVersion: 2
+        x: 3800
+        y: 3277
+        width: 63
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e680ff0a370c3220800000000000000
+      internalID: 2466854641849108192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_11
+      rect:
+        serializedVersion: 2
+        x: 3867
+        y: 3273
+        width: 71
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 330b548b5f39137a0800000000000000
+      internalID: -6399170911948918733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_12
+      rect:
+        serializedVersion: 2
+        x: 3944
+        y: 3273
+        width: 120
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cf63c6a22bb89ed0800000000000000
+      internalID: -2406968243328421951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_13
+      rect:
+        serializedVersion: 2
+        x: 3991
+        y: 3400
+        width: 92
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a284b9112490b120800000000000000
+      internalID: 2427603069038789289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_14
+      rect:
+        serializedVersion: 2
+        x: 3870
+        y: 3359
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d7277edbf6dd3a70800000000000000
+      internalID: 8808432823464044496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_15
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 3234
+        width: 275
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3ffee5ace714fd10800000000000000
+      internalID: 2158376426580934459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_16
+      rect:
+        serializedVersion: 2
+        x: 3646
+        y: 3205
+        width: 139
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9e1f1877c597b9e0800000000000000
+      internalID: -1605650058187956580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_17
+      rect:
+        serializedVersion: 2
+        x: 3785
+        y: 3197
+        width: 191
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b44534485c95ad030800000000000000
+      internalID: 3520224763605898315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_18
+      rect:
+        serializedVersion: 2
+        x: 3894
+        y: 3273
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b95621286f2658b30800000000000000
+      internalID: 4288943031023986075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_19
+      rect:
+        serializedVersion: 2
+        x: 3991
+        y: 3197
+        width: 105
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0aaf10789bb43bd10800000000000000
+      internalID: 2140137508137204384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_20
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 1785
+        width: 387
+        height: 1451
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a03e8bca930994f0800000000000000
+      internalID: -821621493643464537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_21
+      rect:
+        serializedVersion: 2
+        x: 1393
+        y: 3183
+        width: 750
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16795d324f0a6cfa0800000000000000
+      internalID: -5780756101249788063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_22
+      rect:
+        serializedVersion: 2
+        x: 1393
+        y: 2191
+        width: 424
+        height: 994
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50e566dc669d3d200800000000000000
+      internalID: 203745443717733893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_23
+      rect:
+        serializedVersion: 2
+        x: 2141
+        y: 3139
+        width: 768
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87117b458f4cd1700800000000000000
+      internalID: 512782503442321784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_24
+      rect:
+        serializedVersion: 2
+        x: 2907
+        y: 3127
+        width: 445
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46e9456399207fa80800000000000000
+      internalID: -8433268920163197340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_25
+      rect:
+        serializedVersion: 2
+        x: 3642
+        y: 2902
+        width: 447
+        height: 301
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72d64c37d3894c660800000000000000
+      internalID: 7405211077006617895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_26
+      rect:
+        serializedVersion: 2
+        x: 1807
+        y: 3145
+        width: 48
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94015824a17b48760800000000000000
+      internalID: 7459288206245433417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_27
+      rect:
+        serializedVersion: 2
+        x: 1824
+        y: 3139
+        width: 160
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d11d7469e37ac670800000000000000
+      internalID: 8559781488021541332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_28
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 3139
+        width: 139
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fd3caae16f66f930800000000000000
+      internalID: 4176648170772381175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_29
+      rect:
+        serializedVersion: 2
+        x: 1816
+        y: 2191
+        width: 832
+        height: 950
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96922a3b135664a80800000000000000
+      internalID: -8482981583964198551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_30
+      rect:
+        serializedVersion: 2
+        x: 2648
+        y: 2180
+        width: 846
+        height: 949
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73fde59e4683727d0800000000000000
+      internalID: -2943321825400135881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_31
+      rect:
+        serializedVersion: 2
+        x: 3492
+        y: 3066
+        width: 57
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 023e16f132e3c01b0800000000000000
+      internalID: -5689103908704492768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_32
+      rect:
+        serializedVersion: 2
+        x: 3492
+        y: 2179
+        width: 157
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd577760f5cf15050800000000000000
+      internalID: 5787684481208382939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_33
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 1804
+        width: 922
+        height: 1089
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd9281b9aec840120800000000000000
+      internalID: 2379181442410752475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_34
+      rect:
+        serializedVersion: 2
+        x: 3690
+        y: 2890
+        width: 28
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c9619eb95c232730800000000000000
+      internalID: 3973068060231821763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_35
+      rect:
+        serializedVersion: 2
+        x: 1831
+        y: 2663
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ae1ab485a5d35e50800000000000000
+      internalID: 6797011169505320611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_36
+      rect:
+        serializedVersion: 2
+        x: 3657
+        y: 2496
+        width: 433
+        height: 392
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b11a7f333ff8e370800000000000000
+      internalID: 8352206104531964344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_37
+      rect:
+        serializedVersion: 2
+        x: 1827
+        y: 2628
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f24dfff8aa24e940800000000000000
+      internalID: 5324427564796429042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_38
+      rect:
+        serializedVersion: 2
+        x: 1836
+        y: 2623
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 656827985b988dea0800000000000000
+      internalID: -5847772703352519082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_39
+      rect:
+        serializedVersion: 2
+        x: 2620
+        y: 2484
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 813806e973a32b100800000000000000
+      internalID: 122224150447162136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_40
+      rect:
+        serializedVersion: 2
+        x: 3646
+        y: 2012
+        width: 449
+        height: 486
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bfc647e939dd4570800000000000000
+      internalID: 8452650918360829881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_41
+      rect:
+        serializedVersion: 2
+        x: 2618
+        y: 2476
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3114c4c296b59dc10800000000000000
+      internalID: 2078793210281083155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_42
+      rect:
+        serializedVersion: 2
+        x: 2619
+        y: 2464
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fd38be5672d3cc00800000000000000
+      internalID: 919810154750819832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_43
+      rect:
+        serializedVersion: 2
+        x: 2598
+        y: 2434
+        width: 33
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05b92c0df359afa60800000000000000
+      internalID: 7708637813515918160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_44
+      rect:
+        serializedVersion: 2
+        x: 2630
+        y: 2452
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f3cf6831f7f90590800000000000000
+      internalID: -7707356671861865479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_45
+      rect:
+        serializedVersion: 2
+        x: 1069
+        y: 2109
+        width: 794
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fd3cc669aebc4ae0800000000000000
+      internalID: -1563665335820993038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_46
+      rect:
+        serializedVersion: 2
+        x: 1861
+        y: 2108
+        width: 214
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca6587ed328b995d0800000000000000
+      internalID: -3055208407998376276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_47
+      rect:
+        serializedVersion: 2
+        x: 2060
+        y: 1290
+        width: 178
+        height: 892
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9aff0cf923a7459a0800000000000000
+      internalID: -6245232425408856151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_48
+      rect:
+        serializedVersion: 2
+        x: 2217
+        y: 1897
+        width: 282
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 379021c8a0d25d5d0800000000000000
+      internalID: -3038472850268616333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_49
+      rect:
+        serializedVersion: 2
+        x: 2493
+        y: 1953
+        width: 160
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f701c6ca42c11910800000000000000
+      internalID: 1806438551970187252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_50
+      rect:
+        serializedVersion: 2
+        x: 2651
+        y: 2032
+        width: 177
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e89d387cdfb50530800000000000000
+      internalID: 3820670812524746983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_51
+      rect:
+        serializedVersion: 2
+        x: 2818
+        y: 2152
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f85462336469182c0800000000000000
+      internalID: -4431095330105834097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_52
+      rect:
+        serializedVersion: 2
+        x: 2830
+        y: 1953
+        width: 411
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66f927c90d43dadd0800000000000000
+      internalID: -2473262549773934746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_53
+      rect:
+        serializedVersion: 2
+        x: 3239
+        y: 1892
+        width: 409
+        height: 289
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 804bb195dd5be9f80800000000000000
+      internalID: -8097835117678185464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_54
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 1101
+        width: 136
+        height: 1010
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e990c7bf46761f8c0800000000000000
+      internalID: -3967276113323095650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_55
+      rect:
+        serializedVersion: 2
+        x: 1194
+        y: 1764
+        width: 420
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec90666bec806fee0800000000000000
+      internalID: -1227784164495455794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_56
+      rect:
+        serializedVersion: 2
+        x: 1612
+        y: 1764
+        width: 382
+        height: 346
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4266517f1978a2680800000000000000
+      internalID: -8779055462619978204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_57
+      rect:
+        serializedVersion: 2
+        x: 1986
+        y: 1852
+        width: 83
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1391f9d82cf7f0150800000000000000
+      internalID: 5841027715299219761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_58
+      rect:
+        serializedVersion: 2
+        x: 2822
+        y: 2049
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52a96e7152c711620800000000000000
+      internalID: 2743110146801965605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_59
+      rect:
+        serializedVersion: 2
+        x: 2719
+        y: 1953
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d3e44ba987c45620800000000000000
+      internalID: 2762051865582822361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_60
+      rect:
+        serializedVersion: 2
+        x: 2746
+        y: 1958
+        width: 40
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fda11849e46223f00800000000000000
+      internalID: 1094979778345245407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_61
+      rect:
+        serializedVersion: 2
+        x: 3646
+        y: 1892
+        width: 450
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b772ce5aeabe298b0800000000000000
+      internalID: -5146792288790501509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_62
+      rect:
+        serializedVersion: 2
+        x: 2322
+        y: 1935
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20ec4531332313420800000000000000
+      internalID: 2607920854173273602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_63
+      rect:
+        serializedVersion: 2
+        x: 2335
+        y: 1933
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bc3d5216481adb10800000000000000
+      internalID: 2006943273181854903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_64
+      rect:
+        serializedVersion: 2
+        x: 2384
+        y: 1939
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7507c70f56dfe2b20800000000000000
+      internalID: 3111703006827802711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_65
+      rect:
+        serializedVersion: 2
+        x: 2423
+        y: 1942
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee027a8748a75c350800000000000000
+      internalID: 6036365584938508526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_66
+      rect:
+        serializedVersion: 2
+        x: 2895
+        y: 1829
+        width: 196
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de5c1173befea07b0800000000000000
+      internalID: -5257125821481368083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_67
+      rect:
+        serializedVersion: 2
+        x: 3052
+        y: 1721
+        width: 1034
+        height: 233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb4c6adfee96ddd40800000000000000
+      internalID: 5610757185952203967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_68
+      rect:
+        serializedVersion: 2
+        x: 2299
+        y: 1927
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2cd80ab0b62dbbc0800000000000000
+      internalID: -3765811172934624211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_69
+      rect:
+        serializedVersion: 2
+        x: 2310
+        y: 1930
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c6d9690ced875300800000000000000
+      internalID: 240817149997340357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_70
+      rect:
+        serializedVersion: 2
+        x: 2381
+        y: 1929
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ee0c374f05753940800000000000000
+      internalID: 5275251247014481640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_71
+      rect:
+        serializedVersion: 2
+        x: 2305
+        y: 1915
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3310f6d7b3f006c80800000000000000
+      internalID: -8331642562453503693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_72
+      rect:
+        serializedVersion: 2
+        x: 2313
+        y: 1911
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d830ff51959174170800000000000000
+      internalID: 8162520720044131213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_73
+      rect:
+        serializedVersion: 2
+        x: 2319
+        y: 1915
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d67c0531d8a77be70800000000000000
+      internalID: 9130901515850008429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_74
+      rect:
+        serializedVersion: 2
+        x: 2327
+        y: 1923
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ea951ae86e402c20800000000000000
+      internalID: 3179627549434419941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_75
+      rect:
+        serializedVersion: 2
+        x: 2336
+        y: 1902
+        width: 66
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8955b4b227b9fa10800000000000000
+      internalID: 1943786073875634575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_76
+      rect:
+        serializedVersion: 2
+        x: 2344
+        y: 1914
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5681d5988e6ea1c00800000000000000
+      internalID: 872263364260993125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_77
+      rect:
+        serializedVersion: 2
+        x: 2375
+        y: 1921
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f210f54070bfd0e40800000000000000
+      internalID: 5624427517212295471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_78
+      rect:
+        serializedVersion: 2
+        x: 2389
+        y: 1919
+        width: 21
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e3295334ac1bba40800000000000000
+      internalID: 5384929271013254120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_79
+      rect:
+        serializedVersion: 2
+        x: 2425
+        y: 1915
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e0521f1e2313f120800000000000000
+      internalID: 2446320111403028709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_80
+      rect:
+        serializedVersion: 2
+        x: 2428
+        y: 1913
+        width: 22
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27e9b54e16dc95530800000000000000
+      internalID: 3844329577264160370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_81
+      rect:
+        serializedVersion: 2
+        x: 2473
+        y: 1912
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9af9aaff1b476d910800000000000000
+      internalID: 1861803803811684265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_82
+      rect:
+        serializedVersion: 2
+        x: 2303
+        y: 1903
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d5c4b2a3909db2c0800000000000000
+      internalID: -4414213095988869671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_83
+      rect:
+        serializedVersion: 2
+        x: 2308
+        y: 1896
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 979374417a224e440800000000000000
+      internalID: 4964130790264224121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_84
+      rect:
+        serializedVersion: 2
+        x: 2309
+        y: 1907
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc9aa770b8709ee20800000000000000
+      internalID: 3380241289025595853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_85
+      rect:
+        serializedVersion: 2
+        x: 2338
+        y: 1903
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40fb1aed36c998ce0800000000000000
+      internalID: -1402417856198361340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_86
+      rect:
+        serializedVersion: 2
+        x: 2373
+        y: 1901
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac2018a6eab754bf0800000000000000
+      internalID: -340730207755238710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_87
+      rect:
+        serializedVersion: 2
+        x: 2398
+        y: 1899
+        width: 38
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6be7a5b77c2a0790800000000000000
+      internalID: -7563183731554915475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_88
+      rect:
+        serializedVersion: 2
+        x: 2436
+        y: 1905
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6671c730c811bdee0800000000000000
+      internalID: -1235374379731511450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_89
+      rect:
+        serializedVersion: 2
+        x: 2447
+        y: 1903
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c43e69ceb46ebc30800000000000000
+      internalID: 4377046658436707528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_90
+      rect:
+        serializedVersion: 2
+        x: 2454
+        y: 1907
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5aa4f805259742920800000000000000
+      internalID: 2964627849162476197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_91
+      rect:
+        serializedVersion: 2
+        x: 2454
+        y: 1900
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5198bde5b840b8600800000000000000
+      internalID: 471475582628759829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_92
+      rect:
+        serializedVersion: 2
+        x: 2459
+        y: 1905
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43392edf4c989f580800000000000000
+      internalID: -8792845318298102988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_93
+      rect:
+        serializedVersion: 2
+        x: 2469
+        y: 1906
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fa0e0251016acae0800000000000000
+      internalID: -1528302465239348496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_94
+      rect:
+        serializedVersion: 2
+        x: 2225
+        y: 1582
+        width: 680
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdb013c8999b76870800000000000000
+      internalID: 8676107276285709276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_95
+      rect:
+        serializedVersion: 2
+        x: 2298
+        y: 1894
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fe6771d9cfb49a50800000000000000
+      internalID: 6527052633490288376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_96
+      rect:
+        serializedVersion: 2
+        x: 2337
+        y: 1897
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 279eba2c08121c2d0800000000000000
+      internalID: -3260287818333951630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_97
+      rect:
+        serializedVersion: 2
+        x: 2366
+        y: 1898
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa610a3c18a4a1ee0800000000000000
+      internalID: -1289636422094940497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_98
+      rect:
+        serializedVersion: 2
+        x: 2383
+        y: 1900
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e58197b103809540800000000000000
+      internalID: 5012650428661335527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_99
+      rect:
+        serializedVersion: 2
+        x: 2407
+        y: 1896
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5c78b886d7a8b4f0800000000000000
+      internalID: -812715192881742754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_100
+      rect:
+        serializedVersion: 2
+        x: 1986
+        y: 1737
+        width: 86
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0211a7412ccb81930800000000000000
+      internalID: 4114245801356169504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_101
+      rect:
+        serializedVersion: 2
+        x: 2037
+        y: 1839
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6082afdca1f962450800000000000000
+      internalID: 6063708885774641158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_102
+      rect:
+        serializedVersion: 2
+        x: 2051
+        y: 1843
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7b5e7a08119672a0800000000000000
+      internalID: -6740040259872072834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_103
+      rect:
+        serializedVersion: 2
+        x: 2241
+        y: 1840
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f686635d7ac643df0800000000000000
+      internalID: -201416615232378769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_104
+      rect:
+        serializedVersion: 2
+        x: 2252
+        y: 1837
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b99ba7dabb7a33bc0800000000000000
+      internalID: -3804512835686712933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_105
+      rect:
+        serializedVersion: 2
+        x: 2911
+        y: 1724
+        width: 140
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c2800862548af1d0800000000000000
+      internalID: -3316192686137900346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_106
+      rect:
+        serializedVersion: 2
+        x: 2251
+        y: 1832
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e6a5056bd460cf00800000000000000
+      internalID: 1135017999552849635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_107
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 0
+        width: 991
+        height: 1809
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 381b65194d0d8cb50800000000000000
+      internalID: 6613765664183595395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_108
+      rect:
+        serializedVersion: 2
+        x: 2235
+        y: 1799
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a834fd7b82d52830800000000000000
+      internalID: 4045871336817703081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_109
+      rect:
+        serializedVersion: 2
+        x: 2236
+        y: 1795
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51b66d1a8f8ac69e0800000000000000
+      internalID: -1626739579567052011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_110
+      rect:
+        serializedVersion: 2
+        x: 2224
+        y: 1790
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2ffb792b77727de0800000000000000
+      internalID: -1336874768514941141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_111
+      rect:
+        serializedVersion: 2
+        x: 2242
+        y: 1774
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d003f993eeb6bece0800000000000000
+      internalID: -1374886590318432243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_112
+      rect:
+        serializedVersion: 2
+        x: 2261
+        y: 1772
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b5d5388948de95d0800000000000000
+      internalID: -3053765686981175888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_113
+      rect:
+        serializedVersion: 2
+        x: 1194
+        y: 1241
+        width: 588
+        height: 525
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 057e64f3a3b1846e0800000000000000
+      internalID: -1853201309679294640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_114
+      rect:
+        serializedVersion: 2
+        x: 1781
+        y: 1654
+        width: 81
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2552874071b6b2a80800000000000000
+      internalID: -8490574925873535662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_115
+      rect:
+        serializedVersion: 2
+        x: 1860
+        y: 1654
+        width: 83
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f51ae10ac4eb721e0800000000000000
+      internalID: -2222598654770896545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_116
+      rect:
+        serializedVersion: 2
+        x: 2226
+        y: 1752
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b81de7ed2fbb0a940800000000000000
+      internalID: 5305447012831777163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_117
+      rect:
+        serializedVersion: 2
+        x: 2231
+        y: 1758
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0e748856bfaa26d0800000000000000
+      internalID: -3014403802867139058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_118
+      rect:
+        serializedVersion: 2
+        x: 2260
+        y: 1757
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99e875587e2725510800000000000000
+      internalID: 1536416761586880153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_119
+      rect:
+        serializedVersion: 2
+        x: 2231
+        y: 1751
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1cfc91ae10cc05f0800000000000000
+      internalID: -789044596903707617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_120
+      rect:
+        serializedVersion: 2
+        x: 1998
+        y: 1730
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25b84f8c59709ef00800000000000000
+      internalID: 1146455920045493074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_121
+      rect:
+        serializedVersion: 2
+        x: 2234
+        y: 1736
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dea5210a7af99b290800000000000000
+      internalID: -7874086931186689299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_122
+      rect:
+        serializedVersion: 2
+        x: 2245
+        y: 1738
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b1dc412971acdb50800000000000000
+      internalID: 6619343093949583801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_123
+      rect:
+        serializedVersion: 2
+        x: 1952
+        y: 1650
+        width: 123
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d05b6b8d106a5550800000000000000
+      internalID: 6150333921137217745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_124
+      rect:
+        serializedVersion: 2
+        x: 2239
+        y: 1728
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 046f4b6bb15c57aa0800000000000000
+      internalID: -6163803792166554048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_125
+      rect:
+        serializedVersion: 2
+        x: 2231
+        y: 1718
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff4d9131d354f4040800000000000000
+      internalID: 4633998670203311359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_126
+      rect:
+        serializedVersion: 2
+        x: 2243
+        y: 1713
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac70d81c02687b230800000000000000
+      internalID: 3654537097878767562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_127
+      rect:
+        serializedVersion: 2
+        x: 2907
+        y: 1337
+        width: 459
+        height: 389
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d3de8089f56d5b80800000000000000
+      internalID: -8404449207325371435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_128
+      rect:
+        serializedVersion: 2
+        x: 3363
+        y: 1460
+        width: 310
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c99fc9666ece3220800000000000000
+      internalID: 2467636585102809536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_129
+      rect:
+        serializedVersion: 2
+        x: 3673
+        y: 1457
+        width: 423
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9eb7a71e9400969b0800000000000000
+      internalID: -5086533986822751255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_130
+      rect:
+        serializedVersion: 2
+        x: 3690
+        y: 1648
+        width: 256
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8989af3dc7084d8e0800000000000000
+      internalID: -1669568288226895720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_131
+      rect:
+        serializedVersion: 2
+        x: 2245
+        y: 1693
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1373fdfc6c05b1600800000000000000
+      internalID: 440034203420014385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_132
+      rect:
+        serializedVersion: 2
+        x: 1773
+        y: 1665
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 058fa1a553b286e70800000000000000
+      internalID: 9108577754501806160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_133
+      rect:
+        serializedVersion: 2
+        x: 1944
+        y: 1657
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2a65977108c6cec0800000000000000
+      internalID: -3546927747880883668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_134
+      rect:
+        serializedVersion: 2
+        x: 1795
+        y: 1646
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4f5aa66ee1086180800000000000000
+      internalID: -9122038921802653875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_135
+      rect:
+        serializedVersion: 2
+        x: 1940
+        y: 1646
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3752a8db6c1bf5180800000000000000
+      internalID: -9124378852887747213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_136
+      rect:
+        serializedVersion: 2
+        x: 1982
+        y: 1538
+        width: 91
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c6c23fd8676a2540800000000000000
+      internalID: 4983909637757781702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_137
+      rect:
+        serializedVersion: 2
+        x: 1773
+        y: 1434
+        width: 220
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e80e5c5dbd9704700800000000000000
+      internalID: 522551541866291342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_138
+      rect:
+        serializedVersion: 2
+        x: 2217
+        y: 1290
+        width: 442
+        height: 294
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc9b0073c140e7a40800000000000000
+      internalID: 5367732325100599756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_139
+      rect:
+        serializedVersion: 2
+        x: 2661
+        y: 1571
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27a6b0a7ceec97f00800000000000000
+      internalID: 1115149897806080626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_140
+      rect:
+        serializedVersion: 2
+        x: 2654
+        y: 1547
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b09ed0fa5b9aafc00800000000000000
+      internalID: 935246470423898379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_141
+      rect:
+        serializedVersion: 2
+        x: 2663
+        y: 1499
+        width: 121
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a05dead53fff62b10800000000000000
+      internalID: 1956532508852933898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_142
+      rect:
+        serializedVersion: 2
+        x: 2782
+        y: 1490
+        width: 124
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88a433705ac452b90800000000000000
+      internalID: -7267318152018310520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_143
+      rect:
+        serializedVersion: 2
+        x: 1773
+        y: 1290
+        width: 209
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fabb714fca5a8560800000000000000
+      internalID: 7316760390820150001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_144
+      rect:
+        serializedVersion: 2
+        x: 1986
+        y: 1411
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fa08fe9feb3e4bf0800000000000000
+      internalID: -338267021655930121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_145
+      rect:
+        serializedVersion: 2
+        x: 1992
+        y: 1419
+        width: 77
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfcafbfe4c6b546d0800000000000000
+      internalID: -3006796219247776516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_146
+      rect:
+        serializedVersion: 2
+        x: 2657
+        y: 1293
+        width: 242
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2318933e028bf910800000000000000
+      internalID: 1872233067609330477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_147
+      rect:
+        serializedVersion: 2
+        x: 3357
+        y: 1355
+        width: 739
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3eee04f24b9129bb0800000000000000
+      internalID: -4930850380339679517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_148
+      rect:
+        serializedVersion: 2
+        x: 1986
+        y: 1295
+        width: 85
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ff834e20d9e25ad0800000000000000
+      internalID: -2714850545012338702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_149
+      rect:
+        serializedVersion: 2
+        x: 3446
+        y: 1351
+        width: 18
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bbd319df620a0630800000000000000
+      internalID: 3893927507221797816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_150
+      rect:
+        serializedVersion: 2
+        x: 1074
+        y: 1112
+        width: 12
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef1e04fbb37a4bbd0800000000000000
+      internalID: -2615281608541806082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_151
+      rect:
+        serializedVersion: 2
+        x: 1194
+        y: 1105
+        width: 585
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b1c8424fecc66660800000000000000
+      internalID: 7378810367474450869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_152
+      rect:
+        serializedVersion: 2
+        x: 1642
+        y: 0
+        width: 1039
+        height: 1296
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25d0945c29d97f5b0800000000000000
+      internalID: -5334621979896378030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_153
+      rect:
+        serializedVersion: 2
+        x: 2654
+        y: 1020
+        width: 255
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ced4c057944968430800000000000000
+      internalID: 3784875580068744684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_154
+      rect:
+        serializedVersion: 2
+        x: 2907
+        y: 1015
+        width: 453
+        height: 308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a02aae601ebd7fd90800000000000000
+      internalID: -7063935730977168886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_155
+      rect:
+        serializedVersion: 2
+        x: 3358
+        y: 1161
+        width: 729
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed65239b081ab4fe0800000000000000
+      internalID: -1203690901156505890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_156
+      rect:
+        serializedVersion: 2
+        x: 3358
+        y: 1072
+        width: 738
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f531cfc7b03b596d0800000000000000
+      internalID: -2984282316140178593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_157
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 15
+        width: 481
+        height: 1019
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eef17fe03ecb911c0800000000000000
+      internalID: -4532383866577018898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_158
+      rect:
+        serializedVersion: 2
+        x: 1067
+        y: 407
+        width: 713
+        height: 700
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a3d9a9ef458134a0800000000000000
+      internalID: -6615359799361416288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_159
+      rect:
+        serializedVersion: 2
+        x: 2658
+        y: 725
+        width: 251
+        height: 297
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0922ff9043049cfc0800000000000000
+      internalID: -3474175045289434480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_160
+      rect:
+        serializedVersion: 2
+        x: 2700
+        y: 922
+        width: 62
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 905520aef983a4940800000000000000
+      internalID: 5281095772522304777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_161
+      rect:
+        serializedVersion: 2
+        x: 2904
+        y: 789
+        width: 457
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7898a5ca9721115c0800000000000000
+      internalID: -4246592659841709689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_162
+      rect:
+        serializedVersion: 2
+        x: 3359
+        y: 879
+        width: 734
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 424b3563dfc3b5010800000000000000
+      internalID: 1178602785723364388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_163
+      rect:
+        serializedVersion: 2
+        x: 2689
+        y: 900
+        width: 8
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cac47e370b9601ab0800000000000000
+      internalID: -5039411776447886164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_164
+      rect:
+        serializedVersion: 2
+        x: 2690
+        y: 860
+        width: 9
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5308b770506729250800000000000000
+      internalID: 5949947821682294837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_165
+      rect:
+        serializedVersion: 2
+        x: 2692
+        y: 838
+        width: 11
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2f2c7fcdbb3814e0800000000000000
+      internalID: -2010791547205046483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_166
+      rect:
+        serializedVersion: 2
+        x: 2888
+        y: 865
+        width: 8
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 878c9cbb9fbbd0040800000000000000
+      internalID: 4615551874396440696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_167
+      rect:
+        serializedVersion: 2
+        x: 3377
+        y: 322
+        width: 696
+        height: 559
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79302a66cd6379590800000000000000
+      internalID: -7667599520332381289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_168
+      rect:
+        serializedVersion: 2
+        x: 2696
+        y: 818
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a100f73063bb5580800000000000000
+      internalID: -8837272617947758176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_169
+      rect:
+        serializedVersion: 2
+        x: 2701
+        y: 812
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0441c88d435c38650800000000000000
+      internalID: 6234043139972928576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_170
+      rect:
+        serializedVersion: 2
+        x: 2702
+        y: 822
+        width: 11
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87438f71abdf588d0800000000000000
+      internalID: -2844588613906713480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_171
+      rect:
+        serializedVersion: 2
+        x: 2680
+        y: 498
+        width: 219
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55c01bf369e691250800000000000000
+      internalID: 5915881177120574549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_172
+      rect:
+        serializedVersion: 2
+        x: 2847
+        y: 592
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3029aab83f372c20800000000000000
+      internalID: 3181581174642909247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_173
+      rect:
+        serializedVersion: 2
+        x: 2907
+        y: 375
+        width: 464
+        height: 414
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c5474c22b4020d40800000000000000
+      internalID: 5549002854167430600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_174
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 332
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e7dcc97469087ba0800000000000000
+      internalID: -6091108168873748511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_175
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 341
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24a677eb1c2a092f0800000000000000
+      internalID: -968094966876771774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_176
+      rect:
+        serializedVersion: 2
+        x: 1066
+        y: 0
+        width: 350
+        height: 545
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c8484022a6b9d700800000000000000
+      internalID: 565684035654273223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_177
+      rect:
+        serializedVersion: 2
+        x: 1414
+        y: 176
+        width: 196
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2caf575d44cca150800000000000000
+      internalID: 5885294649523809322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_178
+      rect:
+        serializedVersion: 2
+        x: 1608
+        y: 176
+        width: 176
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9639e01a71bb1e720800000000000000
+      internalID: 2873783747399816041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_179
+      rect:
+        serializedVersion: 2
+        x: 2662
+        y: 244
+        width: 237
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1c8ad15fecef60e0800000000000000
+      internalID: -2274338774184195046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_180
+      rect:
+        serializedVersion: 2
+        x: 2897
+        y: 262
+        width: 480
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d3d600da1fbecd80800000000000000
+      internalID: -8228429347279154220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_181
+      rect:
+        serializedVersion: 2
+        x: 3513
+        y: 314
+        width: 70
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 139ea6c3b509ac990800000000000000
+      internalID: -7364915519080961743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_182
+      rect:
+        serializedVersion: 2
+        x: 3726
+        y: 281
+        width: 36
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19f6ebfc6d1bcde50800000000000000
+      internalID: 6835533870608052113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_183
+      rect:
+        serializedVersion: 2
+        x: 3377
+        y: 123
+        width: 700
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e33df4b78e595460800000000000000
+      internalID: 7230914613670130657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_184
+      rect:
+        serializedVersion: 2
+        x: 3422
+        y: 269
+        width: 24
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8950f24ecd0f28510800000000000000
+      internalID: 1550066053280630168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_185
+      rect:
+        serializedVersion: 2
+        x: 2907
+        y: 11
+        width: 465
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60a182a8273943530800000000000000
+      internalID: 3833851302952573446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_186
+      rect:
+        serializedVersion: 2
+        x: 3159
+        y: 259
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d054c0688c960a4b0800000000000000
+      internalID: -5431224840645491443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_187
+      rect:
+        serializedVersion: 2
+        x: 3166
+        y: 255
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99aa68481031662f0800000000000000
+      internalID: -980074971667191143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_188
+      rect:
+        serializedVersion: 2
+        x: 2657
+        y: 191
+        width: 247
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e915d4a1706a3cc10800000000000000
+      internalID: 2072682802956816798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_189
+      rect:
+        serializedVersion: 2
+        x: 2657
+        y: 0
+        width: 251
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 815b71d964f4a4580800000000000000
+      internalID: -8842167753686665960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_190
+      rect:
+        serializedVersion: 2
+        x: 1194
+        y: 9
+        width: 662
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f47f9e3af724bbd0800000000000000
+      internalID: -2615421527849470731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_191
+      rect:
+        serializedVersion: 2
+        x: 2995
+        y: 12
+        width: 25
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7da41d00ee603c1b0800000000000000
+      internalID: -5637654689252029737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_192
+      rect:
+        serializedVersion: 2
+        x: 3020
+        y: 0
+        width: 39
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d062e300ac20a2220800000000000000
+      internalID: 2461783212922119693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_193
+      rect:
+        serializedVersion: 2
+        x: 3377
+        y: 0
+        width: 719
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f93d15767b2827620800000000000000
+      internalID: 2770420445010318239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_0: -7219255215742893861
+      The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_1: 439616731170010296
+      The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_10: 2466854641849108192
+      The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_100: 4114245801356169504
+      The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_101: 6063708885774641158
+      The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_102: -6740040259872072834
+      The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_103: -201416615232378769
+      The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_104: -3804512835686712933
+      The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_105: -3316192686137900346
+      The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_106: 1135017999552849635
+      The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_107: 6613765664183595395
+      The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_108: 4045871336817703081
+      The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_109: -1626739579567052011
+      The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_11: -6399170911948918733
+      The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_110: -1336874768514941141
+      The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_111: -1374886590318432243
+      The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_112: -3053765686981175888
+      The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_113: -1853201309679294640
+      The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_114: -8490574925873535662
+      The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_115: -2222598654770896545
+      The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_116: 5305447012831777163
+      The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_117: -3014403802867139058
+      The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_118: 1536416761586880153
+      The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_119: -789044596903707617
+      The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_12: -2406968243328421951
+      The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_120: 1146455920045493074
+      The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_121: -7874086931186689299
+      The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_122: 6619343093949583801
+      The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_123: 6150333921137217745
+      The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_124: -6163803792166554048
+      The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_125: 4633998670203311359
+      The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_126: 3654537097878767562
+      The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_127: -8404449207325371435
+      The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_128: 2467636585102809536
+      The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_129: -5086533986822751255
+      The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_13: 2427603069038789289
+      The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_130: -1669568288226895720
+      The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_131: 440034203420014385
+      The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_132: 9108577754501806160
+      The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_133: -3546927747880883668
+      The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_134: -9122038921802653875
+      The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_135: -9124378852887747213
+      The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_136: 4983909637757781702
+      The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_137: 522551541866291342
+      The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_138: 5367732325100599756
+      The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_139: 1115149897806080626
+      The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_14: 8808432823464044496
+      The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_140: 935246470423898379
+      The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_141: 1956532508852933898
+      The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_142: -7267318152018310520
+      The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_143: 7316760390820150001
+      The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_144: -338267021655930121
+      The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_145: -3006796219247776516
+      The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_146: 1872233067609330477
+      The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_147: -4930850380339679517
+      The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_148: -2714850545012338702
+      The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_149: 3893927507221797816
+      The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_15: 2158376426580934459
+      The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_150: -2615281608541806082
+      The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_151: 7378810367474450869
+      The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_152: -5334621979896378030
+      The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_153: 3784875580068744684
+      The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_154: -7063935730977168886
+      The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_155: -1203690901156505890
+      The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_156: -2984282316140178593
+      The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_157: -4532383866577018898
+      The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_158: -6615359799361416288
+      The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_159: -3474175045289434480
+      The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_16: -1605650058187956580
+      The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_160: 5281095772522304777
+      The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_161: -4246592659841709689
+      The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_162: 1178602785723364388
+      The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_163: -5039411776447886164
+      The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_164: 5949947821682294837
+      The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_165: -2010791547205046483
+      The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_166: 4615551874396440696
+      The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_167: -7667599520332381289
+      The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_168: -8837272617947758176
+      The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_169: 6234043139972928576
+      The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_17: 3520224763605898315
+      The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_170: -2844588613906713480
+      The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_171: 5915881177120574549
+      The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_172: 3181581174642909247
+      The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_173: 5549002854167430600
+      The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_174: -6091108168873748511
+      The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_175: -968094966876771774
+      The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_176: 565684035654273223
+      The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_177: 5885294649523809322
+      The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_178: 2873783747399816041
+      The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_179: -2274338774184195046
+      The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_18: 4288943031023986075
+      The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_180: -8228429347279154220
+      The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_181: -7364915519080961743
+      The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_182: 6835533870608052113
+      The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_183: 7230914613670130657
+      The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_184: 1550066053280630168
+      The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_185: 3833851302952573446
+      The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_186: -5431224840645491443
+      The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_187: -980074971667191143
+      The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_188: 2072682802956816798
+      The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_189: -8842167753686665960
+      The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_19: 2140137508137204384
+      The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_190: -2615421527849470731
+      The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_191: -5637654689252029737
+      The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_192: 2461783212922119693
+      The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_193: 2770420445010318239
+      The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_2: 6862024706549563604
+      The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_20: -821621493643464537
+      The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_21: -5780756101249788063
+      The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_22: 203745443717733893
+      The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_23: 512782503442321784
+      The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_24: -8433268920163197340
+      The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_25: 7405211077006617895
+      The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_26: 7459288206245433417
+      The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_27: 8559781488021541332
+      The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_28: 4176648170772381175
+      The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_29: -8482981583964198551
+      The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_3: -6006277350857319907
+      The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_30: -2943321825400135881
+      The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_31: -5689103908704492768
+      The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_32: 5787684481208382939
+      The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_33: 2379181442410752475
+      The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_34: 3973068060231821763
+      The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_35: 6797011169505320611
+      The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_36: 8352206104531964344
+      The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_37: 5324427564796429042
+      The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_38: -5847772703352519082
+      The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_39: 122224150447162136
+      The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_4: -5536994788820849213
+      The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_40: 8452650918360829881
+      The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_41: 2078793210281083155
+      The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_42: 919810154750819832
+      The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_43: 7708637813515918160
+      The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_44: -7707356671861865479
+      The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_45: -1563665335820993038
+      The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_46: -3055208407998376276
+      The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_47: -6245232425408856151
+      The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_48: -3038472850268616333
+      The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_49: 1806438551970187252
+      The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_5: 2506391504845935285
+      The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_50: 3820670812524746983
+      The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_51: -4431095330105834097
+      The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_52: -2473262549773934746
+      The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_53: -8097835117678185464
+      The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_54: -3967276113323095650
+      The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_55: -1227784164495455794
+      The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_56: -8779055462619978204
+      The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_57: 5841027715299219761
+      The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_58: 2743110146801965605
+      The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_59: 2762051865582822361
+      The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_6: 7004529857488895239
+      The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_60: 1094979778345245407
+      The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_61: -5146792288790501509
+      The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_62: 2607920854173273602
+      The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_63: 2006943273181854903
+      The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_64: 3111703006827802711
+      The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_65: 6036365584938508526
+      The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_66: -5257125821481368083
+      The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_67: 5610757185952203967
+      The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_68: -3765811172934624211
+      The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_69: 240817149997340357
+      The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_7: 5315721121858904967
+      The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_70: 5275251247014481640
+      The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_71: -8331642562453503693
+      The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_72: 8162520720044131213
+      The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_73: 9130901515850008429
+      The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_74: 3179627549434419941
+      The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_75: 1943786073875634575
+      The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_76: 872263364260993125
+      The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_77: 5624427517212295471
+      The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_78: 5384929271013254120
+      The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_79: 2446320111403028709
+      The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_8: 2304267307887425631
+      The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_80: 3844329577264160370
+      The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_81: 1861803803811684265
+      The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_82: -4414213095988869671
+      The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_83: 4964130790264224121
+      The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_84: 3380241289025595853
+      The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_85: -1402417856198361340
+      The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_86: -340730207755238710
+      The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_87: -7563183731554915475
+      The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_88: -1235374379731511450
+      The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_89: 4377046658436707528
+      The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_9: 2388568267717322921
+      The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_90: 2964627849162476197
+      The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_91: 471475582628759829
+      The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_92: -8792845318298102988
+      The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_93: -1528302465239348496
+      The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_94: 8676107276285709276
+      The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_95: 6527052633490288376
+      The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_96: -3260287818333951630
+      The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_97: -1289636422094940497
+      The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_98: 5012650428661335527
+      The Radiance, The Hollow Knight, The Knight, Siblings - - atlas0 #879010_99: -812715192881742754
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

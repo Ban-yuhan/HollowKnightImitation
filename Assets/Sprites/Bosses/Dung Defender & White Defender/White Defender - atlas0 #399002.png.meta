@@ -1,0 +1,4446 @@
+fileFormatVersion: 2
+guid: 85db9883e0fbee044a5469bdd81918c5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4816764654052987679
+    second: White Defender - atlas0 #399002_0
+  - first:
+      213: -3259395816249087665
+    second: White Defender - atlas0 #399002_1
+  - first:
+      213: 549627521867107912
+    second: White Defender - atlas0 #399002_2
+  - first:
+      213: 1336996906314551285
+    second: White Defender - atlas0 #399002_3
+  - first:
+      213: 556649709616199599
+    second: White Defender - atlas0 #399002_4
+  - first:
+      213: -8587477299533260770
+    second: White Defender - atlas0 #399002_5
+  - first:
+      213: 7997462581832281134
+    second: White Defender - atlas0 #399002_6
+  - first:
+      213: -7565593234720475446
+    second: White Defender - atlas0 #399002_7
+  - first:
+      213: 7932212365166631066
+    second: White Defender - atlas0 #399002_8
+  - first:
+      213: -9101722220636655437
+    second: White Defender - atlas0 #399002_9
+  - first:
+      213: -1564282083734788774
+    second: White Defender - atlas0 #399002_10
+  - first:
+      213: 869986532462238286
+    second: White Defender - atlas0 #399002_11
+  - first:
+      213: -8633336736820892014
+    second: White Defender - atlas0 #399002_12
+  - first:
+      213: -3524295401389050404
+    second: White Defender - atlas0 #399002_13
+  - first:
+      213: -2046975070966827795
+    second: White Defender - atlas0 #399002_14
+  - first:
+      213: 1412653455783515264
+    second: White Defender - atlas0 #399002_15
+  - first:
+      213: -5406239895796341103
+    second: White Defender - atlas0 #399002_16
+  - first:
+      213: 377192437529119435
+    second: White Defender - atlas0 #399002_17
+  - first:
+      213: -8842366237605482554
+    second: White Defender - atlas0 #399002_18
+  - first:
+      213: -968886064446082966
+    second: White Defender - atlas0 #399002_19
+  - first:
+      213: 4733767993643641375
+    second: White Defender - atlas0 #399002_20
+  - first:
+      213: 2857709079484876943
+    second: White Defender - atlas0 #399002_21
+  - first:
+      213: -6727240048872417463
+    second: White Defender - atlas0 #399002_22
+  - first:
+      213: -4744693222985419037
+    second: White Defender - atlas0 #399002_23
+  - first:
+      213: 6123770859749969674
+    second: White Defender - atlas0 #399002_24
+  - first:
+      213: 6842413261278226156
+    second: White Defender - atlas0 #399002_25
+  - first:
+      213: 5661485762045535676
+    second: White Defender - atlas0 #399002_26
+  - first:
+      213: -2661553180487785945
+    second: White Defender - atlas0 #399002_27
+  - first:
+      213: 66457185166473114
+    second: White Defender - atlas0 #399002_28
+  - first:
+      213: 3253553813445080087
+    second: White Defender - atlas0 #399002_29
+  - first:
+      213: 3287108000433604694
+    second: White Defender - atlas0 #399002_30
+  - first:
+      213: 3085634572397294491
+    second: White Defender - atlas0 #399002_31
+  - first:
+      213: 3649633517404028024
+    second: White Defender - atlas0 #399002_32
+  - first:
+      213: 632630726907602524
+    second: White Defender - atlas0 #399002_33
+  - first:
+      213: -6063915768190561479
+    second: White Defender - atlas0 #399002_34
+  - first:
+      213: -5232453718139229259
+    second: White Defender - atlas0 #399002_35
+  - first:
+      213: -3361146103048641737
+    second: White Defender - atlas0 #399002_36
+  - first:
+      213: -4212393026043280762
+    second: White Defender - atlas0 #399002_37
+  - first:
+      213: 2404679427790012739
+    second: White Defender - atlas0 #399002_38
+  - first:
+      213: 3484276782282878566
+    second: White Defender - atlas0 #399002_39
+  - first:
+      213: 2587348808175104785
+    second: White Defender - atlas0 #399002_40
+  - first:
+      213: -1626721278919550080
+    second: White Defender - atlas0 #399002_41
+  - first:
+      213: -7826136819820370446
+    second: White Defender - atlas0 #399002_42
+  - first:
+      213: 9190459609031142502
+    second: White Defender - atlas0 #399002_43
+  - first:
+      213: -5213641330851403458
+    second: White Defender - atlas0 #399002_44
+  - first:
+      213: -495997763243777043
+    second: White Defender - atlas0 #399002_45
+  - first:
+      213: 1893581087793409816
+    second: White Defender - atlas0 #399002_46
+  - first:
+      213: -3645800275742451888
+    second: White Defender - atlas0 #399002_47
+  - first:
+      213: -5565058641051669382
+    second: White Defender - atlas0 #399002_48
+  - first:
+      213: -1671085918983678692
+    second: White Defender - atlas0 #399002_49
+  - first:
+      213: -4466262277295960726
+    second: White Defender - atlas0 #399002_50
+  - first:
+      213: 6641608206119737046
+    second: White Defender - atlas0 #399002_51
+  - first:
+      213: 6587573976005544831
+    second: White Defender - atlas0 #399002_52
+  - first:
+      213: -2405185847433997588
+    second: White Defender - atlas0 #399002_53
+  - first:
+      213: 8119944814831232600
+    second: White Defender - atlas0 #399002_54
+  - first:
+      213: -2867614605025412674
+    second: White Defender - atlas0 #399002_55
+  - first:
+      213: 8595118551261269603
+    second: White Defender - atlas0 #399002_56
+  - first:
+      213: -7567681994343501828
+    second: White Defender - atlas0 #399002_57
+  - first:
+      213: -9002765738857806951
+    second: White Defender - atlas0 #399002_58
+  - first:
+      213: -9180663253405151658
+    second: White Defender - atlas0 #399002_59
+  - first:
+      213: -3641545480235938347
+    second: White Defender - atlas0 #399002_60
+  - first:
+      213: -4022441148911931555
+    second: White Defender - atlas0 #399002_61
+  - first:
+      213: -1409557930495310055
+    second: White Defender - atlas0 #399002_62
+  - first:
+      213: -5554961235748945845
+    second: White Defender - atlas0 #399002_63
+  - first:
+      213: 9112594294705176196
+    second: White Defender - atlas0 #399002_64
+  - first:
+      213: 1632801937614175861
+    second: White Defender - atlas0 #399002_65
+  - first:
+      213: -8600326467707927038
+    second: White Defender - atlas0 #399002_66
+  - first:
+      213: -1641375099780402772
+    second: White Defender - atlas0 #399002_67
+  - first:
+      213: -594906419398050493
+    second: White Defender - atlas0 #399002_68
+  - first:
+      213: -3120956568741575383
+    second: White Defender - atlas0 #399002_69
+  - first:
+      213: 3878215876336459777
+    second: White Defender - atlas0 #399002_70
+  - first:
+      213: -8471528150432508398
+    second: White Defender - atlas0 #399002_71
+  - first:
+      213: 990346842657824373
+    second: White Defender - atlas0 #399002_72
+  - first:
+      213: 9107893549989529635
+    second: White Defender - atlas0 #399002_73
+  - first:
+      213: 8070331772540955815
+    second: White Defender - atlas0 #399002_74
+  - first:
+      213: -8840010223990791729
+    second: White Defender - atlas0 #399002_75
+  - first:
+      213: -4294231983505104495
+    second: White Defender - atlas0 #399002_76
+  - first:
+      213: 3796971041424220515
+    second: White Defender - atlas0 #399002_77
+  - first:
+      213: -5089416658835798217
+    second: White Defender - atlas0 #399002_78
+  - first:
+      213: 3341991731771399768
+    second: White Defender - atlas0 #399002_79
+  - first:
+      213: 5763201496210466033
+    second: White Defender - atlas0 #399002_80
+  - first:
+      213: -4020523943738737383
+    second: White Defender - atlas0 #399002_81
+  - first:
+      213: 1353838375153719160
+    second: White Defender - atlas0 #399002_82
+  - first:
+      213: 3071561247368789100
+    second: White Defender - atlas0 #399002_83
+  - first:
+      213: -8813648272193209950
+    second: White Defender - atlas0 #399002_84
+  - first:
+      213: 4777453439430331349
+    second: White Defender - atlas0 #399002_85
+  - first:
+      213: -1946717278552701886
+    second: White Defender - atlas0 #399002_86
+  - first:
+      213: 1618355303331603016
+    second: White Defender - atlas0 #399002_87
+  - first:
+      213: 800881869470869756
+    second: White Defender - atlas0 #399002_88
+  - first:
+      213: -5127330703684213798
+    second: White Defender - atlas0 #399002_89
+  - first:
+      213: -7549822698894984451
+    second: White Defender - atlas0 #399002_90
+  - first:
+      213: 9194020647702285683
+    second: White Defender - atlas0 #399002_91
+  - first:
+      213: -5322985167612699755
+    second: White Defender - atlas0 #399002_92
+  - first:
+      213: -3444578065188295147
+    second: White Defender - atlas0 #399002_93
+  - first:
+      213: -7643563009744025246
+    second: White Defender - atlas0 #399002_94
+  - first:
+      213: -7211804762127161140
+    second: White Defender - atlas0 #399002_95
+  - first:
+      213: -4359716038225580617
+    second: White Defender - atlas0 #399002_96
+  - first:
+      213: 9009181680200661485
+    second: White Defender - atlas0 #399002_97
+  - first:
+      213: 62967399197546863
+    second: White Defender - atlas0 #399002_98
+  - first:
+      213: 4074494081560067787
+    second: White Defender - atlas0 #399002_99
+  - first:
+      213: 2911652148541296029
+    second: White Defender - atlas0 #399002_100
+  - first:
+      213: 4728057011979816848
+    second: White Defender - atlas0 #399002_101
+  - first:
+      213: -2246667291264889956
+    second: White Defender - atlas0 #399002_102
+  - first:
+      213: 3263708611110907737
+    second: White Defender - atlas0 #399002_103
+  - first:
+      213: 5755495107788665226
+    second: White Defender - atlas0 #399002_104
+  - first:
+      213: 5830423010190027051
+    second: White Defender - atlas0 #399002_105
+  - first:
+      213: 7001466358426454755
+    second: White Defender - atlas0 #399002_106
+  - first:
+      213: -169017868247184513
+    second: White Defender - atlas0 #399002_107
+  - first:
+      213: 1145904167637609777
+    second: White Defender - atlas0 #399002_108
+  - first:
+      213: -6015890706890262600
+    second: White Defender - atlas0 #399002_109
+  - first:
+      213: 5875331306196127755
+    second: White Defender - atlas0 #399002_110
+  - first:
+      213: 9058639345484544060
+    second: White Defender - atlas0 #399002_111
+  - first:
+      213: -8013617829751857922
+    second: White Defender - atlas0 #399002_112
+  - first:
+      213: 2515480225073637380
+    second: White Defender - atlas0 #399002_113
+  - first:
+      213: -9066749412977149143
+    second: White Defender - atlas0 #399002_114
+  - first:
+      213: -5333226061757230492
+    second: White Defender - atlas0 #399002_115
+  - first:
+      213: 2215028892059042839
+    second: White Defender - atlas0 #399002_116
+  - first:
+      213: -3851252028746665568
+    second: White Defender - atlas0 #399002_117
+  - first:
+      213: 8021843768986179431
+    second: White Defender - atlas0 #399002_118
+  - first:
+      213: -3272916346944804045
+    second: White Defender - atlas0 #399002_119
+  - first:
+      213: 7589216122820354518
+    second: White Defender - atlas0 #399002_120
+  - first:
+      213: -4496219237907182218
+    second: White Defender - atlas0 #399002_121
+  - first:
+      213: 8951584053942406093
+    second: White Defender - atlas0 #399002_122
+  - first:
+      213: 3657737090384213617
+    second: White Defender - atlas0 #399002_123
+  - first:
+      213: -8625874069515998864
+    second: White Defender - atlas0 #399002_124
+  - first:
+      213: 4447906015199796429
+    second: White Defender - atlas0 #399002_125
+  - first:
+      213: -8223569743549442801
+    second: White Defender - atlas0 #399002_126
+  - first:
+      213: 5448407016928767027
+    second: White Defender - atlas0 #399002_127
+  - first:
+      213: -5824374638365554460
+    second: White Defender - atlas0 #399002_128
+  - first:
+      213: -3048198365863932797
+    second: White Defender - atlas0 #399002_129
+  - first:
+      213: 7832780954741648166
+    second: White Defender - atlas0 #399002_130
+  - first:
+      213: 6365120585448204629
+    second: White Defender - atlas0 #399002_131
+  - first:
+      213: 4684455186360927457
+    second: White Defender - atlas0 #399002_132
+  - first:
+      213: 2515031956480425018
+    second: White Defender - atlas0 #399002_133
+  - first:
+      213: 2709060375415138262
+    second: White Defender - atlas0 #399002_134
+  - first:
+      213: -5366494039907103869
+    second: White Defender - atlas0 #399002_135
+  - first:
+      213: 3355339547809935416
+    second: White Defender - atlas0 #399002_136
+  - first:
+      213: -7808284463059982953
+    second: White Defender - atlas0 #399002_137
+  - first:
+      213: 3487170857710578665
+    second: White Defender - atlas0 #399002_138
+  - first:
+      213: -8410715841490521774
+    second: White Defender - atlas0 #399002_139
+  - first:
+      213: -8321745365920783209
+    second: White Defender - atlas0 #399002_140
+  - first:
+      213: 5338900146497307624
+    second: White Defender - atlas0 #399002_141
+  - first:
+      213: -5028535975340669834
+    second: White Defender - atlas0 #399002_142
+  - first:
+      213: 6359695470693097161
+    second: White Defender - atlas0 #399002_143
+  - first:
+      213: 6729039706596958585
+    second: White Defender - atlas0 #399002_144
+  - first:
+      213: -8096069769274878315
+    second: White Defender - atlas0 #399002_145
+  - first:
+      213: 4264538695398827631
+    second: White Defender - atlas0 #399002_146
+  - first:
+      213: -2784316903392071491
+    second: White Defender - atlas0 #399002_147
+  - first:
+      213: 1104677472016746879
+    second: White Defender - atlas0 #399002_148
+  - first:
+      213: 5029903340595874127
+    second: White Defender - atlas0 #399002_149
+  - first:
+      213: 1454464705420527517
+    second: White Defender - atlas0 #399002_150
+  - first:
+      213: -3184935861148396671
+    second: White Defender - atlas0 #399002_151
+  - first:
+      213: 4303758211801390931
+    second: White Defender - atlas0 #399002_152
+  - first:
+      213: -7141214354950746602
+    second: White Defender - atlas0 #399002_153
+  - first:
+      213: 3637445012825673826
+    second: White Defender - atlas0 #399002_154
+  - first:
+      213: -5982100214809197123
+    second: White Defender - atlas0 #399002_155
+  - first:
+      213: 7583872129710283121
+    second: White Defender - atlas0 #399002_156
+  - first:
+      213: -4444688469013800834
+    second: White Defender - atlas0 #399002_157
+  - first:
+      213: -3989230853069071819
+    second: White Defender - atlas0 #399002_158
+  - first:
+      213: -189177390917566640
+    second: White Defender - atlas0 #399002_159
+  - first:
+      213: -5513578856575650197
+    second: White Defender - atlas0 #399002_160
+  - first:
+      213: 130848194313280918
+    second: White Defender - atlas0 #399002_161
+  - first:
+      213: 1262641915261300896
+    second: White Defender - atlas0 #399002_162
+  - first:
+      213: -5019774836758317425
+    second: White Defender - atlas0 #399002_163
+  - first:
+      213: 7980585726856017682
+    second: White Defender - atlas0 #399002_164
+  - first:
+      213: 6525511201802079556
+    second: White Defender - atlas0 #399002_165
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: White Defender - atlas0 #399002_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2290
+        width: 256
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f135c7bbee598d240800000000000000
+      internalID: 4816764654052987679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White Defender - atlas0 #399002_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2022
+        width: 288
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f49241e26cc44c2d0800000000000000
+      internalID: -3259395816249087665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White Defender - atlas0 #399002_2
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 2106
+        width: 288
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84ecaafa15ba0a700800000000000000
+      internalID: 549627521867107912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White Defender - atlas0 #399002_3
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 2070
+        width: 281
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ffcca24a97fd8210800000000000000
+      internalID: 1336996906314551285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White Defender - atlas0 #399002_4
+      rect:
+        serializedVersion: 2
+        x: 967
+        y: 2022
+        width: 288
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa77ffd26fd99b700800000000000000
+      internalID: 556649709616199599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White Defender - atlas0 #399002_5
+      rect:
+        serializedVersion: 2
+        x: 2454
+        y: 2053
+        width: 160
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e18d69cf4e623d880800000000000000
+      internalID: -8587477299533260770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White Defender - atlas0 #399002_6
+      rect:
+        serializedVersion: 2
+        x: 2482
+        y: 2173
+        width: 42
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2c679688d1bcfe60800000000000000
+      internalID: 7997462581832281134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White Defender - atlas0 #399002_7
+      rect:
+        serializedVersion: 2
+        x: 2526
+        y: 2202
+        width: 33
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac63369890d910790800000000000000
+      internalID: -7565593234720475446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White Defender - atlas0 #399002_8
+      rect:
+        serializedVersion: 2
+        x: 3081
+        y: 2014
+        width: 206
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a98d7b49e11e41e60800000000000000
+      internalID: 7932212365166631066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White Defender - atlas0 #399002_9
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 2148
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b03ca20ddf20b180800000000000000
+      internalID: -9101722220636655437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White Defender - atlas0 #399002_10
+      rect:
+        serializedVersion: 2
+        x: 2611
+        y: 2131
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a55ea769bbd8a4ae0800000000000000
+      internalID: -1564282083734788774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White Defender - atlas0 #399002_11
+      rect:
+        serializedVersion: 2
+        x: 3392
+        y: 1941
+        width: 224
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4a19c25420d21c00800000000000000
+      internalID: 869986532462238286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White Defender - atlas0 #399002_12
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 1720
+        width: 264
+        height: 304
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29ee57faaf9303880800000000000000
+      internalID: -8633336736820892014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White Defender - atlas0 #399002_13
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 1578
+        width: 318
+        height: 530
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd5b9a44100371fc0800000000000000
+      internalID: -3524295401389050404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White Defender - atlas0 #399002_14
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 1797
+        width: 285
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de431fea40fa793e0800000000000000
+      internalID: -2046975070966827795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White Defender - atlas0 #399002_15
+      rect:
+        serializedVersion: 2
+        x: 1037
+        y: 1794
+        width: 349
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08454be55d0ca9310800000000000000
+      internalID: 1412653455783515264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White Defender - atlas0 #399002_16
+      rect:
+        serializedVersion: 2
+        x: 1384
+        y: 1831
+        width: 279
+        height: 274
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 196a380557d29f4b0800000000000000
+      internalID: -5406239895796341103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White Defender - atlas0 #399002_17
+      rect:
+        serializedVersion: 2
+        x: 2073
+        y: 1877
+        width: 192
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bca03e2068e0c3500800000000000000
+      internalID: 377192437529119435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White Defender - atlas0 #399002_18
+      rect:
+        serializedVersion: 2
+        x: 2263
+        y: 1913
+        width: 193
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cf2e9971ca994580800000000000000
+      internalID: -8842366237605482554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White Defender - atlas0 #399002_19
+      rect:
+        serializedVersion: 2
+        x: 2266
+        y: 1689
+        width: 201
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a607ddcf143dd82f0800000000000000
+      internalID: -968886064446082966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White Defender - atlas0 #399002_20
+      rect:
+        serializedVersion: 2
+        x: 2465
+        y: 1649
+        width: 440
+        height: 447
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1a2e3ed8e8b1b140800000000000000
+      internalID: 4733767993643641375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White Defender - atlas0 #399002_21
+      rect:
+        serializedVersion: 2
+        x: 2903
+        y: 1884
+        width: 180
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f88ca1a544f98a720800000000000000
+      internalID: 2857709079484876943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White Defender - atlas0 #399002_22
+      rect:
+        serializedVersion: 2
+        x: 3132
+        y: 1333
+        width: 388
+        height: 683
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9479d2861da04a2a0800000000000000
+      internalID: -6727240048872417463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White Defender - atlas0 #399002_23
+      rect:
+        serializedVersion: 2
+        x: 3438
+        y: 1705
+        width: 259
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e630c3f6a6772eb0800000000000000
+      internalID: -4744693222985419037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White Defender - atlas0 #399002_24
+      rect:
+        serializedVersion: 2
+        x: 3695
+        y: 1889
+        width: 264
+        height: 229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0f094dd6210cf450800000000000000
+      internalID: 6123770859749969674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White Defender - atlas0 #399002_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1617
+        width: 76
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce629e4cb9225fe50800000000000000
+      internalID: 6842413261278226156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White Defender - atlas0 #399002_26
+      rect:
+        serializedVersion: 2
+        x: 1736
+        y: 1654
+        width: 339
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb5e7a30e43a19e40800000000000000
+      internalID: 5661485762045535676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White Defender - atlas0 #399002_27
+      rect:
+        serializedVersion: 2
+        x: 2073
+        y: 1729
+        width: 107
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 722e63edb73401bd0800000000000000
+      internalID: -2661553180487785945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White Defender - atlas0 #399002_28
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 1853
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a97be92357a1ce000800000000000000
+      internalID: 66457185166473114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White Defender - atlas0 #399002_29
+      rect:
+        serializedVersion: 2
+        x: 2189
+        y: 1771
+        width: 74
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 714f20c84f1f62d20800000000000000
+      internalID: 3253553813445080087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White Defender - atlas0 #399002_30
+      rect:
+        serializedVersion: 2
+        x: 2903
+        y: 1667
+        width: 223
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65880308f472e9d20800000000000000
+      internalID: 3287108000433604694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White Defender - atlas0 #399002_31
+      rect:
+        serializedVersion: 2
+        x: 3838
+        y: 1866
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b93b7629b4062da20800000000000000
+      internalID: 3085634572397294491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White Defender - atlas0 #399002_32
+      rect:
+        serializedVersion: 2
+        x: 3878
+        y: 1858
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87cf935f85a16a230800000000000000
+      internalID: 3649633517404028024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White Defender - atlas0 #399002_33
+      rect:
+        serializedVersion: 2
+        x: 3910
+        y: 1847
+        width: 43
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5623575b4e87c800800000000000000
+      internalID: 632630726907602524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White Defender - atlas0 #399002_34
+      rect:
+        serializedVersion: 2
+        x: 2174
+        y: 1820
+        width: 42
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9339c11acb4a8dba0800000000000000
+      internalID: -6063915768190561479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White Defender - atlas0 #399002_35
+      rect:
+        serializedVersion: 2
+        x: 3992
+        y: 1841
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bba3aae0179267b0800000000000000
+      internalID: -5232453718139229259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White Defender - atlas0 #399002_36
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 1804
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 733e8996d6fca51d0800000000000000
+      internalID: -3361146103048641737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White Defender - atlas0 #399002_37
+      rect:
+        serializedVersion: 2
+        x: 1450
+        y: 1551
+        width: 288
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6828b5c6cd29a85c0800000000000000
+      internalID: -4212393026043280762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White Defender - atlas0 #399002_38
+      rect:
+        serializedVersion: 2
+        x: 3760
+        y: 1803
+        width: 29
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3410d14f2332f5120800000000000000
+      internalID: 2404679427790012739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White Defender - atlas0 #399002_39
+      rect:
+        serializedVersion: 2
+        x: 3834
+        y: 1807
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66eac13e543aa5030800000000000000
+      internalID: 3484276782282878566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White Defender - atlas0 #399002_40
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 1538
+        width: 311
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 113be4d580c18e320800000000000000
+      internalID: 2587348808175104785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White Defender - atlas0 #399002_41
+      rect:
+        serializedVersion: 2
+        x: 1164
+        y: 1514
+        width: 288
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08b5e659d99bc69e0800000000000000
+      internalID: -1626721278919550080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White Defender - atlas0 #399002_42
+      rect:
+        serializedVersion: 2
+        x: 2149
+        y: 1721
+        width: 110
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f5600be60af36390800000000000000
+      internalID: -7826136819820370446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White Defender - atlas0 #399002_43
+      rect:
+        serializedVersion: 2
+        x: 3824
+        y: 1761
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66c60ee32521b8f70800000000000000
+      internalID: 9190459609031142502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White Defender - atlas0 #399002_44
+      rect:
+        serializedVersion: 2
+        x: 3973
+        y: 1780
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e39ae4825dc65a7b0800000000000000
+      internalID: -5213641330851403458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White Defender - atlas0 #399002_45
+      rect:
+        serializedVersion: 2
+        x: 3760
+        y: 1749
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de3677889acdd19f0800000000000000
+      internalID: -495997763243777043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White Defender - atlas0 #399002_46
+      rect:
+        serializedVersion: 2
+        x: 3926
+        y: 1734
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81fe25b77f9574a10800000000000000
+      internalID: 1893581087793409816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White Defender - atlas0 #399002_47
+      rect:
+        serializedVersion: 2
+        x: 3990
+        y: 1740
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 057995a27f3876dc0800000000000000
+      internalID: -3645800275742451888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White Defender - atlas0 #399002_48
+      rect:
+        serializedVersion: 2
+        x: 2101
+        y: 1689
+        width: 109
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7ca5e1a6a0f4c2b0800000000000000
+      internalID: -5565058641051669382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White Defender - atlas0 #399002_49
+      rect:
+        serializedVersion: 2
+        x: 3766
+        y: 1712
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1512d1e53c1fc8e0800000000000000
+      internalID: -1671085918983678692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White Defender - atlas0 #399002_50
+      rect:
+        serializedVersion: 2
+        x: 3783
+        y: 1711
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6d0c004f16a402c0800000000000000
+      internalID: -4466262277295960726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White Defender - atlas0 #399002_51
+      rect:
+        serializedVersion: 2
+        x: 3995
+        y: 1723
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d61617897bbb2c50800000000000000
+      internalID: 6641608206119737046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White Defender - atlas0 #399002_52
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 1701
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7b0b63f0a3cb6b50800000000000000
+      internalID: 6587573976005544831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White Defender - atlas0 #399002_53
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 1323
+        width: 241
+        height: 399
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce256e807301f9ed0800000000000000
+      internalID: -2405185847433997588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White Defender - atlas0 #399002_54
+      rect:
+        serializedVersion: 2
+        x: 3518
+        y: 1434
+        width: 244
+        height: 273
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8566acba9c6dfa070800000000000000
+      internalID: 8119944814831232600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White Defender - atlas0 #399002_55
+      rect:
+        serializedVersion: 2
+        x: 3780
+        y: 1689
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb9fcb2c5bf2438d0800000000000000
+      internalID: -2867614605025412674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White Defender - atlas0 #399002_56
+      rect:
+        serializedVersion: 2
+        x: 3953
+        y: 1664
+        width: 41
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36e4c4298cef74770800000000000000
+      internalID: 8595118551261269603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White Defender - atlas0 #399002_57
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 1678
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cff290a42513af690800000000000000
+      internalID: -7567681994343501828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White Defender - atlas0 #399002_58
+      rect:
+        serializedVersion: 2
+        x: 2182
+        y: 1421
+        width: 285
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 993c25b5240cf0380800000000000000
+      internalID: -9002765738857806951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White Defender - atlas0 #399002_59
+      rect:
+        serializedVersion: 2
+        x: 3846
+        y: 1667
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65ecd4a896bb79080800000000000000
+      internalID: -9180663253405151658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White Defender - atlas0 #399002_60
+      rect:
+        serializedVersion: 2
+        x: 3908
+        y: 1662
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dd8b11fda1a67dc0800000000000000
+      internalID: -3641545480235938347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White Defender - atlas0 #399002_61
+      rect:
+        serializedVersion: 2
+        x: 1855
+        y: 1397
+        width: 329
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5fa03d361b6d28c0800000000000000
+      internalID: -4022441148911931555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White Defender - atlas0 #399002_62
+      rect:
+        serializedVersion: 2
+        x: 2662
+        y: 1405
+        width: 259
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9170e76c78e307ce0800000000000000
+      internalID: -1409557930495310055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White Defender - atlas0 #399002_63
+      rect:
+        serializedVersion: 2
+        x: 2954
+        y: 1639
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b408e120030d8e2b0800000000000000
+      internalID: -5554961235748945845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White Defender - atlas0 #399002_64
+      rect:
+        serializedVersion: 2
+        x: 3003
+        y: 1626
+        width: 33
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48e372efa30767e70800000000000000
+      internalID: 9112594294705176196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White Defender - atlas0 #399002_65
+      rect:
+        serializedVersion: 2
+        x: 3026
+        y: 1644
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57eff0816b0e8a610800000000000000
+      internalID: 1632801937614175861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White Defender - atlas0 #399002_66
+      rect:
+        serializedVersion: 2
+        x: 3089
+        y: 1630
+        width: 30
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20601e3e4a085a880800000000000000
+      internalID: -8600326467707927038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White Defender - atlas0 #399002_67
+      rect:
+        serializedVersion: 2
+        x: 3921
+        y: 1640
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca1fa6a0b0aa839e0800000000000000
+      internalID: -1641375099780402772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White Defender - atlas0 #399002_68
+      rect:
+        serializedVersion: 2
+        x: 2933
+        y: 1620
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34dfd2573c77eb7f0800000000000000
+      internalID: -594906419398050493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White Defender - atlas0 #399002_69
+      rect:
+        serializedVersion: 2
+        x: 2951
+        y: 1621
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9258cb8498220b4d0800000000000000
+      internalID: -3120956568741575383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White Defender - atlas0 #399002_70
+      rect:
+        serializedVersion: 2
+        x: 3044
+        y: 1606
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 100a057bac032d530800000000000000
+      internalID: 3878215876336459777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White Defender - atlas0 #399002_71
+      rect:
+        serializedVersion: 2
+        x: 3071
+        y: 1605
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2169fb008061f6a80800000000000000
+      internalID: -8471528150432508398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White Defender - atlas0 #399002_72
+      rect:
+        serializedVersion: 2
+        x: 3128
+        y: 1585
+        width: 41
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57e9c01d43b6ebd00800000000000000
+      internalID: 990346842657824373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White Defender - atlas0 #399002_73
+      rect:
+        serializedVersion: 2
+        x: 3760
+        y: 1376
+        width: 278
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32882339decb56e70800000000000000
+      internalID: 9107893549989529635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White Defender - atlas0 #399002_74
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1024
+        width: 145
+        height: 595
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ac2ad91df39fff60800000000000000
+      internalID: 8070331772540955815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White Defender - atlas0 #399002_75
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 1250
+        width: 293
+        height: 330
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc12534a989f15580800000000000000
+      internalID: -8840010223990791729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White Defender - atlas0 #399002_76
+      rect:
+        serializedVersion: 2
+        x: 2919
+        y: 1572
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 191ae0843c2d764c0800000000000000
+      internalID: -4294231983505104495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White Defender - atlas0 #399002_77
+      rect:
+        serializedVersion: 2
+        x: 2954
+        y: 1560
+        width: 72
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36129828b0d81b430800000000000000
+      internalID: 3796971041424220515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White Defender - atlas0 #399002_78
+      rect:
+        serializedVersion: 2
+        x: 2977
+        y: 1535
+        width: 39
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73703208382ce59b0800000000000000
+      internalID: -5089416658835798217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White Defender - atlas0 #399002_79
+      rect:
+        serializedVersion: 2
+        x: 3012
+        y: 1566
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85ed68ef5c3216e20800000000000000
+      internalID: 3341991731771399768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White Defender - atlas0 #399002_80
+      rect:
+        serializedVersion: 2
+        x: 3069
+        y: 1572
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f4ef9ed9310bff40800000000000000
+      internalID: 5763201496210466033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White Defender - atlas0 #399002_81
+      rect:
+        serializedVersion: 2
+        x: 3091
+        y: 1554
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91dff7a56ca3438c0800000000000000
+      internalID: -4020523943738737383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White Defender - atlas0 #399002_82
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 1261
+        width: 292
+        height: 279
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 877545a44dcc9c210800000000000000
+      internalID: 1353838375153719160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White Defender - atlas0 #399002_83
+      rect:
+        serializedVersion: 2
+        x: 1596
+        y: 1226
+        width: 261
+        height: 327
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6cb54f3ea060aa20800000000000000
+      internalID: 3071561247368789100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White Defender - atlas0 #399002_84
+      rect:
+        serializedVersion: 2
+        x: 2492
+        y: 1391
+        width: 153
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a930b8d791afa580800000000000000
+      internalID: -8813648272193209950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White Defender - atlas0 #399002_85
+      rect:
+        serializedVersion: 2
+        x: 2964
+        y: 1503
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5db8634579cec4240800000000000000
+      internalID: 4777453439430331349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White Defender - atlas0 #399002_86
+      rect:
+        serializedVersion: 2
+        x: 3108
+        y: 1535
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24440c503fedbf4e0800000000000000
+      internalID: -1946717278552701886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White Defender - atlas0 #399002_87
+      rect:
+        serializedVersion: 2
+        x: 1428
+        y: 1509
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 842237fe29d857610800000000000000
+      internalID: 1618355303331603016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White Defender - atlas0 #399002_88
+      rect:
+        serializedVersion: 2
+        x: 3017
+        y: 1498
+        width: 52
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf8acd821dd4d1b00800000000000000
+      internalID: 800881869470869756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White Defender - atlas0 #399002_89
+      rect:
+        serializedVersion: 2
+        x: 3067
+        y: 1502
+        width: 31
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad3e2f804ef08d8b0800000000000000
+      internalID: -5127330703684213798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White Defender - atlas0 #399002_90
+      rect:
+        serializedVersion: 2
+        x: 3105
+        y: 1490
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfafe2b8144a93790800000000000000
+      internalID: -7549822698894984451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White Defender - atlas0 #399002_91
+      rect:
+        serializedVersion: 2
+        x: 3117
+        y: 1496
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37dc6eb2119b79f70800000000000000
+      internalID: 9194020647702285683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White Defender - atlas0 #399002_92
+      rect:
+        serializedVersion: 2
+        x: 1245
+        y: 1242
+        width: 317
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59b95c34135f026b0800000000000000
+      internalID: -5322985167612699755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White Defender - atlas0 #399002_93
+      rect:
+        serializedVersion: 2
+        x: 2989
+        y: 1484
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51e6957ff766230d0800000000000000
+      internalID: -3444578065188295147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White Defender - atlas0 #399002_94
+      rect:
+        serializedVersion: 2
+        x: 3069
+        y: 1477
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26944e1a0fb9ce590800000000000000
+      internalID: -7643563009744025246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White Defender - atlas0 #399002_95
+      rect:
+        serializedVersion: 2
+        x: 2950
+        y: 1172
+        width: 278
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc8a0f357c58aeb90800000000000000
+      internalID: -7211804762127161140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White Defender - atlas0 #399002_96
+      rect:
+        serializedVersion: 2
+        x: 2968
+        y: 1427
+        width: 121
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bdadfbac5d2f73c0800000000000000
+      internalID: -4359716038225580617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White Defender - atlas0 #399002_97
+      rect:
+        serializedVersion: 2
+        x: 3581
+        y: 1083
+        width: 181
+        height: 353
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de93155610b070d70800000000000000
+      internalID: 9009181680200661485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White Defender - atlas0 #399002_98
+      rect:
+        serializedVersion: 2
+        x: 1862
+        y: 1145
+        width: 337
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6999951484bfd000800000000000000
+      internalID: 62967399197546863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White Defender - atlas0 #399002_99
+      rect:
+        serializedVersion: 2
+        x: 2197
+        y: 1132
+        width: 447
+        height: 291
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bceb1d297c28b8830800000000000000
+      internalID: 4074494081560067787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White Defender - atlas0 #399002_100
+      rect:
+        serializedVersion: 2
+        x: 2642
+        y: 1140
+        width: 306
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9d8e47d334486820800000000000000
+      internalID: 2911652148541296029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White Defender - atlas0 #399002_101
+      rect:
+        serializedVersion: 2
+        x: 2665
+        y: 1394
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09f0ad45dce6d9140800000000000000
+      internalID: 4728057011979816848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White Defender - atlas0 #399002_102
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 878
+        width: 224
+        height: 447
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9bcaaf700c32d0e0800000000000000
+      internalID: -2246667291264889956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White Defender - atlas0 #399002_103
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 0
+        width: 185
+        height: 1382
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95f26af90b50b4d20800000000000000
+      internalID: 3263708611110907737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White Defender - atlas0 #399002_104
+      rect:
+        serializedVersion: 2
+        x: 3285
+        y: 1265
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a81fd3e7e40afdf40800000000000000
+      internalID: 5755495107788665226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White Defender - atlas0 #399002_105
+      rect:
+        serializedVersion: 2
+        x: 3289
+        y: 1083
+        width: 294
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b29e3ac36d2d9e050800000000000000
+      internalID: 5830423010190027051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White Defender - atlas0 #399002_106
+      rect:
+        serializedVersion: 2
+        x: 3760
+        y: 1115
+        width: 285
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ea4bd0ce843a2160800000000000000
+      internalID: 7001466358426454755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White Defender - atlas0 #399002_107
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 183
+        height: 1038
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7bce62f42787adf0800000000000000
+      internalID: -169017868247184513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White Defender - atlas0 #399002_108
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 826
+        width: 233
+        height: 426
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13dedaae4c117ef00800000000000000
+      internalID: 1145904167637609777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White Defender - atlas0 #399002_109
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 1035
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b77b309643438ca0800000000000000
+      internalID: -6015890706890262600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White Defender - atlas0 #399002_110
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 943
+        width: 339
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b005d83b1be598150800000000000000
+      internalID: 5875331306196127755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White Defender - atlas0 #399002_111
+      rect:
+        serializedVersion: 2
+        x: 1320
+        y: 870
+        width: 278
+        height: 373
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c38bbff6d70c6bd70800000000000000
+      internalID: 9058639345484544060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White Defender - atlas0 #399002_112
+      rect:
+        serializedVersion: 2
+        x: 1596
+        y: 899
+        width: 268
+        height: 329
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efc57e3ba09e9c090800000000000000
+      internalID: -8013617829751857922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White Defender - atlas0 #399002_113
+      rect:
+        serializedVersion: 2
+        x: 1862
+        y: 885
+        width: 337
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 408a807efe7c8e220800000000000000
+      internalID: 2515480225073637380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White Defender - atlas0 #399002_114
+      rect:
+        serializedVersion: 2
+        x: 2310
+        y: 879
+        width: 349
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92bf304527f6c2280800000000000000
+      internalID: -9066749412977149143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White Defender - atlas0 #399002_115
+      rect:
+        serializedVersion: 2
+        x: 2657
+        y: 892
+        width: 346
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 462da1a47239cf5b0800000000000000
+      internalID: -5333226061757230492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White Defender - atlas0 #399002_116
+      rect:
+        serializedVersion: 2
+        x: 2735
+        y: 598
+        width: 599
+        height: 576
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7140866aa0d5dbe10800000000000000
+      internalID: 2215028892059042839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White Defender - atlas0 #399002_117
+      rect:
+        serializedVersion: 2
+        x: 3332
+        y: 859
+        width: 344
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a17d064faa9d8ac0800000000000000
+      internalID: -3851252028746665568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White Defender - atlas0 #399002_118
+      rect:
+        serializedVersion: 2
+        x: 3811
+        y: 764
+        width: 258
+        height: 353
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7671a160860535f60800000000000000
+      internalID: 8021843768986179431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White Defender - atlas0 #399002_119
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 0
+        width: 326
+        height: 880
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33b29c05ce34492d0800000000000000
+      internalID: -3272916346944804045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White Defender - atlas0 #399002_120
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 753
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d1ef54badf425960800000000000000
+      internalID: 7589216122820354518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White Defender - atlas0 #399002_121
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 255
+        width: 303
+        height: 573
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67dc344dc683a91c0800000000000000
+      internalID: -4496219237907182218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White Defender - atlas0 #399002_122
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 620
+        width: 414
+        height: 325
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcbc940054a6a3c70800000000000000
+      internalID: 8951584053942406093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White Defender - atlas0 #399002_123
+      rect:
+        serializedVersion: 2
+        x: 1340
+        y: 245
+        width: 528
+        height: 625
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1763f121184e2c230800000000000000
+      internalID: 3657737090384213617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White Defender - atlas0 #399002_124
+      rect:
+        serializedVersion: 2
+        x: 1683
+        y: 548
+        width: 181
+        height: 353
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 079ee315c3dba4880800000000000000
+      internalID: -8625874069515998864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White Defender - atlas0 #399002_125
+      rect:
+        serializedVersion: 2
+        x: 1862
+        y: 759
+        width: 107
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcc9e4e64f22abd30800000000000000
+      internalID: 4447906015199796429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White Defender - atlas0 #399002_126
+      rect:
+        serializedVersion: 2
+        x: 1866
+        y: 245
+        width: 86
+        height: 516
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f05d51a73e200ed80800000000000000
+      internalID: -8223569743549442801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White Defender - atlas0 #399002_127
+      rect:
+        serializedVersion: 2
+        x: 1972
+        y: 624
+        width: 340
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33ce8c3a051ac9b40800000000000000
+      internalID: 5448407016928767027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White Defender - atlas0 #399002_128
+      rect:
+        serializedVersion: 2
+        x: 2003
+        y: 295
+        width: 456
+        height: 486
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e84d61102aab2fa0800000000000000
+      internalID: -5824374638365554460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White Defender - atlas0 #399002_129
+      rect:
+        serializedVersion: 2
+        x: 2435
+        y: 329
+        width: 393
+        height: 552
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38c01cd7cbf92b5d0800000000000000
+      internalID: -3048198365863932797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White Defender - atlas0 #399002_130
+      rect:
+        serializedVersion: 2
+        x: 3469
+        y: 595
+        width: 344
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62b22da47c0a3bc60800000000000000
+      internalID: 7832780954741648166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White Defender - atlas0 #399002_131
+      rect:
+        serializedVersion: 2
+        x: 3815
+        y: 416
+        width: 267
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 559aa28d273755850800000000000000
+      internalID: 6365120585448204629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White Defender - atlas0 #399002_132
+      rect:
+        serializedVersion: 2
+        x: 1957
+        y: 718
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e487453c27820140800000000000000
+      internalID: 4684455186360927457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White Defender - atlas0 #399002_133
+      rect:
+        serializedVersion: 2
+        x: 1933
+        y: 676
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3c75cc3d3037e220800000000000000
+      internalID: 2515031956480425018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White Defender - atlas0 #399002_134
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 301
+        width: 431
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d7a4b7ee04889520800000000000000
+      internalID: 2709060375415138262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White Defender - atlas0 #399002_135
+      rect:
+        serializedVersion: 2
+        x: 1932
+        y: 608
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38b06168a126685b0800000000000000
+      internalID: -5366494039907103869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White Defender - atlas0 #399002_136
+      rect:
+        serializedVersion: 2
+        x: 3164
+        y: 317
+        width: 307
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 830f7089a8f809e20800000000000000
+      internalID: 3355339547809935416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White Defender - atlas0 #399002_137
+      rect:
+        serializedVersion: 2
+        x: 1957
+        y: 524
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 795ab12a6a663a390800000000000000
+      internalID: -7808284463059982953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White Defender - atlas0 #399002_138
+      rect:
+        serializedVersion: 2
+        x: 2839
+        y: 317
+        width: 327
+        height: 283
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ebeee45b6be46030800000000000000
+      internalID: 3487170857710578665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White Defender - atlas0 #399002_139
+      rect:
+        serializedVersion: 2
+        x: 3506
+        y: 295
+        width: 311
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 251f4390182274b80800000000000000
+      internalID: -8410715841490521774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White Defender - atlas0 #399002_140
+      rect:
+        serializedVersion: 2
+        x: 1964
+        y: 474
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 794e9012ea8338c80800000000000000
+      internalID: -8321745365920783209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White Defender - atlas0 #399002_141
+      rect:
+        serializedVersion: 2
+        x: 1965
+        y: 446
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e3c0438565971a40800000000000000
+      internalID: 5338900146497307624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White Defender - atlas0 #399002_142
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 0
+        width: 249
+        height: 355
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6740c893c2d073ab0800000000000000
+      internalID: -5028535975340669834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White Defender - atlas0 #399002_143
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 0
+        width: 305
+        height: 334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ce9252e55d224850800000000000000
+      internalID: 6359695470693097161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White Defender - atlas0 #399002_144
+      rect:
+        serializedVersion: 2
+        x: 1992
+        y: 313
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 971e53f06f9526d50800000000000000
+      internalID: 6729039706596958585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White Defender - atlas0 #399002_145
+      rect:
+        serializedVersion: 2
+        x: 2479
+        y: 0
+        width: 362
+        height: 331
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 596979d807bf4af80800000000000000
+      internalID: -8096069769274878315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White Defender - atlas0 #399002_146
+      rect:
+        serializedVersion: 2
+        x: 2839
+        y: 0
+        width: 341
+        height: 319
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f66a726595fae2b30800000000000000
+      internalID: 4264538695398827631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White Defender - atlas0 #399002_147
+      rect:
+        serializedVersion: 2
+        x: 3183
+        y: 0
+        width: 325
+        height: 319
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db0333f378e1c59d0800000000000000
+      internalID: -2784316903392071491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White Defender - atlas0 #399002_148
+      rect:
+        serializedVersion: 2
+        x: 3862
+        y: 0
+        width: 225
+        height: 418
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f794fe6de4a945f00800000000000000
+      internalID: 1104677472016746879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White Defender - atlas0 #399002_149
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 0
+        width: 496
+        height: 303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4984ce407ecdc540800000000000000
+      internalID: 5029903340595874127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White Defender - atlas0 #399002_150
+      rect:
+        serializedVersion: 2
+        x: 1966
+        y: 286
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d970fe881fb4f2410800000000000000
+      internalID: 1454464705420527517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White Defender - atlas0 #399002_151
+      rect:
+        serializedVersion: 2
+        x: 1981
+        y: 299
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 183d8d375b5dcc3d0800000000000000
+      internalID: -3184935861148396671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White Defender - atlas0 #399002_152
+      rect:
+        serializedVersion: 2
+        x: 1900
+        y: 0
+        width: 581
+        height: 297
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35f97959a450abb30800000000000000
+      internalID: 4303758211801390931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White Defender - atlas0 #399002_153
+      rect:
+        serializedVersion: 2
+        x: 3180
+        y: 273
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61e8d34416f45ec90800000000000000
+      internalID: -7141214354950746602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White Defender - atlas0 #399002_154
+      rect:
+        serializedVersion: 2
+        x: 3506
+        y: 0
+        width: 358
+        height: 297
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2609d7797fcca7230800000000000000
+      internalID: 3637445012825673826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White Defender - atlas0 #399002_155
+      rect:
+        serializedVersion: 2
+        x: 1405
+        y: 164
+        width: 104
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db582859c8f4bfca0800000000000000
+      internalID: -5982100214809197123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White Defender - atlas0 #399002_156
+      rect:
+        serializedVersion: 2
+        x: 1470
+        y: 138
+        width: 53
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 179dd5955835f3960800000000000000
+      internalID: 7583872129710283121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White Defender - atlas0 #399002_157
+      rect:
+        serializedVersion: 2
+        x: 1522
+        y: 171
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e78582be26b4152c0800000000000000
+      internalID: -4444688469013800834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White Defender - atlas0 #399002_158
+      rect:
+        serializedVersion: 2
+        x: 1540
+        y: 151
+        width: 90
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53a1acbcca763a8c0800000000000000
+      internalID: -3989230853069071819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White Defender - atlas0 #399002_159
+      rect:
+        serializedVersion: 2
+        x: 1710
+        y: 138
+        width: 81
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05fb2de4a28ef5df0800000000000000
+      internalID: -189177390917566640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White Defender - atlas0 #399002_160
+      rect:
+        serializedVersion: 2
+        x: 1809
+        y: 123
+        width: 172
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6634bcfd35db73b0800000000000000
+      internalID: -5513578856575650197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White Defender - atlas0 #399002_161
+      rect:
+        serializedVersion: 2
+        x: 1616
+        y: 42
+        width: 153
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69d5b8d4dbdd0d100800000000000000
+      internalID: 130848194313280918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White Defender - atlas0 #399002_162
+      rect:
+        serializedVersion: 2
+        x: 1685
+        y: 96
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a03ba5d12ec58110800000000000000
+      internalID: 1262641915261300896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White Defender - atlas0 #399002_163
+      rect:
+        serializedVersion: 2
+        x: 1426
+        y: 12
+        width: 63
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f867392c16d265ab0800000000000000
+      internalID: -5019774836758317425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White Defender - atlas0 #399002_164
+      rect:
+        serializedVersion: 2
+        x: 1517
+        y: 0
+        width: 65
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2173ec48f6cb0ce60800000000000000
+      internalID: 7980585726856017682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: White Defender - atlas0 #399002_165
+      rect:
+        serializedVersion: 2
+        x: 1828
+        y: 44
+        width: 99
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44dce394dd54f8a50800000000000000
+      internalID: 6525511201802079556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      White Defender - atlas0 #399002_0: 4816764654052987679
+      White Defender - atlas0 #399002_1: -3259395816249087665
+      White Defender - atlas0 #399002_10: -1564282083734788774
+      White Defender - atlas0 #399002_100: 2911652148541296029
+      White Defender - atlas0 #399002_101: 4728057011979816848
+      White Defender - atlas0 #399002_102: -2246667291264889956
+      White Defender - atlas0 #399002_103: 3263708611110907737
+      White Defender - atlas0 #399002_104: 5755495107788665226
+      White Defender - atlas0 #399002_105: 5830423010190027051
+      White Defender - atlas0 #399002_106: 7001466358426454755
+      White Defender - atlas0 #399002_107: -169017868247184513
+      White Defender - atlas0 #399002_108: 1145904167637609777
+      White Defender - atlas0 #399002_109: -6015890706890262600
+      White Defender - atlas0 #399002_11: 869986532462238286
+      White Defender - atlas0 #399002_110: 5875331306196127755
+      White Defender - atlas0 #399002_111: 9058639345484544060
+      White Defender - atlas0 #399002_112: -8013617829751857922
+      White Defender - atlas0 #399002_113: 2515480225073637380
+      White Defender - atlas0 #399002_114: -9066749412977149143
+      White Defender - atlas0 #399002_115: -5333226061757230492
+      White Defender - atlas0 #399002_116: 2215028892059042839
+      White Defender - atlas0 #399002_117: -3851252028746665568
+      White Defender - atlas0 #399002_118: 8021843768986179431
+      White Defender - atlas0 #399002_119: -3272916346944804045
+      White Defender - atlas0 #399002_12: -8633336736820892014
+      White Defender - atlas0 #399002_120: 7589216122820354518
+      White Defender - atlas0 #399002_121: -4496219237907182218
+      White Defender - atlas0 #399002_122: 8951584053942406093
+      White Defender - atlas0 #399002_123: 3657737090384213617
+      White Defender - atlas0 #399002_124: -8625874069515998864
+      White Defender - atlas0 #399002_125: 4447906015199796429
+      White Defender - atlas0 #399002_126: -8223569743549442801
+      White Defender - atlas0 #399002_127: 5448407016928767027
+      White Defender - atlas0 #399002_128: -5824374638365554460
+      White Defender - atlas0 #399002_129: -3048198365863932797
+      White Defender - atlas0 #399002_13: -3524295401389050404
+      White Defender - atlas0 #399002_130: 7832780954741648166
+      White Defender - atlas0 #399002_131: 6365120585448204629
+      White Defender - atlas0 #399002_132: 4684455186360927457
+      White Defender - atlas0 #399002_133: 2515031956480425018
+      White Defender - atlas0 #399002_134: 2709060375415138262
+      White Defender - atlas0 #399002_135: -5366494039907103869
+      White Defender - atlas0 #399002_136: 3355339547809935416
+      White Defender - atlas0 #399002_137: -7808284463059982953
+      White Defender - atlas0 #399002_138: 3487170857710578665
+      White Defender - atlas0 #399002_139: -8410715841490521774
+      White Defender - atlas0 #399002_14: -2046975070966827795
+      White Defender - atlas0 #399002_140: -8321745365920783209
+      White Defender - atlas0 #399002_141: 5338900146497307624
+      White Defender - atlas0 #399002_142: -5028535975340669834
+      White Defender - atlas0 #399002_143: 6359695470693097161
+      White Defender - atlas0 #399002_144: 6729039706596958585
+      White Defender - atlas0 #399002_145: -8096069769274878315
+      White Defender - atlas0 #399002_146: 4264538695398827631
+      White Defender - atlas0 #399002_147: -2784316903392071491
+      White Defender - atlas0 #399002_148: 1104677472016746879
+      White Defender - atlas0 #399002_149: 5029903340595874127
+      White Defender - atlas0 #399002_15: 1412653455783515264
+      White Defender - atlas0 #399002_150: 1454464705420527517
+      White Defender - atlas0 #399002_151: -3184935861148396671
+      White Defender - atlas0 #399002_152: 4303758211801390931
+      White Defender - atlas0 #399002_153: -7141214354950746602
+      White Defender - atlas0 #399002_154: 3637445012825673826
+      White Defender - atlas0 #399002_155: -5982100214809197123
+      White Defender - atlas0 #399002_156: 7583872129710283121
+      White Defender - atlas0 #399002_157: -4444688469013800834
+      White Defender - atlas0 #399002_158: -3989230853069071819
+      White Defender - atlas0 #399002_159: -189177390917566640
+      White Defender - atlas0 #399002_16: -5406239895796341103
+      White Defender - atlas0 #399002_160: -5513578856575650197
+      White Defender - atlas0 #399002_161: 130848194313280918
+      White Defender - atlas0 #399002_162: 1262641915261300896
+      White Defender - atlas0 #399002_163: -5019774836758317425
+      White Defender - atlas0 #399002_164: 7980585726856017682
+      White Defender - atlas0 #399002_165: 6525511201802079556
+      White Defender - atlas0 #399002_17: 377192437529119435
+      White Defender - atlas0 #399002_18: -8842366237605482554
+      White Defender - atlas0 #399002_19: -968886064446082966
+      White Defender - atlas0 #399002_2: 549627521867107912
+      White Defender - atlas0 #399002_20: 4733767993643641375
+      White Defender - atlas0 #399002_21: 2857709079484876943
+      White Defender - atlas0 #399002_22: -6727240048872417463
+      White Defender - atlas0 #399002_23: -4744693222985419037
+      White Defender - atlas0 #399002_24: 6123770859749969674
+      White Defender - atlas0 #399002_25: 6842413261278226156
+      White Defender - atlas0 #399002_26: 5661485762045535676
+      White Defender - atlas0 #399002_27: -2661553180487785945
+      White Defender - atlas0 #399002_28: 66457185166473114
+      White Defender - atlas0 #399002_29: 3253553813445080087
+      White Defender - atlas0 #399002_3: 1336996906314551285
+      White Defender - atlas0 #399002_30: 3287108000433604694
+      White Defender - atlas0 #399002_31: 3085634572397294491
+      White Defender - atlas0 #399002_32: 3649633517404028024
+      White Defender - atlas0 #399002_33: 632630726907602524
+      White Defender - atlas0 #399002_34: -6063915768190561479
+      White Defender - atlas0 #399002_35: -5232453718139229259
+      White Defender - atlas0 #399002_36: -3361146103048641737
+      White Defender - atlas0 #399002_37: -4212393026043280762
+      White Defender - atlas0 #399002_38: 2404679427790012739
+      White Defender - atlas0 #399002_39: 3484276782282878566
+      White Defender - atlas0 #399002_4: 556649709616199599
+      White Defender - atlas0 #399002_40: 2587348808175104785
+      White Defender - atlas0 #399002_41: -1626721278919550080
+      White Defender - atlas0 #399002_42: -7826136819820370446
+      White Defender - atlas0 #399002_43: 9190459609031142502
+      White Defender - atlas0 #399002_44: -5213641330851403458
+      White Defender - atlas0 #399002_45: -495997763243777043
+      White Defender - atlas0 #399002_46: 1893581087793409816
+      White Defender - atlas0 #399002_47: -3645800275742451888
+      White Defender - atlas0 #399002_48: -5565058641051669382
+      White Defender - atlas0 #399002_49: -1671085918983678692
+      White Defender - atlas0 #399002_5: -8587477299533260770
+      White Defender - atlas0 #399002_50: -4466262277295960726
+      White Defender - atlas0 #399002_51: 6641608206119737046
+      White Defender - atlas0 #399002_52: 6587573976005544831
+      White Defender - atlas0 #399002_53: -2405185847433997588
+      White Defender - atlas0 #399002_54: 8119944814831232600
+      White Defender - atlas0 #399002_55: -2867614605025412674
+      White Defender - atlas0 #399002_56: 8595118551261269603
+      White Defender - atlas0 #399002_57: -7567681994343501828
+      White Defender - atlas0 #399002_58: -9002765738857806951
+      White Defender - atlas0 #399002_59: -9180663253405151658
+      White Defender - atlas0 #399002_6: 7997462581832281134
+      White Defender - atlas0 #399002_60: -3641545480235938347
+      White Defender - atlas0 #399002_61: -4022441148911931555
+      White Defender - atlas0 #399002_62: -1409557930495310055
+      White Defender - atlas0 #399002_63: -5554961235748945845
+      White Defender - atlas0 #399002_64: 9112594294705176196
+      White Defender - atlas0 #399002_65: 1632801937614175861
+      White Defender - atlas0 #399002_66: -8600326467707927038
+      White Defender - atlas0 #399002_67: -1641375099780402772
+      White Defender - atlas0 #399002_68: -594906419398050493
+      White Defender - atlas0 #399002_69: -3120956568741575383
+      White Defender - atlas0 #399002_7: -7565593234720475446
+      White Defender - atlas0 #399002_70: 3878215876336459777
+      White Defender - atlas0 #399002_71: -8471528150432508398
+      White Defender - atlas0 #399002_72: 990346842657824373
+      White Defender - atlas0 #399002_73: 9107893549989529635
+      White Defender - atlas0 #399002_74: 8070331772540955815
+      White Defender - atlas0 #399002_75: -8840010223990791729
+      White Defender - atlas0 #399002_76: -4294231983505104495
+      White Defender - atlas0 #399002_77: 3796971041424220515
+      White Defender - atlas0 #399002_78: -5089416658835798217
+      White Defender - atlas0 #399002_79: 3341991731771399768
+      White Defender - atlas0 #399002_8: 7932212365166631066
+      White Defender - atlas0 #399002_80: 5763201496210466033
+      White Defender - atlas0 #399002_81: -4020523943738737383
+      White Defender - atlas0 #399002_82: 1353838375153719160
+      White Defender - atlas0 #399002_83: 3071561247368789100
+      White Defender - atlas0 #399002_84: -8813648272193209950
+      White Defender - atlas0 #399002_85: 4777453439430331349
+      White Defender - atlas0 #399002_86: -1946717278552701886
+      White Defender - atlas0 #399002_87: 1618355303331603016
+      White Defender - atlas0 #399002_88: 800881869470869756
+      White Defender - atlas0 #399002_89: -5127330703684213798
+      White Defender - atlas0 #399002_9: -9101722220636655437
+      White Defender - atlas0 #399002_90: -7549822698894984451
+      White Defender - atlas0 #399002_91: 9194020647702285683
+      White Defender - atlas0 #399002_92: -5322985167612699755
+      White Defender - atlas0 #399002_93: -3444578065188295147
+      White Defender - atlas0 #399002_94: -7643563009744025246
+      White Defender - atlas0 #399002_95: -7211804762127161140
+      White Defender - atlas0 #399002_96: -4359716038225580617
+      White Defender - atlas0 #399002_97: 9009181680200661485
+      White Defender - atlas0 #399002_98: 62967399197546863
+      White Defender - atlas0 #399002_99: 4074494081560067787
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

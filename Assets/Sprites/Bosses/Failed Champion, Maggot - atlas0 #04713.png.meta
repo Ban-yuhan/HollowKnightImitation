@@ -1,0 +1,780 @@
+fileFormatVersion: 2
+guid: 64990b4dd0979ee478ed45970410e2de
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3536674730888316386
+    second: Failed Champion, Maggot - atlas0 #04713_0
+  - first:
+      213: 4826300916933656557
+    second: Failed Champion, Maggot - atlas0 #04713_1
+  - first:
+      213: 288592525024281186
+    second: Failed Champion, Maggot - atlas0 #04713_2
+  - first:
+      213: -6433647378448330655
+    second: Failed Champion, Maggot - atlas0 #04713_3
+  - first:
+      213: -6162378398472735437
+    second: Failed Champion, Maggot - atlas0 #04713_4
+  - first:
+      213: -4766275253644157354
+    second: Failed Champion, Maggot - atlas0 #04713_5
+  - first:
+      213: 8542649679382769145
+    second: Failed Champion, Maggot - atlas0 #04713_6
+  - first:
+      213: 2249162283925534539
+    second: Failed Champion, Maggot - atlas0 #04713_7
+  - first:
+      213: 3422253624331338839
+    second: Failed Champion, Maggot - atlas0 #04713_8
+  - first:
+      213: -6816581769526583110
+    second: Failed Champion, Maggot - atlas0 #04713_9
+  - first:
+      213: 4200399880991102915
+    second: Failed Champion, Maggot - atlas0 #04713_10
+  - first:
+      213: 7034009285061268994
+    second: Failed Champion, Maggot - atlas0 #04713_11
+  - first:
+      213: 8822167491757465430
+    second: Failed Champion, Maggot - atlas0 #04713_12
+  - first:
+      213: 241298005442158600
+    second: Failed Champion, Maggot - atlas0 #04713_13
+  - first:
+      213: 5771801304245992336
+    second: Failed Champion, Maggot - atlas0 #04713_14
+  - first:
+      213: -4633757608493022250
+    second: Failed Champion, Maggot - atlas0 #04713_15
+  - first:
+      213: 1141655259606931165
+    second: Failed Champion, Maggot - atlas0 #04713_16
+  - first:
+      213: 295442585623890378
+    second: Failed Champion, Maggot - atlas0 #04713_17
+  - first:
+      213: 3984539152426041856
+    second: Failed Champion, Maggot - atlas0 #04713_18
+  - first:
+      213: 7933970940922513369
+    second: Failed Champion, Maggot - atlas0 #04713_19
+  - first:
+      213: -3202633821722545430
+    second: Failed Champion, Maggot - atlas0 #04713_20
+  - first:
+      213: -3858601123482915704
+    second: Failed Champion, Maggot - atlas0 #04713_21
+  - first:
+      213: -4023219357792792983
+    second: Failed Champion, Maggot - atlas0 #04713_22
+  - first:
+      213: 4169004030265428327
+    second: Failed Champion, Maggot - atlas0 #04713_23
+  - first:
+      213: -6716545303901283199
+    second: Failed Champion, Maggot - atlas0 #04713_24
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Failed Champion, Maggot - atlas0 #04713_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1430
+        width: 224
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1a3d4302153beec0800000000000000
+      internalID: -3536674730888316386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Failed Champion, Maggot - atlas0 #04713_1
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 1588
+        width: 217
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: deff8f4fc177af240800000000000000
+      internalID: 4826300916933656557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Failed Champion, Maggot - atlas0 #04713_2
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 1236
+        width: 236
+        height: 354
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 262c7ea5f59410400800000000000000
+      internalID: 288592525024281186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Failed Champion, Maggot - atlas0 #04713_3
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 1414
+        width: 217
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 160d675dbc717b6a0800000000000000
+      internalID: -6433647378448330655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Failed Champion, Maggot - atlas0 #04713_4
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 1561
+        width: 219
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 335fd7b0f75da7aa0800000000000000
+      internalID: -6162378398472735437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Failed Champion, Maggot - atlas0 #04713_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 710
+        width: 387
+        height: 722
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65e1eccd8e9caddb0800000000000000
+      internalID: -4766275253644157354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Failed Champion, Maggot - atlas0 #04713_6
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 1234
+        width: 221
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fde63c5f969d8670800000000000000
+      internalID: 8542649679382769145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Failed Champion, Maggot - atlas0 #04713_7
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 1342
+        width: 182
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b47769f3e21a63f10800000000000000
+      internalID: 2249162283925534539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Failed Champion, Maggot - atlas0 #04713_8
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 1118
+        width: 175
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75400991a894e7f20800000000000000
+      internalID: 3422253624331338839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Failed Champion, Maggot - atlas0 #04713_9
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 716
+        width: 250
+        height: 522
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab0e6f41ff2a661a0800000000000000
+      internalID: -6816581769526583110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Failed Champion, Maggot - atlas0 #04713_10
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 883
+        width: 245
+        height: 353
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c75115ef61da4a30800000000000000
+      internalID: 4200399880991102915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Failed Champion, Maggot - atlas0 #04713_11
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 701
+        width: 228
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20650ee4d22dd9160800000000000000
+      internalID: 7034009285061268994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Failed Champion, Maggot - atlas0 #04713_12
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 883
+        width: 156
+        height: 237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65fd3378792ae6a70800000000000000
+      internalID: 8822167491757465430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Failed Champion, Maggot - atlas0 #04713_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 455
+        width: 165
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 800e36be143495300800000000000000
+      internalID: 241298005442158600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Failed Champion, Maggot - atlas0 #04713_14
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 530
+        width: 230
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09bf7b5b4be891050800000000000000
+      internalID: 5771801304245992336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Failed Champion, Maggot - atlas0 #04713_15
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 356
+        width: 261
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d3828a710691bfb0800000000000000
+      internalID: -4633757608493022250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Failed Champion, Maggot - atlas0 #04713_16
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 348
+        width: 332
+        height: 370
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd6d3dce869f7df00800000000000000
+      internalID: 1141655259606931165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Failed Champion, Maggot - atlas0 #04713_17
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 523
+        width: 257
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac982af577f991400800000000000000
+      internalID: 295442585623890378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Failed Champion, Maggot - atlas0 #04713_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 194
+        width: 174
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0028df58f3deb4730800000000000000
+      internalID: 3984539152426041856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Failed Champion, Maggot - atlas0 #04713_19
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 178
+        width: 257
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d745f7e8802b1e60800000000000000
+      internalID: 7933970940922513369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Failed Champion, Maggot - atlas0 #04713_20
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 0
+        width: 264
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae27396e185fd83d0800000000000000
+      internalID: -3202633821722545430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Failed Champion, Maggot - atlas0 #04713_21
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 262
+        width: 176
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88ca0e0d8be737ac0800000000000000
+      internalID: -3858601123482915704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Failed Champion, Maggot - atlas0 #04713_22
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 0
+        width: 176
+        height: 264
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96e094d5f47aa28c0800000000000000
+      internalID: -4023219357792792983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Failed Champion, Maggot - atlas0 #04713_23
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 253
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7698423c3174bd930800000000000000
+      internalID: 4169004030265428327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Failed Champion, Maggot - atlas0 #04713_24
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 0
+        width: 265
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18c5523c1a90ac2a0800000000000000
+      internalID: -6716545303901283199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Failed Champion, Maggot - atlas0 #04713_0: -3536674730888316386
+      Failed Champion, Maggot - atlas0 #04713_1: 4826300916933656557
+      Failed Champion, Maggot - atlas0 #04713_10: 4200399880991102915
+      Failed Champion, Maggot - atlas0 #04713_11: 7034009285061268994
+      Failed Champion, Maggot - atlas0 #04713_12: 8822167491757465430
+      Failed Champion, Maggot - atlas0 #04713_13: 241298005442158600
+      Failed Champion, Maggot - atlas0 #04713_14: 5771801304245992336
+      Failed Champion, Maggot - atlas0 #04713_15: -4633757608493022250
+      Failed Champion, Maggot - atlas0 #04713_16: 1141655259606931165
+      Failed Champion, Maggot - atlas0 #04713_17: 295442585623890378
+      Failed Champion, Maggot - atlas0 #04713_18: 3984539152426041856
+      Failed Champion, Maggot - atlas0 #04713_19: 7933970940922513369
+      Failed Champion, Maggot - atlas0 #04713_2: 288592525024281186
+      Failed Champion, Maggot - atlas0 #04713_20: -3202633821722545430
+      Failed Champion, Maggot - atlas0 #04713_21: -3858601123482915704
+      Failed Champion, Maggot - atlas0 #04713_22: -4023219357792792983
+      Failed Champion, Maggot - atlas0 #04713_23: 4169004030265428327
+      Failed Champion, Maggot - atlas0 #04713_24: -6716545303901283199
+      Failed Champion, Maggot - atlas0 #04713_3: -6433647378448330655
+      Failed Champion, Maggot - atlas0 #04713_4: -6162378398472735437
+      Failed Champion, Maggot - atlas0 #04713_5: -4766275253644157354
+      Failed Champion, Maggot - atlas0 #04713_6: 8542649679382769145
+      Failed Champion, Maggot - atlas0 #04713_7: 2249162283925534539
+      Failed Champion, Maggot - atlas0 #04713_8: 3422253624331338839
+      Failed Champion, Maggot - atlas0 #04713_9: -6816581769526583110
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1066 @@
+fileFormatVersion: 2
+guid: 77d7a8c767378a549af3102aaa40f952
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1344178818971840474
+    second: Elder Hu - atlas0 #195002_0
+  - first:
+      213: -6179382523852118873
+    second: Elder Hu - atlas0 #195002_1
+  - first:
+      213: -8417836167516717813
+    second: Elder Hu - atlas0 #195002_2
+  - first:
+      213: -6140759795549890118
+    second: Elder Hu - atlas0 #195002_3
+  - first:
+      213: -3283581959743417756
+    second: Elder Hu - atlas0 #195002_4
+  - first:
+      213: -3183557954613488221
+    second: Elder Hu - atlas0 #195002_5
+  - first:
+      213: -5447402715538654702
+    second: Elder Hu - atlas0 #195002_6
+  - first:
+      213: -3748090084838683666
+    second: Elder Hu - atlas0 #195002_7
+  - first:
+      213: -6969325768505092469
+    second: Elder Hu - atlas0 #195002_8
+  - first:
+      213: -8091026132797085305
+    second: Elder Hu - atlas0 #195002_9
+  - first:
+      213: 1284529765542049065
+    second: Elder Hu - atlas0 #195002_10
+  - first:
+      213: -6642308317081060140
+    second: Elder Hu - atlas0 #195002_11
+  - first:
+      213: -5629416143421016521
+    second: Elder Hu - atlas0 #195002_12
+  - first:
+      213: -4131376084525454146
+    second: Elder Hu - atlas0 #195002_13
+  - first:
+      213: 1092868622179994622
+    second: Elder Hu - atlas0 #195002_14
+  - first:
+      213: 1145538594170790423
+    second: Elder Hu - atlas0 #195002_15
+  - first:
+      213: -4272238315708053450
+    second: Elder Hu - atlas0 #195002_16
+  - first:
+      213: -3746341578552130928
+    second: Elder Hu - atlas0 #195002_17
+  - first:
+      213: -475034709538116423
+    second: Elder Hu - atlas0 #195002_18
+  - first:
+      213: -7582951419657128708
+    second: Elder Hu - atlas0 #195002_19
+  - first:
+      213: -7217640846418903288
+    second: Elder Hu - atlas0 #195002_20
+  - first:
+      213: 7312435598051330993
+    second: Elder Hu - atlas0 #195002_21
+  - first:
+      213: 7006083809455214237
+    second: Elder Hu - atlas0 #195002_22
+  - first:
+      213: 5623342138840179541
+    second: Elder Hu - atlas0 #195002_23
+  - first:
+      213: -1846105596435418961
+    second: Elder Hu - atlas0 #195002_24
+  - first:
+      213: -7182732613974385921
+    second: Elder Hu - atlas0 #195002_25
+  - first:
+      213: -2046731748281508955
+    second: Elder Hu - atlas0 #195002_26
+  - first:
+      213: -3924528331953610013
+    second: Elder Hu - atlas0 #195002_27
+  - first:
+      213: 1764370232048995703
+    second: Elder Hu - atlas0 #195002_28
+  - first:
+      213: 8098729372416551278
+    second: Elder Hu - atlas0 #195002_29
+  - first:
+      213: -842059205565263703
+    second: Elder Hu - atlas0 #195002_30
+  - first:
+      213: 2694759796452004042
+    second: Elder Hu - atlas0 #195002_31
+  - first:
+      213: 8503048276990426687
+    second: Elder Hu - atlas0 #195002_32
+  - first:
+      213: -2387848747483987156
+    second: Elder Hu - atlas0 #195002_33
+  - first:
+      213: -9139359224954781817
+    second: Elder Hu - atlas0 #195002_34
+  - first:
+      213: -8446302679015403923
+    second: Elder Hu - atlas0 #195002_35
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Elder Hu - atlas0 #195002_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1287
+        width: 205
+        height: 484
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adfab6b938b77a210800000000000000
+      internalID: 1344178818971840474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elder Hu - atlas0 #195002_1
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 1436
+        width: 205
+        height: 306
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a4a986955c6e3aa0800000000000000
+      internalID: -6179382523852118873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elder Hu - atlas0 #195002_2
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 1490
+        width: 163
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0dfab1fa96dd2b80800000000000000
+      internalID: -8417836167516717813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elder Hu - atlas0 #195002_3
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 1333
+        width: 192
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab99f374083a7caa0800000000000000
+      internalID: -6140759795549890118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elder Hu - atlas0 #195002_4
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 1204
+        width: 328
+        height: 308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 462dc92da9f5e62d0800000000000000
+      internalID: -3283581959743417756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elder Hu - atlas0 #195002_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1104
+        width: 201
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a5d46158eab1d3d0800000000000000
+      internalID: -3183557954613488221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elder Hu - atlas0 #195002_6
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 957
+        width: 97
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21af1df7710f664b0800000000000000
+      internalID: -5447402715538654702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elder Hu - atlas0 #195002_7
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 1279
+        width: 199
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eebc6031deb1cfbc0800000000000000
+      internalID: -3748090084838683666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elder Hu - atlas0 #195002_8
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 1116
+        width: 199
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b86174c732bf74f90800000000000000
+      internalID: -6969325768505092469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elder Hu - atlas0 #195002_9
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 1168
+        width: 190
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7892a3ea996e6bf80800000000000000
+      internalID: -8091026132797085305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elder Hu - atlas0 #195002_10
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 1194
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 925bc8a140193d110800000000000000
+      internalID: 1284529765542049065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elder Hu - atlas0 #195002_11
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 838
+        width: 267
+        height: 368
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dcb2cf27c7c1d3a0800000000000000
+      internalID: -6642308317081060140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elder Hu - atlas0 #195002_12
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 900
+        width: 185
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7367a8ee7db40e1b0800000000000000
+      internalID: -5629416143421016521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elder Hu - atlas0 #195002_13
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 907
+        width: 178
+        height: 211
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebce05017576aa6c0800000000000000
+      internalID: -4131376084525454146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elder Hu - atlas0 #195002_14
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 1005
+        width: 199
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efb853bb836aa2f00800000000000000
+      internalID: 1092868622179994622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elder Hu - atlas0 #195002_15
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 1083
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 712ec063845c5ef00800000000000000
+      internalID: 1145538594170790423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elder Hu - atlas0 #195002_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 985
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 638886c13e5f5b4c0800000000000000
+      internalID: -4272238315708053450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elder Hu - atlas0 #195002_17
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 986
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 092cf1bee22520cc0800000000000000
+      internalID: -3746341578552130928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elder Hu - atlas0 #195002_18
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 979
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bceff1d2765869f0800000000000000
+      internalID: -475034709538116423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elder Hu - atlas0 #195002_19
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 637
+        width: 467
+        height: 370
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf4fa4a2cd1f3c690800000000000000
+      internalID: -7582951419657128708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elder Hu - atlas0 #195002_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 710
+        width: 225
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80ff9d014e9c5db90800000000000000
+      internalID: -7217640846418903288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elder Hu - atlas0 #195002_21
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 762
+        width: 23
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bb45c8fe6dfa7560800000000000000
+      internalID: 7312435598051330993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elder Hu - atlas0 #195002_22
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 761
+        width: 11
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9e8139da1c9a3160800000000000000
+      internalID: 7006083809455214237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elder Hu - atlas0 #195002_23
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 502
+        width: 118
+        height: 457
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 553ed0ca1ef1a0e40800000000000000
+      internalID: 5623342138840179541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elder Hu - atlas0 #195002_24
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 728
+        width: 209
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa03b9abdb05166e0800000000000000
+      internalID: -1846105596435418961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elder Hu - atlas0 #195002_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 322
+        width: 262
+        height: 390
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffa917b4ebec15c90800000000000000
+      internalID: -7182732613974385921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elder Hu - atlas0 #195002_26
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 551
+        width: 262
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ab9a29a15c8893e0800000000000000
+      internalID: -2046731748281508955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elder Hu - atlas0 #195002_27
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 308
+        width: 243
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e2e2fe66464989c0800000000000000
+      internalID: -3924528331953610013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elder Hu - atlas0 #195002_28
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 331
+        width: 389
+        height: 308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77dcd85c06d4c7810800000000000000
+      internalID: 1764370232048995703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elder Hu - atlas0 #195002_29
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 182
+        width: 323
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6929ee8477746070800000000000000
+      internalID: 8098729372416551278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elder Hu - atlas0 #195002_30
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 322
+        width: 103
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a05f6c2d976054f0800000000000000
+      internalID: -842059205565263703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elder Hu - atlas0 #195002_31
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 0
+        width: 282
+        height: 333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac09686e1c5b56520800000000000000
+      internalID: 2694759796452004042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elder Hu - atlas0 #195002_32
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 0
+        width: 120
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3ef20a5b55e00670800000000000000
+      internalID: 8503048276990426687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elder Hu - atlas0 #195002_33
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 57
+        width: 217
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c230bdc2738acded0800000000000000
+      internalID: -2387848747483987156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elder Hu - atlas0 #195002_34
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 0
+        width: 317
+        height: 310
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78f71e115397a2180800000000000000
+      internalID: -9139359224954781817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elder Hu - atlas0 #195002_35
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 40
+        width: 39
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6e4bdfb674b8ca80800000000000000
+      internalID: -8446302679015403923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Elder Hu - atlas0 #195002_0: 1344178818971840474
+      Elder Hu - atlas0 #195002_1: -6179382523852118873
+      Elder Hu - atlas0 #195002_10: 1284529765542049065
+      Elder Hu - atlas0 #195002_11: -6642308317081060140
+      Elder Hu - atlas0 #195002_12: -5629416143421016521
+      Elder Hu - atlas0 #195002_13: -4131376084525454146
+      Elder Hu - atlas0 #195002_14: 1092868622179994622
+      Elder Hu - atlas0 #195002_15: 1145538594170790423
+      Elder Hu - atlas0 #195002_16: -4272238315708053450
+      Elder Hu - atlas0 #195002_17: -3746341578552130928
+      Elder Hu - atlas0 #195002_18: -475034709538116423
+      Elder Hu - atlas0 #195002_19: -7582951419657128708
+      Elder Hu - atlas0 #195002_2: -8417836167516717813
+      Elder Hu - atlas0 #195002_20: -7217640846418903288
+      Elder Hu - atlas0 #195002_21: 7312435598051330993
+      Elder Hu - atlas0 #195002_22: 7006083809455214237
+      Elder Hu - atlas0 #195002_23: 5623342138840179541
+      Elder Hu - atlas0 #195002_24: -1846105596435418961
+      Elder Hu - atlas0 #195002_25: -7182732613974385921
+      Elder Hu - atlas0 #195002_26: -2046731748281508955
+      Elder Hu - atlas0 #195002_27: -3924528331953610013
+      Elder Hu - atlas0 #195002_28: 1764370232048995703
+      Elder Hu - atlas0 #195002_29: 8098729372416551278
+      Elder Hu - atlas0 #195002_3: -6140759795549890118
+      Elder Hu - atlas0 #195002_30: -842059205565263703
+      Elder Hu - atlas0 #195002_31: 2694759796452004042
+      Elder Hu - atlas0 #195002_32: 8503048276990426687
+      Elder Hu - atlas0 #195002_33: -2387848747483987156
+      Elder Hu - atlas0 #195002_34: -9139359224954781817
+      Elder Hu - atlas0 #195002_35: -8446302679015403923
+      Elder Hu - atlas0 #195002_4: -3283581959743417756
+      Elder Hu - atlas0 #195002_5: -3183557954613488221
+      Elder Hu - atlas0 #195002_6: -5447402715538654702
+      Elder Hu - atlas0 #195002_7: -3748090084838683666
+      Elder Hu - atlas0 #195002_8: -6969325768505092469
+      Elder Hu - atlas0 #195002_9: -8091026132797085305
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

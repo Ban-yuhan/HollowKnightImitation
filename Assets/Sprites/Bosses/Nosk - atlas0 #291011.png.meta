@@ -1,0 +1,1404 @@
+fileFormatVersion: 2
+guid: 37b3710671b9a7142becca4e09263486
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6867147814411613036
+    second: Nosk - atlas0 #291011_0
+  - first:
+      213: -2832997169916892760
+    second: Nosk - atlas0 #291011_1
+  - first:
+      213: -6794260876995278134
+    second: Nosk - atlas0 #291011_2
+  - first:
+      213: -5298123627437249084
+    second: Nosk - atlas0 #291011_3
+  - first:
+      213: 1497340658052251875
+    second: Nosk - atlas0 #291011_4
+  - first:
+      213: -5216538558487321581
+    second: Nosk - atlas0 #291011_5
+  - first:
+      213: 7285938410416647299
+    second: Nosk - atlas0 #291011_6
+  - first:
+      213: -4660860456770445903
+    second: Nosk - atlas0 #291011_7
+  - first:
+      213: 336015455210016224
+    second: Nosk - atlas0 #291011_8
+  - first:
+      213: 268595601548988501
+    second: Nosk - atlas0 #291011_9
+  - first:
+      213: 6837849781198844971
+    second: Nosk - atlas0 #291011_10
+  - first:
+      213: 574256997906542567
+    second: Nosk - atlas0 #291011_11
+  - first:
+      213: 5410215533120312453
+    second: Nosk - atlas0 #291011_12
+  - first:
+      213: -370130386551686535
+    second: Nosk - atlas0 #291011_13
+  - first:
+      213: 1765703389881614561
+    second: Nosk - atlas0 #291011_14
+  - first:
+      213: -5105388812518236192
+    second: Nosk - atlas0 #291011_15
+  - first:
+      213: 2846733231142849604
+    second: Nosk - atlas0 #291011_16
+  - first:
+      213: -3565454926125970786
+    second: Nosk - atlas0 #291011_17
+  - first:
+      213: 7448202659179863906
+    second: Nosk - atlas0 #291011_18
+  - first:
+      213: 754603079163471001
+    second: Nosk - atlas0 #291011_19
+  - first:
+      213: 4964857055989519606
+    second: Nosk - atlas0 #291011_20
+  - first:
+      213: 566461582780609261
+    second: Nosk - atlas0 #291011_21
+  - first:
+      213: 8887376029629157991
+    second: Nosk - atlas0 #291011_22
+  - first:
+      213: -9062766156234980788
+    second: Nosk - atlas0 #291011_23
+  - first:
+      213: 4662555878310067930
+    second: Nosk - atlas0 #291011_24
+  - first:
+      213: 2641880984858355183
+    second: Nosk - atlas0 #291011_25
+  - first:
+      213: 6914093347256226070
+    second: Nosk - atlas0 #291011_26
+  - first:
+      213: -1781884737146377007
+    second: Nosk - atlas0 #291011_27
+  - first:
+      213: 4411856467788197414
+    second: Nosk - atlas0 #291011_28
+  - first:
+      213: -5044633185849681371
+    second: Nosk - atlas0 #291011_29
+  - first:
+      213: 717629371447864787
+    second: Nosk - atlas0 #291011_30
+  - first:
+      213: 583954357653360654
+    second: Nosk - atlas0 #291011_31
+  - first:
+      213: 5993624639631210848
+    second: Nosk - atlas0 #291011_32
+  - first:
+      213: -2969487725201640817
+    second: Nosk - atlas0 #291011_33
+  - first:
+      213: -5878398141342728461
+    second: Nosk - atlas0 #291011_34
+  - first:
+      213: 2918814250153330839
+    second: Nosk - atlas0 #291011_35
+  - first:
+      213: 926110067636205726
+    second: Nosk - atlas0 #291011_36
+  - first:
+      213: 1138497353653340589
+    second: Nosk - atlas0 #291011_37
+  - first:
+      213: -8680807057057372049
+    second: Nosk - atlas0 #291011_38
+  - first:
+      213: 3842366947125471269
+    second: Nosk - atlas0 #291011_39
+  - first:
+      213: -6990715872579872164
+    second: Nosk - atlas0 #291011_40
+  - first:
+      213: 1730658058405147389
+    second: Nosk - atlas0 #291011_41
+  - first:
+      213: 2806368696814675738
+    second: Nosk - atlas0 #291011_42
+  - first:
+      213: 5561848797220494504
+    second: Nosk - atlas0 #291011_43
+  - first:
+      213: 2720833049357819850
+    second: Nosk - atlas0 #291011_44
+  - first:
+      213: 6131505229181858184
+    second: Nosk - atlas0 #291011_45
+  - first:
+      213: -1757606935226663141
+    second: Nosk - atlas0 #291011_46
+  - first:
+      213: -166304952905850876
+    second: Nosk - atlas0 #291011_47
+  - first:
+      213: 8272730166646664484
+    second: Nosk - atlas0 #291011_48
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Nosk - atlas0 #291011_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2733
+        width: 238
+        height: 427
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c63ba12bd820d4f50800000000000000
+      internalID: 6867147814411613036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nosk - atlas0 #291011_1
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 3146
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a9aa65751c2fa8d0800000000000000
+      internalID: -2832997169916892760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nosk - atlas0 #291011_2
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 3141
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acacc5bdabfe5b1a0800000000000000
+      internalID: -6794260876995278134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nosk - atlas0 #291011_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2393
+        width: 368
+        height: 342
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cdaf7aa1a84976b0800000000000000
+      internalID: -5298123627437249084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nosk - atlas0 #291011_4
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 2676
+        width: 207
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e044fe256f97c410800000000000000
+      internalID: 1497340658052251875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nosk - atlas0 #291011_5
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 2045
+        width: 219
+        height: 633
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3142c38c1d12b97b0800000000000000
+      internalID: -5216538558487321581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nosk - atlas0 #291011_6
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 2445
+        width: 356
+        height: 539
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38c2248b16adc1560800000000000000
+      internalID: 7285938410416647299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nosk - atlas0 #291011_7
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 2097
+        width: 445
+        height: 760
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bd588edb1c415fb0800000000000000
+      internalID: -4660860456770445903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nosk - atlas0 #291011_8
+      rect:
+        serializedVersion: 2
+        x: 1168
+        y: 2500
+        width: 233
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ed85d6b644c9a400800000000000000
+      internalID: 336015455210016224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nosk - atlas0 #291011_9
+      rect:
+        serializedVersion: 2
+        x: 1368
+        y: 2259
+        width: 635
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5505f8ac64e3ab300800000000000000
+      internalID: 268595601548988501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nosk - atlas0 #291011_10
+      rect:
+        serializedVersion: 2
+        x: 1986
+        y: 2592
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b24f6d3c52ce4ee50800000000000000
+      internalID: 6837849781198844971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nosk - atlas0 #291011_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2019
+        width: 382
+        height: 376
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ef600272bb28f700800000000000000
+      internalID: 574256997906542567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nosk - atlas0 #291011_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1634
+        width: 389
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 584dfe1ec52f41b40800000000000000
+      internalID: 5410215533120312453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nosk - atlas0 #291011_13
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 1736
+        width: 219
+        height: 311
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97a320ddf580ddaf0800000000000000
+      internalID: -370130386551686535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nosk - atlas0 #291011_14
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 1727
+        width: 405
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e0c894c0e9018810800000000000000
+      internalID: 1765703389881614561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nosk - atlas0 #291011_15
+      rect:
+        serializedVersion: 2
+        x: 1138
+        y: 1748
+        width: 390
+        height: 351
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0efd89dace30629b0800000000000000
+      internalID: -5105388812518236192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nosk - atlas0 #291011_16
+      rect:
+        serializedVersion: 2
+        x: 1526
+        y: 1899
+        width: 375
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44cc1948ac0a18720800000000000000
+      internalID: 2846733231142849604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nosk - atlas0 #291011_17
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 1427
+        width: 222
+        height: 311
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9a4891a2a5f48ec0800000000000000
+      internalID: -3565454926125970786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nosk - atlas0 #291011_18
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 1360
+        width: 415
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26f19833bd45d5760800000000000000
+      internalID: 7448202659179863906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nosk - atlas0 #291011_19
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 1727
+        width: 140
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99464ff9083e87a00800000000000000
+      internalID: 754603079163471001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nosk - atlas0 #291011_20
+      rect:
+        serializedVersion: 2
+        x: 1140
+        y: 1384
+        width: 429
+        height: 366
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f4d8deff27b6e440800000000000000
+      internalID: 4964857055989519606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nosk - atlas0 #291011_21
+      rect:
+        serializedVersion: 2
+        x: 1567
+        y: 1531
+        width: 420
+        height: 370
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de23b8ceec97cd700800000000000000
+      internalID: 566461582780609261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nosk - atlas0 #291011_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1246
+        width: 393
+        height: 390
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7621e5f596d465b70800000000000000
+      internalID: 8887376029629157991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nosk - atlas0 #291011_23
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 1330
+        width: 103
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c428e2f82369a3280800000000000000
+      internalID: -9062766156234980788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nosk - atlas0 #291011_24
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 1014
+        width: 353
+        height: 519
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adeb4183ed9b4b040800000000000000
+      internalID: 4662555878310067930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nosk - atlas0 #291011_25
+      rect:
+        serializedVersion: 2
+        x: 1639
+        y: 1437
+        width: 21
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe5675922c8d9a420800000000000000
+      internalID: 2641880984858355183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nosk - atlas0 #291011_26
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 1118
+        width: 221
+        height: 311
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6115913544bc3ff50800000000000000
+      internalID: 6914093347256226070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nosk - atlas0 #291011_27
+      rect:
+        serializedVersion: 2
+        x: 1150
+        y: 413
+        width: 501
+        height: 966
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dc23bbb5497547e0800000000000000
+      internalID: -1781884737146377007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nosk - atlas0 #291011_28
+      rect:
+        serializedVersion: 2
+        x: 1361
+        y: 1377
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62e668a15101a3d30800000000000000
+      internalID: 4411856467788197414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nosk - atlas0 #291011_29
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 865
+        width: 403
+        height: 383
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52a584758dcddf9b0800000000000000
+      internalID: -5044633185849681371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nosk - atlas0 #291011_30
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 983
+        width: 421
+        height: 379
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dd69857c1885f900800000000000000
+      internalID: 717629371447864787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nosk - atlas0 #291011_31
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 1129
+        width: 112
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0058f4f46f9a1800800000000000000
+      internalID: 583954357653360654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nosk - atlas0 #291011_32
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 902
+        width: 110
+        height: 229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0693f3aaad1ad2350800000000000000
+      internalID: 5993624639631210848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nosk - atlas0 #291011_33
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 865
+        width: 101
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f82397e95a24ac6d0800000000000000
+      internalID: -2969487725201640817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nosk - atlas0 #291011_34
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 988
+        width: 100
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fe33f8190cbb6ea0800000000000000
+      internalID: -5878398141342728461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nosk - atlas0 #291011_35
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 762
+        width: 110
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 798ccb19816b18820800000000000000
+      internalID: 2918814250153330839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nosk - atlas0 #291011_36
+      rect:
+        serializedVersion: 2
+        x: 1649
+        y: 510
+        width: 363
+        height: 506
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e987e5423343adc00800000000000000
+      internalID: 926110067636205726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nosk - atlas0 #291011_37
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 450
+        width: 422
+        height: 530
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da9ca36af41cccf00800000000000000
+      internalID: 1138497353653340589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nosk - atlas0 #291011_38
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 978
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f68246879f3978780800000000000000
+      internalID: -8680807057057372049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nosk - atlas0 #291011_39
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 155
+        width: 514
+        height: 712
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 528ad147164d25530800000000000000
+      internalID: 3842366947125471269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nosk - atlas0 #291011_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 813
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5a1139c3fcfbfe90800000000000000
+      internalID: -6990715872579872164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nosk - atlas0 #291011_41
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 675
+        width: 110
+        height: 229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df2f7eea558840810800000000000000
+      internalID: 1730658058405147389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nosk - atlas0 #291011_42
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 115
+        height: 764
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a172a62067932f620800000000000000
+      internalID: 2806368696814675738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nosk - atlas0 #291011_43
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 450
+        width: 111
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8acd2cc5308af2d40800000000000000
+      internalID: 5561848797220494504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nosk - atlas0 #291011_44
+      rect:
+        serializedVersion: 2
+        x: 1153
+        y: 667
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acf9d182e3752c520800000000000000
+      internalID: 2720833049357819850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nosk - atlas0 #291011_45
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 0
+        width: 530
+        height: 475
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 881b5d3158b771550800000000000000
+      internalID: 6131505229181858184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nosk - atlas0 #291011_46
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 0
+        width: 532
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1f3d0bfdc9bb97e0800000000000000
+      internalID: -1757606935226663141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nosk - atlas0 #291011_47
+      rect:
+        serializedVersion: 2
+        x: 1153
+        y: 0
+        width: 546
+        height: 415
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 400a8a5c68a21bdf0800000000000000
+      internalID: -166304952905850876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nosk - atlas0 #291011_48
+      rect:
+        serializedVersion: 2
+        x: 1697
+        y: 0
+        width: 351
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42de1a97144aec270800000000000000
+      internalID: 8272730166646664484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Nosk - atlas0 #291011_0: 6867147814411613036
+      Nosk - atlas0 #291011_1: -2832997169916892760
+      Nosk - atlas0 #291011_10: 6837849781198844971
+      Nosk - atlas0 #291011_11: 574256997906542567
+      Nosk - atlas0 #291011_12: 5410215533120312453
+      Nosk - atlas0 #291011_13: -370130386551686535
+      Nosk - atlas0 #291011_14: 1765703389881614561
+      Nosk - atlas0 #291011_15: -5105388812518236192
+      Nosk - atlas0 #291011_16: 2846733231142849604
+      Nosk - atlas0 #291011_17: -3565454926125970786
+      Nosk - atlas0 #291011_18: 7448202659179863906
+      Nosk - atlas0 #291011_19: 754603079163471001
+      Nosk - atlas0 #291011_2: -6794260876995278134
+      Nosk - atlas0 #291011_20: 4964857055989519606
+      Nosk - atlas0 #291011_21: 566461582780609261
+      Nosk - atlas0 #291011_22: 8887376029629157991
+      Nosk - atlas0 #291011_23: -9062766156234980788
+      Nosk - atlas0 #291011_24: 4662555878310067930
+      Nosk - atlas0 #291011_25: 2641880984858355183
+      Nosk - atlas0 #291011_26: 6914093347256226070
+      Nosk - atlas0 #291011_27: -1781884737146377007
+      Nosk - atlas0 #291011_28: 4411856467788197414
+      Nosk - atlas0 #291011_29: -5044633185849681371
+      Nosk - atlas0 #291011_3: -5298123627437249084
+      Nosk - atlas0 #291011_30: 717629371447864787
+      Nosk - atlas0 #291011_31: 583954357653360654
+      Nosk - atlas0 #291011_32: 5993624639631210848
+      Nosk - atlas0 #291011_33: -2969487725201640817
+      Nosk - atlas0 #291011_34: -5878398141342728461
+      Nosk - atlas0 #291011_35: 2918814250153330839
+      Nosk - atlas0 #291011_36: 926110067636205726
+      Nosk - atlas0 #291011_37: 1138497353653340589
+      Nosk - atlas0 #291011_38: -8680807057057372049
+      Nosk - atlas0 #291011_39: 3842366947125471269
+      Nosk - atlas0 #291011_4: 1497340658052251875
+      Nosk - atlas0 #291011_40: -6990715872579872164
+      Nosk - atlas0 #291011_41: 1730658058405147389
+      Nosk - atlas0 #291011_42: 2806368696814675738
+      Nosk - atlas0 #291011_43: 5561848797220494504
+      Nosk - atlas0 #291011_44: 2720833049357819850
+      Nosk - atlas0 #291011_45: 6131505229181858184
+      Nosk - atlas0 #291011_46: -1757606935226663141
+      Nosk - atlas0 #291011_47: -166304952905850876
+      Nosk - atlas0 #291011_48: 8272730166646664484
+      Nosk - atlas0 #291011_5: -5216538558487321581
+      Nosk - atlas0 #291011_6: 7285938410416647299
+      Nosk - atlas0 #291011_7: -4660860456770445903
+      Nosk - atlas0 #291011_8: 336015455210016224
+      Nosk - atlas0 #291011_9: 268595601548988501
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
