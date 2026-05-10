@@ -10,7 +10,7 @@ public class BossPatern : MonoBehaviour
     private enum BossPatterns
     {
         JumpAttack,
-        BackJump,
+        Jump,
         WaveAttack,
         Dash,
         SideAttack
@@ -36,6 +36,7 @@ public class BossPatern : MonoBehaviour
 
     private int currentPatternIndex = 0;
 
+    [SerializeField]
     private bool isExcuting = false;
 
     [SerializeField]
@@ -65,6 +66,12 @@ public class BossPatern : MonoBehaviour
     [SerializeField]
     private string ParamAnticipateJump = "AnticipateJump";
 
+    [SerializeField]
+    private string ParamJumpAttackUP = "JumpAttackUP";
+
+    [SerializeField]
+    private string ParamLand = "Land";  
+
 
     private void Start()
     {
@@ -73,13 +80,6 @@ public class BossPatern : MonoBehaviour
         StartCoroutine(BossLoop());
     }
 
-    private void Update()
-    {
-        if (!isExcuting)
-        {
-            flipX();
-        }
-    }
 
     IEnumerator BossLoop()
     {
@@ -91,8 +91,9 @@ public class BossPatern : MonoBehaviour
 
                 currentPatternIndex = (currentPatternIndex + 1) % patternList.Count;
 
-                yield return new WaitForSeconds(2f);
+                yield return new WaitForSeconds(3f);
             }
+            
             yield return null;
         }
     }
@@ -104,33 +105,24 @@ public class BossPatern : MonoBehaviour
         switch (pattern)
         {
             case BossPatterns.JumpAttack:
-                yield return StartCoroutine(JumpAttack());
+                flipX();
+                yield return StartCoroutine(AnticipateJump());
+                break;
+            case BossPatterns.Jump:
+                flipX();
+                yield return StartCoroutine(AnticipateJump());
                 break;
         }
-
-        isExcuting = false;
     }
+
 
     IEnumerator Dash()
     {
-        float targetDir = (Player.position.x - transform.position.x);
-
-        float TargetPos = targetDir > 0 ? targetDir + 3f : targetDir - 3f;
-
-        while (Mathf.Abs(transform.position.x - targetDir) > 0.01f)
-        {
-            transform.position = Vector2.MoveTowards(transform.position, new Vector2(TargetPos, 0f), MoveSpeed * Time.deltaTime);
-
-            yield return null;
-        }
-
-        transform.position = new Vector2(TargetPos, 0f);
-
-
+        yield return null;
     }
 
 
-    IEnumerator JumpAttack()
+    IEnumerator AnticipateJump()
     {
         animator.SetTrigger(ParamAnticipateJump);
         
@@ -138,14 +130,61 @@ public class BossPatern : MonoBehaviour
         
         
     }
-    IEnumerator jump()
+
+    IEnumerator Jump()
     {
         Rigidbody2D rb = GetComponent<Rigidbody2D>();
-
         rb.AddForce(Vector2.up * JumpForce, ForceMode2D.Impulse);
-        animator.SetTrigger(ParamJump);
 
-        float targetX = Player.position.x;
+        if (patternList[currentPatternIndex] == BossPatterns.JumpAttack)
+        {
+            animator.SetTrigger(ParamJumpAttackUP);
+            yield return StartCoroutine(jumpAttack());
+        }
+        else if (patternList[currentPatternIndex] == BossPatterns.Jump)
+        {
+
+            animator.SetTrigger(ParamJump);
+            float targetX = transform.position.x + Random.Range(-10, 10);
+
+            while (true)
+            {
+                float nextX = Mathf.MoveTowards(transform.position.x, targetX, MoveSpeed * Time.deltaTime);
+
+                nextX = Mathf.Clamp(nextX, 31, 56);
+
+                transform.position = new Vector3(nextX, transform.position.y, transform.position.z);
+
+                if (rb.linearVelocity.y < 0)
+                {
+                    RaycastHit2D hit = Physics2D.Raycast(Footpoint.position, Vector2.down, 10f, GroundMask);
+
+                    if (hit.collider != null)
+                    {
+                        float distanceToGround = hit.distance;
+
+
+                        if (distanceToGround < 0.25f)
+                        {
+
+                            animator.SetTrigger(ParamLand);
+                            rb.linearVelocity = Vector2.zero;
+                            break;
+                        }
+                    }
+                }
+                yield return null;
+            }
+            isExcuting = false;
+        }
+        yield return new WaitForSeconds(1f);
+    }
+
+
+    IEnumerator jumpAttack()
+    {
+        
+        float targetX = Player.position.x > transform.position.x ? Player.position.x - 3f : Player.position.x + 3f;
 
         bool animationTriggered = false;
 
@@ -157,11 +196,13 @@ public class BossPatern : MonoBehaviour
 
             RaycastHit2D hit = Physics2D.Raycast(Footpoint.position, Vector2.down, 10f, GroundMask);
 
+
+
             if (hit.collider != null)
             {
                 float distanceToGround = hit.distance;
 
-                if (rb.linearVelocity.y < -6f && !animationTriggered)
+                if (distanceToGround < 2f && rb.linearVelocity.y < -0.1f && !animationTriggered)
                 {
                     animator.SetTrigger(ParamJumpAttack);
                     animationTriggered = true;
@@ -180,6 +221,8 @@ public class BossPatern : MonoBehaviour
         rb.linearVelocity = Vector2.zero;
 
         yield return new WaitForSeconds(1f);
+
+        isExcuting = false;
     }
 
 

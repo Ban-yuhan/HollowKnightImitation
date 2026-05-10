@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 686090314189cdb46af0085dcfe7ead1
+guid: 127df66ae0c11034483614074bfbd88c
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 3979358828553172057
-    second: FalseKnight_Jump_0
+      213: -7091406367082956732
+    second: FalseKnight_JumpAttackUp_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -113,111 +113,111 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: FalseKnight_Jump_0
+      name: FalseKnight_JumpAttackUp_0
       rect:
         serializedVersion: 2
-        x: 2
-        y: 16
-        width: 606
-        height: 341
-      alignment: 9
-      pivot: {x: 0.594332, y: 0.5783884}
+        x: 5
+        y: 432
+        width: 707
+        height: 415
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 954f9b165c5893730800000000000000
-      internalID: 3979358828553172057
+      spriteID: 448b3142b73469d90800000000000000
+      internalID: -7091406367082956732
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: FalseKnight_Jump_1
+      name: FalseKnight_JumpAttackUp_1
       rect:
         serializedVersion: 2
-        x: 2
-        y: 15
-        width: 606
-        height: 341
+        x: 724
+        y: 430
+        width: 704
+        height: 419
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 99d8aa811b6df5449ba2aeb013ae6f2f
-      internalID: -2018358136
+      spriteID: afb5ee821ef35524890a6f4ed7844e34
+      internalID: -1979972194
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: FalseKnight_Jump_2
+      name: FalseKnight_JumpAttackUp_2
       rect:
         serializedVersion: 2
-        x: 614
-        y: 17
-        width: 602
-        height: 339
-      alignment: 9
-      pivot: {x: 0.57169783, y: 0.58281827}
+        x: 1439
+        y: 431
+        width: 705
+        height: 419
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 22d4e66b4c8308743b762fdc2428f68f
-      internalID: 572601107
+      spriteID: a1fec4668c4099c46ae5c6d178cb53ba
+      internalID: 2078648931
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: FalseKnight_Jump_3
+      name: FalseKnight_JumpAttackUp_3
       rect:
         serializedVersion: 2
-        x: 1219
-        y: 17
-        width: 601
-        height: 338
-      alignment: 9
-      pivot: {x: 0.57780284, y: 0.5785201}
+        x: 2157
+        y: 434
+        width: 700
+        height: 416
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 107743a7f3df61640b0f52abf632f4ce
-      internalID: -1851068899
+      spriteID: ec70c99e6f935054389294d68787a592
+      internalID: -2082037537
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: FalseKnight_Jump_4
+      name: FalseKnight_JumpAttackUp_4
       rect:
         serializedVersion: 2
-        x: 1826
-        y: 18
-        width: 602
-        height: 339
-      alignment: 9
-      pivot: {x: 0.5823768, y: 0.58479035}
+        x: 5
+        y: 4
+        width: 706
+        height: 417
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 560faef83b5a65d4bbdbafc0ee1d92e7
-      internalID: 2026256243
+      spriteID: 84eed55419d66af4a8d0e80b9140943a
+      internalID: 201342906
       vertices: []
       indices: 
       edges: []
@@ -226,7 +226,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 258abaf420da2524fbf357f8b0f78150
+    spriteID: 26cbd8a53a235bd408d98a3c68e1d6c6
     internalID: 0
     vertices: []
     indices: 
@@ -236,11 +236,11 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      FalseKnight_Jump_0: 3979358828553172057
-      FalseKnight_Jump_1: -2018358136
-      FalseKnight_Jump_2: 572601107
-      FalseKnight_Jump_3: -1851068899
-      FalseKnight_Jump_4: 2026256243
+      FalseKnight_JumpAttackUp_0: -7091406367082956732
+      FalseKnight_JumpAttackUp_1: -1979972194
+      FalseKnight_JumpAttackUp_2: 2078648931
+      FalseKnight_JumpAttackUp_3: -2082037537
+      FalseKnight_JumpAttackUp_4: 201342906
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

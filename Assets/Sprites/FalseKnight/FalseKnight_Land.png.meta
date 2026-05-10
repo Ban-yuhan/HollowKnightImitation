@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 686090314189cdb46af0085dcfe7ead1
+guid: 837ebe6342d81814cb83d2a6355548f0
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 3979358828553172057
-    second: FalseKnight_Jump_0
+      213: -8209122614047058211
+    second: FalseKnight_Land_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -113,111 +113,67 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: FalseKnight_Jump_0
+      name: FalseKnight_Land_0
       rect:
         serializedVersion: 2
-        x: 2
-        y: 16
-        width: 606
-        height: 341
-      alignment: 9
-      pivot: {x: 0.594332, y: 0.5783884}
+        x: 4
+        y: 8
+        width: 607
+        height: 378
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 954f9b165c5893730800000000000000
-      internalID: 3979358828553172057
+      spriteID: dd65910f976531e80800000000000000
+      internalID: -8209122614047058211
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: FalseKnight_Jump_1
+      name: FalseKnight_Land_1
       rect:
         serializedVersion: 2
-        x: 2
-        y: 15
-        width: 606
-        height: 341
+        x: 618
+        y: 8
+        width: 605
+        height: 377
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 99d8aa811b6df5449ba2aeb013ae6f2f
-      internalID: -2018358136
+      spriteID: de981f4fdf328ee46b1a5a4988e7089a
+      internalID: -1513268062
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: FalseKnight_Jump_2
+      name: FalseKnight_Land_2
       rect:
         serializedVersion: 2
-        x: 614
-        y: 17
-        width: 602
-        height: 339
-      alignment: 9
-      pivot: {x: 0.57169783, y: 0.58281827}
+        x: 1232
+        y: 7
+        width: 603
+        height: 379
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 22d4e66b4c8308743b762fdc2428f68f
-      internalID: 572601107
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: FalseKnight_Jump_3
-      rect:
-        serializedVersion: 2
-        x: 1219
-        y: 17
-        width: 601
-        height: 338
-      alignment: 9
-      pivot: {x: 0.57780284, y: 0.5785201}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 107743a7f3df61640b0f52abf632f4ce
-      internalID: -1851068899
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: FalseKnight_Jump_4
-      rect:
-        serializedVersion: 2
-        x: 1826
-        y: 18
-        width: 602
-        height: 339
-      alignment: 9
-      pivot: {x: 0.5823768, y: 0.58479035}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 560faef83b5a65d4bbdbafc0ee1d92e7
-      internalID: 2026256243
+      spriteID: 10d0287de9465474fb912b69f427719d
+      internalID: -2051683737
       vertices: []
       indices: 
       edges: []
@@ -226,7 +182,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 258abaf420da2524fbf357f8b0f78150
+    spriteID: 0b0f9985087005e4eb08411c0e7c376e
     internalID: 0
     vertices: []
     indices: 
@@ -236,11 +192,9 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      FalseKnight_Jump_0: 3979358828553172057
-      FalseKnight_Jump_1: -2018358136
-      FalseKnight_Jump_2: 572601107
-      FalseKnight_Jump_3: -1851068899
-      FalseKnight_Jump_4: 2026256243
+      FalseKnight_Land_0: -8209122614047058211
+      FalseKnight_Land_1: -1513268062
+      FalseKnight_Land_2: -2051683737
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
