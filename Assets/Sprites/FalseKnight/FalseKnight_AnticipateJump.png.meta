@@ -116,12 +116,12 @@ TextureImporter:
       name: FalseKnight_AnticipateJump_0
       rect:
         serializedVersion: 2
-        x: 3
-        y: 0
-        width: 609
-        height: 382
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 5
+        y: 1
+        width: 604
+        height: 378
+      alignment: 9
+      pivot: {x: 0.6, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -138,12 +138,12 @@ TextureImporter:
       name: FalseKnight_AnticipateJump_1
       rect:
         serializedVersion: 2
-        x: 618
-        y: 0
-        width: 607
-        height: 380
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 624
+        y: 1
+        width: 599
+        height: 378
+      alignment: 9
+      pivot: {x: 0.6, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -160,12 +160,12 @@ TextureImporter:
       name: FalseKnight_AnticipateJump_2
       rect:
         serializedVersion: 2
-        x: 1229
-        y: 0
-        width: 608
-        height: 380
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 1231
+        y: 1
+        width: 605
+        height: 378
+      alignment: 9
+      pivot: {x: 0.6, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []

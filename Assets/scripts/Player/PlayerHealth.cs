@@ -40,6 +40,7 @@ public class PlayerHealth : MonoBehaviour, IDamageable
 
     void Die()
     {
+        isAlive = false;
         Destroy(gameObject, 1f);
         
     }

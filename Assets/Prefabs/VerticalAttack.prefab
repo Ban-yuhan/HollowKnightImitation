@@ -12,7 +12,7 @@ GameObject:
   - component: {fileID: 8190402349686705493}
   - component: {fileID: -7899459269306387374}
   - component: {fileID: 7759733153731988555}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: VerticalAttack
   m_TagString: Untagged
   m_Icon: {fileID: 0}

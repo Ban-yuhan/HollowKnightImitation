@@ -12,7 +12,7 @@ GameObject:
   - component: {fileID: 4374545225498812245}
   - component: {fileID: 8720765604660589087}
   - component: {fileID: -3152480983698578016}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: FallAttack
   m_TagString: Untagged
   m_Icon: {fileID: 0}

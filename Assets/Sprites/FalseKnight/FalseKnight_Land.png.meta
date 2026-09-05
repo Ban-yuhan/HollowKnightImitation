@@ -118,10 +118,10 @@ TextureImporter:
         serializedVersion: 2
         x: 4
         y: 8
-        width: 607
+        width: 604
         height: 378
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.6, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -138,12 +138,12 @@ TextureImporter:
       name: FalseKnight_Land_1
       rect:
         serializedVersion: 2
-        x: 618
+        x: 619
         y: 8
-        width: 605
+        width: 603
         height: 377
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.6, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -164,8 +164,8 @@ TextureImporter:
         y: 7
         width: 603
         height: 379
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.6, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
