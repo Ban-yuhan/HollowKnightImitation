@@ -1,0 +1,962 @@
+fileFormatVersion: 2
+guid: 422f6e988e02de646a14731d4d8eb8d7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5145721954905803196
+    second: SpriteAtlasTexture-Profile_Fleur-1024x2048-fmt12_0
+  - first:
+      213: 255761476127653563
+    second: SpriteAtlasTexture-Profile_Fleur-1024x2048-fmt12_1
+  - first:
+      213: -8890808117629397554
+    second: SpriteAtlasTexture-Profile_Fleur-1024x2048-fmt12_2
+  - first:
+      213: -9153249725166265597
+    second: SpriteAtlasTexture-Profile_Fleur-1024x2048-fmt12_3
+  - first:
+      213: 7846611007496629172
+    second: SpriteAtlasTexture-Profile_Fleur-1024x2048-fmt12_4
+  - first:
+      213: -508348722054935916
+    second: SpriteAtlasTexture-Profile_Fleur-1024x2048-fmt12_5
+  - first:
+      213: 2155191690892224123
+    second: SpriteAtlasTexture-Profile_Fleur-1024x2048-fmt12_6
+  - first:
+      213: -4503522489221132116
+    second: SpriteAtlasTexture-Profile_Fleur-1024x2048-fmt12_7
+  - first:
+      213: 8709562943275965257
+    second: SpriteAtlasTexture-Profile_Fleur-1024x2048-fmt12_8
+  - first:
+      213: -1987836712363687617
+    second: SpriteAtlasTexture-Profile_Fleur-1024x2048-fmt12_9
+  - first:
+      213: 3249752433082443442
+    second: SpriteAtlasTexture-Profile_Fleur-1024x2048-fmt12_10
+  - first:
+      213: -4935247641658151826
+    second: SpriteAtlasTexture-Profile_Fleur-1024x2048-fmt12_11
+  - first:
+      213: -5261929687399544272
+    second: SpriteAtlasTexture-Profile_Fleur-1024x2048-fmt12_12
+  - first:
+      213: -362968211487554551
+    second: SpriteAtlasTexture-Profile_Fleur-1024x2048-fmt12_13
+  - first:
+      213: -5922142002648939982
+    second: SpriteAtlasTexture-Profile_Fleur-1024x2048-fmt12_14
+  - first:
+      213: -5397859864797768580
+    second: SpriteAtlasTexture-Profile_Fleur-1024x2048-fmt12_15
+  - first:
+      213: -4793127526019014226
+    second: SpriteAtlasTexture-Profile_Fleur-1024x2048-fmt12_16
+  - first:
+      213: -2155553554322450808
+    second: SpriteAtlasTexture-Profile_Fleur-1024x2048-fmt12_17
+  - first:
+      213: -5446044988799743074
+    second: SpriteAtlasTexture-Profile_Fleur-1024x2048-fmt12_18
+  - first:
+      213: 1736456975408919202
+    second: SpriteAtlasTexture-Profile_Fleur-1024x2048-fmt12_19
+  - first:
+      213: 5979392720760004680
+    second: SpriteAtlasTexture-Profile_Fleur-1024x2048-fmt12_20
+  - first:
+      213: 635729226039973982
+    second: SpriteAtlasTexture-Profile_Fleur-1024x2048-fmt12_21
+  - first:
+      213: -3824598104006674839
+    second: SpriteAtlasTexture-Profile_Fleur-1024x2048-fmt12_22
+  - first:
+      213: 8447238179806928711
+    second: SpriteAtlasTexture-Profile_Fleur-1024x2048-fmt12_23
+  - first:
+      213: 5099176961698258960
+    second: SpriteAtlasTexture-Profile_Fleur-1024x2048-fmt12_24
+  - first:
+      213: -6341694621810215280
+    second: SpriteAtlasTexture-Profile_Fleur-1024x2048-fmt12_25
+  - first:
+      213: -4694087775183544805
+    second: SpriteAtlasTexture-Profile_Fleur-1024x2048-fmt12_26
+  - first:
+      213: -8877845526793701167
+    second: SpriteAtlasTexture-Profile_Fleur-1024x2048-fmt12_27
+  - first:
+      213: -3762454750593869524
+    second: SpriteAtlasTexture-Profile_Fleur-1024x2048-fmt12_28
+  - first:
+      213: -5752653052889512187
+    second: SpriteAtlasTexture-Profile_Fleur-1024x2048-fmt12_29
+  - first:
+      213: -6433361662920192646
+    second: SpriteAtlasTexture-Profile_Fleur-1024x2048-fmt12_30
+  - first:
+      213: 5202745457290774988
+    second: SpriteAtlasTexture-Profile_Fleur-1024x2048-fmt12_31
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Profile_Fleur-1024x2048-fmt12_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1108
+        width: 68
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb9c613dad6496740800000000000000
+      internalID: 5145721954905803196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Profile_Fleur-1024x2048-fmt12_1
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 1134
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbe71db15b5ac8300800000000000000
+      internalID: 255761476127653563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Profile_Fleur-1024x2048-fmt12_2
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 1142
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec55a8e5f118d9480800000000000000
+      internalID: -8890808117629397554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Profile_Fleur-1024x2048-fmt12_3
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 1142
+        width: 28
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30bd507fedf19f080800000000000000
+      internalID: -9153249725166265597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Profile_Fleur-1024x2048-fmt12_4
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 1139
+        width: 18
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bba1806323c4ec60800000000000000
+      internalID: 7846611007496629172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Profile_Fleur-1024x2048-fmt12_5
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1018
+        width: 87
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49a44e7d78bf1f8f0800000000000000
+      internalID: -508348722054935916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Profile_Fleur-1024x2048-fmt12_6
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 1045
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7621869c67c8ed10800000000000000
+      internalID: 2155191690892224123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Profile_Fleur-1024x2048-fmt12_7
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 1053
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca0ddff18264081c0800000000000000
+      internalID: -4503522489221132116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Profile_Fleur-1024x2048-fmt12_8
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 1053
+        width: 29
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94b9ed60a559ed870800000000000000
+      internalID: 8709562943275965257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Profile_Fleur-1024x2048-fmt12_9
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 1050
+        width: 18
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f310518ca09c964e0800000000000000
+      internalID: -1987836712363687617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Profile_Fleur-1024x2048-fmt12_10
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 891
+        width: 740
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b627d5be90791d20800000000000000
+      internalID: 3249752433082443442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Profile_Fleur-1024x2048-fmt12_11
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 662
+        width: 160
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6ca1600b6a728bb0800000000000000
+      internalID: -4935247641658151826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Profile_Fleur-1024x2048-fmt12_12
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 788
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03ac77504ded9f6b0800000000000000
+      internalID: -5261929687399544272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Profile_Fleur-1024x2048-fmt12_13
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 783
+        width: 18
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9048681b55a76faf0800000000000000
+      internalID: -362968211487554551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Profile_Fleur-1024x2048-fmt12_14
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 694
+        width: 25
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23280b6b93350dda0800000000000000
+      internalID: -5922142002648939982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Profile_Fleur-1024x2048-fmt12_15
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 697
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7414635d03f615b0800000000000000
+      internalID: -5397859864797768580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Profile_Fleur-1024x2048-fmt12_16
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 698
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea16d7009e36b7db0800000000000000
+      internalID: -4793127526019014226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Profile_Fleur-1024x2048-fmt12_17
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 694
+        width: 18
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8869744867fe512e0800000000000000
+      internalID: -2155553554322450808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Profile_Fleur-1024x2048-fmt12_18
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 689
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9b8bc3efe2cb64b0800000000000000
+      internalID: -5446044988799743074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Profile_Fleur-1024x2048-fmt12_19
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 536
+        width: 247
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a27ff24b62291810800000000000000
+      internalID: 1736456975408919202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Profile_Fleur-1024x2048-fmt12_20
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 447
+        width: 429
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 840e475dff11bf250800000000000000
+      internalID: 5979392720760004680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Profile_Fleur-1024x2048-fmt12_21
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 386
+        width: 126
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e585273ec5092d800800000000000000
+      internalID: 635729226039973982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Profile_Fleur-1024x2048-fmt12_22
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 429
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 966bc0ab94c4ceac0800000000000000
+      internalID: -3824598104006674839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Profile_Fleur-1024x2048-fmt12_23
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 430
+        width: 28
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74f52808e5e9a3570800000000000000
+      internalID: 8447238179806928711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Profile_Fleur-1024x2048-fmt12_24
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 427
+        width: 18
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01061e81e6ae3c640800000000000000
+      internalID: 5099176961698258960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Profile_Fleur-1024x2048-fmt12_25
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 269
+        width: 831
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0963ff85756cdf7a0800000000000000
+      internalID: -6341694621810215280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Profile_Fleur-1024x2048-fmt12_26
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 156
+        width: 837
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1e5eafe9004bdeb0800000000000000
+      internalID: -4694087775183544805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Profile_Fleur-1024x2048-fmt12_27
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 129
+        width: 72
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d8bbacb78e8bc480800000000000000
+      internalID: -8877845526793701167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Profile_Fleur-1024x2048-fmt12_28
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 155
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c291f53b65319cbc0800000000000000
+      internalID: -3762454750593869524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Profile_Fleur-1024x2048-fmt12_29
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 163
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 507447af6887a20b0800000000000000
+      internalID: -5752653052889512187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Profile_Fleur-1024x2048-fmt12_30
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 160
+        width: 18
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7d860a27ab18b6a0800000000000000
+      internalID: -6433361662920192646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Profile_Fleur-1024x2048-fmt12_31
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 4
+        width: 184
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc908969d6dd33840800000000000000
+      internalID: 5202745457290774988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      SpriteAtlasTexture-Profile_Fleur-1024x2048-fmt12_0: 5145721954905803196
+      SpriteAtlasTexture-Profile_Fleur-1024x2048-fmt12_1: 255761476127653563
+      SpriteAtlasTexture-Profile_Fleur-1024x2048-fmt12_10: 3249752433082443442
+      SpriteAtlasTexture-Profile_Fleur-1024x2048-fmt12_11: -4935247641658151826
+      SpriteAtlasTexture-Profile_Fleur-1024x2048-fmt12_12: -5261929687399544272
+      SpriteAtlasTexture-Profile_Fleur-1024x2048-fmt12_13: -362968211487554551
+      SpriteAtlasTexture-Profile_Fleur-1024x2048-fmt12_14: -5922142002648939982
+      SpriteAtlasTexture-Profile_Fleur-1024x2048-fmt12_15: -5397859864797768580
+      SpriteAtlasTexture-Profile_Fleur-1024x2048-fmt12_16: -4793127526019014226
+      SpriteAtlasTexture-Profile_Fleur-1024x2048-fmt12_17: -2155553554322450808
+      SpriteAtlasTexture-Profile_Fleur-1024x2048-fmt12_18: -5446044988799743074
+      SpriteAtlasTexture-Profile_Fleur-1024x2048-fmt12_19: 1736456975408919202
+      SpriteAtlasTexture-Profile_Fleur-1024x2048-fmt12_2: -8890808117629397554
+      SpriteAtlasTexture-Profile_Fleur-1024x2048-fmt12_20: 5979392720760004680
+      SpriteAtlasTexture-Profile_Fleur-1024x2048-fmt12_21: 635729226039973982
+      SpriteAtlasTexture-Profile_Fleur-1024x2048-fmt12_22: -3824598104006674839
+      SpriteAtlasTexture-Profile_Fleur-1024x2048-fmt12_23: 8447238179806928711
+      SpriteAtlasTexture-Profile_Fleur-1024x2048-fmt12_24: 5099176961698258960
+      SpriteAtlasTexture-Profile_Fleur-1024x2048-fmt12_25: -6341694621810215280
+      SpriteAtlasTexture-Profile_Fleur-1024x2048-fmt12_26: -4694087775183544805
+      SpriteAtlasTexture-Profile_Fleur-1024x2048-fmt12_27: -8877845526793701167
+      SpriteAtlasTexture-Profile_Fleur-1024x2048-fmt12_28: -3762454750593869524
+      SpriteAtlasTexture-Profile_Fleur-1024x2048-fmt12_29: -5752653052889512187
+      SpriteAtlasTexture-Profile_Fleur-1024x2048-fmt12_3: -9153249725166265597
+      SpriteAtlasTexture-Profile_Fleur-1024x2048-fmt12_30: -6433361662920192646
+      SpriteAtlasTexture-Profile_Fleur-1024x2048-fmt12_31: 5202745457290774988
+      SpriteAtlasTexture-Profile_Fleur-1024x2048-fmt12_4: 7846611007496629172
+      SpriteAtlasTexture-Profile_Fleur-1024x2048-fmt12_5: -508348722054935916
+      SpriteAtlasTexture-Profile_Fleur-1024x2048-fmt12_6: 2155191690892224123
+      SpriteAtlasTexture-Profile_Fleur-1024x2048-fmt12_7: -4503522489221132116
+      SpriteAtlasTexture-Profile_Fleur-1024x2048-fmt12_8: 8709562943275965257
+      SpriteAtlasTexture-Profile_Fleur-1024x2048-fmt12_9: -1987836712363687617
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

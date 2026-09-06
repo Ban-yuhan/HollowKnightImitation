@@ -6,6 +6,8 @@ TagManager:
   tags:
   - Ground
   - Enemy
+  - ReturnHitBox
+  - ReturnThorn
   layers:
   - Default
   - TransparentFX

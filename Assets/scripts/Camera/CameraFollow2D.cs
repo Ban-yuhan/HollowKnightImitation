@@ -3,32 +3,30 @@ using UnityEngine;
 public class CameraFollow2D : MonoBehaviour
 {
     public Transform target;
-    public float followSpeed = 5.0f;
+    public float smoothTime = 0.15f; // Lerp 속도 대신 완충 시간(초)을 사용합니다.
 
     private bool isInBossRoom = false;
+    private Vector3 velocity = Vector3.zero; // SmoothDamp 내부에서 사용할 속도 값
 
     private void LateUpdate()
     {
+        if (target == null) return;
+
+        Vector3 targetPosition;
+
         if (!isInBossRoom)
         {
-            FollowTarget();
+            // 플레이어 추적 위치
+            targetPosition = new Vector3(target.position.x, target.position.y, transform.position.z);
         }
-        if(isInBossRoom)
+        else
         {
-            Vector3 current = transform.position; //현재 카메라의 위치
-            Vector3 bossRoomPosition = new Vector3(36.97f, 3.12f, transform.position.z); // 보스룸의 위치를 원하는 좌표로 설정
-            Vector3 smooth = Vector3.Lerp(current, bossRoomPosition, followSpeed * Time.deltaTime);
-
-            transform.position = new Vector3(smooth.x, smooth.y, current.z); //카메라의 좌표 수정
+            // 보스룸 고정 위치
+            targetPosition = new Vector3(36.97f, 3.12f, transform.position.z);
         }
-    }
 
-    private void FollowTarget()
-    {
-        Vector3 current = transform.position; //현재 카메라의 위치
-        Vector3 desired = new Vector3(target.position.x, target.position.y, target.position.z); //타겟의 위치(이동해야 할 위치)
-        Vector3 smooth = Vector3.Lerp(current, desired, followSpeed * Time.deltaTime);  //시작점에서 목표지점까지 지정된 속도로 부드럽게 이동 및 회전을 하고싶을 때 사용
-        transform.position = new Vector3(smooth.x, smooth.y, current.z); //카메라의 좌표 수정
+        // Vector3.Lerp 대신 SmoothDamp를 사용해 물리 이동 떨림을 완전 해소
+        transform.position = Vector3.SmoothDamp(transform.position, targetPosition, ref velocity, smoothTime);
     }
 
     public bool GetisInBossRoom()

@@ -116,12 +116,12 @@ TextureImporter:
       name: arch_pillar_02_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
-        width: 283
-        height: 597
+        x: 46
+        y: 24
+        width: 119
+        height: 370
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -138,7 +138,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 9f4f6a414963bf64598724a9437d4ed4
     internalID: 0
     vertices: []
     indices: 

@@ -1,0 +1,1495 @@
+fileFormatVersion: 2
+guid: 0a668680d215c4d4a9690e572f8b1953
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6982534258373828528
+    second: HUD main - atlas0_0
+  - first:
+      213: -456816727724208868
+    second: HUD main - atlas0_1
+  - first:
+      213: -2637326421766000073
+    second: HUD main - atlas0_2
+  - first:
+      213: 8436596984432168831
+    second: HUD main - atlas0_3
+  - first:
+      213: 5059037516615917541
+    second: HUD main - atlas0_4
+  - first:
+      213: 6028332475375753809
+    second: HUD main - atlas0_5
+  - first:
+      213: -4680339492067260566
+    second: HUD main - atlas0_6
+  - first:
+      213: 1547744581815145622
+    second: HUD main - atlas0_7
+  - first:
+      213: -5091443060050578112
+    second: HUD main - atlas0_8
+  - first:
+      213: -685671849215751644
+    second: HUD main - atlas0_9
+  - first:
+      213: 7027294209005224560
+    second: HUD main - atlas0_10
+  - first:
+      213: -2956209764767124576
+    second: HUD main - atlas0_11
+  - first:
+      213: 3819107596175786327
+    second: HUD main - atlas0_12
+  - first:
+      213: -3903475981077090534
+    second: HUD main - atlas0_13
+  - first:
+      213: -8863076157023494460
+    second: HUD main - atlas0_14
+  - first:
+      213: 191945966612435655
+    second: HUD main - atlas0_15
+  - first:
+      213: -2144254777490749149
+    second: HUD main - atlas0_16
+  - first:
+      213: -2711867556255111150
+    second: HUD main - atlas0_17
+  - first:
+      213: 6025599277901807453
+    second: HUD main - atlas0_18
+  - first:
+      213: 1590215627386086625
+    second: HUD main - atlas0_19
+  - first:
+      213: 6150307584184279687
+    second: HUD main - atlas0_20
+  - first:
+      213: -264760343645390704
+    second: HUD main - atlas0_21
+  - first:
+      213: 3402482187977517694
+    second: HUD main - atlas0_22
+  - first:
+      213: -6565318214337383737
+    second: HUD main - atlas0_23
+  - first:
+      213: 932790584812107715
+    second: HUD main - atlas0_24
+  - first:
+      213: -1770205924196787852
+    second: HUD main - atlas0_25
+  - first:
+      213: 4423336655140155368
+    second: HUD main - atlas0_26
+  - first:
+      213: -6166057460782497235
+    second: HUD main - atlas0_27
+  - first:
+      213: 5221221157013348468
+    second: HUD main - atlas0_28
+  - first:
+      213: 3531392237871401024
+    second: HUD main - atlas0_29
+  - first:
+      213: -8117342426487564201
+    second: HUD main - atlas0_30
+  - first:
+      213: 3947734425951335485
+    second: HUD main - atlas0_31
+  - first:
+      213: 568919345724130561
+    second: HUD main - atlas0_32
+  - first:
+      213: -792893984437395250
+    second: HUD main - atlas0_33
+  - first:
+      213: 513124502274746564
+    second: HUD main - atlas0_34
+  - first:
+      213: 4704400941078749591
+    second: HUD main - atlas0_35
+  - first:
+      213: -6208104330154796357
+    second: HUD main - atlas0_36
+  - first:
+      213: 6594750857053548270
+    second: HUD main - atlas0_37
+  - first:
+      213: 2031778166722641927
+    second: HUD main - atlas0_38
+  - first:
+      213: -8818074393881485568
+    second: HUD main - atlas0_39
+  - first:
+      213: 4592921113347033006
+    second: HUD main - atlas0_40
+  - first:
+      213: 5724869266758104100
+    second: HUD main - atlas0_41
+  - first:
+      213: 8169033517849818666
+    second: HUD main - atlas0_42
+  - first:
+      213: -7708241658442545581
+    second: HUD main - atlas0_43
+  - first:
+      213: -197774402251961306
+    second: HUD main - atlas0_44
+  - first:
+      213: -4259585795245356105
+    second: HUD main - atlas0_45
+  - first:
+      213: 6553996906135902208
+    second: HUD main - atlas0_46
+  - first:
+      213: -5786582186112118508
+    second: HUD main - atlas0_47
+  - first:
+      213: 6280672476617400174
+    second: HUD main - atlas0_48
+  - first:
+      213: -3352773285311925406
+    second: HUD main - atlas0_49
+  - first:
+      213: 2268595482560553406
+    second: HUD main - atlas0_50
+  - first:
+      213: -7502548161619783263
+    second: HUD main - atlas0_51
+  - first:
+      213: 2383389002483465887
+    second: HUD main - atlas0_52
+  - first:
+      213: 5476386766488547453
+    second: HUD main - atlas0_53
+  - first:
+      213: -8712144360549857358
+    second: HUD main - atlas0_54
+  - first:
+      213: 6863541779404038990
+    second: HUD main - atlas0_55
+  - first:
+      213: -7689318751511567635
+    second: HUD main - atlas0_56
+  - first:
+      213: -5825977340162876976
+    second: HUD main - atlas0_57
+  - first:
+      213: 274116822988895243
+    second: HUD main - atlas0_58
+  - first:
+      213: 9111225306296588438
+    second: HUD main - atlas0_59
+  - first:
+      213: 7329084013485155780
+    second: HUD main - atlas0_60
+  - first:
+      213: -2915591087916094453
+    second: HUD main - atlas0_61
+  - first:
+      213: 6447444371957198122
+    second: HUD main - atlas0_62
+  - first:
+      213: 4920283277074093115
+    second: HUD main - atlas0_63
+  - first:
+      213: 8846945741479681022
+    second: HUD main - atlas0_64
+  - first:
+      213: -7989441151416355983
+    second: HUD main - atlas0_65
+  - first:
+      213: 7033555605334256629
+    second: HUD main - atlas0_66
+  - first:
+      213: -6617888298202913474
+    second: HUD main - atlas0_67
+  - first:
+      213: -4959398483583702488
+    second: HUD main - atlas0_68
+  - first:
+      213: 299249058743404420
+    second: HUD main - atlas0_69
+  - first:
+      213: -2693062903689796634
+    second: HUD main - atlas0_70
+  - first:
+      213: -5686162656652883331
+    second: HUD main - atlas0_71
+  - first:
+      213: 9100394043613533805
+    second: HUD main - atlas0_72
+  - first:
+      213: 1431492242037682325
+    second: HUD main - atlas0_73
+  - first:
+      213: 4767477581950391922
+    second: HUD main - atlas0_74
+  - first:
+      213: 701937895695456979
+    second: HUD main - atlas0_75
+  - first:
+      213: -2435915947831449307
+    second: HUD main - atlas0_76
+  - first:
+      213: 4632708679596286091
+    second: HUD main - atlas0_77
+  - first:
+      213: 7344918266304006429
+    second: HUD main - atlas0_78
+  - first:
+      213: 1222218288141770667
+    second: HUD main - atlas0_79
+  - first:
+      213: 5745417530629285224
+    second: HUD main - atlas0_80
+  - first:
+      213: -2938885455449841733
+    second: HUD main - atlas0_81
+  - first:
+      213: -4147603669019591787
+    second: HUD main - atlas0_82
+  - first:
+      213: -4375092419428614659
+    second: HUD main - atlas0_83
+  - first:
+      213: -4546141019401445002
+    second: HUD main - atlas0_84
+  - first:
+      213: -4496276514458570144
+    second: HUD main - atlas0_85
+  - first:
+      213: 8105907179928659767
+    second: HUD main - atlas0_86
+  - first:
+      213: -8735270760507802169
+    second: HUD main - atlas0_87
+  - first:
+      213: -3936320127041220463
+    second: HUD main - atlas0_88
+  - first:
+      213: 5171578902147025546
+    second: HUD main - atlas0_89
+  - first:
+      213: 7816712577227968367
+    second: HUD main - atlas0_90
+  - first:
+      213: -7018545831868877983
+    second: HUD main - atlas0_91
+  - first:
+      213: 3847703185175481115
+    second: HUD main - atlas0_92
+  - first:
+      213: 4284713160792830132
+    second: HUD main - atlas0_93
+  - first:
+      213: -1437586910345667289
+    second: HUD main - atlas0_94
+  - first:
+      213: -6056233297469393876
+    second: HUD main - atlas0_95
+  - first:
+      213: -8859173090235091537
+    second: HUD main - atlas0_96
+  - first:
+      213: 3371715795985614143
+    second: HUD main - atlas0_97
+  - first:
+      213: -6955822339017047007
+    second: HUD main - atlas0_98
+  - first:
+      213: 3938721089894869263
+    second: HUD main - atlas0_99
+  - first:
+      213: -2845083286913179581
+    second: HUD main - atlas0_100
+  - first:
+      213: 1992201862258759536
+    second: HUD main - atlas0_101
+  - first:
+      213: -3526641092963297842
+    second: HUD main - atlas0_102
+  - first:
+      213: 5088854053626279485
+    second: HUD main - atlas0_103
+  - first:
+      213: -4717934771519714730
+    second: HUD main - atlas0_104
+  - first:
+      213: -3987470755039316799
+    second: HUD main - atlas0_105
+  - first:
+      213: -6562306930712410366
+    second: HUD main - atlas0_106
+  - first:
+      213: 2383268569591543737
+    second: HUD main - atlas0_107
+  - first:
+      213: 3925322489680191575
+    second: HUD main - atlas0_108
+  - first:
+      213: -5241372641788846005
+    second: HUD main - atlas0_109
+  - first:
+      213: 6820690007692997257
+    second: HUD main - atlas0_110
+  - first:
+      213: -345678392902447102
+    second: HUD main - atlas0_111
+  - first:
+      213: -4421156623613119481
+    second: HUD main - atlas0_112
+  - first:
+      213: -7936293493514030283
+    second: HUD main - atlas0_113
+  - first:
+      213: -8299080246873386654
+    second: HUD main - atlas0_114
+  - first:
+      213: -3390609938095250596
+    second: HUD main - atlas0_115
+  - first:
+      213: -5071607599496712201
+    second: HUD main - atlas0_116
+  - first:
+      213: 754689293914388901
+    second: HUD main - atlas0_117
+  - first:
+      213: -8770638923534926848
+    second: HUD main - atlas0_118
+  - first:
+      213: -6216718015376224623
+    second: HUD main - atlas0_119
+  - first:
+      213: 6062441635912331627
+    second: HUD main - atlas0_120
+  - first:
+      213: 3686602266462742044
+    second: HUD main - atlas0_121
+  - first:
+      213: -2797654450009834565
+    second: HUD main - atlas0_122
+  - first:
+      213: -5957776637218384580
+    second: HUD main - atlas0_123
+  - first:
+      213: -3524355881211174883
+    second: HUD main - atlas0_124
+  - first:
+      213: 7420475323422516207
+    second: HUD main - atlas0_125
+  - first:
+      213: 154213224380135681
+    second: HUD main - atlas0_126
+  - first:
+      213: 6224340727749745775
+    second: HUD main - atlas0_127
+  - first:
+      213: -3571592411474498132
+    second: HUD main - atlas0_128
+  - first:
+      213: 4607920263223540449
+    second: HUD main - atlas0_129
+  - first:
+      213: -506574599941178183
+    second: HUD main - atlas0_130
+  - first:
+      213: -7138736661763377010
+    second: HUD main - atlas0_131
+  - first:
+      213: -3941724954551318409
+    second: HUD main - atlas0_132
+  - first:
+      213: 1472281125248592782
+    second: HUD main - atlas0_133
+  - first:
+      213: -7884888815329221278
+    second: HUD main - atlas0_134
+  - first:
+      213: -4587061128688644665
+    second: HUD main - atlas0_135
+  - first:
+      213: -2340175975090361848
+    second: HUD main - atlas0_136
+  - first:
+      213: -2806399692897987287
+    second: HUD main - atlas0_137
+  - first:
+      213: 2586651069850045850
+    second: HUD main - atlas0_138
+  - first:
+      213: -3352917768507675123
+    second: HUD main - atlas0_139
+  - first:
+      213: -3189440228048094993
+    second: HUD main - atlas0_140
+  - first:
+      213: 8522601530818092524
+    second: HUD main - atlas0_141
+  - first:
+      213: -2894961269341824785
+    second: HUD main - atlas0_142
+  - first:
+      213: -5974707402329926267
+    second: HUD main - atlas0_143
+  - first:
+      213: -3235113659489490634
+    second: HUD main - atlas0_144
+  - first:
+      213: 8432825917457221130
+    second: HUD main - atlas0_145
+  - first:
+      213: -2387692311361651738
+    second: HUD main - atlas0_146
+  - first:
+      213: -9087564015310549748
+    second: HUD main - atlas0_147
+  - first:
+      213: -2075965466779335385
+    second: HUD main - atlas0_148
+  - first:
+      213: -3611546929789562543
+    second: HUD main - atlas0_149
+  - first:
+      213: -907578780291201112
+    second: HUD main - atlas0_150
+  - first:
+      213: -2953062266265963899
+    second: HUD main - atlas0_151
+  - first:
+      213: 2894646861495932826
+    second: HUD main - atlas0_152
+  - first:
+      213: 6587850774842663284
+    second: HUD main - atlas0_153
+  - first:
+      213: -7250516689376880597
+    second: HUD main - atlas0_154
+  - first:
+      213: -5399484619986825998
+    second: HUD main - atlas0_155
+  - first:
+      213: 3246709700615245188
+    second: HUD main - atlas0_156
+  - first:
+      213: 4436856108852944154
+    second: HUD main - atlas0_157
+  - first:
+      213: 5969070306568105836
+    second: HUD main - atlas0_158
+  - first:
+      213: -7084451399144598731
+    second: HUD main - atlas0_159
+  - first:
+      213: -4792851677162724328
+    second: HUD main - atlas0_160
+  - first:
+      213: -7875768426544943506
+    second: HUD main - atlas0_161
+  - first:
+      213: -1258306928002396438
+    second: HUD main - atlas0_162
+  - first:
+      213: 6025910735083570072
+    second: HUD main - atlas0_163
+  - first:
+      213: -4605919268127406001
+    second: HUD main - atlas0_164
+  - first:
+      213: -7789940833052746376
+    second: HUD main - atlas0_165
+  - first:
+      213: 909365698654208933
+    second: HUD main - atlas0_166
+  - first:
+      213: 8398483042324710466
+    second: HUD main - atlas0_167
+  - first:
+      213: 7415977202077474577
+    second: HUD main - atlas0_168
+  - first:
+      213: 9188314873416345781
+    second: HUD main - atlas0_169
+  - first:
+      213: 3281893123321809176
+    second: HUD main - atlas0_170
+  - first:
+      213: 3159126128820759234
+    second: HUD main - atlas0_171
+  - first:
+      213: 1407406921645400038
+    second: HUD main - atlas0_172
+  - first:
+      213: 2314411189520497202
+    second: HUD main - atlas0_173
+  - first:
+      213: -8288679386098626458
+    second: HUD main - atlas0_174
+  - first:
+      213: -1376168156017826852
+    second: HUD main - atlas0_175
+  - first:
+      213: 4529500252304427018
+    second: HUD main - atlas0_176
+  - first:
+      213: -4813034640173017477
+    second: HUD main - atlas0_177
+  - first:
+      213: -2339114386914082179
+    second: HUD main - atlas0_178
+  - first:
+      213: -6255567001573429803
+    second: HUD main - atlas0_179
+  - first:
+      213: -82261776013523055
+    second: HUD main - atlas0_180
+  - first:
+      213: -7870590423967562289
+    second: HUD main - atlas0_181
+  - first:
+      213: -6838434295728580466
+    second: HUD main - atlas0_182
+  - first:
+      213: 7397635280753569656
+    second: HUD main - atlas0_183
+  - first:
+      213: 2874578505258614565
+    second: HUD main - atlas0_184
+  - first:
+      213: -268293393920998052
+    second: HUD main - atlas0_185
+  - first:
+      213: -4705630437286073619
+    second: HUD main - atlas0_186
+  - first:
+      213: 4190817606650212699
+    second: HUD main - atlas0_187
+  - first:
+      213: 3032433752975993102
+    second: HUD main - atlas0_188
+  - first:
+      213: -8479693932200424040
+    second: HUD main - atlas0_189
+  - first:
+      213: 1123036924741296764
+    second: HUD main - atlas0_190
+  - first:
+      213: -6171871411661903560
+    second: HUD main - atlas0_191
+  - first:
+      213: 3147005289709687313
+    second: HUD main - atlas0_192
+  - first:
+      213: 1892471497377919032
+    second: HUD main - atlas0_193
+  - first:
+      213: 8058745616728650200
+    second: HUD main - atlas0_194
+  - first:
+      213: -3755870889924805983
+    second: HUD main - atlas0_195
+  - first:
+      213: -6791934520733407947
+    second: HUD main - atlas0_196
+  - first:
+      213: -2646453274079268353
+    second: HUD main - atlas0_197
+  - first:
+      213: 6410585544343160196
+    second: HUD main - atlas0_198
+  - first:
+      213: -3441447956012476604
+    second: HUD main - atlas0_199
+  - first:
+      213: 4697785543091271956
+    second: HUD main - atlas0_200
+  - first:
+      213: -7801542691055051195
+    second: HUD main - atlas0_201
+  - first:
+      213: 1918007639648451874
+    second: HUD main - atlas0_202
+  - first:
+      213: 181767790433156292
+    second: HUD main - atlas0_203
+  - first:
+      213: -23856032539315911
+    second: HUD main - atlas0_204
+  - first:
+      213: -1852626328788215119
+    second: HUD main - atlas0_205
+  - first:
+      213: 657571489899213884
+    second: HUD main - atlas0_206
+  - first:
+      213: 2078292931998051835
+    second: HUD main - atlas0_207
+  - first:
+      213: -9078644652769518018
+    second: HUD main - atlas0_208
+  - first:
+      213: 6071734219477871852
+    second: HUD main - atlas0_209
+  - first:
+      213: -6333838892219514138
+    second: HUD main - atlas0_210
+  - first:
+      213: -7727475063877722415
+    second: HUD main - atlas0_211
+  - first:
+      213: 2855055863524354845
+    second: HUD main - atlas0_212
+  - first:
+      213: -6388811731729735607
+    second: HUD main - atlas0_213
+  - first:
+      213: 5930223020654288425
+    second: HUD main - atlas0_214
+  - first:
+      213: 4386841674804074814
+    second: HUD main - atlas0_215
+  - first:
+      213: -4178354892311619277
+    second: HUD main - atlas0_216
+  - first:
+      213: 6370606793417567632
+    second: HUD main - atlas0_217
+  - first:
+      213: 7455677720979468846
+    second: HUD main - atlas0_218
+  - first:
+      213: 714529226306722282
+    second: HUD main - atlas0_219
+  - first:
+      213: 8671730695475706129
+    second: HUD main - atlas0_220
+  - first:
+      213: 6088606352704653609
+    second: HUD main - atlas0_221
+  - first:
+      213: -5387848292314572000
+    second: HUD main - atlas0_222
+  - first:
+      213: -3009999082353299901
+    second: HUD main - atlas0_223
+  - first:
+      213: -300279024386815639
+    second: HUD main - atlas0_224
+  - first:
+      213: 8070805090402701886
+    second: HUD main - atlas0_225
+  - first:
+      213: -1840944504910312179
+    second: HUD main - atlas0_226
+  - first:
+      213: 5357573568308823798
+    second: HUD main - atlas0_227
+  - first:
+      213: 4939455265685806231
+    second: HUD main - atlas0_228
+  - first:
+      213: -6199828914158837209
+    second: HUD main - atlas0_229
+  - first:
+      213: -4952332248507507934
+    second: HUD main - atlas0_230
+  - first:
+      213: -470059549660867213
+    second: HUD main - atlas0_231
+  - first:
+      213: -2300857574002477236
+    second: HUD main - atlas0_232
+  - first:
+      213: -5179628479384898637
+    second: HUD main - atlas0_233
+  - first:
+      213: 2659995010741508229
+    second: HUD main - atlas0_234
+  - first:
+      213: -581548060504533456
+    second: HUD main - atlas0_235
+  - first:
+      213: -3504566522091588672
+    second: HUD main - atlas0_236
+  - first:
+      213: -4926396276204567869
+    second: HUD main - atlas0_237
+  - first:
+      213: 2873294613649416894
+    second: HUD main - atlas0_238
+  - first:
+      213: -8431008053362980757
+    second: HUD main - atlas0_239
+  - first:
+      213: 4442006597020596360
+    second: HUD main - atlas0_240
+  - first:
+      213: 2893687505747775958
+    second: HUD main - atlas0_241
+  - first:
+      213: 1700824969406272194
+    second: HUD main - atlas0_242
+  - first:
+      213: -8792092270996608759
+    second: HUD main - atlas0_243
+  - first:
+      213: 4026211047881403620
+    second: HUD main - atlas0_244
+  - first:
+      213: 4293745332330291526
+    second: HUD main - atlas0_245
+  - first:
+      213: 273258075578759238
+    second: HUD main - atlas0_246
+  - first:
+      213: -577155531591607760
+    second: HUD main - atlas0_247
+  - first:
+      213: 4009351460698892957
+    second: HUD main - atlas0_248
+  - first:
+      213: -239204637412748559
+    second: HUD main - atlas0_249
+  - first:
+      213: -3761714943396277679
+    second: HUD main - atlas0_250
+  - first:
+      213: 4079668287667606035
+    second: HUD main - atlas0_251
+  - first:
+      213: -8582660871000292528
+    second: HUD main - atlas0_252
+  - first:
+      213: 4424306363871221857
+    second: HUD main - atlas0_253
+  - first:
+      213: -738472199099610499
+    second: HUD main - atlas0_254
+  - first:
+      213: -857214973508198032
+    second: HUD main - atlas0_255
+  - first:
+      213: -4088618051615521765
+    second: HUD main - atlas0_256
+  - first:
+      213: -5281867178359855732
+    second: HUD main - atlas0_257
+  - first:
+      213: 7755025989161426207
+    second: HUD main - atlas0_258
+  - first:
+      213: 91959440478810669
+    second: HUD main - atlas0_259
+  - first:
+      213: -3027398160895490189
+    second: HUD main - atlas0_260
+  - first:
+      213: 2660818049249707406
+    second: HUD main - atlas0_261
+  - first:
+      213: -4957322166569952645
+    second: HUD main - atlas0_262
+  - first:
+      213: -6937795573778198441
+    second: HUD main - atlas0_263
+  - first:
+      213: 1158251199321170069
+    second: HUD main - atlas0_264
+  - first:
+      213: -3594469743469178613
+    second: HUD main - atlas0_265
+  - first:
+      213: 4855321437869995974
+    second: HUD main - atlas0_266
+  - first:
+      213: -7858422497439346506
+    second: HUD main - atlas0_267
+  - first:
+      213: 6192522036954835485
+    second: HUD main - atlas0_268
+  - first:
+      213: -6840229283798423683
+    second: HUD main - atlas0_269
+  - first:
+      213: -8389848496935991648
+    second: HUD main - atlas0_270
+  - first:
+      213: -3061396255388963577
+    second: HUD main - atlas0_271
+  - first:
+      213: 4618425026327980819
+    second: HUD main - atlas0_272
+  - first:
+      213: -5689620430036622087
+    second: HUD main - atlas0_273
+  - first:
+      213: -3567221271496995907
+    second: HUD main - atlas0_274
+  - first:
+      213: -3970590609157573075
+    second: HUD main - atlas0_275
+  - first:
+      213: 8601030330995120322
+    second: HUD main - atlas0_276
+  - first:
+      213: 1340757343175871812
+    second: HUD main - atlas0_277
+  - first:
+      213: 481373360604310191
+    second: HUD main - atlas0_278
+  - first:
+      213: -3458840884208938205
+    second: HUD main - atlas0_279
+  - first:
+      213: 7448936536924999447
+    second: HUD main - atlas0_280
+  - first:
+      213: -2828458767041361109
+    second: HUD main - atlas0_281
+  - first:
+      213: 8844400932022931738
+    second: HUD main - atlas0_282
+  - first:
+      213: -5580115565741332846
+    second: HUD main - atlas0_283
+  - first:
+      213: 2824925348052675064
+    second: HUD main - atlas0_284
+  - first:
+      213: 2531967042114700390
+    second: HUD main - atlas0_285
+  - first:
+      213: -956649586092858053
+    second: HUD main - atlas0_286
+  - first:
+      213: 3273659702991795565
+    second: HUD main - atlas0_287
+  - first:
+      213: 2979413644318751288
+    second: HUD main - atlas0_288
+  - first:
+      213: 8697012827354831789
+    second: HUD main - atlas0_289
+  - first:
+      213: 975561953037121837
+    second: HUD main - atlas0_290
+  - first:
+      213: -8750169520615549157
+    second: HUD main - atlas0_291
+  - first:
+      213: -1075181196001282288
+    second: HUD main - atlas0_292
+  - first:
+      213: -6906248436223444932
+    second: HUD main - atlas0_293
+  - first:
+      213: -5069496775424284388
+    second: HUD main - atlas0_294
+  - first:
+      213: 4444547779667648730
+    second: HUD main - atlas0_295
+  - first:
+      213: -6253164059354369456
+    second: HUD main - atlas0_296
+  - first:
+      213: -8292105938341723724
+    second: HUD main - atlas0_297
+  - first:
+      213: -1174309027077341581
+    second: HUD main - atlas0_298
+  - first:
+      213: -4281553093817858325
+    second: HUD main - atlas0_299
+  - first:
+      213: -8306747083679276006
+    second: HUD main - atlas0_300
+  - first:
+      213: 3217784663797338539
+    second: HUD main - atlas0_301
+  - first:
+      213: 6716981554733906004
+    second: HUD main - atlas0_302
+  - first:
+      213: 4183903671215222974
+    second: HUD main - atlas0_303
+  - first:
+      213: 4404979468161028010
+    second: HUD main - atlas0_304
+  - first:
+      213: 8134410656703954936
+    second: HUD main - atlas0_305
+  - first:
+      213: 4849901081196788694
+    second: HUD main - atlas0_306
+  - first:
+      213: 8237676397266301177
+    second: HUD main - atlas0_307
+  - first:
+      213: -2671419027882378081
+    second: HUD main - atlas0_308
+  - first:
+      213: -6046132259679860446
+    second: HUD main - atlas0_309
+  - first:
+      213: -5985105952815138376
+    second: HUD main - atlas0_310
+  - first:
+      213: -3167770437074857530
+    second: HUD main - atlas0_311
+  - first:
+      213: 1003956783905054059
+    second: HUD main - atlas0_312
+  - first:
+      213: 5349794834328727680
+    second: HUD main - atlas0_313
+  - first:
+      213: -8146977710000909604
+    second: HUD main - atlas0_314
+  - first:
+      213: 7426091942317742208
+    second: HUD main - atlas0_315
+  - first:
+      213: -265101002701924799
+    second: HUD main - atlas0_316
+  - first:
+      213: -1691472322747579353
+    second: HUD main - atlas0_317
+  - first:
+      213: 2982081599962114049
+    second: HUD main - atlas0_318
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 2
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: HUD main - atlas0_0
+      rect:
+        serializedVersion: 2
+        x: 1027
+        y: 1514
+        width: 63
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bf1e56b9e1f6e060800000000000000
+      internalID: 6982534258373828528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD main - atlas0_1
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 1404
+        width: 56
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1dca804b9f09a9f0800000000000000
+      internalID: -456816727724208868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD main - atlas0_2
+      rect:
+        serializedVersion: 2
+        x: 1845
+        y: 677
+        width: 74
+        height: 161
+      alignment: 9
+      pivot: {x: 0.5, y: 0.43102026}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 732b2e1b795566bd0800000000000000
+      internalID: -2637326421766000073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUD main - atlas0_71
+      rect:
+        serializedVersion: 2
+        x: 1349
+        y: 429
+        width: 144
+        height: 226
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7a0d1bb031b611b0800000000000000
+      internalID: -5686162656652883331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: f7926845eee87d64b993b45af599af9b
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      HUD main - atlas0_0: 6982534258373828528
+      HUD main - atlas0_1: -456816727724208868
+      HUD main - atlas0_10: 7027294209005224560
+      HUD main - atlas0_100: -2845083286913179581
+      HUD main - atlas0_101: 1992201862258759536
+      HUD main - atlas0_102: -3526641092963297842
+      HUD main - atlas0_103: 5088854053626279485
+      HUD main - atlas0_104: -4717934771519714730
+      HUD main - atlas0_105: -3987470755039316799
+      HUD main - atlas0_106: -6562306930712410366
+      HUD main - atlas0_107: 2383268569591543737
+      HUD main - atlas0_108: 3925322489680191575
+      HUD main - atlas0_109: -5241372641788846005
+      HUD main - atlas0_11: -2956209764767124576
+      HUD main - atlas0_110: 6820690007692997257
+      HUD main - atlas0_111: -345678392902447102
+      HUD main - atlas0_112: -4421156623613119481
+      HUD main - atlas0_113: -7936293493514030283
+      HUD main - atlas0_114: -8299080246873386654
+      HUD main - atlas0_115: -3390609938095250596
+      HUD main - atlas0_116: -5071607599496712201
+      HUD main - atlas0_117: 754689293914388901
+      HUD main - atlas0_118: -8770638923534926848
+      HUD main - atlas0_119: -6216718015376224623
+      HUD main - atlas0_12: 3819107596175786327
+      HUD main - atlas0_120: 6062441635912331627
+      HUD main - atlas0_121: 3686602266462742044
+      HUD main - atlas0_122: -2797654450009834565
+      HUD main - atlas0_123: -5957776637218384580
+      HUD main - atlas0_124: -3524355881211174883
+      HUD main - atlas0_125: 7420475323422516207
+      HUD main - atlas0_126: 154213224380135681
+      HUD main - atlas0_127: 6224340727749745775
+      HUD main - atlas0_128: -3571592411474498132
+      HUD main - atlas0_129: 4607920263223540449
+      HUD main - atlas0_13: -3903475981077090534
+      HUD main - atlas0_130: -506574599941178183
+      HUD main - atlas0_131: -7138736661763377010
+      HUD main - atlas0_132: -3941724954551318409
+      HUD main - atlas0_133: 1472281125248592782
+      HUD main - atlas0_134: -7884888815329221278
+      HUD main - atlas0_135: -4587061128688644665
+      HUD main - atlas0_136: -2340175975090361848
+      HUD main - atlas0_137: -2806399692897987287
+      HUD main - atlas0_138: 2586651069850045850
+      HUD main - atlas0_139: -3352917768507675123
+      HUD main - atlas0_14: -8863076157023494460
+      HUD main - atlas0_140: -3189440228048094993
+      HUD main - atlas0_141: 8522601530818092524
+      HUD main - atlas0_142: -2894961269341824785
+      HUD main - atlas0_143: -5974707402329926267
+      HUD main - atlas0_144: -3235113659489490634
+      HUD main - atlas0_145: 8432825917457221130
+      HUD main - atlas0_146: -2387692311361651738
+      HUD main - atlas0_147: -9087564015310549748
+      HUD main - atlas0_148: -2075965466779335385
+      HUD main - atlas0_149: -3611546929789562543
+      HUD main - atlas0_15: 191945966612435655
+      HUD main - atlas0_150: -907578780291201112
+      HUD main - atlas0_151: -2953062266265963899
+      HUD main - atlas0_152: 2894646861495932826
+      HUD main - atlas0_153: 6587850774842663284
+      HUD main - atlas0_154: -7250516689376880597
+      HUD main - atlas0_155: -5399484619986825998
+      HUD main - atlas0_156: 3246709700615245188
+      HUD main - atlas0_157: 4436856108852944154
+      HUD main - atlas0_158: 5969070306568105836
+      HUD main - atlas0_159: -7084451399144598731
+      HUD main - atlas0_16: -2144254777490749149
+      HUD main - atlas0_160: -4792851677162724328
+      HUD main - atlas0_161: -7875768426544943506
+      HUD main - atlas0_162: -1258306928002396438
+      HUD main - atlas0_163: 6025910735083570072
+      HUD main - atlas0_164: -4605919268127406001
+      HUD main - atlas0_165: -7789940833052746376
+      HUD main - atlas0_166: 909365698654208933
+      HUD main - atlas0_167: 8398483042324710466
+      HUD main - atlas0_168: 7415977202077474577
+      HUD main - atlas0_169: 9188314873416345781
+      HUD main - atlas0_17: -2711867556255111150
+      HUD main - atlas0_170: 3281893123321809176
+      HUD main - atlas0_171: 3159126128820759234
+      HUD main - atlas0_172: 1407406921645400038
+      HUD main - atlas0_173: 2314411189520497202
+      HUD main - atlas0_174: -8288679386098626458
+      HUD main - atlas0_175: -1376168156017826852
+      HUD main - atlas0_176: 4529500252304427018
+      HUD main - atlas0_177: -4813034640173017477
+      HUD main - atlas0_178: -2339114386914082179
+      HUD main - atlas0_179: -6255567001573429803
+      HUD main - atlas0_18: 6025599277901807453
+      HUD main - atlas0_180: -82261776013523055
+      HUD main - atlas0_181: -7870590423967562289
+      HUD main - atlas0_182: -6838434295728580466
+      HUD main - atlas0_183: 7397635280753569656
+      HUD main - atlas0_184: 2874578505258614565
+      HUD main - atlas0_185: -268293393920998052
+      HUD main - atlas0_186: -4705630437286073619
+      HUD main - atlas0_187: 4190817606650212699
+      HUD main - atlas0_188: 3032433752975993102
+      HUD main - atlas0_189: -8479693932200424040
+      HUD main - atlas0_19: 1590215627386086625
+      HUD main - atlas0_190: 1123036924741296764
+      HUD main - atlas0_191: -6171871411661903560
+      HUD main - atlas0_192: 3147005289709687313
+      HUD main - atlas0_193: 1892471497377919032
+      HUD main - atlas0_194: 8058745616728650200
+      HUD main - atlas0_195: -3755870889924805983
+      HUD main - atlas0_196: -6791934520733407947
+      HUD main - atlas0_197: -2646453274079268353
+      HUD main - atlas0_198: 6410585544343160196
+      HUD main - atlas0_199: -3441447956012476604
+      HUD main - atlas0_2: -2637326421766000073
+      HUD main - atlas0_20: 6150307584184279687
+      HUD main - atlas0_200: 4697785543091271956
+      HUD main - atlas0_201: -7801542691055051195
+      HUD main - atlas0_202: 1918007639648451874
+      HUD main - atlas0_203: 181767790433156292
+      HUD main - atlas0_204: -23856032539315911
+      HUD main - atlas0_205: -1852626328788215119
+      HUD main - atlas0_206: 657571489899213884
+      HUD main - atlas0_207: 2078292931998051835
+      HUD main - atlas0_208: -9078644652769518018
+      HUD main - atlas0_209: 6071734219477871852
+      HUD main - atlas0_21: -264760343645390704
+      HUD main - atlas0_210: -6333838892219514138
+      HUD main - atlas0_211: -7727475063877722415
+      HUD main - atlas0_212: 2855055863524354845
+      HUD main - atlas0_213: -6388811731729735607
+      HUD main - atlas0_214: 5930223020654288425
+      HUD main - atlas0_215: 4386841674804074814
+      HUD main - atlas0_216: -4178354892311619277
+      HUD main - atlas0_217: 6370606793417567632
+      HUD main - atlas0_218: 7455677720979468846
+      HUD main - atlas0_219: 714529226306722282
+      HUD main - atlas0_22: 3402482187977517694
+      HUD main - atlas0_220: 8671730695475706129
+      HUD main - atlas0_221: 6088606352704653609
+      HUD main - atlas0_222: -5387848292314572000
+      HUD main - atlas0_223: -3009999082353299901
+      HUD main - atlas0_224: -300279024386815639
+      HUD main - atlas0_225: 8070805090402701886
+      HUD main - atlas0_226: -1840944504910312179
+      HUD main - atlas0_227: 5357573568308823798
+      HUD main - atlas0_228: 4939455265685806231
+      HUD main - atlas0_229: -6199828914158837209
+      HUD main - atlas0_23: -6565318214337383737
+      HUD main - atlas0_230: -4952332248507507934
+      HUD main - atlas0_231: -470059549660867213
+      HUD main - atlas0_232: -2300857574002477236
+      HUD main - atlas0_233: -5179628479384898637
+      HUD main - atlas0_234: 2659995010741508229
+      HUD main - atlas0_235: -581548060504533456
+      HUD main - atlas0_236: -3504566522091588672
+      HUD main - atlas0_237: -4926396276204567869
+      HUD main - atlas0_238: 2873294613649416894
+      HUD main - atlas0_239: -8431008053362980757
+      HUD main - atlas0_24: 932790584812107715
+      HUD main - atlas0_240: 4442006597020596360
+      HUD main - atlas0_241: 2893687505747775958
+      HUD main - atlas0_242: 1700824969406272194
+      HUD main - atlas0_243: -8792092270996608759
+      HUD main - atlas0_244: 4026211047881403620
+      HUD main - atlas0_245: 4293745332330291526
+      HUD main - atlas0_246: 273258075578759238
+      HUD main - atlas0_247: -577155531591607760
+      HUD main - atlas0_248: 4009351460698892957
+      HUD main - atlas0_249: -239204637412748559
+      HUD main - atlas0_25: -1770205924196787852
+      HUD main - atlas0_250: -3761714943396277679
+      HUD main - atlas0_251: 4079668287667606035
+      HUD main - atlas0_252: -8582660871000292528
+      HUD main - atlas0_253: 4424306363871221857
+      HUD main - atlas0_254: -738472199099610499
+      HUD main - atlas0_255: -857214973508198032
+      HUD main - atlas0_256: -4088618051615521765
+      HUD main - atlas0_257: -5281867178359855732
+      HUD main - atlas0_258: 7755025989161426207
+      HUD main - atlas0_259: 91959440478810669
+      HUD main - atlas0_26: 4423336655140155368
+      HUD main - atlas0_260: -3027398160895490189
+      HUD main - atlas0_261: 2660818049249707406
+      HUD main - atlas0_262: -4957322166569952645
+      HUD main - atlas0_263: -6937795573778198441
+      HUD main - atlas0_264: 1158251199321170069
+      HUD main - atlas0_265: -3594469743469178613
+      HUD main - atlas0_266: 4855321437869995974
+      HUD main - atlas0_267: -7858422497439346506
+      HUD main - atlas0_268: 6192522036954835485
+      HUD main - atlas0_269: -6840229283798423683
+      HUD main - atlas0_27: -6166057460782497235
+      HUD main - atlas0_270: -8389848496935991648
+      HUD main - atlas0_271: -3061396255388963577
+      HUD main - atlas0_272: 4618425026327980819
+      HUD main - atlas0_273: -5689620430036622087
+      HUD main - atlas0_274: -3567221271496995907
+      HUD main - atlas0_275: -3970590609157573075
+      HUD main - atlas0_276: 8601030330995120322
+      HUD main - atlas0_277: 1340757343175871812
+      HUD main - atlas0_278: 481373360604310191
+      HUD main - atlas0_279: -3458840884208938205
+      HUD main - atlas0_28: 5221221157013348468
+      HUD main - atlas0_280: 7448936536924999447
+      HUD main - atlas0_281: -2828458767041361109
+      HUD main - atlas0_282: 8844400932022931738
+      HUD main - atlas0_283: -5580115565741332846
+      HUD main - atlas0_284: 2824925348052675064
+      HUD main - atlas0_285: 2531967042114700390
+      HUD main - atlas0_286: -956649586092858053
+      HUD main - atlas0_287: 3273659702991795565
+      HUD main - atlas0_288: 2979413644318751288
+      HUD main - atlas0_289: 8697012827354831789
+      HUD main - atlas0_29: 3531392237871401024
+      HUD main - atlas0_290: 975561953037121837
+      HUD main - atlas0_291: -8750169520615549157
+      HUD main - atlas0_292: -1075181196001282288
+      HUD main - atlas0_293: -6906248436223444932
+      HUD main - atlas0_294: -5069496775424284388
+      HUD main - atlas0_295: 4444547779667648730
+      HUD main - atlas0_296: -6253164059354369456
+      HUD main - atlas0_297: -8292105938341723724
+      HUD main - atlas0_298: -1174309027077341581
+      HUD main - atlas0_299: -4281553093817858325
+      HUD main - atlas0_3: 8436596984432168831
+      HUD main - atlas0_30: -8117342426487564201
+      HUD main - atlas0_300: -8306747083679276006
+      HUD main - atlas0_301: 3217784663797338539
+      HUD main - atlas0_302: 6716981554733906004
+      HUD main - atlas0_303: 4183903671215222974
+      HUD main - atlas0_304: 4404979468161028010
+      HUD main - atlas0_305: 8134410656703954936
+      HUD main - atlas0_306: 4849901081196788694
+      HUD main - atlas0_307: 8237676397266301177
+      HUD main - atlas0_308: -2671419027882378081
+      HUD main - atlas0_309: -6046132259679860446
+      HUD main - atlas0_31: 3947734425951335485
+      HUD main - atlas0_310: -5985105952815138376
+      HUD main - atlas0_311: -3167770437074857530
+      HUD main - atlas0_312: 1003956783905054059
+      HUD main - atlas0_313: 5349794834328727680
+      HUD main - atlas0_314: -8146977710000909604
+      HUD main - atlas0_315: 7426091942317742208
+      HUD main - atlas0_316: -265101002701924799
+      HUD main - atlas0_317: -1691472322747579353
+      HUD main - atlas0_318: 2982081599962114049
+      HUD main - atlas0_319: 310813084
+      HUD main - atlas0_32: 568919345724130561
+      HUD main - atlas0_33: -792893984437395250
+      HUD main - atlas0_34: 513124502274746564
+      HUD main - atlas0_35: 4704400941078749591
+      HUD main - atlas0_36: -6208104330154796357
+      HUD main - atlas0_37: 6594750857053548270
+      HUD main - atlas0_38: 2031778166722641927
+      HUD main - atlas0_39: -8818074393881485568
+      HUD main - atlas0_4: 5059037516615917541
+      HUD main - atlas0_40: 4592921113347033006
+      HUD main - atlas0_41: 5724869266758104100
+      HUD main - atlas0_42: 8169033517849818666
+      HUD main - atlas0_43: -7708241658442545581
+      HUD main - atlas0_44: -197774402251961306
+      HUD main - atlas0_45: -4259585795245356105
+      HUD main - atlas0_46: 6553996906135902208
+      HUD main - atlas0_47: -5786582186112118508
+      HUD main - atlas0_48: 6280672476617400174
+      HUD main - atlas0_49: -3352773285311925406
+      HUD main - atlas0_5: 6028332475375753809
+      HUD main - atlas0_50: 2268595482560553406
+      HUD main - atlas0_51: -7502548161619783263
+      HUD main - atlas0_52: 2383389002483465887
+      HUD main - atlas0_53: 5476386766488547453
+      HUD main - atlas0_54: -8712144360549857358
+      HUD main - atlas0_55: 6863541779404038990
+      HUD main - atlas0_56: -7689318751511567635
+      HUD main - atlas0_57: -5825977340162876976
+      HUD main - atlas0_58: 274116822988895243
+      HUD main - atlas0_59: 9111225306296588438
+      HUD main - atlas0_6: -4680339492067260566
+      HUD main - atlas0_60: 7329084013485155780
+      HUD main - atlas0_61: -2915591087916094453
+      HUD main - atlas0_62: 6447444371957198122
+      HUD main - atlas0_63: 4920283277074093115
+      HUD main - atlas0_64: 8846945741479681022
+      HUD main - atlas0_65: -7989441151416355983
+      HUD main - atlas0_66: 7033555605334256629
+      HUD main - atlas0_67: -6617888298202913474
+      HUD main - atlas0_68: -4959398483583702488
+      HUD main - atlas0_69: 299249058743404420
+      HUD main - atlas0_7: 1547744581815145622
+      HUD main - atlas0_70: -2693062903689796634
+      HUD main - atlas0_71: -5686162656652883331
+      HUD main - atlas0_72: 9100394043613533805
+      HUD main - atlas0_73: 1431492242037682325
+      HUD main - atlas0_74: 4767477581950391922
+      HUD main - atlas0_75: 701937895695456979
+      HUD main - atlas0_76: -2435915947831449307
+      HUD main - atlas0_77: 4632708679596286091
+      HUD main - atlas0_78: 7344918266304006429
+      HUD main - atlas0_79: 1222218288141770667
+      HUD main - atlas0_8: -5091443060050578112
+      HUD main - atlas0_80: 5745417530629285224
+      HUD main - atlas0_81: -2938885455449841733
+      HUD main - atlas0_82: -4147603669019591787
+      HUD main - atlas0_83: -4375092419428614659
+      HUD main - atlas0_84: -4546141019401445002
+      HUD main - atlas0_85: -4496276514458570144
+      HUD main - atlas0_86: 8105907179928659767
+      HUD main - atlas0_87: -8735270760507802169
+      HUD main - atlas0_88: -3936320127041220463
+      HUD main - atlas0_89: 5171578902147025546
+      HUD main - atlas0_9: -685671849215751644
+      HUD main - atlas0_90: 7816712577227968367
+      HUD main - atlas0_91: -7018545831868877983
+      HUD main - atlas0_92: 3847703185175481115
+      HUD main - atlas0_93: 4284713160792830132
+      HUD main - atlas0_94: -1437586910345667289
+      HUD main - atlas0_95: -6056233297469393876
+      HUD main - atlas0_96: -8859173090235091537
+      HUD main - atlas0_97: 3371715795985614143
+      HUD main - atlas0_98: -6955822339017047007
+      HUD main - atlas0_99: 3938721089894869263
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

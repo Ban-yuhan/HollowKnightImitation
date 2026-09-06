@@ -1,0 +1,974 @@
+fileFormatVersion: 2
+guid: 2d23923b999cd2b4d88399355e3c6e8a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 950564888384144887
+    second: Soul vessels - atlas0 #00000281_0
+  - first:
+      213: -3826703349716643440
+    second: Soul vessels - atlas0 #00000281_1
+  - first:
+      213: 3207191597973689163
+    second: Soul vessels - atlas0 #00000281_2
+  - first:
+      213: -2147501979889456870
+    second: Soul vessels - atlas0 #00000281_3
+  - first:
+      213: -9065834727610807381
+    second: Soul vessels - atlas0 #00000281_4
+  - first:
+      213: 43817631412247706
+    second: Soul vessels - atlas0 #00000281_5
+  - first:
+      213: 4463851509702394965
+    second: Soul vessels - atlas0 #00000281_6
+  - first:
+      213: -4443554031176838296
+    second: Soul vessels - atlas0 #00000281_7
+  - first:
+      213: -3226528068836736263
+    second: Soul vessels - atlas0 #00000281_8
+  - first:
+      213: -296500833601707716
+    second: Soul vessels - atlas0 #00000281_9
+  - first:
+      213: -5975381341716203714
+    second: Soul vessels - atlas0 #00000281_10
+  - first:
+      213: -8223017267330852317
+    second: Soul vessels - atlas0 #00000281_11
+  - first:
+      213: -4051854530543204549
+    second: Soul vessels - atlas0 #00000281_12
+  - first:
+      213: 6708011346037812475
+    second: Soul vessels - atlas0 #00000281_13
+  - first:
+      213: -783124684072355086
+    second: Soul vessels - atlas0 #00000281_14
+  - first:
+      213: -2316136794360948485
+    second: Soul vessels - atlas0 #00000281_15
+  - first:
+      213: -4953251752123270563
+    second: Soul vessels - atlas0 #00000281_16
+  - first:
+      213: -8401763681180400370
+    second: Soul vessels - atlas0 #00000281_17
+  - first:
+      213: -2990747942528767632
+    second: Soul vessels - atlas0 #00000281_18
+  - first:
+      213: 2598895139940581584
+    second: Soul vessels - atlas0 #00000281_19
+  - first:
+      213: 3304508963902175998
+    second: Soul vessels - atlas0 #00000281_20
+  - first:
+      213: -6180232929720644546
+    second: Soul vessels - atlas0 #00000281_21
+  - first:
+      213: -8632798438745067447
+    second: Soul vessels - atlas0 #00000281_22
+  - first:
+      213: 5371701435240153774
+    second: Soul vessels - atlas0 #00000281_23
+  - first:
+      213: -4940330597802111139
+    second: Soul vessels - atlas0 #00000281_24
+  - first:
+      213: -696239178967831740
+    second: Soul vessels - atlas0 #00000281_25
+  - first:
+      213: -6301082700788775326
+    second: Soul vessels - atlas0 #00000281_26
+  - first:
+      213: 4116739281151333179
+    second: Soul vessels - atlas0 #00000281_27
+  - first:
+      213: 1694482164742588704
+    second: Soul vessels - atlas0 #00000281_28
+  - first:
+      213: -7332107628431370870
+    second: Soul vessels - atlas0 #00000281_29
+  - first:
+      213: -1029100075423587126
+    second: Soul vessels - atlas0 #00000281_30
+  - first:
+      213: 9122401988402625905
+    second: Soul vessels - atlas0 #00000281_31
+  - first:
+      213: -8353767630359479599
+    second: Soul vessels - atlas0 #00000281_32
+  - first:
+      213: 7725941792710414810
+    second: Soul vessels - atlas0 #00000281_33
+  - first:
+      213: 1223689350482454758
+    second: Soul vessels - atlas0 #00000281_34
+  - first:
+      213: -3967935927022929767
+    second: Soul vessels - atlas0 #00000281_35
+  - first:
+      213: 2031064923266426041
+    second: Soul vessels - atlas0 #00000281_36
+  - first:
+      213: 3256360446776713687
+    second: Soul vessels - atlas0 #00000281_37
+  - first:
+      213: 5220448459992230863
+    second: Soul vessels - atlas0 #00000281_38
+  - first:
+      213: 6833640727446644647
+    second: Soul vessels - atlas0 #00000281_39
+  - first:
+      213: -2739960821184459194
+    second: Soul vessels - atlas0 #00000281_40
+  - first:
+      213: 5483553774123661775
+    second: Soul vessels - atlas0 #00000281_41
+  - first:
+      213: -665169179877318768
+    second: Soul vessels - atlas0 #00000281_42
+  - first:
+      213: 8949824067056284997
+    second: Soul vessels - atlas0 #00000281_43
+  - first:
+      213: 1526712164585408203
+    second: Soul vessels - atlas0 #00000281_44
+  - first:
+      213: -8315225493875203890
+    second: Soul vessels - atlas0 #00000281_45
+  - first:
+      213: -1340169387272748482
+    second: Soul vessels - atlas0 #00000281_46
+  - first:
+      213: -3596425438965981671
+    second: Soul vessels - atlas0 #00000281_47
+  - first:
+      213: -7080594264559860798
+    second: Soul vessels - atlas0 #00000281_48
+  - first:
+      213: -308538209472804544
+    second: Soul vessels - atlas0 #00000281_49
+  - first:
+      213: 6437376669620088746
+    second: Soul vessels - atlas0 #00000281_50
+  - first:
+      213: -4327907794800306016
+    second: Soul vessels - atlas0 #00000281_51
+  - first:
+      213: 6811623656526967172
+    second: Soul vessels - atlas0 #00000281_52
+  - first:
+      213: 5295268583124999361
+    second: Soul vessels - atlas0 #00000281_53
+  - first:
+      213: 3422347213109055279
+    second: Soul vessels - atlas0 #00000281_54
+  - first:
+      213: -4159196716080559118
+    second: Soul vessels - atlas0 #00000281_55
+  - first:
+      213: -247994167070553581
+    second: Soul vessels - atlas0 #00000281_56
+  - first:
+      213: 6925992587858637288
+    second: Soul vessels - atlas0 #00000281_57
+  - first:
+      213: -3630370205488107634
+    second: Soul vessels - atlas0 #00000281_58
+  - first:
+      213: 6759340162753176581
+    second: Soul vessels - atlas0 #00000281_59
+  - first:
+      213: -4054638877702232260
+    second: Soul vessels - atlas0 #00000281_60
+  - first:
+      213: 419023030020722946
+    second: Soul vessels - atlas0 #00000281_61
+  - first:
+      213: 1502982992158939794
+    second: Soul vessels - atlas0 #00000281_62
+  - first:
+      213: -2205283806666057214
+    second: Soul vessels - atlas0 #00000281_63
+  - first:
+      213: 1265100955363193715
+    second: Soul vessels - atlas0 #00000281_64
+  - first:
+      213: 1471051911346863669
+    second: Soul vessels - atlas0 #00000281_65
+  - first:
+      213: 4811707195685917091
+    second: Soul vessels - atlas0 #00000281_66
+  - first:
+      213: 6975177627909931145
+    second: Soul vessels - atlas0 #00000281_67
+  - first:
+      213: 2700506430666539222
+    second: Soul vessels - atlas0 #00000281_68
+  - first:
+      213: -6567593227027540202
+    second: Soul vessels - atlas0 #00000281_69
+  - first:
+      213: 7361317200523089460
+    second: Soul vessels - atlas0 #00000281_70
+  - first:
+      213: -324631349802163848
+    second: Soul vessels - atlas0 #00000281_71
+  - first:
+      213: -8229346623989664468
+    second: Soul vessels - atlas0 #00000281_72
+  - first:
+      213: 1724719790960601847
+    second: Soul vessels - atlas0 #00000281_73
+  - first:
+      213: -7147772319948507721
+    second: Soul vessels - atlas0 #00000281_74
+  - first:
+      213: 1589518528405713461
+    second: Soul vessels - atlas0 #00000281_75
+  - first:
+      213: -8447526214071082745
+    second: Soul vessels - atlas0 #00000281_76
+  - first:
+      213: -1267142012704195029
+    second: Soul vessels - atlas0 #00000281_77
+  - first:
+      213: 4891055287112509348
+    second: Soul vessels - atlas0 #00000281_78
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 0.5
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 5-1
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 810
+        width: 37
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f5881ccab5113d00800000000000000
+      internalID: 950564888384144887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "F\u3139"
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 756
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09197530491d4eac0800000000000000
+      internalID: -3826703349716643440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F1
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 788
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b43d6d314cb328c20800000000000000
+      internalID: 3207191597973689163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F2
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 727
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a19ad36c35a8232e0800000000000000
+      internalID: -2147501979889456870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: F3
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 723
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bab8b5c195faf2280800000000000000
+      internalID: -9065834727610807381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Full
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 790
+        width: 37
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9cd93357ebab9000800000000000000
+      internalID: 43817631412247706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-3
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 825
+        width: 37
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55407ed2c49c2fd30800000000000000
+      internalID: 4463851509702394965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-4
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 825
+        width: 37
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 863137fc6235552c0800000000000000
+      internalID: -4443554031176838296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4-5
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 855
+        width: 37
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f2c827f0d11933d0800000000000000
+      internalID: -3226528068836736263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4-4
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 855
+        width: 37
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c312091101e92ebf0800000000000000
+      internalID: -296500833601707716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5-3
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 814
+        width: 37
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e373281245e231da0800000000000000
+      internalID: -5975381341716203714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3-1
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 814
+        width: 37
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32a57dedc59f1ed80800000000000000
+      internalID: -8223017267330852317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5-4
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 773
+        width: 37
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b374a69a5cbe4c7c0800000000000000
+      internalID: -4051854530543204549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5-5
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 773
+        width: 37
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfcafd557c4a71d50800000000000000
+      internalID: 6708011346037812475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4-3
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 752
+        width: 37
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2faf60fbf38c125f0800000000000000
+      internalID: -783124684072355086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4-2
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 711
+        width: 37
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf857e06bdd6bdfd0800000000000000
+      internalID: -2316136794360948485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4-1
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 670
+        width: 37
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5a7c9f56c3824bb0800000000000000
+      internalID: -4953251752123270563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5-6
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 793
+        width: 37
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e05c6784270f66b80800000000000000
+      internalID: -8401763681180400370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-2
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 834
+        width: 37
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 079a7d8879abe76d0800000000000000
+      internalID: -2990747942528767632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2-1
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 875
+        width: 37
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d0c5a83c51211420800000000000000
+      internalID: 2598895139940581584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5-2
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 867
+        width: 37
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efabb760569fbdd20800000000000000
+      internalID: 3304508963902175998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 867
+        width: 37
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3c44da05e66b3aa0800000000000000
+      internalID: -6180232929720644546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 0
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 908
+        width: 37
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 940bd09fe83223880800000000000000
+      internalID: -8632798438745067447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3-2
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 908
+        width: 37
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea202feaefd1c8a40800000000000000
+      internalID: 5371701435240153774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 648156bb5c93d5c43a904476c69f7a51
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      0: -8632798438745067447
+      1: -6180232929720644546
+      2-1: 2598895139940581584
+      2-2: -2990747942528767632
+      2-3: 4463851509702394965
+      2-4: -4443554031176838296
+      3-1: -8223017267330852317
+      3-2: 5371701435240153774
+      4-1: -4953251752123270563
+      4-2: -2316136794360948485
+      4-3: -783124684072355086
+      4-4: -296500833601707716
+      4-5: -3226528068836736263
+      5-1: 950564888384144887
+      5-2: 3304508963902175998
+      5-3: -5975381341716203714
+      5-4: -4051854530543204549
+      5-5: 6708011346037812475
+      5-6: -8401763681180400370
+      F1: 3207191597973689163
+      F2: -2147501979889456870
+      F3: -9065834727610807381
+      Full: 43817631412247706
+      "F\u3139": -3826703349716643440
+      Soul vessels - atlas0 #00000281_24: -4940330597802111139
+      Soul vessels - atlas0 #00000281_25: -696239178967831740
+      Soul vessels - atlas0 #00000281_26: -6301082700788775326
+      Soul vessels - atlas0 #00000281_27: 4116739281151333179
+      Soul vessels - atlas0 #00000281_28: 1694482164742588704
+      Soul vessels - atlas0 #00000281_29: -7332107628431370870
+      Soul vessels - atlas0 #00000281_30: -1029100075423587126
+      Soul vessels - atlas0 #00000281_31: 9122401988402625905
+      Soul vessels - atlas0 #00000281_32: -8353767630359479599
+      Soul vessels - atlas0 #00000281_33: 7725941792710414810
+      Soul vessels - atlas0 #00000281_34: 1223689350482454758
+      Soul vessels - atlas0 #00000281_35: -3967935927022929767
+      Soul vessels - atlas0 #00000281_36: 2031064923266426041
+      Soul vessels - atlas0 #00000281_37: 3256360446776713687
+      Soul vessels - atlas0 #00000281_38: 5220448459992230863
+      Soul vessels - atlas0 #00000281_39: 6833640727446644647
+      Soul vessels - atlas0 #00000281_40: -2739960821184459194
+      Soul vessels - atlas0 #00000281_41: 5483553774123661775
+      Soul vessels - atlas0 #00000281_42: -665169179877318768
+      Soul vessels - atlas0 #00000281_43: 8949824067056284997
+      Soul vessels - atlas0 #00000281_44: 1526712164585408203
+      Soul vessels - atlas0 #00000281_45: -8315225493875203890
+      Soul vessels - atlas0 #00000281_46: -1340169387272748482
+      Soul vessels - atlas0 #00000281_47: -3596425438965981671
+      Soul vessels - atlas0 #00000281_48: -7080594264559860798
+      Soul vessels - atlas0 #00000281_49: -308538209472804544
+      Soul vessels - atlas0 #00000281_50: 6437376669620088746
+      Soul vessels - atlas0 #00000281_51: -4327907794800306016
+      Soul vessels - atlas0 #00000281_52: 6811623656526967172
+      Soul vessels - atlas0 #00000281_53: 5295268583124999361
+      Soul vessels - atlas0 #00000281_54: 3422347213109055279
+      Soul vessels - atlas0 #00000281_55: -4159196716080559118
+      Soul vessels - atlas0 #00000281_56: -247994167070553581
+      Soul vessels - atlas0 #00000281_57: 6925992587858637288
+      Soul vessels - atlas0 #00000281_58: -3630370205488107634
+      Soul vessels - atlas0 #00000281_59: 6759340162753176581
+      Soul vessels - atlas0 #00000281_60: -4054638877702232260
+      Soul vessels - atlas0 #00000281_61: 419023030020722946
+      Soul vessels - atlas0 #00000281_62: 1502982992158939794
+      Soul vessels - atlas0 #00000281_63: -2205283806666057214
+      Soul vessels - atlas0 #00000281_64: 1265100955363193715
+      Soul vessels - atlas0 #00000281_65: 1471051911346863669
+      Soul vessels - atlas0 #00000281_66: 4811707195685917091
+      Soul vessels - atlas0 #00000281_67: 6975177627909931145
+      Soul vessels - atlas0 #00000281_68: 2700506430666539222
+      Soul vessels - atlas0 #00000281_69: -6567593227027540202
+      Soul vessels - atlas0 #00000281_70: 7361317200523089460
+      Soul vessels - atlas0 #00000281_71: -324631349802163848
+      Soul vessels - atlas0 #00000281_72: -8229346623989664468
+      Soul vessels - atlas0 #00000281_73: 1724719790960601847
+      Soul vessels - atlas0 #00000281_74: -7147772319948507721
+      Soul vessels - atlas0 #00000281_75: 1589518528405713461
+      Soul vessels - atlas0 #00000281_76: -8447526214071082745
+      Soul vessels - atlas0 #00000281_77: -1267142012704195029
+      Soul vessels - atlas0 #00000281_78: 4891055287112509348
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

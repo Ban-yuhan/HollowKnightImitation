@@ -35,9 +35,9 @@ public class ShockWaveAttack : MonoBehaviour
 
         if (damageable != null)
         {
-            damageable.TakeDamage(damage);
             playerMovement.isKnockbacked = true;
             playerMovement.ApplyKnockback(knockbackForce);
+            damageable.TakeDamage(damage);
         }
     }
 }

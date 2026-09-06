@@ -1,0 +1,936 @@
+fileFormatVersion: 2
+guid: d83732216eda541498a77a5d0bb4fa4a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5640178992315185779
+    second: SpriteAtlasTexture-Pause_fleurs (Group 0)-1024x1024-fmt12_0
+  - first:
+      213: 7605800530480120407
+    second: SpriteAtlasTexture-Pause_fleurs (Group 0)-1024x1024-fmt12_1
+  - first:
+      213: 6029845332924969828
+    second: SpriteAtlasTexture-Pause_fleurs (Group 0)-1024x1024-fmt12_2
+  - first:
+      213: 4298667283187418983
+    second: SpriteAtlasTexture-Pause_fleurs (Group 0)-1024x1024-fmt12_3
+  - first:
+      213: 5788304175839494504
+    second: SpriteAtlasTexture-Pause_fleurs (Group 0)-1024x1024-fmt12_4
+  - first:
+      213: -5839676181414032150
+    second: SpriteAtlasTexture-Pause_fleurs (Group 0)-1024x1024-fmt12_5
+  - first:
+      213: 6459879651130741225
+    second: SpriteAtlasTexture-Pause_fleurs (Group 0)-1024x1024-fmt12_6
+  - first:
+      213: 2915540852720429407
+    second: SpriteAtlasTexture-Pause_fleurs (Group 0)-1024x1024-fmt12_7
+  - first:
+      213: 1403559008958128026
+    second: SpriteAtlasTexture-Pause_fleurs (Group 0)-1024x1024-fmt12_8
+  - first:
+      213: -4747280154343579349
+    second: SpriteAtlasTexture-Pause_fleurs (Group 0)-1024x1024-fmt12_9
+  - first:
+      213: 5019496451352263218
+    second: SpriteAtlasTexture-Pause_fleurs (Group 0)-1024x1024-fmt12_10
+  - first:
+      213: -7359712015593868537
+    second: SpriteAtlasTexture-Pause_fleurs (Group 0)-1024x1024-fmt12_11
+  - first:
+      213: -1222218604614922175
+    second: SpriteAtlasTexture-Pause_fleurs (Group 0)-1024x1024-fmt12_12
+  - first:
+      213: 6758225603239374559
+    second: SpriteAtlasTexture-Pause_fleurs (Group 0)-1024x1024-fmt12_13
+  - first:
+      213: -983856939675000907
+    second: SpriteAtlasTexture-Pause_fleurs (Group 0)-1024x1024-fmt12_14
+  - first:
+      213: 5919763306696759289
+    second: SpriteAtlasTexture-Pause_fleurs (Group 0)-1024x1024-fmt12_15
+  - first:
+      213: -3919972277126720505
+    second: SpriteAtlasTexture-Pause_fleurs (Group 0)-1024x1024-fmt12_16
+  - first:
+      213: -3232954803005091788
+    second: SpriteAtlasTexture-Pause_fleurs (Group 0)-1024x1024-fmt12_17
+  - first:
+      213: -7463024929143868185
+    second: SpriteAtlasTexture-Pause_fleurs (Group 0)-1024x1024-fmt12_18
+  - first:
+      213: -367223226122081932
+    second: SpriteAtlasTexture-Pause_fleurs (Group 0)-1024x1024-fmt12_19
+  - first:
+      213: 2539373000291000506
+    second: SpriteAtlasTexture-Pause_fleurs (Group 0)-1024x1024-fmt12_20
+  - first:
+      213: 292636840660331595
+    second: SpriteAtlasTexture-Pause_fleurs (Group 0)-1024x1024-fmt12_21
+  - first:
+      213: -5499328841316621373
+    second: SpriteAtlasTexture-Pause_fleurs (Group 0)-1024x1024-fmt12_22
+  - first:
+      213: 6421482056286178256
+    second: SpriteAtlasTexture-Pause_fleurs (Group 0)-1024x1024-fmt12_23
+  - first:
+      213: 4746588425920464531
+    second: SpriteAtlasTexture-Pause_fleurs (Group 0)-1024x1024-fmt12_24
+  - first:
+      213: -6019451734079919376
+    second: SpriteAtlasTexture-Pause_fleurs (Group 0)-1024x1024-fmt12_25
+  - first:
+      213: 1580484213911913658
+    second: SpriteAtlasTexture-Pause_fleurs (Group 0)-1024x1024-fmt12_26
+  - first:
+      213: -5456879456273002780
+    second: SpriteAtlasTexture-Pause_fleurs (Group 0)-1024x1024-fmt12_27
+  - first:
+      213: 5475837369730792112
+    second: SpriteAtlasTexture-Pause_fleurs (Group 0)-1024x1024-fmt12_28
+  - first:
+      213: -4528021418583142340
+    second: SpriteAtlasTexture-Pause_fleurs (Group 0)-1024x1024-fmt12_29
+  - first:
+      213: -5573615061994554321
+    second: SpriteAtlasTexture-Pause_fleurs (Group 0)-1024x1024-fmt12_30
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Pause_fleurs (Group 0)-1024x1024-fmt12_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 878
+        width: 414
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37a319a19e0f54e40800000000000000
+      internalID: 5640178992315185779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Pause_fleurs (Group 0)-1024x1024-fmt12_1
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 663
+        width: 25
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 752ceb3094b3d8960800000000000000
+      internalID: 7605800530480120407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Pause_fleurs (Group 0)-1024x1024-fmt12_2
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 680
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4633a8ff1605ea350800000000000000
+      internalID: 6029845332924969828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Pause_fleurs (Group 0)-1024x1024-fmt12_3
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 663
+        width: 10
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 767caf56e1fe7ab30800000000000000
+      internalID: 4298667283187418983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Pause_fleurs (Group 0)-1024x1024-fmt12_4
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 680
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 861c2dceaff245050800000000000000
+      internalID: 5788304175839494504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Pause_fleurs (Group 0)-1024x1024-fmt12_5
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 663
+        width: 10
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aecc183f37d45fea0800000000000000
+      internalID: -5839676181414032150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Pause_fleurs (Group 0)-1024x1024-fmt12_6
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 663
+        width: 25
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e11c69115a16a950800000000000000
+      internalID: 6459879651130741225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Pause_fleurs (Group 0)-1024x1024-fmt12_7
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 675
+        width: 286
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f596a8655f4167820800000000000000
+      internalID: 2915540852720429407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Pause_fleurs (Group 0)-1024x1024-fmt12_8
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 640
+        width: 38
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9f9f367b717a7310800000000000000
+      internalID: 1403559008958128026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Pause_fleurs (Group 0)-1024x1024-fmt12_9
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 640
+        width: 38
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b21e61f0ad54e1eb0800000000000000
+      internalID: -4747280154343579349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Pause_fleurs (Group 0)-1024x1024-fmt12_10
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 607
+        width: 286
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23a7f269d65d8a540800000000000000
+      internalID: 5019496451352263218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Pause_fleurs (Group 0)-1024x1024-fmt12_11
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 518
+        width: 90
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7037a5d4aec0dd990800000000000000
+      internalID: -7359712015593868537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Pause_fleurs (Group 0)-1024x1024-fmt12_12
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 518
+        width: 90
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 140dd0a97aec90fe0800000000000000
+      internalID: -1222218604614922175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Pause_fleurs (Group 0)-1024x1024-fmt12_13
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 539
+        width: 275
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fde6809216a0acd50800000000000000
+      internalID: 6758225603239374559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Pause_fleurs (Group 0)-1024x1024-fmt12_14
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 503
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bf5ed87353a852f0800000000000000
+      internalID: -983856939675000907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Pause_fleurs (Group 0)-1024x1024-fmt12_15
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 471
+        width: 286
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f75d0afc59372250800000000000000
+      internalID: 5919763306696759289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Pause_fleurs (Group 0)-1024x1024-fmt12_16
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 346
+        width: 212
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7049b7c9bf57999c0800000000000000
+      internalID: -3919972277126720505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Pause_fleurs (Group 0)-1024x1024-fmt12_17
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 335
+        width: 161
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4301dff4cbc3223d0800000000000000
+      internalID: -3232954803005091788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Pause_fleurs (Group 0)-1024x1024-fmt12_18
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 268
+        width: 31
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e4be742e520e6890800000000000000
+      internalID: -7463024929143868185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Pause_fleurs (Group 0)-1024x1024-fmt12_19
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 287
+        width: 25
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47968b5eb6c57eaf0800000000000000
+      internalID: -367223226122081932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Pause_fleurs (Group 0)-1024x1024-fmt12_20
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 287
+        width: 47
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab020922a4aad3320800000000000000
+      internalID: 2539373000291000506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Pause_fleurs (Group 0)-1024x1024-fmt12_21
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 268
+        width: 31
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4c60c7f7a7af0400800000000000000
+      internalID: 292636840660331595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Pause_fleurs (Group 0)-1024x1024-fmt12_22
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 286
+        width: 39
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c323463e857ea3b0800000000000000
+      internalID: -5499328841316621373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Pause_fleurs (Group 0)-1024x1024-fmt12_23
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 267
+        width: 29
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0db8b7068efad1950800000000000000
+      internalID: 6421482056286178256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Pause_fleurs (Group 0)-1024x1024-fmt12_24
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 286
+        width: 39
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39648fd56054fd140800000000000000
+      internalID: 4746588425920464531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Pause_fleurs (Group 0)-1024x1024-fmt12_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 129
+        width: 425
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0faae8f4a8c967ca0800000000000000
+      internalID: -6019451734079919376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Pause_fleurs (Group 0)-1024x1024-fmt12_26
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 199
+        width: 286
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab4055fc4020fe510800000000000000
+      internalID: 1580484213911913658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Pause_fleurs (Group 0)-1024x1024-fmt12_27
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 131
+        width: 35
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ee88badb054544b0800000000000000
+      internalID: -5456879456273002780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Pause_fleurs (Group 0)-1024x1024-fmt12_28
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 146
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bafc9653151efb40800000000000000
+      internalID: 5475837369730792112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Pause_fleurs (Group 0)-1024x1024-fmt12_29
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 4
+        width: 384
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c30ddf1a28c3921c0800000000000000
+      internalID: -4528021418583142340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-Pause_fleurs (Group 0)-1024x1024-fmt12_30
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 4
+        width: 426
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2c3c03a1aa86a2b0800000000000000
+      internalID: -5573615061994554321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      SpriteAtlasTexture-Pause_fleurs (Group 0)-1024x1024-fmt12_0: 5640178992315185779
+      SpriteAtlasTexture-Pause_fleurs (Group 0)-1024x1024-fmt12_1: 7605800530480120407
+      SpriteAtlasTexture-Pause_fleurs (Group 0)-1024x1024-fmt12_10: 5019496451352263218
+      SpriteAtlasTexture-Pause_fleurs (Group 0)-1024x1024-fmt12_11: -7359712015593868537
+      SpriteAtlasTexture-Pause_fleurs (Group 0)-1024x1024-fmt12_12: -1222218604614922175
+      SpriteAtlasTexture-Pause_fleurs (Group 0)-1024x1024-fmt12_13: 6758225603239374559
+      SpriteAtlasTexture-Pause_fleurs (Group 0)-1024x1024-fmt12_14: -983856939675000907
+      SpriteAtlasTexture-Pause_fleurs (Group 0)-1024x1024-fmt12_15: 5919763306696759289
+      SpriteAtlasTexture-Pause_fleurs (Group 0)-1024x1024-fmt12_16: -3919972277126720505
+      SpriteAtlasTexture-Pause_fleurs (Group 0)-1024x1024-fmt12_17: -3232954803005091788
+      SpriteAtlasTexture-Pause_fleurs (Group 0)-1024x1024-fmt12_18: -7463024929143868185
+      SpriteAtlasTexture-Pause_fleurs (Group 0)-1024x1024-fmt12_19: -367223226122081932
+      SpriteAtlasTexture-Pause_fleurs (Group 0)-1024x1024-fmt12_2: 6029845332924969828
+      SpriteAtlasTexture-Pause_fleurs (Group 0)-1024x1024-fmt12_20: 2539373000291000506
+      SpriteAtlasTexture-Pause_fleurs (Group 0)-1024x1024-fmt12_21: 292636840660331595
+      SpriteAtlasTexture-Pause_fleurs (Group 0)-1024x1024-fmt12_22: -5499328841316621373
+      SpriteAtlasTexture-Pause_fleurs (Group 0)-1024x1024-fmt12_23: 6421482056286178256
+      SpriteAtlasTexture-Pause_fleurs (Group 0)-1024x1024-fmt12_24: 4746588425920464531
+      SpriteAtlasTexture-Pause_fleurs (Group 0)-1024x1024-fmt12_25: -6019451734079919376
+      SpriteAtlasTexture-Pause_fleurs (Group 0)-1024x1024-fmt12_26: 1580484213911913658
+      SpriteAtlasTexture-Pause_fleurs (Group 0)-1024x1024-fmt12_27: -5456879456273002780
+      SpriteAtlasTexture-Pause_fleurs (Group 0)-1024x1024-fmt12_28: 5475837369730792112
+      SpriteAtlasTexture-Pause_fleurs (Group 0)-1024x1024-fmt12_29: -4528021418583142340
+      SpriteAtlasTexture-Pause_fleurs (Group 0)-1024x1024-fmt12_3: 4298667283187418983
+      SpriteAtlasTexture-Pause_fleurs (Group 0)-1024x1024-fmt12_30: -5573615061994554321
+      SpriteAtlasTexture-Pause_fleurs (Group 0)-1024x1024-fmt12_4: 5788304175839494504
+      SpriteAtlasTexture-Pause_fleurs (Group 0)-1024x1024-fmt12_5: -5839676181414032150
+      SpriteAtlasTexture-Pause_fleurs (Group 0)-1024x1024-fmt12_6: 6459879651130741225
+      SpriteAtlasTexture-Pause_fleurs (Group 0)-1024x1024-fmt12_7: 2915540852720429407
+      SpriteAtlasTexture-Pause_fleurs (Group 0)-1024x1024-fmt12_8: 1403559008958128026
+      SpriteAtlasTexture-Pause_fleurs (Group 0)-1024x1024-fmt12_9: -4747280154343579349
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

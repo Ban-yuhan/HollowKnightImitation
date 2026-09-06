@@ -75,9 +75,6 @@ public class PlayerMovement : MonoBehaviour
     private bool stickWall = false;
 
     [SerializeField]
-    private TMP_Text jumpTimesText;
-
-    [SerializeField]
     private bool isWallJumping = false;
 
     private float wallJumpTime = 0.4f; // 벽 점프 후 일정 시간 동안 벽 점프 상태 유지
@@ -115,8 +112,6 @@ public class PlayerMovement : MonoBehaviour
 
     private void Update()
     {
-        jumpTimesText.text = "Jump Times : " + RemainJumpTimes;
-
         if (isWallJumping)
         {
             walljumpTimer += Time.deltaTime;
@@ -406,6 +401,11 @@ public class PlayerMovement : MonoBehaviour
 
     public void ApplyKnockback(float force)
     {
+        if(playerHealth != null && playerHealth.isInvulnerable)
+        {
+            return;
+        }
+
         Lastdir = sr.flipX == true ? 1 : -1;
         knockbackVel += force;
     }

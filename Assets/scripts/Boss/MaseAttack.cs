@@ -16,8 +16,8 @@ public class MaseAttack : MonoBehaviour
     }
 
 
-    private void OnTriggerEnter2D(Collider2D collision) 
-    { 
+    private void OnTriggerEnter2D(Collider2D collision)
+    {
         if (!collision.gameObject.CompareTag("Player"))
         {
             return;
@@ -32,9 +32,10 @@ public class MaseAttack : MonoBehaviour
 
         if (damageable != null)
         {
-            damageable.TakeDamage(damage);
             playerMovement.isKnockbacked = true;
             playerMovement.ApplyKnockback(knockbackForce);
+            damageable.TakeDamage(damage);
+
         }
     }
 }
