@@ -50651,6 +50651,8 @@ MonoBehaviour:
   thornTag: ReturnThorn
   hazardDamage: 1
   respawnFreezeDuration: 0.5
+  gameOverSceneName: GameOver
+  gameOverDelay: 1
   isInvulnerable: 0
 --- !u!95 &2013377921
 Animator:
