@@ -1,33 +1,18 @@
-using System.Runtime.CompilerServices;
 using UnityEngine;
-using UnityEngine.InputSystem.LowLevel;
-using TMPro;
-using Unity.VisualScripting;
 
 public class PlayerSkill : MonoBehaviour
 {
-    [SerializeField]
-    private TMP_Text SoulStackText;
-
     [Header("소울 UI 참조")]
-    [SerializeField] private SoulUI soulUI; // ★ Canvas의 SoulUI 스크립트 연결
+    [SerializeField] private SoulUI soulUI;
 
     [Header("소울 시스템")]
-    [SerializeField]
-    private int maxSoul = 12; // 최대 소울 12
+    [SerializeField] private int maxSoul = 12;
+    [SerializeField] private int currentSoul = 12;
+    [SerializeField] private int skillSoulCost = 4;
+    [SerializeField] private bool InfiniteSoulStack = false;
 
-    [SerializeField]
-    private int currentSoul = 12; // 현재 소울
-
-    [SerializeField]
-    private int skillSoulCost = 4; // 스킬 사용 시 소모 소울 (4 = 최대 3번 사용)
-
-    [SerializeField]
-    private bool InfiniteSoulStack = false;
-
-    [Header("플레이어 체력 참조")]
-    // [참고] 사용 중이신 체력 스크립트 타입으로 변경하여 연결해주세요.
-    // 예: [SerializeField] private PlayerHealth playerHealth;
+    // ★ 씬 이동 후에도 소울 값을 보존하기 위한 static 데이터
+    private static int savedSoul = -1;
 
     [Header("스킬 해금 여부")]
     [SerializeField] private bool UnlockSpinSlash;
@@ -52,7 +37,7 @@ public class PlayerSkill : MonoBehaviour
     private bool WithUpArrow;
     private bool WithDownArrow;
 
-    [SerializeField] private float ChargeThreshould = 0.5f; // 차지에 필요한 시간
+    [SerializeField] private float ChargeThreshould = 0.5f;
     [SerializeField] private bool isChargingX;
     private float ChargeTimer = 0f;
 
@@ -82,7 +67,7 @@ public class PlayerSkill : MonoBehaviour
     [SerializeField] private LayerMask groundMask;
 
     [Header("포커스 (체력 회복) 설정")]
-    [SerializeField] private float SoulchargeTime = 1.5f; // 포커스 완료에 필요한 시간
+    [SerializeField] private float SoulchargeTime = 1.5f;
     private float SoulChargeTimer = 0f;
     public bool isChargingSoul = false;
 
@@ -103,49 +88,36 @@ public class PlayerSkill : MonoBehaviour
     [SerializeField] private AudioClip dashSound;
     [SerializeField] private AudioClip fireSpiritSound;
 
-
-    private void Start()
+    private void Awake()
     {
-        currentSoul = maxSoul;
-
-        // ★ 게임 시작 시 SoulUI 초기화
-        if (soulUI != null)
+        // ★ 게임 최초 시작 시에는 maxSoul(12)로 초기화, 씬 이동 후에는 이전 static 소울 값 로드
+        if (savedSoul == -1)
         {
-            soulUI.InitSoulUI(currentSoul);
+            currentSoul = maxSoul;
+            savedSoul = currentSoul;
+        }
+        else
+        {
+            currentSoul = savedSoul;
         }
     }
+
+    public int GetCurrentSoul() => currentSoul;
+    public int GetMaxSoul() => maxSoul;
 
     private void Update()
     {
         RaycastHit2D hit = Physics2D.Raycast(FootPoint.position, Vector2.down, 100f, groundMask);
-
-        //IsChargedX();
 
         IsChargedSoul();
 
         DashTimer += Time.deltaTime;
         FireTimer += Time.deltaTime;
 
-        if (DashTimer > DashCoolDown)
-        {
-            CanDash = true;
-        }
+        if (DashTimer > DashCoolDown) CanDash = true;
+        if (FireTimer > FireCoolDown) canFire = true;
 
-        if (FireTimer > FireCoolDown)
-        {
-            canFire = true;
-        }
-
-        // 소울 텍스트 표시 업데이트
-        if (SoulStackText != null)
-        {
-            SoulStackText.text = $"Soul = {currentSoul / 4} / {maxSoul / 4}";
-        }
-
-        if (Input.GetKeyDown(DashKey) && CanDash)
-        {
-            Dash();
-        }
+        if (Input.GetKeyDown(DashKey) && CanDash) Dash();
 
         if (Input.GetKey(KeyCode.DownArrow) && Input.GetKeyDown(SoulKey) && movement.GetIsGrounded() == false && hit.distance > fallAttackHight)
         {
@@ -160,10 +132,7 @@ public class PlayerSkill : MonoBehaviour
 
         if (Input.GetKey(KeyCode.S) && !isCryDashing && UnlockCrystalDash)
         {
-            if (!movement.GetIsGrounded() && !movement.GetIsWallslide())
-            {
-                return;
-            }
+            if (!movement.GetIsGrounded() && !movement.GetIsWallslide()) return;
 
             isChargingCryDash = true;
             CryDashChargeTimer += Time.deltaTime;
@@ -177,17 +146,13 @@ public class PlayerSkill : MonoBehaviour
 
         if (Input.GetKeyUp(KeyCode.S))
         {
-            if (isChargingCryDash && CryDashChargeTimer >= CryDashChargeTime)
-            {
-                CrystalDash();
-            }
+            if (isChargingCryDash && CryDashChargeTimer >= CryDashChargeTime) CrystalDash();
 
             isChargingCryDash = false;
             CryDashChargeTimer = 0f;
         }
 
         float dir = sr.flipX ? 1f : -1f;
-
         RaycastHit2D wallHit = Physics2D.Raycast(transform.position, new Vector2(dir, 0f), 0.5f, groundMask);
 
         if (wallHit.collider != null && isCryDashing)
@@ -198,7 +163,6 @@ public class PlayerSkill : MonoBehaviour
         }
     }
 
-
     private void FixedUpdate()
     {
         if (isDash)
@@ -206,14 +170,10 @@ public class PlayerSkill : MonoBehaviour
             float damping = 0.82f;
             Vector2 newVel = rb.linearVelocity;
             newVel.x *= damping;
-
             newVel.y = 0;
             rb.linearVelocity = newVel;
 
-            if (Mathf.Abs(rb.linearVelocity.x) < 2f)
-            {
-                isDash = false;
-            }
+            if (Mathf.Abs(rb.linearVelocity.x) < 2f) isDash = false;
         }
 
         if (isFired)
@@ -221,19 +181,15 @@ public class PlayerSkill : MonoBehaviour
             float damping = 0.82f;
             Vector2 newVel = rb.linearVelocity;
             newVel.x *= damping;
-
             newVel.y = 0;
             rb.linearVelocity = newVel;
 
-            if (Mathf.Abs(rb.linearVelocity.x) < 1f)
-            {
-                isFired = false;
-            }
+            if (Mathf.Abs(rb.linearVelocity.x) < 1f) isFired = false;
         }
 
         if (isFallAttacking)
         {
-            if (movement.GetIsGrounded() == true)
+            if (movement.GetIsGrounded())
             {
                 GameObject FallAttack = Instantiate(FallAttackPrefab, transform.position, Quaternion.identity);
                 rb.linearVelocity = Vector2.zero;
@@ -249,19 +205,13 @@ public class PlayerSkill : MonoBehaviour
 
     #region 소울 수급 및 스킬 소모 체크
 
-    // 적을 공격했을 때 외부(공격 스크립트)에서 호출하는 소울 획득 함수
     public void AddSoul(int amount = 1)
     {
         currentSoul = Mathf.Min(currentSoul + amount, maxSoul);
-
-        // ★ 소울 수급 시 UI 애니메이션 갱신
-        if (soulUI != null)
-        {
-            soulUI.UpdateSoulUI(currentSoul);
-        }
+        savedSoul = currentSoul; // ★ 소울 변경 시 static 변수도 동기화
+        UpdateSoulUI();
     }
 
-    // 소울 소모 가능 여부 체크 및 차감
     private bool HasEnoughSoul(int cost)
     {
         if (InfiniteSoulStack) return true;
@@ -273,13 +223,15 @@ public class PlayerSkill : MonoBehaviour
         if (!InfiniteSoulStack)
         {
             currentSoul = Mathf.Max(0, currentSoul - cost);
-
-            // ★ 소울 소모 시 UI 애니메이션 갱신
-            if (soulUI != null)
-            {
-                soulUI.UpdateSoulUI(currentSoul);
-            }
+            savedSoul = currentSoul; // ★ 소울 변경 시 static 변수도 동기화
+            UpdateSoulUI();
         }
+    }
+
+    public void UpdateSoulUI()
+    {
+        if (soulUI == null) soulUI = GameObject.FindAnyObjectByType<SoulUI>();
+        if (soulUI != null) soulUI.UpdateSoulUI(currentSoul);
     }
 
     #endregion
@@ -295,11 +247,7 @@ public class PlayerSkill : MonoBehaviour
         if (Input.GetKey(KeyCode.X) && isChargingX)
         {
             ChargeTimer += Time.deltaTime;
-
-            if (ChargeTimer >= ChargeThreshould)
-            {
-                return true;
-            }
+            if (ChargeTimer >= ChargeThreshould) return true;
         }
 
         if (Input.GetKeyUp(KeyCode.X))
@@ -311,23 +259,14 @@ public class PlayerSkill : MonoBehaviour
         return false;
     }
 
-    // 소울 집중(포커스) 및 원거리 공격(발사)
     void IsChargedSoul()
     {
-        if (Input.GetKey(KeyCode.UpArrow) || Input.GetKey(KeyCode.DownArrow))
-        {
-            return;
-        }
+        if (Input.GetKey(KeyCode.UpArrow) || Input.GetKey(KeyCode.DownArrow)) return;
 
-        if (Input.GetKeyDown(SoulKey))
-        {
-            SoulChargeTimer = 0;
-        }
+        if (Input.GetKeyDown(SoulKey)) SoulChargeTimer = 0;
 
-        // 소울 차징 키 누르고 있는 중 (Focus: 체력 회복)
         if (Input.GetKey(SoulKey) && movement.GetIsGrounded() && UnlockFocus)
         {
-            // 소울이 부족하면 집중 불가능 (소울 4 소모)
             if (!HasEnoughSoul(skillSoulCost))
             {
                 isChargingSoul = false;
@@ -338,22 +277,14 @@ public class PlayerSkill : MonoBehaviour
             SoulChargeTimer += Time.deltaTime;
             rb.linearVelocity = Vector2.zero;
 
-            // 일정 시간 동안 집중을 마치면 소울 4 소모 + 체력 2 회복
-            if (SoulChargeTimer >= SoulchargeTime)
-            {
-                FocusHeal();
-            }
+            if (SoulChargeTimer >= SoulchargeTime) FocusHeal();
         }
 
-        // 소울 키를 짧게 뗐을 때 (원거리 공격 실행)
         if (Input.GetKeyUp(SoulKey))
         {
             if (SoulChargeTimer < 0.2f && canFire)
             {
-                if (HasEnoughSoul(skillSoulCost))
-                {
-                    FireSpirit();
-                }
+                if (HasEnoughSoul(skillSoulCost)) FireSpirit();
             }
 
             isChargingSoul = false;
@@ -361,22 +292,16 @@ public class PlayerSkill : MonoBehaviour
         }
     }
 
-    // 소울 4를 소모하여 체력 1 회복
     private void FocusHeal()
     {
         ConsumeSoul(skillSoulCost);
 
-        // 체력 스크립트에 접근하여 체력 2 회복 호출
         PlayerHealth health = GetComponent<PlayerHealth>();
-        if (health != null)
-        {
-            health.Heal(1);
-        }
+        if (health != null) health.Heal(1);
 
         SoulChargeTimer = 0f;
         isChargingSoul = false;
     }
-
 
     void SpinSlash()
     {
@@ -406,7 +331,6 @@ public class PlayerSkill : MonoBehaviour
         }
     }
 
-
     void DashAttack()
     {
         if (!UnlockDashAttack || !UnlockDash || !HasEnoughSoul(skillSoulCost)) return;
@@ -417,19 +341,11 @@ public class PlayerSkill : MonoBehaviour
         ConsumeSoul(skillSoulCost);
     }
 
-
     void ChargedAttack()
     {
         if (!UnlockChargeAttack || !HasEnoughSoul(skillSoulCost)) return;
-
-        if (!IsChargedX())
-        {
-
-        }
-
         ConsumeSoul(skillSoulCost);
     }
-
 
     void Dash()
     {
@@ -448,29 +364,21 @@ public class PlayerSkill : MonoBehaviour
         }
     }
 
-
     void FireSpirit()
     {
         if (!UnlockFireSpirits || !HasEnoughSoul(skillSoulCost)) return;
 
         FireTimer = 0f;
         canFire = false;
-        if (!movement.GetIsGrounded())
-        {
-            isFired = true;
-        }
+        if (!movement.GetIsGrounded()) isFired = true;
 
         float dir = sr.flipX ? 1f : -1f;
-
         float PosX = rb.transform.position.x + dir * 1f;
         Vector2 finalPos = new Vector2(PosX, rb.transform.position.y);
 
         GameObject FireSpirt = Instantiate(FireSpiritPrefab, finalPos, Quaternion.identity);
 
-        if (isFired)
-        {
-            rb.linearVelocity = new Vector2(-dir * 8f, 0f);
-        }
+        if (isFired) rb.linearVelocity = new Vector2(-dir * 8f, 0f);
 
         ConsumeSoul(skillSoulCost);
 
@@ -479,7 +387,6 @@ public class PlayerSkill : MonoBehaviour
             skillAudioSource.PlayOneShot(fireSpiritSound);
         }
     }
-
 
     void FallAttack()
     {
@@ -491,7 +398,6 @@ public class PlayerSkill : MonoBehaviour
 
         ConsumeSoul(skillSoulCost);
     }
-
 
     void SoulExplosion()
     {

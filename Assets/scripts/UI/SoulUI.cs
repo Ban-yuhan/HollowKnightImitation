@@ -13,6 +13,16 @@ public class SoulUI : MonoBehaviour
             soulAnimator = GetComponent<Animator>();
     }
 
+    private void Start()
+    {
+        // ★ 씬 로드 시 씬에 남아있는 플레이어를 직접 찾아 소울 UI 초기화
+        PlayerSkill skill = GameObject.FindAnyObjectByType<PlayerSkill>();
+        if (skill != null)
+        {
+            InitSoulUI(skill.GetCurrentSoul());
+        }
+    }
+
     public void InitSoulUI(int currentSoul)
     {
         if (soulAnimator == null) return;
@@ -23,7 +33,7 @@ public class SoulUI : MonoBehaviour
         // 1. 파라미터 값 설정
         soulAnimator.SetInteger("SoulLevel", currentLevel);
 
-        // 2. 이미지에 맞춰 실제 State 이름으로 강제 재생 (시작 시 SoulAnimFull 재생)
+        // 2. 이미지에 맞춰 실제 State 이름으로 강제 재생
         string stateName = GetStateName(currentLevel);
         soulAnimator.Play(stateName, 0, 0f);
     }
@@ -43,11 +53,11 @@ public class SoulUI : MonoBehaviour
 
     private int GetSoulStateLevel(int soulCount)
     {
-        if (soulCount == 0) return 0;         // 0단계
-        if (soulCount < 4) return 1;          // 1단계
-        if (soulCount < 8) return 2;          // 2단계
-        if (soulCount < 12) return 3;         // 3단계
-        return 4;                             // FULL (12개)
+        if (soulCount == 0) return 0;          // 0단계
+        if (soulCount < 4) return 1;           // 1단계
+        if (soulCount < 8) return 2;           // 2단계
+        if (soulCount < 12) return 3;          // 3단계
+        return 4;                              // FULL (12개)
     }
 
     // ★ 보내주신 유니티 애니메이터 이미지 속 State 이름과 100% 동일하게 매칭

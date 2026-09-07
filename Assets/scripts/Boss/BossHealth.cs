@@ -29,7 +29,7 @@ public class BossHealth : MonoBehaviour, IDamageable
     [SerializeField] private string ParamDie = "Die";
 
     [Header("씬 전환 설정")]
-    [SerializeField] private string clearSceneName = "ClearScene";
+    [SerializeField] private string clearSceneName = "Clear";
     [SerializeField] private float deathDelay = 3f; // 사망 애니메이션 대기 시간
 
     private void Start()
@@ -125,18 +125,18 @@ public class BossHealth : MonoBehaviour, IDamageable
         // 1. 사망 애니메이션 및 연출 대기
         yield return new WaitForSeconds(deathDelay);
 
-        // 2. 보스 오브젝트 제거
-        Destroy(Boss != null ? Boss : gameObject);
-
-        // 3. FadeManager 싱글톤을 이용해 페이드 아웃 -> Clear 씬 이동 -> 페이드 인 한 번에 처리
+        // ★ 2. 씬을 로드하도록 명령을 먼저 전송 (Destroy를 먼저 하면 코루틴이 멈춤)
         if (FadeManager.Instance != null)
         {
             FadeManager.Instance.LoadSceneWithFade(clearSceneName);
         }
         else
         {
-            // 혹시 FadeManager가 없는 예외 상황 대비
+            // 백업용 씬 이동
             UnityEngine.SceneManagement.SceneManager.LoadScene(clearSceneName);
         }
+
+        // 3. 오브젝트는 어차피 씬이 바뀌며 삭제되지만, 화면에서 깔끔히 숨기기 위한 처리
+        if (spriteRenderer != null) spriteRenderer.enabled = false;
     }
 }

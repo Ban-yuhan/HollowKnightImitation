@@ -14,10 +14,20 @@ public class HealthUI : MonoBehaviour
 
     private int previousHealth;
 
-    public void InitHealthUI(int maxHealth)
+    private void Start()
     {
-        previousHealth = maxHealth;
-        UpdateAllMasks(maxHealth);
+        // ★ 씬 로드 시 씬에 남아있는 플레이어를 직접 찾아 체력 UI 동기화
+        PlayerHealth player = GameObject.FindAnyObjectByType<PlayerHealth>();
+        if (player != null)
+        {
+            InitHealthUI(player.GetCurrentHealth());
+        }
+    }
+
+    public void InitHealthUI(int currentHealth)
+    {
+        previousHealth = currentHealth;
+        UpdateAllMasks(currentHealth);
     }
 
     public void UpdateHealthUI(int currentHealth)

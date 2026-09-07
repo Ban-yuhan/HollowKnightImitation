@@ -24642,7 +24642,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 29f800e86aa23114c806d1364dc01187, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  SoulStackText: {fileID: 0}
   soulUI: {fileID: 1487321021}
   maxSoul: 12
   currentSoul: 12
@@ -24749,6 +24748,8 @@ MonoBehaviour:
   thornTag: ReturnThorn
   hazardDamage: 1
   respawnFreezeDuration: 0.5
+  gameOverSceneName: GameOver
+  gameOverDelay: 1
   isInvulnerable: 0
 --- !u!114 &1438670515
 MonoBehaviour:
@@ -27114,7 +27115,7 @@ MonoBehaviour:
   spriteRenderer: {fileID: 1454096754}
   flashDuration: 0.1
   ParamDie: Die
-  clearSceneName: ClearScene
+  clearSceneName: Clear
   deathDelay: 3
 --- !u!61 &2014251064
 BoxCollider2D:
@@ -27198,9 +27199,9 @@ RectTransform:
   - {fileID: 1036306622}
   m_Father: {fileID: 634773043}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0.5, y: 0.5}
-  m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: 0}
+  m_AnchorMin: {x: 0, y: 1}
+  m_AnchorMax: {x: 0, y: 1}
+  m_AnchoredPosition: {x: 717, y: -370}
   m_SizeDelta: {x: 100, y: 100}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &2022584670
